@@ -118,7 +118,9 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
 ## User Stories
 
-[*http://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories*](http://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
+See [User Stories][]
+
+[User Stories]: ./user-stories.md
 
 ## Managing the Product Backlog Board
 
