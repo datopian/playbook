@@ -1,6 +1,4 @@
----
-title: Agile Project Management Process
----
+# Agile Delivery
 
 This document lays out a scrum-based agile process for delivering projects.
 
@@ -10,11 +8,9 @@ The key principles of the agile approach to delivery are[^2]:
 
 1. Organize work in **short cycles** called **sprints** [2(-4) weeks]
 2. The management **does not interrupt** the team during a work cycle
-3. The team reports to the **product owner (who represents the client**[4]**)**
-
-    * Team = delivery team + scrum master)
+3. The team reports to the **product owner** (who represents the client)
+    * Team = delivery team + scrum master
     * The primary client is the key stakeholder(s) benefitting from the project. The secondary client is the delivery organization who have a fiscal and reputational stake.
-
 4. The team estimates **how much time** work will take
 5. The team decides **how much work** it can do in an iteration
 6. The team decides **how** to do the work in the iteration
@@ -22,13 +18,23 @@ The key principles of the agile approach to delivery are[^2]:
 8. Define work goals **before** each cycle starts
 9. Define work goals (primarily) through **user stories**
 
+
 ## Roles
 
 These are largely based on standard scrum process (see e.g. [*Wikipedia*](http://en.wikipedia.org/wiki/Scrum_(software_development)))
 
-* **Product Owner** - represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner writes (or has the team write) customer-centric items (typically [*user stories*](http://en.wikipedia.org/wiki/User_story)), **assigns "business" value** to them, and **prioritizes** (ranks) them, and adds them to the [*product backlog*](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master. [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-owner)]
-* **Delivery Team** - **responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with project management offices (PMOs).
-* **Scrum Master** - delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
+### Product Owner
+
+Represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner writes (or has the team write) customer-centric items (typically [*user stories*](http://en.wikipedia.org/wiki/User_story)), **assigns "business" value** to them, and **prioritizes** (ranks) them, and adds them to the [*product backlog*](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master. [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-owner)]
+
+### Scrum Master
+
+Delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
+
+### Delivery Team
+
+**Responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with project management offices (PMOs).
+
 
 ## Project Kick-Off and Preparation
 
