@@ -1,4 +1,4 @@
-# Planning your data
+# Planning Your Day
 
 A document structure for regularly planning your day. Aim is to generate insight and data for rapid learning and improvement esp in estimation and implementation.
 
@@ -19,9 +19,11 @@ Date these e.g.
 
 # Daily Template
 
-*Key point: every day you have a list of planned tasks with estimates and you see how you do => you strengthen your planning muscle, you identify blockers/questions early*
+> Key point: every day you have a list of planned tasks with estimates and you see how you do => you strengthen your planning muscle, you identify blockers/questions early
 
-*NOT in order - you can do thse when you want. What i do suggest is standup is done night before - before you end for day*
+:::warning
+NOT in order. You can do these when you want. What i do suggest is standup is done night before - before you end for day.
+:::
 
 *Have a section for each day dated and in reverse order*
 
