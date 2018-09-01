@@ -12,6 +12,12 @@ module.exports = {
     repo: 'https://gitlab.com/datopian/handbook',
     repoLabel: 'Contribute!',
     // defaults to false, set to true to enable
-    editLinks: true
+    editLinks: true,
+		nav: [
+      { text: 'Home', link: '/' },
+      { text: 'User Stories', link: '/user-stories/' },
+      { text: 'Agile Delivery', link: '/agile/' },
+      { text: 'Planning Your Day', link: '/planning-your-day/' },
+    ]
   }
 }
