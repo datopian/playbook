@@ -13,7 +13,8 @@ module.exports = {
     repoLabel: 'Contribute!',
     // defaults to false, set to true to enable
     editLinks: true,
-		nav: [
+    sidebar: 'auto',
+    nav: [
       { text: 'Home', link: '/' },
       { text: 'User Stories', link: '/user-stories/' },
       { text: 'Agile Delivery', link: '/agile/' },
