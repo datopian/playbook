@@ -43,7 +43,7 @@ Basically avoid anything that has to do with the actual implementation.
 
 ## Why shouldn't we go into details?
 
-![](media/image09.png)
+![](./media/image09.png)
 
 It's really quite simple. We expect the requirements to change and we'd just waste a lot of time going into the details of something that might change or get thrown out. We're trying to be efficient while still giving the team an understanding of the broader picture. An extreme example would be that between project start and time when the team is going to tackle a user story the world might have moved to virtual governments that don't need transportation any more (technology moves fast).
 
@@ -89,7 +89,7 @@ The reason the finest level is in a day or two is to give the team a sense of pr
 
 There is a notion of the requirements iceberg or pyramid which tries to visualise the three stages. The bottom stage is larger and bigger items (the coarse stuff), mid range is what you're delivering in a time period, and the finest is the smallest blocks of work. That's what's going to be "above" surface for the core team. That's still just a fraction of the big picture.
 
-![](media/image05.png)
+![](./media/image05.png)
 
 # When should who be involved?
 
@@ -101,7 +101,9 @@ The core team should always be present and work together. Who is in the core tea
 
 That's the critical distinction between the core team and others. The core team is the pigs. Everyone else who is only involved to make the project happen is a chicken. The pigs run the show. The chickens are there to make sure the pigs can deliver.
 
-![](media/image07.jpg)![](media/image08.jpg)
+![](./media/image07.jpg)
+
+![](./media/image08.jpg)
 
 Chickens come in various sizes and shapes. It can be team managers (planning persons), unit heads, project managers, biz-dev people, and even customers.
 
@@ -122,7 +124,9 @@ The core team, the pigs, need to decide at what intersections in the iceberg the
 
 As a rule of thumb: **the user stories feed into the stage above the intersection where representative is present.**
 
-So if the representative helps the team go from coarse to mid-range, the user stories are created for the mid-range stage. If the representative is there for mid-range to finest, the user stories are going to be very fine-grained.![](media/image06.jpg)
+So if the representative helps the team go from coarse to mid-range, the user stories are created for the mid-range stage. If the representative is there for mid-range to finest, the user stories are going to be very fine-grained.
+
+![](./media/image06.jpg)
 
 > *As a side note, because the chickens are there to make sure the pigs can deliver, they will always have to be available to answer questions. Many have picked up the standup activity from the Scrum process to discuss blockers, and in those cases it's important that everyone involved, both pigs and chickens, so the chickens can act quickly to unblock the pigs.*
 
