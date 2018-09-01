@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Datopian Team Handbook',
-  description: 'Datopian Team Handbook',
+  title: 'Team Handbook',
+  description: 'A guide to our culture and processes',
   dest: 'public',
   markdown: {
     toc: {
@@ -16,8 +16,8 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'User Stories', link: '/user-stories/' },
       { text: 'Agile Delivery', link: '/agile/' },
+      { text: 'User Stories', link: '/user-stories/' },
       { text: 'Planning Your Day', link: '/planning-your-day/' },
     ]
   }
