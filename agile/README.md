@@ -126,7 +126,7 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
 See [User Stories][]
 
-[User Stories]: ./user-stories.md
+[User Stories]: /user-stories/
 
 ## Managing the Product Backlog Board
 
