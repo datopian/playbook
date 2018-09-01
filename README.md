@@ -399,6 +399,24 @@ Notes:
 * When issues are closed in a commit you do not need to add a separate comment.
 * If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
 
+### Commit messages' format
+
+```
+[ex][m]: plotly json examples - fixes #23.
+```
+
+That is:
+
+* a tag: [ex] this is an example - you make these tags up and use them consistently.
+* a size: [m] a size of this commit one of xs s m l xl
+* a short descriptive sentence of what you did. I need this as well as what issue this refs as I need to be able to understand the commit on its own without reading something else.
+* Finally anything that involves referencing or closing a github issue. e.g. refs #xx or fixes #xx (fixes and closes are synonymous so use either one)
+
+So command would look like this:
+
+```
+git commit -m '[ex][m]: plotly json examples - fixes #23'
+```
 
 
 -------------------------------------------------
