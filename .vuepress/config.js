@@ -19,6 +19,12 @@ module.exports = {
       { text: 'Agile Delivery', link: '/agile/' },
       { text: 'User Stories', link: '/user-stories/' },
       { text: 'Planning Your Day', link: '/planning-your-day/' },
+      {
+        text: 'Howtos',
+        items: [
+          { text: 'Markdown', link: '/markdown' }
+        ]
+      }
     ]
   }
 }
