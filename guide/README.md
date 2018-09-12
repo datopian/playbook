@@ -248,7 +248,7 @@ Each "scrum master" (with their team) has
 * Reviewed their board and tasks, moving everything that is done to done etc and adding a final note that is understandable about the state of the task
 * Written a short summary in the planning doc about the sprint - what happened, was the sprint goal achieved, any learnings.
 
-:::info
+:::tip
 **Trello**: we don't have milestones per se so instead we use the Done column. At end of sprint:
 
 * Done column is renamed to `Done - Date of end of Sprint`
@@ -269,7 +269,7 @@ Cleaning up the milestone:
 * Move all remaining open issues either into next sprint or into backlog (this may happen as part of sprint planning)
 * Closed all relevant milestones
 
-:::info
+:::tip
 **Trello**: Renamed Done to the appropriate name and created a new Done column
 :::
 
@@ -356,7 +356,7 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 * Put [epic] prefix in title for epic issues (even when using zenhub)
 * (Optional) Grouping ... e.g. `[ux]` for ux issues
 
-:::info
+:::tip
 Why? We want to avoid over-dependence on zenhub. Zenhub is great but: a) we want to avoid too much lock-in. Recording some info outside zenhub is useful b) some people can't use zenhub or won't have it installed. Providing some info outside zenhub is therefore useful.
 :::
 
