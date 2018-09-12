@@ -305,7 +305,15 @@ Some of this material is covered / duplicated in this OKI coding standards propo
 
 ### Creating Issues
 
-[#team:dev][#tool:github]
+This key information should be present:
+
+* Short description: of what is involved. A user story if possible
+* Acceptance criteria: what would it mean for this to be done
+* Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
+
+::: warning
+This specific markdown structure is specific to issue trackers like those on github or gitlab. For Trello you can use checklists for Acceptance Criteria and Tasks.
+:::
 
 ```
 Short description of bug or feature need preferentially in a user story form. 
@@ -335,14 +343,13 @@ Short description of bug or feature need preferentially in a user story form.
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
 
-**Associating issues with Epics**: You MUST do this through links in the task list as above -- not just through the Zenhub attach subissues to an Epic feature (it is up to you whether you use the Zenhub feature)
+::: tip
+[Github with Zenhub] **Associating issues with Epics**: You MUST do this through links in the task list as above -- not just through the Zenhub attach subissues to an Epic feature (it is up to you whether you use the Zenhub feature)
+:::
 
-#### Create issue template
-
-1. Go to you repo's base directory
-2. Create file `.github/issue_template.md`
-3. Copy instructions from above or create you own
-4. Commit and push
+::: tip
+On Github (and Gitlab) you can create an issue template so this structure is always present.
+:::
 
 #### Issue Naming
 
@@ -355,9 +362,12 @@ Why? We want to avoid over-dependence on zenhub. Zenhub is great but: a) we want
 
 ### Estimating
 
-Using zenhub you can add estimates. These should be in hours.
+**Github:** Using zenhub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
 
-Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
+**Gitlab:** Estimation support is built in.
+
+**Trello:** Use scrum for trello extension. Estimate in hours by default.
+
 
 ### Closing Issues
 
@@ -375,8 +385,7 @@ FIXED. See commit {link to commit} and staging  {link to page on staging that wa
 ```
 
 ```
-WONTFIX. This is not worth doing as the benefit is minor and a lot of work
-to implement e.g. we have to change the whole way we do search.
+WONTFIX. This is not worth doing as the benefit is minor and a lot of work to implement e.g. we have to change the whole way we do search.
 ```
 
 Notes:
