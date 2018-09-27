@@ -104,10 +104,10 @@ graph LR
 * **Chat** - We use [Gitter](https://gitter.im/) 
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
 *(Based on the transparent policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.)* 
-* **Voice / Video calls:** Our default tool is [Google hangouts](https://hangouts.google.com/) 
+* **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used rooms: https://appear.in/datopian & https://appear.in/artearthtech
 *An online based tool that lets you have video conversations effortlessly; simply click the link showed on the google calendar and you are in.* 
 
-    (Alternatives: [Skype](https://www.skype.com/en/), [Appear.in](https://appear.in) - frequently used rooms: https://appear.in/datopian & https://appear.in/artearthtech)
+    (Alternatives: [Skype](https://www.skype.com/en/), [Google hangouts](https://hangouts.google.com/))
 
   *Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.*
 
