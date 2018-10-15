@@ -22,7 +22,8 @@ module.exports = {
       {
         text: 'Howtos',
         items: [
-          { text: 'Markdown', link: '/markdown' }
+          { text: 'Markdown', link: '/markdown/' },
+          { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
       }
     ]
