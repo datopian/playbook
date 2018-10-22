@@ -499,51 +499,6 @@ A user story is a short sentence that encapsulates three things:
 
 SEE: https://github.com/rufuspollock/project-management/blob/master/user-stories.md
 
-## SCQH
-
-An SCQH is a problem solving tool. It can be used in a number of ways, from telling stories to structuring research programmes. 
-SCQH stands for **Situation, Complication, Question and Hypothesis**. It is sometimes written as SCQA, for Answer, but it is usually helpful to treat the last component as  a Hypothesis, which can then be tested.
-
-### Situation - where are we now?
-
-*“For a long time we have been…”*
-
-Start by telling your audience something they already know. This helps establishes relevance. As soon as they are asking themselves “I know this – why are you telling me?” you have them hooked. You now have an opening for the Complication.
-
-Typical situations are “we have a task to perform”, “we have a problem” and “we took an action”.
-
-#### Complication
-
-*“Recently the situation has changed…”*
-
-What happened next? The Complication creates tension in the story you’re telling. This triggers the Question you will ask.
-
-Typical complications: “something is stopping us performing the task”, “we \[don’t\] know the solution to the problem”, “a solution to the problem has been suggested” and “the action we took didn’t work”.
-
-### Question
-
-*“So what should we do?”*
-
-The Question arises logically from the Complication and leads into the Answer.
-
-Typical questions: “what should we do?”, “how do we implement the solution?”, “is it the right solution?” and “why didn’t the action work?”
-
-### Answer/Hypothesis
-
-*“We need to…”*
-
-The Answer to the Question is the substance of your main point. Summarise it first – completing your introduction – then break it down into details and write the main body of your presentations.’
-**NB: The answer is better thought of as the hypothesis in research-based scenarios.**
-
-### Examples of SCQH
-
-* **Issues Tree** - The Question can be broken down into an Issues Tree. This should be a mutually exclusive, collectively exhaustive (MECE) logic tree from left to right, outlining all the questions you need to answer for your question to be answered.
-
-* **Hypothesis tree** - In a similar fashion, the Hypothesis can be broken down into a Hypothesis tree. This should be a MECE logic tree from top to bottom, outlining all the hypotheses you need to prove for your hypothesis to be accepted or rejected.
-
-(See example: [AET Institute issues tree and hypothesis tree](https://docs.google.com/spreadsheets/d/1NrKA7yrJFeee4vRAcF4r76BE9PQcpBolI2aBSOQBWgw/edit#gid=0))
-
-
 ## Appendix
 
 ### Markdown
