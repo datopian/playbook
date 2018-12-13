@@ -1,0 +1,6 @@
+# Induction
+
+[[toc]]
+
+## Accounts
+
