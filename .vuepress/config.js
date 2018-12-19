@@ -16,12 +16,14 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/guide/' },
+      { text: 'Guide', link: '/induction/' },
       { text: 'Agile Delivery', link: '/agile/' },
       { text: 'User Stories', link: '/user-stories/' },
-      { text: 'Planning Your Day', link: '/planning-your-day/' },
       {
         text: 'Howtos',
         items: [
+          { text: 'Planning Your Day', link: '/planning-your-day/' },
           { text: 'Markdown', link: '/markdown/' },
           { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
