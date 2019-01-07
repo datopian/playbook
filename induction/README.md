@@ -1,4 +1,4 @@
-# Induction
+# Induction Guide
 
 [[toc]]
 
@@ -21,27 +21,60 @@ As the Inductor I want to know what I need to do for and with the Inductee and t
 
 ## Inductor
 
-1. Ensure they have a contract set up (and signed) - usually ops will take care of this
-2. Create their email account and send them details with instructions on changing their password
-   * Create email e.g. first.last@domain.com (we use Google Apps)
-3. Send link to induction page
+*Note these steps need always be done in the order list. E.g. sometimes getting a formal contract completed may take some time and you can still set up their email and start induction*. 
 
-TODO: Template email to send to inductee ...  
+1. Ensure they have a contract set up (and signed) - usually ops will take care of this
+2. Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
+4. Send them induction email to their new org email cc'ing their personal email (if you have it)
+
+
+Subject: Welcome to Datopian - next steps in getting you set up
+
+Hi {XXX},
+
+Welcome to Datopian/Viderum.
+
+In preparation for the induction call on Monday:
+
+**1. Your Viderum Email**
+
+We have created a Viderum email for you. You should have already received an email about this with details of how to sign in and set your password.
+
+Please do that as soon as possible.
+
+**2. Our induction call**
+
+An induction call has been scheduled. An invite has been sent to your Viderum calendar and email!
+
+If that time does not work please let us know.
+
+**3. Start inducting yourself!**
+
+We have designed the induction process to be largely self-service so you can set yourself up!
+
+Please start working your way through the "Inductee"  section of the Induction:
+
+https://handbook.datopian.com/induction/#inductee
+
+Best,
+
+...
+
+
 
 [handbook]: https://handbook.datopian.com/
 
 ## Inductee
 
-1. Setup Google Drive
+*We want your feedback as new joiners! Be critical, tell us what does not work, what isn’t obvious!*
 
-1. Read the main guide in the [Handbook][handbook] and note questions that arise in a google doc
+1. Login in to your email account and read your induction email
+
+2. Read the main guide in the [Handbook][handbook] and note questions that arise in a google doc
 
 2. Create accounts on the systems we use in order (e.g. Gravatar first so that the image is picked up by other accounts) -- see below
 
 3. Add contact details to [Team Phonebook][phonebook] (TODO: people board - do we still use this?)
-
-[phonebook]: https://docs.google.com/spreadsheets/u/2/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0 
-[peopleboard]: https://trello.com/b/TojO3JxF/people
 
 4. Message the Inductor that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
 
@@ -58,6 +91,9 @@ E.g.
     * How to take meeting notes on operation meeting notes
 
 7. Do the induction quiz
+
+[phonebook]: https://docs.google.com/spreadsheets/u/2/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0 
+[peopleboard]: https://trello.com/b/TojO3JxF/people
 
 ## Systems we use
 
@@ -117,3 +153,4 @@ TODO
 ### Trello
 
 * [ ] Create a task in trello for practice ...
+
