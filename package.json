@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vuepress": "^0.14.0",
+    "markdown-it-footnote": ""
+  }
+}
