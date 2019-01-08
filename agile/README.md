@@ -19,6 +19,10 @@ The key principles of the agile approach to delivery are[^2]:
 9. Define work goals (primarily) through **user stories**
 
 
+[^1]: Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
+
+[^2]: Adapted from [*http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/*](http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/)
+
 ## Roles
 
 These are largely based on standard scrum process (see e.g. [*Wikipedia*](http://en.wikipedia.org/wiki/Scrum_(software_development)))
@@ -229,8 +233,4 @@ Product Backlog Management includes:
   * Ensuring the value of the work the Development Team performs;
   * Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next;
   * Ensuring the Development Team understands items in the Product Backlog to the level needed.
-
-[^1] Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
-
-[^2] Adapted from [*http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/*](http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/)
 
