@@ -206,7 +206,7 @@ Intention: you can publish data to the DataHub
 * have published a sample dataset to your account
 * provided feedback on the experience
 
-::tip
+:::tip
 Onboarder: Watch them via screen share (as they download) and have them take notes on this experience (what worked, what didn't)
 :::
 
@@ -218,7 +218,7 @@ Agenda:
 * data-desktop - only provide documentation (blog post re alpha release)
 	* push sample dataset or file
 
-## Part III: Packaging Data
+### Part III: Packaging Data
 
 Intention: you are able to curate a new (core) dataset and publish it to DataHub
 
@@ -226,25 +226,15 @@ Intention: you are able to curate a new (core) dataset and publish it to DataHub
 
 Agenda
 
-* Small introduction about Data Package https://frictionless.io/
+* Introduction about Data Package https://frictionless.io/
   * Specifications https://specs.frictionlessdata.io/
-* Know about core data and data curation http://datahub.io/docs/core-data/curators
+* Know about core data and data curation: http://datahub.io/docs/core-data/curators
 * Introduction to automated curation and publishing: Data Package + DataFlows + Github + Travis
-	* DataFlows
+	* DataFlows - https://github.com/datahq/dataflows
 	* Travis
 * **Practice task**: Curate a new dataset (look through registry and select one)
 	* Select a dataset e.g. (check these still need doing)
 		* Global house prices: https://github.com/datasets/registry/issues/55
 		* Exchange rates: https://github.com/datasets/registry/issues/15
   * Check: they know what their task is for next 24h (i.e. package a dataset). What would "done" look like?
-
-
-Output:
-
-```
-data/data.csv
-scripts/process.py
-datapackage.json
-README.md
-```
 
