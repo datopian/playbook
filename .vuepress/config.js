@@ -21,7 +21,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Induction', link: '/induction/' },
+      { text: 'Onboarding', link: '/onboarding/' },
       { text: 'Agile Delivery', link: '/agile/' },
       { text: 'User Stories', link: '/user-stories/' },
       {

@@ -1,31 +1,31 @@
-# Induction Guide
+# Onboarding Guide
 
 [[toc]]
 
 ## Intention
 
-*The intention of this Induction Guide is to fulfil on the following user stories.*
+*The intention of this Onboarding Guide is to fulfil on the following user stories.*
 
 Personas
 
-* Inductee = New Joiner
-* Inductor / Induction Manager = person setting up New Joiner
+* Onboardee = New Joiner
+* Onboarder / Onboarding Manager = person setting up New Joiner
 
-As an Inductee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know i am ready to go)
+As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know i am ready to go)
 
-As the Inductor I want to know what I need to do for and with the Inductee and that I've done it all so that Inductee is set up and supported and I don't miss things out
+As the Onboarder I want to know what I need to do for and with the Onboardee and that I've done it all so that Onboardee is set up and supported and I don't miss things out
 
-* Things i need to do before the Inductee starts their induction (e.g. ensure they have a contract)
-* Things to do during induction
-* Things to do after induction
+* Things i need to do before the Onboardee starts their onboarding (e.g. ensure they have a contract)
+* Things to do during onboarding
+* Things to do after onboarding
 
-## Inductor
+## Onboarder
 
-*Note these steps need always be done in the order list. E.g. sometimes getting a formal contract completed may take some time and you can still set up their email and start induction*. 
+*Note these steps need always be done in the order list. E.g. sometimes getting a formal contract completed may take some time and you can still set up their email and start onboarding*. 
 
 1. **Contract**: Ensure they have a contract set up (and signed) - usually ops will take care of this
 2. **GSuite Account and Email**: Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
-3. **Induction email**: Send them induction email to their new org email cc'ing their personal email (if you have it)
+3. **Onboarding email**: Send them onboarding email to their new org email cc'ing their personal email (if you have it)
 4. **Create accounts**: on systems where they can't create themselves
    * Xero
    * Slack
@@ -48,7 +48,7 @@ Hi {XXX},
 
 Welcome to Datopian/Viderum.
 
-In preparation for the induction call on Monday:
+In preparation for the onboarding call on Monday:
 
 **1. Your Viderum Email**
 
@@ -56,19 +56,19 @@ We have created a Viderum email for you. You should have already received an ema
 
 Please do that as soon as possible.
 
-**2. Our induction call**
+**2. Our onboarding call**
 
-An induction call has been scheduled. An invite has been sent to your Viderum calendar and email!
+An onboarding call has been scheduled. An invite has been sent to your Viderum calendar and email!
 
 If that time does not work please let us know.
 
 **3. Start inducting yourself!**
 
-We have designed the induction process to be largely self-service so you can set yourself up!
+We have designed the onboarding process to be largely self-service so you can set yourself up!
 
-Please start working your way through the "Inductee"  section of the Induction:
+Please start working your way through the "Onboardee"  section of the Onboarding:
 
-https://handbook.datopian.com/induction/#inductee
+https://handbook.datopian.com/onboarding/#inductee
 
 Best,
 
@@ -78,11 +78,11 @@ Best,
 [handbook]: https://handbook.datopian.com/
 [guide]: https://handbook.datopian.com/guide/
 
-## Inductee
+## Onboardee
 
 *We want your feedback as new joiners! Be critical, tell us what does not work, what isn’t obvious!*
 
-1. **Login in to your email account** and read your induction email (if you haven't already)
+1. **Login in to your email account** and read your onboarding email (if you haven't already)
 
 2. **Read the [Handbook main guide][guide]. Note ALL questions that arise in a google doc
 
@@ -90,13 +90,13 @@ Best,
 
 3. Add contact details to [Team Phonebook][phonebook] (TODO: work out where we store headshots -- maybe we link)
 
-4. Email the Inductor that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
+4. Email the Onboarder that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
 
 5. Wait until you get a response to let you know you are added to relevant systems
 
 6. Read about your work processes for the job you do
 
-5. Go through work “processes” in more detail; This depends on the accountability the Inductee will assume;
+5. Go through work “processes” in more detail; This depends on the accountability the Onboardee will assume;
 E.g.
 
     * Work sprints
@@ -104,7 +104,7 @@ E.g.
     * Practice on trello (acceptance criteria, checklist, closing issues…)
     * How to take meeting notes on operation meeting notes
 
-7. Do the induction quiz
+7. Do the onboarding quiz
 
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
@@ -175,7 +175,7 @@ TODO
 
 ### Step I: Processes and tools
 
-Intention: Inductee is familiar with our work environment and has relevant tooling installed
+Intention: Onboardee is familiar with our work environment and has relevant tooling installed
 
 * [ ] Check: know gitter channel to use by default, know we use team rarely, know how to get bot help, know key bot commands
 * [ ] Check: key github orgs: datopian (pretty empty) and datahub stuff which datahq, datasets org for storing datasets
