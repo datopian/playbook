@@ -27,8 +27,9 @@ As the Inductor I want to know what I need to do for and with the Inductee and t
 2. Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
 4. Send them induction email to their new org email cc'ing their personal email (if you have it)
 
+### Welcome Email
 
-Subject: Welcome to Datopian - next steps in getting you set up
+Subject: Welcome to Viderum/Datopian - next steps in getting you set up
 
 Hi {XXX},
 
@@ -61,22 +62,22 @@ Best,
 ...
 
 
-
 [handbook]: https://handbook.datopian.com/
+[guide]: https://handbook.datopian.com/guide/
 
 ## Inductee
 
 *We want your feedback as new joiners! Be critical, tell us what does not work, what isn’t obvious!*
 
-1. Login in to your email account and read your induction email
+1. **Login in to your email account** and read your induction email (if you haven't already)
 
-2. Read the main guide in the [Handbook][handbook] and note questions that arise in a google doc
+2. **Read the [Handbook main guide][guide]. Note ALL questions that arise in a google doc
 
-2. Create accounts on the systems we use in order (e.g. Gravatar first so that the image is picked up by other accounts) -- see below
+2. **Setup accounts on the systems we use**. See below.
 
-3. Add contact details to [Team Phonebook][phonebook] (TODO: people board - do we still use this?)
+3. Add contact details to [Team Phonebook][phonebook] (TODO: work out where we store headshots -- maybe we link)
 
-4. Message the Inductor that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
+4. Email the Inductor that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
 
 5. Wait until you get a response to let you know you are added to relevant systems
 
@@ -92,23 +93,17 @@ E.g.
 
 7. Do the induction quiz
 
-[phonebook]: https://docs.google.com/spreadsheets/u/2/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0 
-[peopleboard]: https://trello.com/b/TojO3JxF/people
+[phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
 ## Systems we use
 
-Create an account on each of these, add your account id to the phone book ... 
+Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
 
-* Gravatar with the email(s) you will use on other accounts (so that your profile picture shows up on those other systems)
-* Github
-* Gitter
-Xero 
-Trello
-Give access to Operation board or any other relevant board
-Google Calendar 
-How to have access to other team members’ calendar 
-How to schedule meetings 
-Google Drive
+* Gravatar - https://gravatar.com. We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
+* Github - https://www.github.com 
+* Gitlab - https://gitlab.com/
+* Gitter - https://gitter.im/ (we recommend signing in with your github account as it helps in permissions management)
+* Trello - https://trello.com/
 
 ### Setting up Google Drive
 
