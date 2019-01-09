@@ -1,3 +1,7 @@
+---
+title: ABC
+---
+
 # Induction Guide
 
 [[toc]]
@@ -23,9 +27,22 @@ As the Inductor I want to know what I need to do for and with the Inductee and t
 
 *Note these steps need always be done in the order list. E.g. sometimes getting a formal contract completed may take some time and you can still set up their email and start induction*. 
 
-1. Ensure they have a contract set up (and signed) - usually ops will take care of this
-2. Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
-4. Send them induction email to their new org email cc'ing their personal email (if you have it)
+1. **Contract**: Ensure they have a contract set up (and signed) - usually ops will take care of this
+2. **GSuite Account and Email**: Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
+3. **Induction email**: Send them induction email to their new org email cc'ing their personal email (if you have it)
+4. **Create accounts**: on systems where they can't create themselves
+   * Xero
+   * Slack
+
+Wait for them to get setup on Systems then ...
+
+1. **Add them to teams**:
+    * Trello: add to Org team
+    * Gitter: add to relevant channels
+    * Slack: add to relevant channels
+    * Github: add as a member of the org, add to relevant teams
+    * Gitlab: add as a member of the org, add to relevant teams
+    * GSuite / Drive: add them to relevant team drives and google groups
 
 ### Welcome Email
 
@@ -95,7 +112,7 @@ E.g.
 
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
-## Systems we use
+### Systems we use
 
 Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
 
