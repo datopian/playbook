@@ -182,7 +182,7 @@ Intention: Inductee is familiar with our work environment and has relevant tooli
 * [ ] Check: can do a standup (do in bot channel and then delete)
 * [ ] Check: have they read team guide in detail, have they read about scrum and user stories.
 	* Check: have them create a user story ...
-* [ ] Coding standards
+* [ ] Coding standards: https://github.com/okfn/coding-standards
 * [ ] Have python, node, git etc installed
 
 In addition, we learn about what we can improve in our documentation of processes.
@@ -196,6 +196,8 @@ In addition, we learn about what we can improve in our documentation of processe
   * Do a standup
   * Do a user story
 * Small introduction about workflow: boards, issues, milestones, sprint planning
+* Relevant tooling: git, python, node, ...
+* Coding standards: https://github.com/okfn/coding-standards
 
 ### Part II: DataHub
 
