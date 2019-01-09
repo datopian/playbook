@@ -7,6 +7,7 @@ module.exports = {
       includeLevel: [1, 2, 3]
     },
     config: md => {
+      md.set({ linkify: true, typographer: true }),
       md.use(require('markdown-it-footnote'))
     }
   },
