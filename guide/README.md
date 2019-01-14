@@ -120,15 +120,46 @@ graph LR
 For **ALL** office/finance/admin related inquiries, please email: **office@artearthtech.com / office@datopian.com**
 
 
-## Style Guide
+## Default Styles
 
 We want our documents to look neat and coherent so we set up a Style guide for Art Earth Tech / Datopian.
 Follow the links below to see the steps on how you set it up for your Drive:
 
 
 For **Documents:**
-- [AET Style Guide](https://docs.google.com/document/d/1B7CdB-40b4fTIQsTwi9Lquh7H5XOyxLzyz15n9I3W_o/edit#heading=h.c94la63sntg8) template
-- Follow the link [How you set up your default Google Drive style](https://hackmd.io/IwdghgTAHBAmDGBaAZsADCRAWARmniUysYisUAbDiLAJwjK1YVA=?both)
+
+
+* Go into  [Doc Style Template](https://docs.google.com/document/d/1oOMD9l0fRpYKiYd0zf0MQsiP8URce3WFSPUHmYGN428/edit) (Drive: *Eydean Inc. -> Projects -> Eydean 2018-> Team Eydean Inc. - Team guide* 
+* Click the tab *Format - Paragraph Styles - Options - SAVE as my default styles*
+* Update the page after saving as your default styles (just to make sure it got saved)
+* Open a new document
+* Click the tab *Format - Paragraph Styles - Options - USE my default styles*
+* Start writing. 
+* Double check you got it correctly:
+    * Font and Headings - “Open Sans Light”
+    * Text - “Palatino”
+    * Line spacing - 1.5
+    * Text size - 12
+
+*If that doesn’t work:*
+If you have some difficulties to update your documents with our default style set up you might have to do it manually. 
+ 
+To make sure the text format has been updated:
+* Click on the box “Normal Text” and you will see if the drop down text matches the one we have set up.
+
+If not:
+* Go back to the Font Demo Eydean Inc.
+* Highlight ‘Eydean Inc. Style Guide’ in text
+* Go to the box ‘Title’ -> Click: the arrow on your right -> click: Update ‘Title’ to Match
+* Follow the steps for below by highlight corresponding text in document and ‘Update X to match” : 
+    * Subtitle
+    * Heading 1
+    * Heading 2
+    * Heading 3 
+    * Heading 4
+    * Normal text 
+* Then click the same box as above and click: Options - Save as my default styles
+
 
 For **Slides:**
 
