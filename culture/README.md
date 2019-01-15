@@ -1,6 +1,6 @@
 # Our Culture
 
-A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people in that community interact and work together. It is the basic operating system for collective being.
+A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together. It is the basic operating system for collective being.
 
 All culture is rooted in an (implicit) ontology: a set of beliefs about "being", about how human beings are and how they operate.
 
@@ -10,11 +10,14 @@ We believe that we human beings are fundamentally:
 * "(Cap)Able": we see people as possibilities and as able to achieve more than they (or we) can imagine
 * "Curious": we want to test, discover, explore, take apart and be awed and wondrous
 * "Creative": we want to build, develop, scaffold and innovate
+* Not their thoughts or feelings: we have them, but we aren't them. "Ground of being" etc.
 
 We also think that we humans have a tendency:
 
 * "Looking good / avoid looking bad": we often are concerned with how we appear to others -- rather than actual outcomes in reality
-* "To judge": to make ourselves, others and situations "wrong", assessing them as good and bad (and also do make assessments on very little evidence)
+* "To judge": to make ourselves, others and situations "wrong" (or "right"), assessing them as good and bad (and making these assessments on very little evidence)
+* "Conclusion jumpers": ...
+* "Inconsistent decision makers" aka "Have multiple yous": we aren't consistent in our decision making, we have impulse control / self control issues. (I want to be healthy and i want to eat donuts). One way to can imagine at least two "yous" in decision making (and maybe more e.g. you can imagine a matrix of four between self control + impulsive and fast / slow (i.e. heuristic and reasoned)). 
 
 ## Values
 
@@ -35,13 +38,14 @@ TODO: copy from main guide
 * ? Where is holocracy written up...
 
 [maverick]: https://drive.google.com/open?id=1se6xqtTh66CJtRq2Myz1-h_TyFKegrrm
-[7day]: 
 [valve]: https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf
 [reinventing]: http://www.reinventingorganizations.com/
 [reinventing-c]: https://drive.google.com/open?id=1VPWAh3xyR3ZDqLV9SAjY9lzNVLxiF84H
 [principles]: https://www.principles.com/
 [principles-c]: https://drive.google.com/open?id=1t4IUrDnQW36gZq_C4Lob9u3ACo_5iNzR
 [hamel]: https://drive.google.com/open?id=1jrZ6XjdFvZsvM9TDE8v9Zd5G6fAuLjHJ
+[threelaws]: https://threelawsofperformance.com/
+[7day]: 
 
 ## Ideas
 
@@ -51,4 +55,10 @@ TODO: copy from main guide
   * Valve: our compensation is very competitive
 * CLOU = Colleague Letter of Understanding. Every year, each Morning Star employee negotiates a Colleague Letter of Understanding (CLOU) with the associates who are most affected by his or her work. A CLOU (pronounced “clue”) is, in essence, an operating plan for fulfilling one’s mission. An employee may talk to 10 or more colleagues during the negotiations, with each discussion lasting 20 to 60 minutes. A CLOU can cover as many as 30 activity areas and spells out all the relevant performance metrics. All together, CLOUs delineate roughly 3,000 formal relationships among Morning Star’s full-time employees.
 
+### Distinguishing Management and Leadership
+
+> The manager does things right;
+> the leader does the right thing.
+>
+> *Warren Bennis -- "On Being a Leader"*
 
