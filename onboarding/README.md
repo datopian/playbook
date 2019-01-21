@@ -237,4 +237,56 @@ Agenda
 		* Global house prices: https://github.com/datasets/registry/issues/55
 		* Exchange rates: https://github.com/datasets/registry/issues/15
   * Check: they know what their task is for next 24h (i.e. package a dataset). What would "done" look like?
+  
+### Operations Induction Guide
+
+## CRM
+We have a group email: office@datopian.com where all emails in regards to Art Earth Tech should be Bcc’d. 
+Please note that all previously sent emails will need to be re-forwarded to office@datopian.com to be stored. 
+This is a group which you have access to enter; however you will not get notified if someone message to this email (saves you space in your inbox)
+
+## How to store a conversation?
+BCC all admin emails to office@datopian.com
+
+## How to find a conversation?
+Log in to groups.google.com with your Datopian account 
+Click on My Groups -> datopian.com
+Search for a conversation by writing name/subject etc in Search Field
+
+## Finances
+### Team invoicing
+Team must submit their invoices by 7th each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
+
+Step 1: Log in Xero with your AET email address and password
+Step 2: Click on ‘Dashboard’
+Step 3: Scroll down to ‘New Bill’ and click on the button
+Step 4: Fill out ‘New Bill’ : 
+From  - Your name
+Due date - 7th of each month
+Reference - Start with 001, following month 002 and so on..
+Item - Leave it empty
+Description - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed.. 
+Account - Could be
+322 - Contractor - Project Management
+323 -  Contractor - Operations and Administration
+324 -  Contractor - Researcher
+325 -  Contractor - Construction
+326 -  Contractor - Communications
+Unit Price - Your total amount paid
+Project - Scroll down to the one specific project you have been working on (Please always remember to add project)
+Double check you get the correct currency
+Add ‘Tax Inclusive’ in the Amounts Are column
+Step 5: Click ‘Submit’
+
+## Company Expenses Reimbursement
+If you had any company expenses to be reimbursed for
+Step 1: Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
+
+Step 2: Repeat above procedure but in Description you clearly specify what the expense was for and for what purpose. 
+
+When travelling for work: If  you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in. Add a new line for separate currencies. EG. a bus ticket, two metro tickets and lunch in GBP can be on one line but make a new line for bus ticket and train in euros converted to GBP. 
+
+If you are based in UK, please remember to specify in the ‘Tax Rate’ box; No VAT (we are all self-employed).
+
+
 
