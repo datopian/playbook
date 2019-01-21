@@ -238,7 +238,7 @@ Agenda
 		* Exchange rates: https://github.com/datasets/registry/issues/15
   * Check: they know what their task is for next 24h (i.e. package a dataset). What would "done" look like?
   
-### Operations Induction Guide
+## Operations Induction Guide
 
 ## CRM
 We have a group email: office@datopian.com where all emails in regards to Art Earth Tech should be Bcc’d. 
