@@ -240,24 +240,53 @@ Agenda
   
 ## Operations Induction Guide
 
+### Operations Induction Guide
+
+Objective of the operations team
+Objective: AET runs as a smoothly oiled machine in terms of finances and systems.
+
+To enable AET and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and make available key information (e.g. finances, metrics) to others. 
+
+Way of being: a smoothly oiled machine. Effective and Efficient.
+
+## Key results
+
+Being legally compliant
+Providing management information efficiently and appropriately (e.g. timely, needed info)  e.g.
+Are we P&L positive
+Are we on track
+Being able to report to external stakeholders (such as funders where we have them) in a way they and we are happy with 
+Doing this efficiently (we perform these tasks cost and time effectively)
+
+
+
+
+
+## Materials and links
+[ Accounting and Finances Guide ](/CsR9NchfSfGL-ALmkANK1A)
+
+[Overview of entities](/wDweEVsCRSS0ShGdOOtxxw)
+
+[ Accounts & Usernames ](/PgvrayR9TIemQrQtXqcn1A) + Logins - Datopian
+
+[Admin Info - README ](/qy1AlBJcQ_W8Ts1-Xoo_dg) Datopian/
+
+
+## Register for a Service and grant Access to a Service
+We are using a lot of different services. The ones we have set up already you will find in the Account and Username spreadsheet.
+
+
 ## CRM
-We have a group email: office@datopian.com where all emails in regards to Art Earth Tech should be Bcc’d. 
+We have a group email: office@datopian.com where all emails in regards to Datopian should be Bcc’d. 
 Please note that all previously sent emails will need to be re-forwarded to office@datopian.com to be stored. 
 This is a group which you have access to enter; however you will not get notified if someone message to this email (saves you space in your inbox)
 
-## How to store a conversation?
-BCC all admin emails to office@datopian.com
-
-## How to find a conversation?
-Log in to groups.google.com with your Datopian account 
-Click on My Groups -> datopian.com
-Search for a conversation by writing name/subject etc in Search Field
 
 ## Finances
 ### Team invoicing
 Team must submit their invoices by 7th each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
 
-Step 1: Log in Xero with your AET email address and password
+Step 1: Log in Xero with your Datopian email address and password
 Step 2: Click on ‘Dashboard’
 Step 3: Scroll down to ‘New Bill’ and click on the button
 Step 4: Fill out ‘New Bill’ : 
@@ -279,14 +308,16 @@ Add ‘Tax Inclusive’ in the Amounts Are column
 Step 5: Click ‘Submit’
 
 ## Company Expenses Reimbursement
-If you had any company expenses to be reimbursed for
-Step 1: Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
-
-Step 2: Repeat above procedure but in Description you clearly specify what the expense was for and for what purpose. 
+If you had any company expenses to be reimbursed for:
 
 When travelling for work: If  you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in. Add a new line for separate currencies. EG. a bus ticket, two metro tickets and lunch in GBP can be on one line but make a new line for bus ticket and train in euros converted to GBP. 
 
 If you are based in UK, please remember to specify in the ‘Tax Rate’ box; No VAT (we are all self-employed).
+
+## Operations Bible
+
+For detailed processes, you can find everything you need -  [Operations Read me](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#) 
+
 
 
 
