@@ -141,7 +141,7 @@ Exercises
 
 ### Using the Calendar
 
-You have been given access to create, edit and share in Art Earth Tech Team calendar.
+You have been given access to create, edit and share in Datopian Team calendar.
 
 ### Tracking time
 
@@ -154,7 +154,7 @@ TODO
 
 ### Stand up
 
-* Everyday Standup at 10 am French time in appear.in/artearthtech
+* Everyday Standup at 10 am French time in appear.in/datopian
 * If not meeting, do the Standup in Gitter
 * Add ‘+ Standup’ at the end of your Standup so that it’s recorded in the Drive automatically;
 
@@ -238,14 +238,14 @@ Agenda
 		* Exchange rates: https://github.com/datasets/registry/issues/15
   * Check: they know what their task is for next 24h (i.e. package a dataset). What would "done" look like?
   
-## Operations Induction Guide
+## Operations Team Onboarding
 
-### Operations Induction Guide
+### Operations Team onboarding
 
 Objective of the operations team
-Objective: AET runs as a smoothly oiled machine in terms of finances and systems.
+Objective: Datopian runs as a smoothly oiled machine in terms of finances and systems.
 
-To enable AET and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and make available key information (e.g. finances, metrics) to others. 
+To enable Datopian and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and make available key information (e.g. finances, metrics) to others. 
 
 Way of being: a smoothly oiled machine. Effective and Efficient.
 
@@ -286,26 +286,7 @@ This is a group which you have access to enter; however you will not get notifie
 ### Team invoicing
 Team must submit their invoices by 7th each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
 
-Step 1: Log in Xero with your Datopian email address and password
-Step 2: Click on ‘Dashboard’
-Step 3: Scroll down to ‘New Bill’ and click on the button
-Step 4: Fill out ‘New Bill’ : 
-From  - Your name
-Due date - 7th of each month
-Reference - Start with 001, following month 002 and so on..
-Item - Leave it empty
-Description - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed.. 
-Account - Could be
-322 - Contractor - Project Management
-323 -  Contractor - Operations and Administration
-324 -  Contractor - Researcher
-325 -  Contractor - Construction
-326 -  Contractor - Communications
-Unit Price - Your total amount paid
-Project - Scroll down to the one specific project you have been working on (Please always remember to add project)
-Double check you get the correct currency
-Add ‘Tax Inclusive’ in the Amounts Are column
-Step 5: Click ‘Submit’
+For a step by step guide about how to pay our employees, please access [ Accounting and Finances Guide ](/CsR9NchfSfGL-ALmkANK1A)
 
 ## Company Expenses Reimbursement
 If you had any company expenses to be reimbursed for:
@@ -313,6 +294,10 @@ If you had any company expenses to be reimbursed for:
 When travelling for work: If  you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in. Add a new line for separate currencies. EG. a bus ticket, two metro tickets and lunch in GBP can be on one line but make a new line for bus ticket and train in euros converted to GBP. 
 
 If you are based in UK, please remember to specify in the ‘Tax Rate’ box; No VAT (we are all self-employed).
+
+## Arrange Travel
+
+As Datopian is expanding, Rufus and other Management representatives need to travel in business interest. It is the Operations Team Job to ensure that the travel arrangements are done ahead of time,with integrity and work smoothly.
 
 ## Operations Bible
 
