@@ -263,6 +263,11 @@ Doing this efficiently (we perform these tasks cost and time effectively)
 
 
 ## Materials and links
+
+We will be going through most of the processes in this handbook, however the detailed step by step processes can be found in the files below:
+
+ [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#)
+ 
 [ Accounting and Finances Guide ](/CsR9NchfSfGL-ALmkANK1A)
 
 [Overview of entities](/wDweEVsCRSS0ShGdOOtxxw)
@@ -297,11 +302,37 @@ If you are based in UK, please remember to specify in the ‘Tax Rate’ box; No
 
 ## Arrange Travel
 
-As Datopian is expanding, Rufus and other Management representatives need to travel in business interest. It is the Operations Team Job to ensure that the travel arrangements are done ahead of time,with integrity and work smoothly.
+As Datopian is expanding, it goes without saying that Rufus and other management representatives need to travel in business interest. It is the Operations Team Job to ensure that the travel arrangements are done ahead of time,with integrity and work smoothly.
 
-## Operations Bible
+## Schedule Meetings
 
-For detailed processes, you can find everything you need -  [Operations Read me](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#) 
+The Operations team is responsible for setting up certain meeting, wether it might be for individuals, or for all the staff.
+Therefore it is of critical importance that we are proficient in working with the Calendar, know how to add people to our calendars or manage team calendars.
+
+## Register Domains and / or Accounts
+
+We are using various platforms and therefore it is very important to keep track of our accounts, as well as the payments or domain renewals.
+
+## Publishing a book
+
+Yes, we do that as well! Currently we are using Amazon KDP and Ingram Spark.
+Please see [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#)
+
+## Team-Sprint planning & prepping
+
+We arrange sprints where the whole team or relevant people in the team meet up and do an intense chunk of work over a few days. It could be in the beginning of a project to set the strategy or in the middle to more efficiently work together for the same goal. 
+This takes preparation and planning to get the whole team to the same place, and during the sprint to ensure the team has the same expectation on the work.
+
+## Conclusion
+
+These are for the most part the accountabilities partaining to the Operations team. they may very depending on who it is you will be working directly with. 
+
+The [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#) contains more processes, as well as a great deal of detailed information about how to carry your day to day work.
+
+Feel free to read through everything and make notes of every questions you might have!
+
+
+
 
 
 
