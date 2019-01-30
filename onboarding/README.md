@@ -1,82 +1,12 @@
 # Onboarding Guide
 
-[[toc]]
 
 ## Intention
 
 *The intention of this Onboarding Guide is to fulfil on the following user stories.*
 
-Personas
-
-* Onboardee = New Joiner
-* Onboarder / Onboarding Manager = person setting up New Joiner
-
 As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know i am ready to go)
 
-As the Onboarder I want to know what I need to do for and with the Onboardee and that I've done it all so that Onboardee is set up and supported and I don't miss things out
-
-* Things i need to do before the Onboardee starts their onboarding (e.g. ensure they have a contract)
-* Things to do during onboarding
-* Things to do after onboarding
-
-## Onboarder
-
-*Note these steps need always be done in the order list. E.g. sometimes getting a formal contract completed may take some time and you can still set up their email and start onboarding*. 
-
-1. **Contract**: Ensure they have a contract set up (and signed) - usually ops will take care of this
-2. **GSuite Account and Email**: Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
-3. **Onboarding email**: Send them onboarding email to their new org email cc'ing their personal email (if you have it)
-4. **Create accounts**: on systems where they can't create themselves
-   * Xero
-   * Slack
-
-Wait for them to get setup on Systems then ...
-
-1. **Add them to teams**:
-    * Trello: add to Org team
-    * Gitter: add to relevant channels
-    * Slack: add to relevant channels
-    * Github: add as a member of the org, add to relevant teams
-    * Gitlab: add as a member of the org, add to relevant teams
-    * GSuite / Drive: add them to relevant team drives and google groups
-
-### Welcome Email
-
-Subject: Welcome to Viderum/Datopian - next steps in getting you set up
-
-Hi {XXX},
-
-Welcome to Datopian/Viderum.
-
-In preparation for the onboarding call on Monday:
-
-**1. Your Viderum Email**
-
-We have created a Viderum email for you. You should have already received an email about this with details of how to sign in and set your password.
-
-Please do that as soon as possible.
-
-**2. Our onboarding call**
-
-An onboarding call has been scheduled. An invite has been sent to your Viderum calendar and email!
-
-If that time does not work please let us know.
-
-**3. Start inducting yourself!**
-
-We have designed the onboarding process to be largely self-service so you can set yourself up!
-
-Please start working your way through the "Onboardee"  section of the Onboarding:
-
-https://handbook.datopian.com/onboarding/#inductee
-
-Best,
-
-...
-
-
-[handbook]: https://handbook.datopian.com/
-[guide]: https://handbook.datopian.com/guide/
 
 ## Onboardee
 
@@ -88,7 +18,7 @@ Best,
 
 2. **Setup accounts on the systems we use**. See below.
 
-3. Add contact details to [Team Phonebook][phonebook] (TODO: work out where we store headshots -- maybe we link)
+3. Add contact details to [Team Phonebook][phonebook] 
 
 4. Email the Onboarder that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems ...
 
@@ -115,13 +45,15 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Gravatar - https://gravatar.com. We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com 
 * Gitlab - https://gitlab.com/
-* Gitter - https://gitter.im/ (we recommend signing in with your github account as it helps in permissions management)
+* Slack - https://slack.com/ (we recommend signing in with your github account as it helps in permissions management)
 * Trello - https://trello.com/
 
 ### Setting up Google Drive
 
-4. Step 6: Practice: Find documents in the google drive 
-More practice...
+After setting up your email address, you will have access to G Suite, and of cours, your Google Drive.
+The Oboarder will grant you access to Team Drives, so you can access the Information you need.
+Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, NOT YOUR DRIVE.
+If you require access to files that you currently don't have access to, please reach out to your Onboarder or your Line Manager.
 
 #### Style Guide
 
@@ -130,6 +62,14 @@ Set up google docs to use our default styles: [Handbook Style Guide section][sty
 [styleguide]: /guide/#style-guide
 
 ### How we communicate
+
+We use Slack to communicate with our team members.
+
+Slack is a business communication tool, where all the other team members keep in touch and update on a daily basis theyre work progress.
+
+Your Oboarder will add you to the appropriate groups for your role and introduce you to everyone.
+
+Please say Hello too !
 
 See section in team handbook XXX
 
@@ -143,6 +83,12 @@ Exercises
 
 You have been given access to create, edit and share in Datopian Team calendar.
 
+We set up meetings with our colleagues through sending invitations, such that everyone is clear on the time of the meeting.
+
+Additionally, Google Calendar automaticaly creates a Google Hangout Meets link for everyone partaining to that specific meeting to join.
+
+You will also be added to a team calendar where you can see people's availability and you can update yours.
+
 ### Tracking time
 
 TODO
@@ -154,182 +100,17 @@ TODO
 
 ### Stand up
 
-* Everyday Standup at 10 am French time in appear.in/datopian
-* If not meeting, do the Standup in Gitter
-* Add ‘+ Standup’ at the end of your Standup so that it’s recorded in the Drive automatically;
+The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up Slack channel in the following format:
+
+*Plan
+*Recap
+*Blockers ( is there something getting in the way for you to complete your way)
+*Availability
 
 ### Trello
 
-* [ ] Create a task in trello for practice ...
+* Trello “Trello is used by some teams to managed tasks. If you are joining a team that uses Trello then you will be added to the board. If you have not used Trello before please [click here]( /https://www.youtube.com/watch?v=xky48zyL9iA ) to learn more about it.
 
-
-## Tech Team Onboarding
-
-*Training new Jedis!*
-
-3 parts:
-
-1. Processes and tools
-2. Using DataHub
-3. Packaging data
-
-### Step I: Processes and tools
-
-Intention: Onboardee is familiar with our work environment and has relevant tooling installed
-
-* [ ] Check: know gitter channel to use by default, know we use team rarely, know how to get bot help, know key bot commands
-* [ ] Check: key github orgs: datopian (pretty empty) and datahub stuff which datahq, datasets org for storing datasets
-* [ ] Check: can do a standup (do in bot channel and then delete)
-* [ ] Check: have they read team guide in detail, have they read about scrum and user stories.
-	* Check: have them create a user story ...
-* [ ] Coding standards: https://github.com/okfn/coding-standards
-* [ ] Have python, node, git etc installed
-
-In addition, we learn about what we can improve in our documentation of processes.
-
-#### Agenda
-
-* Setting up access
-  * gitter channels (datahub, dev, team, frictionlessdata, datahubio)
-  * github repo and org (datahq for now)
-* Processes
-  * Do a standup
-  * Do a user story
-* Small introduction about workflow: boards, issues, milestones, sprint planning
-* Relevant tooling: git, python, node, ...
-* Coding standards: https://github.com/okfn/coding-standards
-
-### Part II: DataHub
-
-Intention: you can publish data to the DataHub
-
-* have published a sample dataset to your account
-* provided feedback on the experience
-
-:::tip
-Onboarder: Watch them via screen share (as they download) and have them take notes on this experience (what worked, what didn't)
-:::
-
-Agenda:
-
-* Sign up to datahub and follow instructiions
-* Command line tool: data-cli - only provide documentation and then have them push sample dataset or file
-	* https://datahub.io/docs/getting-started/publishing-data
-* data-desktop - only provide documentation (blog post re alpha release)
-	* push sample dataset or file
-
-### Part III: Packaging Data
-
-Intention: you are able to curate a new (core) dataset and publish it to DataHub
-
-*This is a task the Onboardee will go away and do on their own once they are briefed*
-
-Agenda
-
-* Introduction about Data Package https://frictionless.io/
-  * Specifications https://specs.frictionlessdata.io/
-* Know about core data and data curation: http://datahub.io/docs/core-data/curators
-* Introduction to automated curation and publishing: Data Package + DataFlows + Github + Travis
-	* DataFlows - https://github.com/datahq/dataflows
-	* Travis
-* **Practice task**: Curate a new dataset (look through registry and select one)
-	* Select a dataset e.g. (check these still need doing)
-		* Global house prices: https://github.com/datasets/registry/issues/55
-		* Exchange rates: https://github.com/datasets/registry/issues/15
-  * Check: they know what their task is for next 24h (i.e. package a dataset). What would "done" look like?
-  
-## Operations Team Onboarding
-
-### Operations Team onboarding
-
-Objective of the operations team
-Objective: Datopian runs as a smoothly oiled machine in terms of finances and systems.
-
-To enable Datopian and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and make available key information (e.g. finances, metrics) to others. 
-
-Way of being: a smoothly oiled machine. Effective and Efficient.
-
-## Key results
-
-Being legally compliant
-Providing management information efficiently and appropriately (e.g. timely, needed info)  e.g.
-Are we P&L positive
-Are we on track
-Being able to report to external stakeholders (such as funders where we have them) in a way they and we are happy with 
-Doing this efficiently (we perform these tasks cost and time effectively)
-
-
-
-
-
-## Materials and links
-
-We will be going through most of the processes in this handbook, however the detailed step by step processes can be found in the files below:
-
- [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#)
- 
-[ Accounting and Finances Guide ](/CsR9NchfSfGL-ALmkANK1A)
-
-[Overview of entities](/wDweEVsCRSS0ShGdOOtxxw)
-
-[ Accounts & Usernames ](/PgvrayR9TIemQrQtXqcn1A) + Logins - Datopian
-
-[Admin Info - README ](/qy1AlBJcQ_W8Ts1-Xoo_dg) Datopian/
-
-
-## Register for a Service and grant Access to a Service
-We are using a lot of different services. The ones we have set up already you will find in the Account and Username spreadsheet.
-
-
-## CRM
-We have a group email: office@datopian.com where all emails in regards to Datopian should be Bcc’d. 
-Please note that all previously sent emails will need to be re-forwarded to office@datopian.com to be stored. 
-This is a group which you have access to enter; however you will not get notified if someone message to this email (saves you space in your inbox)
-
-
-## Finances
-### Team invoicing
-Team must submit their invoices by 7th each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
-
-For a step by step guide about how to pay our employees, please access [ Accounting and Finances Guide ](/CsR9NchfSfGL-ALmkANK1A)
-
-## Company Expenses Reimbursement
-If you had any company expenses to be reimbursed for:
-
-When travelling for work: If  you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in. Add a new line for separate currencies. EG. a bus ticket, two metro tickets and lunch in GBP can be on one line but make a new line for bus ticket and train in euros converted to GBP. 
-
-If you are based in UK, please remember to specify in the ‘Tax Rate’ box; No VAT (we are all self-employed).
-
-## Arrange Travel
-
-As Datopian is expanding, it goes without saying that Rufus and other management representatives need to travel in business interest. It is the Operations Team Job to ensure that the travel arrangements are done ahead of time,with integrity and work smoothly.
-
-## Schedule Meetings
-
-The Operations team is responsible for setting up certain meeting, wether it might be for individuals, or for all the staff.
-Therefore it is of critical importance that we are proficient in working with the Calendar, know how to add people to our calendars or manage team calendars.
-
-## Register Domains and / or Accounts
-
-We are using various platforms and therefore it is very important to keep track of our accounts, as well as the payments or domain renewals.
-
-## Publishing a book
-
-Yes, we do that as well! Currently we are using Amazon KDP and Ingram Spark.
-Please see [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#)
-
-## Team-Sprint planning & prepping
-
-We arrange sprints where the whole team or relevant people in the team meet up and do an intense chunk of work over a few days. It could be in the beginning of a project to set the strategy or in the middle to more efficiently work together for the same goal. 
-This takes preparation and planning to get the whole team to the same place, and during the sprint to ensure the team has the same expectation on the work.
-
-## Conclusion
-
-These are for the most part the accountabilities partaining to the Operations team. they may very depending on who it is you will be working directly with. 
-
-The [Operations Induction Guide](https://docs.google.com/document/d/1IxX34u3NBBUSnFAXil0-4i5Jdb7aK1lgLOs3DQ4C2jc/edit#) contains more processes, as well as a great deal of detailed information about how to carry your day to day work.
-
-Feel free to read through everything and make notes of every questions you might have!
 
 
 
