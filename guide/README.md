@@ -193,7 +193,7 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 
 #### Team invoicing on Xero:
 
--   Before the invoicing process, you will be invited to AET Xero. You should accept the invitation and set up your password.
+-   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
 -   NOTE: Team must **submit their invoices by 7th** each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
 -   Team member **Invoice** instructions:
     -   Log in with your account
@@ -205,9 +205,9 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 
         -   *Due date* - 7th of the next month (You should be paid in 7 days after you make the invoice)
         -   *Reference* - Start with 001, following month 002 and so on..
-        -   *Item* - 005 Subcontractor
+        -   *Item* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
         -   *Description* - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed..
-        -   *Account* - Please select the account that you have been working on, ex: 
+        -   *Account* - Please select the account that you have been working on, ex: Viderum Core Business
 321- Contractor - Tech (Design, Software Dev etc) 
 324 - Contractor - Marketing 
 326 - Contractor - Research 
