@@ -91,12 +91,14 @@ You will also be added to a team calendar where you can see people's availabilit
 
 ### Tracking time
 
-TODO
+Please refer to the Guide Section of the Handbook; 
 
 ### Submitting your invoices and getting paid
 
 * Set up an invoice in Xero
 * Setup and invoice with an expense in Xero
+* Further details in the  [ Getting Paid ](/br2YpWPjQs2z7nB22fYfcQ) 
+https://handbook.datopian.com/guide/#getting-paid
 
 ### Stand up
 
