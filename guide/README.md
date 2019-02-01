@@ -194,7 +194,7 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: Team must **submit their invoices by 7th** each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
+-   NOTE: Team members can now invoice us by the 2nd of the month we will pay by the 4th **Team must submit their invoices by 7th latest ** of each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
@@ -208,15 +208,12 @@ A place where phone numbers, usernames, phone numbers etc can be found:
         -   *Item* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
         -   *Description* - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed..
         -   *Account* - Please select the account that you have been working on, ex: Viderum Core Business
-321- Contractor - Tech (Design, Software Dev etc) 
-324 - Contractor - Marketing 
-326 - Contractor - Research 
-327 - Contractor - Operations / Admin 
-(If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
-        -   *Unit Price* \- Your total amount paid
-        -   *Project* - Scroll down to the one specific project you have been working on (**Please always remember to add project.** Ex: London Hub)
+            (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
+        -   *Unit Price* \- The amount you are getting paid
+        -   * Tax rate*\- choose - 0% Tax on purchases
+        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on (**Please always remember to add project.**)
         -   Double check you get the ***correct currency***
-        -   Add ‘Tax Inclusive’ in the *Amounts Are* column
+        -   Add ‘Tax Exclusive’ in the *Amounts Are* column
     
     - If you had any **company expenses** to be reimbursed for;
         - Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
@@ -225,7 +222,7 @@ A place where phone numbers, usernames, phone numbers etc can be found:
     
 
 
--   No matter if you are **based in UK** or **based outside UK**, please remember to specify in the ‘Tax Rate’ box; No VAT (we are all self-employed)**
+-   No matter if you are **based in UK** or **based outside UK**, please remember to specify in the ‘Tax Rate’ box; Tax Exclusive (we are all self-employed)**
 
 
 ### Finance / Office Team ONLY
