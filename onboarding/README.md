@@ -75,9 +75,7 @@ See section in team handbook XXX
 
 https://handbook.datopian.com/guide/#communications
 
-Exercises
 
-* [ ] Say hi on Gitter
 
 ### Using the Calendar
 
@@ -105,9 +103,13 @@ https://handbook.datopian.com/guide/#getting-paid
 The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up Slack channel in the following format:
 
 *Plan
+
 *Recap
+
 *Blockers ( is there something getting in the way for you to complete your way)
+
 *Availability
+
 
 ### Trello
 
