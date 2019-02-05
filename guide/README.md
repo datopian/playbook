@@ -69,7 +69,7 @@ Intention and context: *as a virtual organization we need to have efficient, rel
 
 #### What is transparent Communication- how does it works?
 
-Transparent communication is a way to share information across all team members of a company. It will be used across platform such as Gitter and emails.
+Transparent communication is a way to share information across all team members of a company. It will be used across platform such as Slack and emails.
 
 Transparent communication goal is to help all team members to be fully informed and understand what is going on within the company. Benefits include:
 
@@ -101,7 +101,7 @@ graph LR
   async --> email[Email]
 ```
 
-* **Chat** - We use [Gitter](https://gitter.im/) 
+* **Chat** - We use [Slack](https://slack.com/) 
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
 *(Based on the transparent policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.)* 
 * **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used rooms: https://appear.in/datopian & https://appear.in/artearthtech
@@ -115,14 +115,14 @@ graph LR
 * **Documents** - GDrive, Hackmd
 
 
-### AET Contact Information
+### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email: **office@artearthtech.com / office@datopian.com**
+For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
 
 
 ## Default Styles
 
-We want our documents to look neat and coherent so we set up a Style guide for Art Earth Tech / Datopian.
+We want our documents to look neat and coherent so we set up a Style guide for  Datopian.
 Follow the links below to see the steps on how you set it up for your Drive:
 
 
@@ -195,6 +195,7 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
 -   NOTE: Team members can now invoice us by the 2nd of the month we will pay by the 4th **Team must submit their invoices by 7th latest ** of each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
+-   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the ‘Qty’ and your effective daily as your ‘Unit Price’ or you can just put the quantity as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an Unit price of $1,000 for Project 1 and $600 Project 2 and $400 Project 3.
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
