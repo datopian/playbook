@@ -23,6 +23,7 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Culture', link: '/culture/' },
       { text: 'Onboarding', link: '/onboarding/' },
+      { text: 'Ops', link: '/ops/' },
       { text: 'Agile Delivery', link: '/agile/' },
       { text: 'User Stories', link: '/user-stories/' },
       {
