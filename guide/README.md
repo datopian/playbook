@@ -25,8 +25,7 @@ Likewise, a system has integrity when it is whole and complete*
 
 **INTEGRITY:**
 
-**Honouring your word** - Doing what you said you would do **or** whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted.
- **Why is it important** - it is the bridge to workability and performance.
+**Honouring your word** - Doing what you said you would do **or** whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted. **Why is it important** - it is the bridge to workability and performance.
 
 
 **Restoring integrity**
@@ -55,19 +54,18 @@ A. We may need to learn some new tools together. We will take this into account.
 
 B. We will have the opportunity to learn from each other's experience.
 
-C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on Skype, Appear.in or Google Hangouts.
+C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on [Skype](https://www.skype.com), Appear.in or [Google Hangouts](https://hangouts.google.com/).
 
 D. If required, you will install a unix-based operating system such as Ubuntu (Mac OSX is already unix based). This can be dual-boot. You will need to be responsible for installation and maintenance in your spare time.
 
 
------
 ## Communications
 
 Intention and context: *as a virtual organization we need to have efficient, reliable, cost-effective way to communicate and share material.*
 
 ### Transparent Communication Guide
 
-#### What is transparent Communication- how does it works?
+#### What is Transparent Communication - how does it works?
 
 Transparent communication is a way to share information across all team members of a company. It will be used across platform such as Slack and emails.
 
@@ -104,7 +102,11 @@ graph LR
 * **Chat** - We use [Slack](https://slack.com/) 
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
 *(Based on the transparent policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.)* 
-* **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used rooms: https://appear.in/datopian & https://appear.in/artearthtech
+* We also use [Gitter](https://gitter.im/) -  this is  used by developers or SM/POs who are working on Datahub.io or Frictionless data. 
+
+
+* **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used room: https://appear.in/datopian
+
 *An online based tool that lets you have video conversations effortlessly; simply click the link showed on the google calendar and you are in.* 
 
     (Alternatives: [Skype](https://www.skype.com/en/), [Google hangouts](https://hangouts.google.com/))
@@ -117,13 +119,12 @@ graph LR
 
 ### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
+For **ALL** office/finance/admin related inquiries, please email: **office@viderum.com**
 
 
 ## Default Styles
 
-We want our documents to look neat and coherent so we set up a Style guide for  Datopian.
-Follow the links below to see the steps on how you set it up for your Drive:
+We want our documents to look neat and coherent so we set up a Style guide for  Datopian. Follow the links below to see the steps on how you set it up for your Drive:
 
 
 For **Documents:**
@@ -158,31 +159,59 @@ If not:
     * Heading 3 
     * Heading 4
     * Normal text 
+
 * Then click the same box as above and click: Options - Save as my default styles
 
-
-For **Slides:**
-
-* [AET Deck - Template](https://docs.google.com/presentation/d/1qxpJuVcPM5cFqSjGUyuTU06XF_5QUEvj5DuT_zlhW5A/edit) (Art Earth Tech -> Team -> Team Guide)
-
-When setting up a new slide in Google Drive follow these steps; 
-* Go to the folder you wish to have the slides saved
-* Click the blue *NEW* button in the left corner and scroll down to 'Google Slides', options will appear in a new menu to the right. Click *From a Template*
-* After clicking 'Create and Share', chose **AET Deck - Template** and start working on your slides. 
-
-Start by replacing the text with your own and when you want to add a new slide the AET format is now there and you can use which ever slide you want. 
 
 ## Team 
 
 ### Core Hours
 
-Our general working hours are 9am UK - 6pm UK. Not necessarily when you work but when it is permissible to schedule meetings.
+Our general working hours are 9am UK - 6pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
 
 ### Phone book
 
-A place where phone numbers, usernames, phone numbers etc can be found:
+A place where phone numbers, usernames, phone numbers etc can be found: 
 
-[Art Earth Tech & Datopian](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0)
+[Datopian Team Phonebook](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0)
+
+
+### Holidays
+
+Taking time off to recharge and spend time with loved ones is encouraged. We ask that you be mindful of business prioirities when choosing which days to take off and liaise with you scrum master / product owner. 
+
+To notify us of a holiday:
+
+* Talk to your Scrum Master / Product Owner 
+* Once agreed then write an email to office@viderum.com and inform them about the dates and the length of your absence.
+* Make sure to add your holiday dates in our [Viderum Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+### Sick leave policy
+
+If you’re not feeling well and you’re unable to perform your duties, notify your Scrum Master / Product Owner as soon as possible. The notified person will then let teammates know.
+
+Please add an out of office and include an alternative contact. 
+
+### Travel Arrangements:
+
+All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@viderum.com and include the following:
+
+* Exact dates of the business trip
+* Location and address of the event you will be attending
+* Any specific preferences in terms of transportation or accommodation 
+
+The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed (See **Expenses** section ). TODO  include link 
+
+
+### Time tracking
+
+Our appraoch to time-tracking reflects our princples: Trust in our employees, transparency with clients and lean processes. 
+
+All team members should complete [Time tracking entry sheet](https://docs.google.com/spreadsheets/d/1SvXG-q_TLGkIiy8YTh2AewmyecG6Tw8xfjM-sXncvK0/edit#gid=0) by the end of the week every week providing their hours aggregated on a weekly basis.
+
+Some projects require more grandular reporting. Your Scrum Master will advise what if there are additional requirements for a particular project 
+
+
 
 
 
@@ -194,8 +223,9 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: Team members can now invoice us by the 2nd of the month we will pay by the 4th **Team must submit their invoices by 7th latest ** of each month and will be paid by the 11th latest.  For those who haven’t submitted their invoices on time will simply be paid the following month. 
--   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the ‘Qty’ and your effective daily as your ‘Unit Price’ or you can just put the quantity as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an Unit price of $1,000 for Project 1 and $600 Project 2 and $400 Project 3.
+-   NOTE: If feam members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **For those who haven’t submitted their invoices on time they will simply be paid the following month.** 
+-   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the *Qty* and your effective daily as your *Unit price* or you can put the *Qty* as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an *Unit price* of $1,000 for Project 1 and $600 Project 2 and $400 Project 3. 
+-   The *amount* will automatically will calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
@@ -211,25 +241,27 @@ A place where phone numbers, usernames, phone numbers etc can be found:
         -   *Account* - Please select the account that you have been working on, ex: Viderum Core Business
             (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
         -   *Unit Price* \- The amount you are getting paid
-        -   * Tax rate*\- choose - 0% Tax on purchases
-        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on (**Please always remember to add project.**)
+        -   *Tax rate*\- choose - 0% Tax on purchases
+        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_
         -   Double check you get the ***correct currency***
         -   Add ‘Tax Exclusive’ in the *Amounts Are* column
-    
-    - If you had any **company expenses** to be reimbursed for;
-        - Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
-        - Repeat above procedure but in Description you clearly specify what the expense was for and for what purpose.
-        - When travelling for work: If  you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in. Add a new line for separate currencies. EG. a bus ticket, two metro tickets and lunch in GBP can be on one line but make a new line for bus ticket and train in euros converted to GBP.
-    
 
+### Company Expenses
 
--   No matter if you are **based in UK** or **based outside UK**, please remember to specify in the ‘Tax Rate’ box; Tax Exclusive (we are all self-employed)**
+If you have any company expenses to be reimbursed for:
+
+ * Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
+* Please put a description for each invoice.
+* When travelling for work: If you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in.
+ *   Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
+*  Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)
 
 
 ### Finance / Office Team ONLY
 
 See [Accounting & Finances Guide](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.qy0fklx1v9sk)
 See [Step-by-step Induction for new team member](https://docs.google.com/document/d/1vlNYR-kGvOWFd2VRuR9qi0Cp8Q1i22A9Ct3uGAPNjOs/edit?usp=drive_web&ouid=107379996189258597736)
+
 
 ## Planning and the Sprint Cycle
 
@@ -284,6 +316,7 @@ Each "scrum master" (with their team) has
 * Move that `Done - ...` out of the way
 * Create a new Done column
 :::
+
 
 #### After review is complete with Product Owner
 
@@ -372,6 +405,7 @@ Short description of bug or feature need preferentially in a user story form.
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
 
+
 ::: tip
 [Github with Zenhub] **Associating issues with Epics**: You MUST do this through links in the task list as above -- not just through the Zenhub attach subissues to an Epic feature (it is up to you whether you use the Zenhub feature)
 :::
@@ -388,6 +422,9 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 :::tip
 Why? We want to avoid over-dependence on zenhub. Zenhub is great but: a) we want to avoid too much lock-in. Recording some info outside zenhub is useful b) some people can't use zenhub or won't have it installed. Providing some info outside zenhub is therefore useful.
 :::
+
+TODO fix tip (if required, not working on hackmd)
+
 
 ### Estimating
 
@@ -449,11 +486,7 @@ git commit -m '[ex][m]: plotly json examples - fixes #23'
 
 ### Trello (Project management tool)
 
-Trello is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
-
-https://trello.com/tour
-
-
+[Trello](https://trello.com/tour) is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
 
 
 ## Standups
@@ -550,12 +583,13 @@ https://github.com/datopian/pm/issues/25
 #### Accounts
 
 - Chrome and Firefox installed on computer
-- Google account (Datopian / Art Earth Tech)
+- Google account 
   *We will not always do this for contractors. Often, during initial period we will let them use their own gmail account and will not provide access*
 - Shared Calendar
-- Datopian / AET standard [styles for google docs](https://hackmd.io/KwRgJgLARg7AzHAtAUymAnIiyAcmo4QAMiMUcEATHAGbrIgBsRQA?both#document-conventions) (you have to update your google account with these styles)
-- Access to root Datopian/AET folder (and add that to your drive)
+- Datopian standard [styles for google docs](https://hackmd.io/KwRgJgLARg7AzHAtAUymAnIiyAcmo4QAMiMUcEATHAGbrIgBsRQA?both#document-conventions) (you have to update your google account with these styles)
+- Access to root Datopian folder (and add that to your drive)
 - [Trello](https://trello.com/)
+
   * [Scrum for Trello](http://scrumfortrello.com/) *(adds estimates or record time-spent directly on Trello cards)*
 * [Gitter](https://gitter.im/) *(Chat hub)*
 
@@ -572,7 +606,12 @@ https://github.com/datopian/pm/issues/25
   * [Floobits for Atom](https://floobits.com/) *(Cross-editor real-time collaboration extension for Atom, where two or more coder can work on same code together)*
 * [Hugo](https://gohugo.io/) *(an engine (tool) for making a website)*
 
+TODO include Waffle.io
 
+
+### Access to systems
+
+We use Bitwarden.com to manage credentials and passwords to access key company systems and platforms. If you require access to a particular system get in touch with a relevant colleague (e.g., if you need access to Google Cloud for DevOps contact a senior DevOps engineer) or contact office@viderum.com.
 
 
 ## How our Websites Work
@@ -636,6 +675,12 @@ Options
   * Can't edit offline ...
 * Collaboration tool e.g. git
 
+### Social Media 
+
+Firstly, please like us on [Facebook](https://www.facebook.com/viderumltd/) and follow us on [Twitter](https://twitter.com/videruminc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
+ 
+
+If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@viderum.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
 
 
 ## License
