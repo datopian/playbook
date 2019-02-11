@@ -42,12 +42,12 @@ As an Onboardee I want a simple step by step process to get set up (that I can d
 Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
 
 * Gravatar - https://gravatar.com. We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
-* Github - https://www.github.com 
-* Gitlab - https://gitlab.com/
+* Github - https://www.github.com **Please tell your onboarder your github handle so we can add you**
+* Gitlab - https://gitlab.com/ **Please tell your onboarder your gitlab handle so we can add you**
 * Slack - https://slack.com/ (Using your Datopian email)
 * Gitter - https://gitter.im/ (this is only used by developers or SM/PO who are working on Datahub.io or Frictionless data. We recommend signing in with your github account as it helps in permissions management)) 
 
-* Trello - https://trello.com/ *Please tell us your Trello handle (or set one up if you haven't already) so we can add you to our Trello org*
+* Trello - https://trello.com/ **Please tell your onboarder your Trello handle (or set one up if you haven't already) so we can add you to our Trello org**
 
 ## Setting up Google Drive
 
@@ -210,7 +210,7 @@ _Please go through the checklist to see if you have completed your onboarding_
 * Read the Onboarding and Guide pages of the Handbook
 * Updated the phonebook with your details
 * You have access to Team Drives, email, team calendar
-* You have access to Slack (and Gitter if required) and been added to Trello  
+* You have access to Slack (and Gitter if required), our Github/Gitlab repo and been added to Trello  
 * You have been introduced to the team on Slack and you have said hello to the team 
 * You have installed default styles to your googledoc
 * You have completed the quiz
