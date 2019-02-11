@@ -78,6 +78,12 @@ Please say Hello too!
 
 Refer to the [How we communicate](https://handbook.datopian.com/guide/#communications) section in team handbook.
 
+## Communicating with clients
+
+All client emails should bcc crm@viderum.com. 
+
+Our clients can write to Viderum via support@viderum.com (for technical support related matters) and info@viderum.com (for general enquires).
+
 
 ### Using the Calendar
 
