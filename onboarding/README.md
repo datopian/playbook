@@ -47,7 +47,7 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Slack - https://slack.com/ (Using your Datopian email)
 * Gitter - https://gitter.im/ (this is only used by developers or SM/PO who are working on Datahub.io or Frictionless data. We recommend signing in with your github account as it helps in permissions management)) 
 
-* Trello - https://trello.com/
+* Trello - https://trello.com/ *Please tell us your Trello handle (or set one up if you haven't already) so we can add you to our Trello org*
 
 ## Setting up Google Drive
 
@@ -209,8 +209,8 @@ _Please go through the checklist to see if you have completed your onboarding_
 * You have had your onboarding call
 * Read the Onboarding and Guide pages of the Handbook
 * Updated the phonebook with your details
-* Got access to Team Drives
-* You have access to email, team calendar, Slack (and Gitter if required) 
+* You have access to Team Drives, email, team calendar
+* You have access to Slack (and Gitter if required) and been added to Trello  
 * You have been introduced to the team on Slack and you have said hello to the team 
 * You have installed default styles to your googledoc
 * You have completed the quiz
