@@ -51,7 +51,7 @@ A. We may need to learn some new tools together. We will take this into account.
 
 B. We will have the opportunity to learn from each other's experience.
 
-C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on [Skype](https://www.skype.com), Appear.in or [Google Hangouts](https://hangouts.google.com/).
+C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on Google Meet (meeting links are automatically created for each meeting).
 
 D. If required, you will install a unix-based operating system such as Ubuntu (Mac OSX is already unix based). This can be dual-boot. You will need to be responsible for installation and maintenance in your spare time.
 
@@ -102,16 +102,12 @@ graph LR
 * We also use [Gitter](https://gitter.im/) -  this is  used by developers or SM/POs who are working on Datahub.io or Frictionless data. 
 
 
-* **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used room: https://appear.in/datopian
-
-*An online based tool that lets you have video conversations effortlessly; simply click the link showed on the google calendar and you are in.* 
-
-    (Alternatives: [Skype](https://www.skype.com/en/), [Google hangouts](https://hangouts.google.com/))
-
+* **Voice / Video calls:** Our default tool is Google Meet - video call links are automatically added to every meeting set up using our Google Apps calendar.
+  
   *Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.*
 
 * **Email** - we use Gmail
-* **Documents** - GDrive, Hackmd
+* **Documents** - GDrive for all internal documents, Hackmd can be used when working with partners.
 
 
 ### Datopian Contact Information
@@ -119,9 +115,9 @@ graph LR
 For **ALL** office/finance/admin related inquiries, please email: **office@viderum.com**
 
 
-## Default Styles
+## Default Styles [TODO: needs updating]
 
-We want our documents to look neat and coherent so we set up a Style guide for  Datopian. Follow the links below to see the steps on how you set it up for your Drive:
+We want our documents to look neat and coherent so we set up a Style guide for Datopian. Follow the links below to see the steps on how you set it up for your Drive:
 
 
 For **Documents:**
@@ -164,9 +160,9 @@ If not:
 
 ### Core Hours
 
-Our general working hours are 9am UK - 6pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
+Our general working hours are 8am UK - 4pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
 
-### Phone book
+### Phone book [TODO: needs updating]
 
 A place where phone numbers, usernames, phone numbers etc can be found: 
 
@@ -175,7 +171,7 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 
 ### Holidays
 
-Taking time off to recharge and spend time with loved ones is encouraged. We ask that you be mindful of business prioirities when choosing which days to take off and liaise with you scrum master / product owner. 
+Taking time off to recharge and spend time with loved ones is encouraged. We ask that you be mindful of business priorities when choosing which days to take off and liaise with you scrum master / product owner. 
 
 To notify us of a holiday:
 
@@ -202,15 +198,11 @@ The Office team will book the transportation and accommodation for you and forwa
 
 ### Time tracking
 
-Our appraoch to time-tracking reflects our princples: Trust in our employees, transparency with clients and lean processes. 
+Our appraoch to time-tracking reflects our principles: Trust in our employees, transparency with clients and lean processes. 
 
 All team members should complete [Time tracking entry sheet](https://docs.google.com/spreadsheets/d/1SvXG-q_TLGkIiy8YTh2AewmyecG6Tw8xfjM-sXncvK0/edit#gid=0) by the end of the week every week providing their hours aggregated on a weekly basis.
 
-Some projects require more grandular reporting. Your Scrum Master will advise what if there are additional requirements for a particular project 
-
-
-
-
+Some projects require more granular reporting. Your Scrum Master will advise what if there are additional requirements for a particular project 
 
 ## Finances
 
@@ -220,9 +212,9 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: If feam members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **For those who haven’t submitted their invoices on time they will simply be paid the following month.** 
+-   NOTE: If team members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **Those who don't submit their invoices on time will simply be paid the following month.** 
 -   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the *Qty* and your effective daily as your *Unit price* or you can put the *Qty* as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an *Unit price* of $1,000 for Project 1 and $600 Project 2 and $400 Project 3. 
--   The *amount* will automatically will calculate based on the *Unit price* and *Qty*
+-   The *amount* will automatically calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
@@ -250,7 +242,7 @@ If you have any company expenses to be reimbursed for:
  * Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
 * Please put a description for each invoice.
 * When travelling for work: If you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in.
- *   Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
+ *  Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
 *  Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)
 
 
