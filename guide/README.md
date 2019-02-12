@@ -12,18 +12,18 @@ In short, we value Zen - deep simplicity, nothing to add and nothing to take awa
 [[toc]]
 
 
-## Our Values
+## Our Principles
 
 ### 1. Integrity, Authenticity and Commitment to Something Bigger than Yourself
 
 *An object has integrity when it is whole and complete. Any diminution in whole and complete results in a diminution in workability 
+
 Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. 
 Likewise, a system has integrity when it is whole and complete*
 
-
 *Recommended reading - [A ‘Value-Free’ Approach To Values](  https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)*
 
-**INTEGRITY:**
+#### Integrity
 
 **Honouring your word** - Doing what you said you would do **or** whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted. **Why is it important** - it is the bridge to workability and performance.
 
