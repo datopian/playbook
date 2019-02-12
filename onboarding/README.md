@@ -1,12 +1,10 @@
 # Onboarding Guide
 
-
 ## Intention
 
 *The intention of this Onboarding Guide is to fulfil on the following user story.*
 
 As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know i am ready to go) and feel part of the team. 
-
 
 ## Start your onboarding
 
@@ -16,7 +14,7 @@ As an Onboardee I want a simple step by step process to get set up (that I can d
 
 2. **Read the [Handbook main guide](https://handbook.datopian.com/guide/)**. Note ALL questions that arise in a [google doc](https://docs.google.com/document/)
 
-2. **Setup accounts on the systems we use**. See below.
+2. **Setup accounts on the systems we use**. See below. **Do this before you do next steps!**
 
 3. Add contact details to [Team Phonebook][phonebook] 
 
@@ -33,28 +31,28 @@ As an Onboardee I want a simple step by step process to get set up (that I can d
     * Practice on trello (acceptance criteria, checklist, closing issues…)
     * How to take meeting notes on operation meeting notes
 
-7. Do the [onboarding quiz](https://docs.google.com/forms/d/e/1FAIpQLSc4R_LiybAO6tGIYU9wbgg9xDyU9kSf5cG8__AKVaMg9gC1Bw/viewform?usp=pp_url)
+7. Do the [onboarding quiz][quiz]
 
+[quiz]: https://docs.google.com/forms/d/e/1FAIpQLSc4R_LiybAO6tGIYU9wbgg9xDyU9kSf5cG8__AKVaMg9gC1Bw/viewform?usp=pp_url
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
 ## Systems we use
 
 Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
 
-* Gravatar - https://gravatar.com. We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
+* Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com **Please tell your onboarder your github handle so we can add you**
 * Gitlab - https://gitlab.com/ **Please tell your onboarder your gitlab handle so we can add you**
 * Slack - https://slack.com/ (Using your Datopian email)
 * Gitter - https://gitter.im/ (this is only used by developers or SM/PO who are working on Datahub.io or Frictionless data. We recommend signing in with your github account as it helps in permissions management)) 
-
 * Trello - https://trello.com/ **Please tell your onboarder your Trello handle (or set one up if you haven't already) so we can add you to our Trello org**
 
 ## Setting up Google Drive
 
-
-After setting up your email address, you will have access to **G Suite**, and of course, your [Google Drive](https://drive.google.com/drive/).
+After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
 
 The Onboarder will grant you access to relevent Team Drives, so you can access and store the information / documents you require.
+
 * Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture. 
 * If you require access to files that you currently don't have access to, please reach out to your Onboarder.
 
@@ -85,7 +83,7 @@ All client emails should bcc crm@viderum.com.
 Our clients can write to Viderum via support@viderum.com (for technical support related matters) and info@viderum.com (for general enquires).
 
 
-### Using the Calendar
+## Using the Calendar
 
 It is expected that you keep your calendar up to date, so that if it shows as free, that means a colleague can add a meeting during that period. 
 
@@ -106,7 +104,6 @@ You can also add the calendars of the teammates you're mostly working with so yo
 ### Getting paid and claiming expenses
 
 Please read the [ Getting Paid ](https://handbook.datopian.com/guide/#getting-paid) and the [ Expenses ](https://handbook.datopian.com/guide/#expenses)  sections of the handbook. 
-
 
 ### Stand up
 
