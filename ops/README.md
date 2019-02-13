@@ -19,7 +19,7 @@ There may be occasions where the Ops team is requested to produce contract and i
 * Onboarder / Onboarding Manager = person setting up New Joiner (Needs to be authorised)
 * Requestor = Team member or management requesting 
 
-**As the Onboarder** I want to know what I need to do for and with the Onboardee and that I've done it all so that Onboardee is set up and supported and I don't miss things out
+**As the Onboarder** I want to know what I need to do for and with the Onboardee and that I've done it all so that Onboardee is set up and supported and I don't miss things out.
 
 **As Requestor**, I want to know what to provide the Onboarding team with to get a contract for new contractor and start onboarding process so that the Onboarder has the information they need and new contractors get their contracts and are onboarded swiftly.
 
@@ -44,11 +44,27 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 
 1. **Contract:** Ensure they have a contract set up (and signed) - Template contracts are stored in the HR/Contracts folder.
+2. **Message  when sharing the contract should be:** 
+
+  “Hello XXX,
+ 
+ Welcome! This is your contract.. 
+ 
+ Please feel free to read it and note any questions you might have. 
+ 
+ Please review and/ or fill in the highlighted sections and have it prepared by the time of your Onboarding call. 
+ 
+ Please let me know if you have any questions.
+ 
+ Many thanks,
+ 
+ XXX”_
+    
 2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
 3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email
 4. **Create accounts / send invitations** on systems where they can't create themselves
 
-   * Xero - with their personal email address;
+   * Xero - with their company email address;
    * Slack - with their company email address
 
 Wait for them to get setup on Systems then:
@@ -146,24 +162,7 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 2. After the contract has been filled in and signed, the Ops team member will remove the highlighted parts, review it once more and then send it to management for signature.
 
 3. After it has been signed, export it to _PDF_ and save it in the Staff members file in [HR Drive](https://drive.google.com/drive/u/0/folders/0ABL_avmhZBFiUk9PVA).
-
-4. The Staff member then shares the file directly with the new employee, along with the message that instructs them how to fill in the contract.
-
-    * **Message should be:** 
-
-_“Hello XXX,
-Welcome! This is your contract.. 
-Please feel free to read it and note any questions you might have. Please review and/ or fill in the highlighted sections and have it prepared by the time of your Onboarding call.  Please let me know if you have any questions.
-Many thanks,
-XXX”_
-    
-    TODO FORMATTING
-
-  5.Notify Management that task is complete
-  6.  Onboarder is to review contract after the onboarding call, and send it to management for final review and signature. Time for this is 1 working day.
-    
-  7. After receiving the final version, Onboarder should take out the highlighting and save the file as PDF in New Staff’s file.
-  8. Onboarder is to record the task complete and announce management and HR
+4. Onboarder is to record the task complete and announce management and HR
 
 ---
 
