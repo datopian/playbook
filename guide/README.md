@@ -255,9 +255,9 @@ See [Step-by-step Induction for new team member](https://docs.google.com/documen
 ## Planning and the Sprint Cycle
 
 TODO: think about how we integrate and adapt the RP PM guide.
+[TODO: This link is obsolete, remove:] READ FIRST: http://github.com/rufuspollock/project-management specifically:
 
-READ FIRST: http://github.com/rufuspollock/project-management specifically:
-
+[TODO: Below links should be merged here or removed as currently partly contradicting with the content in the handbook.]
 * User stories - https://github.com/rufuspollock/project-management/blob/master/user-stories.md
 * Project delivery - (scrum-based): https://github.com/rufuspollock/project-management/blob/master/project-delivery.md
 
@@ -275,16 +275,18 @@ graph TD
 For new sprint, Product Owner:
 
 * Ensure a milestone for the next sprint and the one after that[^why]
-* Created issues/tasks **with**
+* Created issues on GitHub, in proper repos and correctly labelled **with**
   * Set of tasks in a checklist format
-  * Section with "Acceptance criteria" checlist
+  * Section with "Acceptance criteria" checklist
+* All issues are moved to 'This Sprint' column
 * Written a proposed "sprint goal" - 1-3 sentences summarizing what we want to achieve
 
-[^why]: At any given time we want milestones to exist for current sprint and one after it. Why? So that anything urgent or important
+[^why]: At any given time we want milestones to exist for current sprint and one after it. Why? So that anything urgent or important [TODO: needs updating]
 
 
 ### Every Sprint Cycle
 
+[TODO: Waffle.io provides all these metrics, so we can probably remove this section]
 * Complete the [metrics][]
 
 [metrics]: https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736
@@ -295,60 +297,39 @@ For new sprint, Product Owner:
 
 Each "scrum master" (with their team) has
 
-* Reviewed their board and tasks, moving everything that is done to done etc and adding a final note that is understandable about the state of the task
+* Reviewed the board and issues, moving everything that is done to done etc and adding a final note that is understandable about the state of the task
 * Written a short summary in the planning doc about the sprint - what happened, was the sprint goal achieved, any learnings.
-
-:::tip
-**Trello**: we don't have milestones per se so instead we use the Done column. At end of sprint:
-
-* Done column is renamed to `Done - Date of end of Sprint`
-* Move that `Done - ...` out of the way
-* Create a new Done column
-:::
-
 
 #### After review is complete with Product Owner
 
-* Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
+* [TODO: Waffle does these sort of metrics, so no need for manual work]
+  Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
     * **Tab - Sprint metrics:** Extracted the points from your Trello board and inserted 'Planned Points' (beginning of sprint), 'Planned Points - End of sprint' and 'Hours'.
     * **Tab - Timesheet:** The hours and points per project. 
-* Move all remaining open issues either into next sprint or into backlog (this may happen as part of sprint planning)
+* Keep all remaining open issues either in 'This Sprint' column (if work is to continue) or move to 'Next Sprint'/'Inbox' (this may happen as part of sprint planning)
 * Closed all relevant milestones
 
-Cleaning up the milestone:
+### Updating the Waffle Board
 
-* Move all remaining open issues either into next sprint or into backlog (this may happen as part of sprint planning)
-* Closed all relevant milestones
+*Waffle.io is the tool we use to manage all our Github issues with kanban style functionality*
 
-:::tip
-**Trello**: Renamed Done to the appropriate name and created a new Done column
-:::
+When using Waffle board board we have adopted the following practice as a way to:
 
+* Keep sprint status up to date and live (to reduce polling and status updates)
+* Provide a direct way to report on what was done and what is planned in next sprint (just look at relevant items)
 
-### Updating the Zenhub Board
-
-*Zenhub is add-on to Github issue to provide kanban style functionality*
-
-When using Zenhub board we have adopted the following practice as a way to:
-
-* Keep sprint status up to date and live
-* Provide a direct way to report on what was done and what is planned in next 24h (just look at relevant items)
-
-Set up your zenhub board like this:
-
-Each standup:
-
-* Move items that are complete to review/QA (but do not move to Done until reviewed by someone - not necessarily product owner but can be)
-* Move over-ran items to over-ran
-* Next 24h: what you plan to complete in next 24h (including over-ran items)
-* At end of standup: move over-ran items into next 24h (or back into backlog if not being worked on)
-  * over-ran: should be empty except for standup +/- 10m
+Our Waffle board has these columns:
+- Inbox: All new, unsorted tasks go here
+- Next Sprint: Prioritized tasks - basically the pool of issues we choose from when doing sprint planning
+- This Sprint: All issues planned for the current sprint
+- In Progress: Issues that are actively being worked on
+- Review: Issues that work on them was completed and are now waiting for Product Owner or client approval
+- Done: Work is done, issue closed
+- Deployed: When applicable and required by product owner - when the feature/fix is live 
 
 Scrum-master:
 
-* Check everyone has neither too much nor too little scheduled in next 24h (e.g. someone has 30h of planned work in next 24h that may be an issue!)
-* Check over-ran: Over-ran is there to a) help your team see underestimates over-ran so they can improve in estimation b) to highlight early if something is a problem -- if something over-runs day after day there is an issue
-
+* Check everyone has neither too much nor too little scheduled in next sprint
 
 ## Issues / Tasks
 
@@ -378,25 +359,30 @@ Short description of bug or feature need preferentially in a user story form.
 
 ### Tasks
 
-*Task list for a non-epic issue*
+*Task list*
 
 * [ ] ...
 * [ ] ...
-
-*For Epic: this task list should be a list of subissues
-(occassionally allow some non sub-issue items)*
-
-* [ ] Create Search API #{link to subissue}
-* [ ] Tidy up CSS <-- no subissue for this one because it is so simple
 
 ### Analysis
 
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
 
+All issues must be properly labelled:
+- Support issues must have a support label (indicating their support package)
+- All client related issues must have a client label (all colored #800080)
+- Issues related to other, internal, projects need to be labelled accordingly
+- Contextual labels are encouraged:
+  - 'Source' labels for support issues (e.g. client/sentry/uptime etc.)
+  - 'Technical Debt', 'Bug' etc. 
 
-::: tip
-[Github with Zenhub] **Associating issues with Epics**: You MUST do this through links in the task list as above -- not just through the Zenhub attach subissues to an Epic feature (it is up to you whether you use the Zenhub feature)
+Make sure you record relationships between issues, e.g.
+- Individual issues and their epics
+- Support requests and their fixes
+
+:::tip
+Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
 :::
 
 ::: tip
@@ -405,23 +391,14 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 
 #### Issue Naming
 
-* Put [epic] prefix in title for epic issues (even when using zenhub)
+* Put [epic] prefix in title for epic issues
 * (Optional) Grouping ... e.g. `[ux]` for ux issues
-
-:::tip
-Why? We want to avoid over-dependence on zenhub. Zenhub is great but: a) we want to avoid too much lock-in. Recording some info outside zenhub is useful b) some people can't use zenhub or won't have it installed. Providing some info outside zenhub is therefore useful.
-:::
-
-TODO fix tip (if required, not working on hackmd)
-
 
 ### Estimating
 
-**Github:** Using zenhub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
+**Github:** Using Waffle you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
 
 **Gitlab:** Estimation support is built in.
-
-**Trello:** Use scrum for trello extension. Estimate in hours by default.
 
 
 ### Closing Issues
@@ -448,6 +425,12 @@ Notes:
 * When issues are closed in a commit you do not need to add a separate comment.
 * If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
 
+::: tip
+Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
+
+You can refer to issues in another repo by using the full notation, e.g. 'fixes ViderumGlobal/PM#10'
+:::
+
 ### Commit messages' format
 
 ```
@@ -467,24 +450,9 @@ So command would look like this:
 git commit -m '[ex][m]: plotly json examples - fixes #23'
 ```
 
-
--------------------------------------------------
-
-
-
-
-### Trello (Project management tool)
-
-[Trello](https://trello.com/tour) is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
-
-
 ## Standups
 
-Standups are meetings during the sprint that:
-
-* Happen (very) regularly - e.g. daily
-* Are short: 5-15m. Each person should speak for no more than 2m (less as team gets larger).
-  * If bigger issues arise take them out of standup
+Standups are a means to keep everyone updated with what you're up to.
 
 Purpose:
 
@@ -492,16 +460,15 @@ Purpose:
 * surface blockers
 * deal with issues arising (e.g. need to reprioritize in face of an arising issue or change in estimate)
 
-Each person answers 3 questions
+Each person needs to write
 
-* What did I accomplish yesterday?
-* What will I do today?
-* What obstacles are impeding my progress?
+* What is my plan for today?
+* What did accomplish yesterday?
+* Do I have any blockers? 
+* What is my availability for today?
 
-Attendees: Only people "committed" to the project may speak (anyone "involved" with the project may listen)
-
-* **Implementation team including Scrum Master**
-* Product owner (usually). Product Owner does not provide an update. She/he is there to be help address questions e.g. clarify user stories and needs, deal with reprioritization
+We write these standups on the #standup channel on Slack, whenever we start our working day.
+A standard template for updated is pinned to that channel.
 
 ## Meetings
 
@@ -512,7 +479,7 @@ Attendees: Only people "committed" to the project may speak (anyone "involved" w
   * List who is present
   * Goals: a meeting **MUST** have a short list of goals for that meeting. These are what you plan to achieve out of the meeting. Start the meeting by reviewing (or establishing) the goals.
   * Agenda: `a meeting **SHOULD** have an agenda (a short list of items to cover)
-  * Actions (tasks that are assigned)
+  * Decisions & Actions (tasks that are assigned)
   * Notes 
 
 Here's an example layout in markdown
@@ -533,6 +500,9 @@ Agenda:
   * Prioritize each project
   * Check time allocated against availability
 * Date of next meeting
+
+Actions:
+* Agreed on next meeting to be held in 2 weeks, James to schedule
 ```
 
 ## User Stories and Analysis
@@ -586,16 +556,16 @@ https://github.com/datopian/pm/issues/25
 
 * [GitLab](https://about.gitlab.com/) Acc *(Hub for developers to store, share and manage their codes)*
 * [GitHub](https://github.com/) Acc. *(Hub for developers to store, share and manage their codes)*
+* [Wafflw](https://www.waffle.io/) [dev] *(Kanban style view for Github issues + some cool project management tools)*
 * [Zenhub](https://www.zenhub.com/) [dev] *(Extension for Github and provides some cool project management tools)*
 * Forestry.io *(a Git-backed content management system for websites and web products built using static site generators.)*
 * Amazon Web Service - *(provides number of cloud based instances)* [devops only - not essential]
 * Heroku acc. [devops only - not essential] *(cloud based service (server) for your web application and make it live)*
+* [VSCode](https://code.visualstudio.com/) *(great free code editor)*
 * [Atom editor](https://atom.io/) *(text editor with some cool features)*
   * Markdown preview extension for Atom - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) 
   * [Floobits for Atom](https://floobits.com/) *(Cross-editor real-time collaboration extension for Atom, where two or more coder can work on same code together)*
 * [Hugo](https://gohugo.io/) *(an engine (tool) for making a website)*
-
-TODO include Waffle.io
 
 
 ### Access to systems
