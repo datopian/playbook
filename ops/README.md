@@ -74,7 +74,7 @@ Wait for them to get setup on Systems then:
     * Trello: add to Org team
     * Slack: add to relevant channels
     * Gitter: add to relevant channels (if applicable)
-    * Github: add as a member of the org, add to relevant teams
+    * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)
     * Gitlab: add as a member of the org, add to relevant teams
     * GSuite / Drive: add them to relevant team drives and google groups
 
