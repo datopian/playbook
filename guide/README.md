@@ -242,6 +242,7 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
         -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_
         -   Double check you get the ***correct currency***
         -   Add ‘Tax Exclusive’ in the *Amounts Are* column
+        -   Please also submit a PDF invoice attached to your Xero Invoice.
 
 ### Company Expenses
 
