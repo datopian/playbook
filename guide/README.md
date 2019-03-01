@@ -220,7 +220,7 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: If feam members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **For those who haven’t submitted their invoices on time they will simply be paid the following month.** 
+-   NOTE: If team members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **For those who haven’t submitted their invoices on time they will simply be paid the following month.** 
 -   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the *Qty* and your effective daily as your *Unit price* or you can put the *Qty* as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an *Unit price* of $1,000 for Project 1 and $600 Project 2 and $400 Project 3. 
 -   The *amount* will automatically will calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
@@ -236,11 +236,12 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
         -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
         -   *Item* - Not required
         -   *Description* - Contractor fees for Month Year 
+        -   *Qty / Unit Price* Please refer to 3rd bullet point above. 
         -   *Account* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
-        -   *Unit Price* \- The amount you are getting paid
         -   *Tax rate*\- choose - 0% Tax on purchases
         -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
         -   Please also remember to include your PDF invoice.
+        -   Please check that the total amount invoiced (bottom right) matches to your attached invoice. 
 
 ### Company Expenses
 
