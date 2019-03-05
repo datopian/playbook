@@ -222,18 +222,18 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
     -   Fill out ‘New Bill’ :
         -   *From*  - Your name
         -   *Date* - last date of the billing month. (It would be better to put the date of the bill on the month you bill for, even if you make the invoice after that month. The reason is that it makes it easier for project management and budget planning.)
-
-        -   *Due date* - 7th of the next month (You should be paid in 7 days after you make the invoice)
-        -   *Reference* - Start with 001, following month 002 and so on..
-        -   *Item* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
-        -   *Description* - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed..
-        -   *Account* - Please select the account that you have been working on, ex: Viderum Core Business
-            (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
-        -   *Unit Price* \- The amount you are getting paid
+        -   *Due date* - 7th of the next month
+        -   *Reference* - Start with 001, following month 002 and so on.
+        -   Double check you get the ***correct currency*** This is by default US Dollars, please only change if a different currency has been agreed in your contract 
+        -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
+        -   *Item* - Not required
+        -   *Description* - Contractor fees for Month Year 
+        -   *Qty / Unit Price* Please refer to 3rd bullet point above. 
+        -   *Account* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
         -   *Tax rate*\- choose - 0% Tax on purchases
-        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_
-        -   Double check you get the ***correct currency***
-        -   Add ‘Tax Exclusive’ in the *Amounts Are* column
+        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
+        -   Please also remember to include your PDF invoice.
+        -   Please check that the total amount invoiced (bottom right) matches to your attached invoice. 
 
 ### Company Expenses
 
