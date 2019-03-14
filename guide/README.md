@@ -116,7 +116,7 @@ graph LR
 
 ### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email: **office@viderum.com**
+For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
 
 
 ## Default Styles
@@ -181,7 +181,7 @@ To notify us of a holiday:
 
 * Talk to your Scrum Master / Product Owner 
 * Once agreed then write an email to office@viderum.com and inform them about the dates and the length of your absence.
-* Make sure to add your holiday dates in our [Viderum Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+* Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Sick leave policy
 
@@ -191,7 +191,7 @@ Please add an out of office and include an alternative contact.
 
 ### Travel Arrangements:
 
-All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@viderum.com and include the following:
+All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@datopian.com and include the following:
 
 * Exact dates of the business trip
 * Location and address of the event you will be attending
