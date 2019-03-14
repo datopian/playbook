@@ -674,7 +674,7 @@ Options
 
 ### Social Media 
 
-Firstly, please like us on [Facebook](https://www.facebook.com/viderumltd/) and follow us on [Twitter](https://twitter.com/videruminc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
+Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
  
 
 If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@viderum.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
