@@ -81,7 +81,7 @@ Wait for them to get setup on Systems then:
 
 ### Welcome Email
 
-**Subject: Welcome to Viderum - next steps in getting you set up**
+**Subject: Welcome to Datopian - next steps in getting you set up**
 
 _Hi {XXX},_
 
@@ -106,7 +106,7 @@ _Need to mention 2 factor authentication. Find Paul’s email (where he announce
 
 **_2. Set up your Slack account_**
 
-_Please do that as soon as possible and confirm to office@viderum.com that you have set up your email so that we can invite you set up a slack account. Once your Slack is set up, use Slack to message your onboarder so they can welcome you to the team._
+_Please do that as soon as possible and confirm to office@datopian.com that you have set up your email so that we can invite you set up a slack account. Once your Slack is set up, use Slack to message your onboarder so they can welcome you to the team._
 
 **_2. Our onboarding call_**
 
