@@ -583,7 +583,7 @@ https://github.com/datopian/pm/issues/25
 - Google account 
   *We will not always do this for contractors. Often, during initial period we will let them use their own gmail account and will not provide access*
 - Shared Calendar
-- Datopian standard [styles for google docs](https://hackmd.io/KwRgJgLARg7AzHAtAUymAnIiyAcmo4QAMiMUcEATHAGbrIgBsRQA?both#document-conventions) (you have to update your google account with these styles)
+- Datopian standard [styles for google docs](https://docs.google.com/document/d/1Cb0GFU0jMVRXqrk4wAJ_DQZkBFxQNBCchCv15mB81Ac/edit) (you have to update your google account with these styles)
 - Access to root Datopian folder (and add that to your drive)
 - [Trello](https://trello.com/)
 
@@ -677,7 +677,7 @@ Options
 Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
  
 
-If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@viderum.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
+If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@datopian.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
 
 
 ## License
