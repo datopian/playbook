@@ -85,11 +85,11 @@ Wait for them to get setup on Systems then:
 
 _Hi {XXX},_
 
-_Welcome to Viderum._
+_Welcome to Datopian._
 
 _In preparation for the onboarding call on :_
 
-**_1. Your Viderum Email_**
+**_1. Your Datopian Email_**
 
 _We have created a Viderum email for you. You should have already received an email about this with details of how to sign in and set your password._
 
