@@ -30,6 +30,7 @@ module.exports = {
         text: 'Playbooks',
         items: [
           { text: 'Client Support', link: '/support/' },
+          { text: 'Coding Standards', link: '/coding-standards/' }
         ]
       }
       {
