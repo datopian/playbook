@@ -35,7 +35,7 @@ When a technical support request requires further information from the customer,
 
 ## Tools
 
-Our support setup is very simple, using Google Group features for multi-party email addresses, a static static web frontend, and some custom applications in Twilio for phone number management.
+Our support setup is very simple, using Google Group features for multi-party email addresses, a static web frontend, and some custom applications in Twilio for phone number management.
 
 ### Web
 
