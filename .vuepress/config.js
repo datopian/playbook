@@ -31,7 +31,7 @@ module.exports = {
         items: [
           { text: 'Client Support', link: '/support/' },
         ]
-      }
+      },
       {
         text: 'Howtos',
         items: [
