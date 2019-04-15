@@ -110,11 +110,8 @@ Please read the [ Getting Paid ](https://handbook.datopian.com/guide/#getting-pa
 The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up Slack channel in the following format:
 
 * Plan
-
 * Recap
-
 * Blockers (is there something getting in the way for you to complete your tasks)
-
 * Availability
 
 
@@ -205,8 +202,6 @@ Agenda
 
 ## Wrapping up 
 
-
-
 _Please go through the checklist to see if you have completed your onboarding_
 
 * You have had your onboarding call
@@ -218,10 +213,3 @@ _Please go through the checklist to see if you have completed your onboarding_
 * You have installed default styles to your googledoc
 * You have completed the quiz
 * Have posted your first daily stand-up
-
-
-
-
-
-
-
