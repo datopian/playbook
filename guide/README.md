@@ -115,7 +115,7 @@ graph LR
 For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
 
 
-## Default Styles [TODO: needs updating]
+## Default Styles 
 
 We want our documents to look neat and coherent so we set up a Style guide for Datopian. Follow the links below to see the steps on how you set it up for your Drive:
 
@@ -162,7 +162,7 @@ If not:
 
 Our general working hours are 8am UK - 4pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
 
-### Phone book [TODO: needs updating]
+### Phone book 
 
 A place where phone numbers, usernames, phone numbers etc can be found: 
 
@@ -176,7 +176,7 @@ Taking time off to recharge and spend time with loved ones is encouraged. We ask
 To notify us of a holiday:
 
 * Talk to your Scrum Master / Product Owner 
-* Once agreed then write an email to office@viderum.com and inform them about the dates and the length of your absence.
+* Once agreed then write an email to office@datopian.com and inform them about the dates and the length of your absence.
 * Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Sick leave policy
@@ -193,7 +193,7 @@ All business-related travel arrangements must be approved by a member of the Lea
 * Location and address of the event you will be attending
 * Any specific preferences in terms of transportation or accommodation 
 
-The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed (See **Expenses** section ). TODO  include link 
+The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed [See **Expenses** section ](https://handbook.datopian.com/guide/#company-expenses)
 
 
 ### Time tracking
@@ -556,7 +556,7 @@ https://github.com/datopian/pm/issues/25
 
 * [GitLab](https://about.gitlab.com/) Acc *(Hub for developers to store, share and manage their codes)*
 * [GitHub](https://github.com/) Acc. *(Hub for developers to store, share and manage their codes)*
-* [Wafflw](https://www.waffle.io/) [dev] *(Kanban style view for Github issues + some cool project management tools)*
+* [Waffle](https://www.waffle.io/) [dev] *(Kanban style view for Github issues + some cool project management tools)*
 * [Zenhub](https://www.zenhub.com/) [dev] *(Extension for Github and provides some cool project management tools)*
 * Forestry.io *(a Git-backed content management system for websites and web products built using static site generators.)*
 * Amazon Web Service - *(provides number of cloud based instances)* [devops only - not essential]
@@ -570,7 +570,7 @@ https://github.com/datopian/pm/issues/25
 
 ### Access to systems
 
-We use Bitwarden.com to manage credentials and passwords to access key company systems and platforms. If you require access to a particular system get in touch with a relevant colleague (e.g., if you need access to Google Cloud for DevOps contact a senior DevOps engineer) or contact office@viderum.com.
+We use Bitwarden.com to manage credentials and passwords to access key company systems and platforms. If you require access to a particular system get in touch with a relevant colleague (e.g., if you need access to Google Cloud for DevOps contact a senior DevOps engineer) or contact office@datopian.com.
 
 
 ## How our Websites Work
