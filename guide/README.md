@@ -212,7 +212,7 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: If team members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **Those who don't submit their invoices on time will simply be paid the following month.** 
+-   NOTE: If team members invoice us by the 2nd of the month we will initiate the transfer by the 4th. If they submit their invoices by 7th of each month we will be transfer the money by the 11th latest.  **Those who don't submit their invoices on time will simply be paid the following month.** 
 -   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the *Qty* and your effective daily as your *Unit price* or you can put the *Qty* as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an *Unit price* of $1,000 for Project 1 and $600 Project 2 and $400 Project 3. 
 -   The *amount* will automatically calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
@@ -286,7 +286,6 @@ For new sprint, Product Owner:
 
 ### Every Sprint Cycle
 
-[TODO: Waffle.io provides all these metrics, so we can probably remove this section]
 * Complete the [metrics][]
 
 [metrics]: https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736
@@ -302,30 +301,13 @@ Each "scrum master" (with their team) has
 
 #### After review is complete with Product Owner
 
-* [TODO: Waffle does these sort of metrics, so no need for manual work]
+
   Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
     * **Tab - Sprint metrics:** Extracted the points from your Trello board and inserted 'Planned Points' (beginning of sprint), 'Planned Points - End of sprint' and 'Hours'.
     * **Tab - Timesheet:** The hours and points per project. 
 * Keep all remaining open issues either in 'This Sprint' column (if work is to continue) or move to 'Next Sprint'/'Inbox' (this may happen as part of sprint planning)
 * Closed all relevant milestones
 
-### Updating the Waffle Board
-
-*Waffle.io is the tool we use to manage all our Github issues with kanban style functionality*
-
-When using Waffle board board we have adopted the following practice as a way to:
-
-* Keep sprint status up to date and live (to reduce polling and status updates)
-* Provide a direct way to report on what was done and what is planned in next sprint (just look at relevant items)
-
-Our Waffle board has these columns:
-- Inbox: All new, unsorted tasks go here
-- Next Sprint: Prioritized tasks - basically the pool of issues we choose from when doing sprint planning
-- This Sprint: All issues planned for the current sprint
-- In Progress: Issues that are actively being worked on
-- Review: Issues that work on them was completed and are now waiting for Product Owner or client approval
-- Done: Work is done, issue closed
-- Deployed: When applicable and required by product owner - when the feature/fix is live 
 
 Scrum-master:
 
@@ -556,7 +538,6 @@ https://github.com/datopian/pm/issues/25
 
 * [GitLab](https://about.gitlab.com/) Acc *(Hub for developers to store, share and manage their codes)*
 * [GitHub](https://github.com/) Acc. *(Hub for developers to store, share and manage their codes)*
-* [Waffle](https://www.waffle.io/) [dev] *(Kanban style view for Github issues + some cool project management tools)*
 * [Zenhub](https://www.zenhub.com/) [dev] *(Extension for Github and provides some cool project management tools)*
 * Forestry.io *(a Git-backed content management system for websites and web products built using static site generators.)*
 * Amazon Web Service - *(provides number of cloud based instances)* [devops only - not essential]
@@ -641,6 +622,26 @@ Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and
 
 If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@datopian.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
 
+### Acronyms dictionary
+
+Here is a list of acronyms that the business commonly uses. Please feel free to suggest what other acronyms should be here and message us at office@ with suggestions.
+
+* PM - Project Manager
+* SL - Scrum lead (aka SM)
+* SM - Scrum Master
+* PO - Product Owner
+* FTE - full time engagement
+* 2fa - 2 factor authentification
+* UI - user interface
+* CSS - cascading style sheets
+* OKR - objectives and key results
+* SMART -   S.M.A.R.T. is an acronym that is used to guide the development of measurable goals. Each objective should be:
+Specific
+Measurable w/Measurement
+Achievable
+Relevant
+Time-Oriented
+ 
 
 ## License
 
