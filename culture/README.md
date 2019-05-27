@@ -10,7 +10,7 @@ We believe that we human beings are fundamentally:
 * "(Cap)Able": we see people as possibilities and as able to achieve more than they (or we) can imagine
 * "Curious": we want to test, discover, explore, take apart and be awed and wondrous
 * "Creative": we want to build, develop, scaffold and innovate
-* Not their thoughts or feelings: we have them, but we aren't them. "Ground of being" etc.
+* "More than the mind": we are more than our thoughts or feelings. Just like we have a body, we have our thoughts and feeling but we aren't them. "Ground of being" etc.
 
 We also think that we humans have a tendency:
 
@@ -61,4 +61,15 @@ TODO: copy from main guide
 > the leader does the right thing.
 >
 > *Warren Bennis -- "On Being a Leader"*
+
+
+## Summary of Dalio
+
+Values => Goals => Identify Problems (with achieving those) => Diagnose => Design (solutions) => Do the tasks in the plan
+
+Values => Goals => Problems => Diagnoses => Designs => Tasks
+
+* Values = what you consider important, what you value
+* Goals (?) = concrete outcomes associated with those values
+* Principles = "rules / patterns" for operating in life that help you pursue your values and goals; consistent ways of acting and thinking. "Principles connect your values to your actions; they are beacons that guide your actions, and help you successfully deal with the laws of reality. It is to your principles that you turn when you face hard choices." p.7
 
