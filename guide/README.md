@@ -51,7 +51,7 @@ A. We may need to learn some new tools together. We will take this into account.
 
 B. We will have the opportunity to learn from each other's experience.
 
-C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on [Skype](https://www.skype.com), Appear.in or [Google Hangouts](https://hangouts.google.com/).
+C. You commit to make yourself available for planning together online on video calls. You also will ensure you have a high quality internet connection so we can do video conferencing on Google Meet (meeting links are automatically created for each meeting).
 
 D. If required, you will install a unix-based operating system such as Ubuntu (Mac OSX is already unix based). This can be dual-boot. You will need to be responsible for installation and maintenance in your spare time.
 
@@ -102,26 +102,22 @@ graph LR
 * We also use [Gitter](https://gitter.im/) -  this is  used by developers or SM/POs who are working on Datahub.io or Frictionless data. 
 
 
-* **Voice / Video calls:** Our default tool is  [Appear.in](https://appear.in) - frequently used room: https://appear.in/datopian
-
-*An online based tool that lets you have video conversations effortlessly; simply click the link showed on the google calendar and you are in.* 
-
-    (Alternatives: [Skype](https://www.skype.com/en/), [Google hangouts](https://hangouts.google.com/))
-
+* **Voice / Video calls:** Our default tool is Google Meet - video call links are automatically added to every meeting set up using our Google Apps calendar.
+  
   *Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.*
 
 * **Email** - we use Gmail
-* **Documents** - GDrive, Hackmd
+* **Documents** - GDrive for all internal documents, Hackmd can be used when working with partners.
 
 
 ### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email: **office@viderum.com**
+For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
 
 
-## Default Styles
+## Default Styles 
 
-We want our documents to look neat and coherent so we set up a Style guide for  Datopian. Follow the links below to see the steps on how you set it up for your Drive:
+We want our documents to look neat and coherent so we set up a Style guide for Datopian. Follow the links below to see the steps on how you set it up for your Drive:
 
 
 For **Documents:**
@@ -164,24 +160,24 @@ If not:
 
 ### Core Hours
 
-Our general working hours are 9am UK - 6pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
+Our general working hours are 8am UK - 4pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
 
-### Phone book
+### Phone book 
 
 A place where phone numbers, usernames, phone numbers etc can be found: 
 
-[Datopian Team Phonebook](https://docs.google.com/spreadsheets/d/1B-1PkWZZRrNJZMsfYaJwI07Aq8vtMmFG5cmcZNQ21EY/edit#gid=0)
+[Datopian Team Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431)
 
 
 ### Holidays
 
-Taking time off to recharge and spend time with loved ones is encouraged. We ask that you be mindful of business prioirities when choosing which days to take off and liaise with you scrum master / product owner. 
+Taking time off to recharge and spend time with loved ones is encouraged. We ask that you be mindful of business priorities when choosing which days to take off and liaise with you scrum master / product owner. 
 
 To notify us of a holiday:
 
 * Talk to your Scrum Master / Product Owner 
-* Once agreed then write an email to office@viderum.com and inform them about the dates and the length of your absence.
-* Make sure to add your holiday dates in our [Viderum Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+* Once agreed then write an email to office@datopian.com and inform them about the dates and the length of your absence.
+* Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Sick leave policy
 
@@ -191,26 +187,22 @@ Please add an out of office and include an alternative contact.
 
 ### Travel Arrangements:
 
-All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@viderum.com and include the following:
+All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@datopian.com and include the following:
 
 * Exact dates of the business trip
 * Location and address of the event you will be attending
 * Any specific preferences in terms of transportation or accommodation 
 
-The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed (See **Expenses** section ). TODO  include link 
+The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed [See **Expenses** section ](https://handbook.datopian.com/guide/#company-expenses)
 
 
 ### Time tracking
 
-Our appraoch to time-tracking reflects our princples: Trust in our employees, transparency with clients and lean processes. 
+Our appraoch to time-tracking reflects our principles: Trust in our employees, transparency with clients and lean processes. 
 
 All team members should complete [Time tracking entry sheet](https://docs.google.com/spreadsheets/d/1SvXG-q_TLGkIiy8YTh2AewmyecG6Tw8xfjM-sXncvK0/edit#gid=0) by the end of the week every week providing their hours aggregated on a weekly basis.
 
-Some projects require more grandular reporting. Your Scrum Master will advise what if there are additional requirements for a particular project 
-
-
-
-
+Some projects require more granular reporting. Your Scrum Master will advise what if there are additional requirements for a particular project 
 
 ## Finances
 
@@ -220,9 +212,9 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
 #### Team invoicing on Xero:
 
 -   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: If feam members invoice us by the 2nd of the month we will pay by the 4th. If they submit their invoices by 7th of each month they will be paid by the 11th latest.  **For those who haven’t submitted their invoices on time they will simply be paid the following month.** 
+-   NOTE: If team members invoice us by the 2nd of the month we will initiate the transfer by the 4th. If they submit their invoices by 7th of each month we will be transfer the money by the 11th latest.  **Those who don't submit their invoices on time will simply be paid the following month.** 
 -   Please ensure that your contractor payment is allocated to the projects that you have been working on. This is only required at a high level (correct to +/- 1 day). You can either use the approximate days spent as the *Qty* and your effective daily as your *Unit price* or you can put the *Qty* as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an *Unit price* of $1,000 for Project 1 and $600 Project 2 and $400 Project 3. 
--   The *amount* will automatically will calculate based on the *Unit price* and *Qty*
+-   The *amount* will automatically calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
@@ -230,18 +222,18 @@ Some projects require more grandular reporting. Your Scrum Master will advise wh
     -   Fill out ‘New Bill’ :
         -   *From*  - Your name
         -   *Date* - last date of the billing month. (It would be better to put the date of the bill on the month you bill for, even if you make the invoice after that month. The reason is that it makes it easier for project management and budget planning.)
-
-        -   *Due date* - 7th of the next month (You should be paid in 7 days after you make the invoice)
-        -   *Reference* - Start with 001, following month 002 and so on..
-        -   *Item* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
-        -   *Description* - What are you working on? Could be Admin/Communication/Writing/ or the project you are working on i.e Datahub/Cybergreen/iMed..
-        -   *Account* - Please select the account that you have been working on, ex: Viderum Core Business
-            (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
-        -   *Unit Price* \- The amount you are getting paid
+        -   *Due date* - 7th of the next month
+        -   *Reference* - Start with 001, following month 002 and so on.
+        -   Double check you get the ***correct currency*** This is by default US Dollars, please only change if a different currency has been agreed in your contract 
+        -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
+        -   *Item* - Not required
+        -   *Description* - Contractor fees for Month Year 
+        -   *Qty / Unit Price* Please refer to 3rd bullet point above. 
+        -   *Account* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
         -   *Tax rate*\- choose - 0% Tax on purchases
-        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_
-        -   Double check you get the ***correct currency***
-        -   Add ‘Tax Exclusive’ in the *Amounts Are* column
+        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
+        -   Please also remember to include your PDF invoice.
+        -   Please check that the total amount invoiced (bottom right) matches to your attached invoice. 
 
 ### Company Expenses
 
@@ -250,7 +242,7 @@ If you have any company expenses to be reimbursed for:
  * Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
 * Please put a description for each invoice.
 * When travelling for work: If you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in.
- *   Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
+ *  Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
 *  Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)
 
 
@@ -263,9 +255,9 @@ See [Step-by-step Induction for new team member](https://docs.google.com/documen
 ## Planning and the Sprint Cycle
 
 TODO: think about how we integrate and adapt the RP PM guide.
+[TODO: This link is obsolete, remove:] READ FIRST: http://github.com/rufuspollock/project-management specifically:
 
-READ FIRST: http://github.com/rufuspollock/project-management specifically:
-
+[TODO: Below links should be merged here or removed as currently partly contradicting with the content in the handbook.]
 * User stories - https://github.com/rufuspollock/project-management/blob/master/user-stories.md
 * Project delivery - (scrum-based): https://github.com/rufuspollock/project-management/blob/master/project-delivery.md
 
@@ -283,12 +275,13 @@ graph TD
 For new sprint, Product Owner:
 
 * Ensure a milestone for the next sprint and the one after that[^why]
-* Created issues/tasks **with**
+* Created issues on GitHub, in proper repos and correctly labelled **with**
   * Set of tasks in a checklist format
-  * Section with "Acceptance criteria" checlist
+  * Section with "Acceptance criteria" checklist
+* All issues are moved to 'This Sprint' column
 * Written a proposed "sprint goal" - 1-3 sentences summarizing what we want to achieve
 
-[^why]: At any given time we want milestones to exist for current sprint and one after it. Why? So that anything urgent or important
+[^why]: At any given time we want milestones to exist for current sprint and one after it. Why? So that anything urgent or important [TODO: needs updating]
 
 
 ### Every Sprint Cycle
@@ -303,60 +296,22 @@ For new sprint, Product Owner:
 
 Each "scrum master" (with their team) has
 
-* Reviewed their board and tasks, moving everything that is done to done etc and adding a final note that is understandable about the state of the task
+* Reviewed the board and issues, moving everything that is done to done etc and adding a final note that is understandable about the state of the task
 * Written a short summary in the planning doc about the sprint - what happened, was the sprint goal achieved, any learnings.
-
-:::tip
-**Trello**: we don't have milestones per se so instead we use the Done column. At end of sprint:
-
-* Done column is renamed to `Done - Date of end of Sprint`
-* Move that `Done - ...` out of the way
-* Create a new Done column
-:::
-
 
 #### After review is complete with Product Owner
 
-* Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
+
+  Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
     * **Tab - Sprint metrics:** Extracted the points from your Trello board and inserted 'Planned Points' (beginning of sprint), 'Planned Points - End of sprint' and 'Hours'.
     * **Tab - Timesheet:** The hours and points per project. 
-* Move all remaining open issues either into next sprint or into backlog (this may happen as part of sprint planning)
+* Keep all remaining open issues either in 'This Sprint' column (if work is to continue) or move to 'Next Sprint'/'Inbox' (this may happen as part of sprint planning)
 * Closed all relevant milestones
 
-Cleaning up the milestone:
-
-* Move all remaining open issues either into next sprint or into backlog (this may happen as part of sprint planning)
-* Closed all relevant milestones
-
-:::tip
-**Trello**: Renamed Done to the appropriate name and created a new Done column
-:::
-
-
-### Updating the Zenhub Board
-
-*Zenhub is add-on to Github issue to provide kanban style functionality*
-
-When using Zenhub board we have adopted the following practice as a way to:
-
-* Keep sprint status up to date and live
-* Provide a direct way to report on what was done and what is planned in next 24h (just look at relevant items)
-
-Set up your zenhub board like this:
-
-Each standup:
-
-* Move items that are complete to review/QA (but do not move to Done until reviewed by someone - not necessarily product owner but can be)
-* Move over-ran items to over-ran
-* Next 24h: what you plan to complete in next 24h (including over-ran items)
-* At end of standup: move over-ran items into next 24h (or back into backlog if not being worked on)
-  * over-ran: should be empty except for standup +/- 10m
 
 Scrum-master:
 
-* Check everyone has neither too much nor too little scheduled in next 24h (e.g. someone has 30h of planned work in next 24h that may be an issue!)
-* Check over-ran: Over-ran is there to a) help your team see underestimates over-ran so they can improve in estimation b) to highlight early if something is a problem -- if something over-runs day after day there is an issue
-
+* Check everyone has neither too much nor too little scheduled in next sprint
 
 ## Issues / Tasks
 
@@ -386,25 +341,30 @@ Short description of bug or feature need preferentially in a user story form.
 
 ### Tasks
 
-*Task list for a non-epic issue*
+*Task list*
 
 * [ ] ...
 * [ ] ...
-
-*For Epic: this task list should be a list of subissues
-(occassionally allow some non sub-issue items)*
-
-* [ ] Create Search API #{link to subissue}
-* [ ] Tidy up CSS <-- no subissue for this one because it is so simple
 
 ### Analysis
 
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
 
+All issues must be properly labelled:
+- Support issues must have a support label (indicating their support package)
+- All client related issues must have a client label (all colored #800080)
+- Issues related to other, internal, projects need to be labelled accordingly
+- Contextual labels are encouraged:
+  - 'Source' labels for support issues (e.g. client/sentry/uptime etc.)
+  - 'Technical Debt', 'Bug' etc. 
 
-::: tip
-[Github with Zenhub] **Associating issues with Epics**: You MUST do this through links in the task list as above -- not just through the Zenhub attach subissues to an Epic feature (it is up to you whether you use the Zenhub feature)
+Make sure you record relationships between issues, e.g.
+- Individual issues and their epics
+- Support requests and their fixes
+
+:::tip
+Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
 :::
 
 ::: tip
@@ -413,23 +373,14 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 
 #### Issue Naming
 
-* Put [epic] prefix in title for epic issues (even when using zenhub)
+* Put [epic] prefix in title for epic issues
 * (Optional) Grouping ... e.g. `[ux]` for ux issues
-
-:::tip
-Why? We want to avoid over-dependence on zenhub. Zenhub is great but: a) we want to avoid too much lock-in. Recording some info outside zenhub is useful b) some people can't use zenhub or won't have it installed. Providing some info outside zenhub is therefore useful.
-:::
-
-TODO fix tip (if required, not working on hackmd)
-
 
 ### Estimating
 
-**Github:** Using zenhub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
+**Github:** Using Waffle you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
 
 **Gitlab:** Estimation support is built in.
-
-**Trello:** Use scrum for trello extension. Estimate in hours by default.
 
 
 ### Closing Issues
@@ -456,6 +407,12 @@ Notes:
 * When issues are closed in a commit you do not need to add a separate comment.
 * If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
 
+::: tip
+Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
+
+You can refer to issues in another repo by using the full notation, e.g. 'fixes ViderumGlobal/PM#10'
+:::
+
 ### Commit messages' format
 
 ```
@@ -475,24 +432,9 @@ So command would look like this:
 git commit -m '[ex][m]: plotly json examples - fixes #23'
 ```
 
-
--------------------------------------------------
-
-
-
-
-### Trello (Project management tool)
-
-[Trello](https://trello.com/tour) is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
-
-
 ## Standups
 
-Standups are meetings during the sprint that:
-
-* Happen (very) regularly - e.g. daily
-* Are short: 5-15m. Each person should speak for no more than 2m (less as team gets larger).
-  * If bigger issues arise take them out of standup
+Standups are a means to keep everyone updated with what you're up to.
 
 Purpose:
 
@@ -500,16 +442,15 @@ Purpose:
 * surface blockers
 * deal with issues arising (e.g. need to reprioritize in face of an arising issue or change in estimate)
 
-Each person answers 3 questions
+Each person needs to write
 
-* What did I accomplish yesterday?
-* What will I do today?
-* What obstacles are impeding my progress?
+* What is my plan for today?
+* What did accomplish yesterday?
+* Do I have any blockers? 
+* What is my availability for today?
 
-Attendees: Only people "committed" to the project may speak (anyone "involved" with the project may listen)
-
-* **Implementation team including Scrum Master**
-* Product owner (usually). Product Owner does not provide an update. She/he is there to be help address questions e.g. clarify user stories and needs, deal with reprioritization
+We write these standups on the #standup channel on Slack, whenever we start our working day.
+A standard template for updated is pinned to that channel.
 
 ## Meetings
 
@@ -520,7 +461,7 @@ Attendees: Only people "committed" to the project may speak (anyone "involved" w
   * List who is present
   * Goals: a meeting **MUST** have a short list of goals for that meeting. These are what you plan to achieve out of the meeting. Start the meeting by reviewing (or establishing) the goals.
   * Agenda: `a meeting **SHOULD** have an agenda (a short list of items to cover)
-  * Actions (tasks that are assigned)
+  * Decisions & Actions (tasks that are assigned)
   * Notes 
 
 Here's an example layout in markdown
@@ -541,6 +482,9 @@ Agenda:
   * Prioritize each project
   * Check time allocated against availability
 * Date of next meeting
+
+Actions:
+* Agreed on next meeting to be held in 2 weeks, James to schedule
 ```
 
 ## User Stories and Analysis
@@ -583,7 +527,7 @@ https://github.com/datopian/pm/issues/25
 - Google account 
   *We will not always do this for contractors. Often, during initial period we will let them use their own gmail account and will not provide access*
 - Shared Calendar
-- Datopian standard [styles for google docs](https://hackmd.io/KwRgJgLARg7AzHAtAUymAnIiyAcmo4QAMiMUcEATHAGbrIgBsRQA?both#document-conventions) (you have to update your google account with these styles)
+- Datopian standard [styles for google docs](https://docs.google.com/document/d/1Cb0GFU0jMVRXqrk4wAJ_DQZkBFxQNBCchCv15mB81Ac/edit) (you have to update your google account with these styles)
 - Access to root Datopian folder (and add that to your drive)
 - [Trello](https://trello.com/)
 
@@ -598,17 +542,16 @@ https://github.com/datopian/pm/issues/25
 * Forestry.io *(a Git-backed content management system for websites and web products built using static site generators.)*
 * Amazon Web Service - *(provides number of cloud based instances)* [devops only - not essential]
 * Heroku acc. [devops only - not essential] *(cloud based service (server) for your web application and make it live)*
+* [VSCode](https://code.visualstudio.com/) *(great free code editor)*
 * [Atom editor](https://atom.io/) *(text editor with some cool features)*
   * Markdown preview extension for Atom - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) 
   * [Floobits for Atom](https://floobits.com/) *(Cross-editor real-time collaboration extension for Atom, where two or more coder can work on same code together)*
 * [Hugo](https://gohugo.io/) *(an engine (tool) for making a website)*
 
-TODO include Waffle.io
-
 
 ### Access to systems
 
-We use Bitwarden.com to manage credentials and passwords to access key company systems and platforms. If you require access to a particular system get in touch with a relevant colleague (e.g., if you need access to Google Cloud for DevOps contact a senior DevOps engineer) or contact office@viderum.com.
+We use Bitwarden.com to manage credentials and passwords to access key company systems and platforms. If you require access to a particular system get in touch with a relevant colleague (e.g., if you need access to Google Cloud for DevOps contact a senior DevOps engineer) or contact office@datopian.com.
 
 
 ## How our Websites Work
@@ -674,11 +617,31 @@ Options
 
 ### Social Media 
 
-Firstly, please like us on [Facebook](https://www.facebook.com/viderumltd/) and follow us on [Twitter](https://twitter.com/videruminc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
+Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/viderum/about/)!
  
 
-If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@viderum.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
+If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to the office team under office@datopian.com and describe your idea. They will either post it for you or give you access so you can do it by yourself.
 
+### Acronyms dictionary
+
+Here is a list of acronyms that the business commonly uses. Please feel free to suggest what other acronyms should be here and message us at office@ with suggestions.
+
+* PM - Project Manager
+* SL - Scrum lead (aka SM)
+* SM - Scrum Master
+* PO - Product Owner
+* FTE - full time engagement
+* 2fa - 2 factor authentification
+* UI - user interface
+* CSS - cascading style sheets
+* OKR - objectives and key results
+* SMART -   S.M.A.R.T. is an acronym that is used to guide the development of measurable goals. Each objective should be:
+Specific
+Measurable w/Measurement
+Achievable
+Relevant
+Time-Oriented
+ 
 
 ## License
 

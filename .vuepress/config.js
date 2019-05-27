@@ -27,6 +27,13 @@ module.exports = {
       { text: 'Agile Delivery', link: '/agile/' },
       { text: 'User Stories', link: '/user-stories/' },
       {
+        text: 'Playbooks',
+        items: [
+          { text: 'Client Support', link: '/support/' },
+          { text: 'Coding Standards', link: '/coding-standards/' }
+        ]
+      },
+      {
         text: 'Howtos',
         items: [
           { text: 'Objectives and Key Results (OKRs)', link: '/objectives-and-key-results/' },

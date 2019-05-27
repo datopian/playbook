@@ -74,22 +74,22 @@ Wait for them to get setup on Systems then:
     * Trello: add to Org team
     * Slack: add to relevant channels
     * Gitter: add to relevant channels (if applicable)
-    * Github: add as a member of the org, add to relevant teams
+    * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)
     * Gitlab: add as a member of the org, add to relevant teams
     * GSuite / Drive: add them to relevant team drives and google groups
 
 
 ### Welcome Email
 
-**Subject: Welcome to Viderum - next steps in getting you set up**
+**Subject: Welcome to Datopian - next steps in getting you set up**
 
 _Hi {XXX},_
 
-_Welcome to Viderum._
+_Welcome to Datopian._
 
 _In preparation for the onboarding call on :_
 
-**_1. Your Viderum Email_**
+**_1. Your Datopian Email_**
 
 _We have created a Viderum email for you. You should have already received an email about this with details of how to sign in and set your password._
 
@@ -106,7 +106,7 @@ _Need to mention 2 factor authentication. Find Paul’s email (where he announce
 
 **_2. Set up your Slack account_**
 
-_Please do that as soon as possible and confirm to office@viderum.com that you have set up your email so that we can invite you set up a slack account. Once your Slack is set up, use Slack to message your onboarder so they can welcome you to the team._
+_Please do that as soon as possible and confirm to office@datopian.com that you have set up your email so that we can invite you set up a slack account. Once your Slack is set up, use Slack to message your onboarder so they can welcome you to the team._
 
 **_2. Our onboarding call_**
 

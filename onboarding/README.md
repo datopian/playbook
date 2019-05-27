@@ -78,9 +78,9 @@ Refer to the [How we communicate](https://handbook.datopian.com/guide/#communica
 
 ## Communicating with clients
 
-All client emails should bcc crm@viderum.com. 
+All client emails should bcc crm@datopian.com. 
 
-Our clients can write to Viderum via support@viderum.com (for technical support related matters) and info@viderum.com (for general enquires).
+Our clients can write to Viderum via support@datopian.com (for technical support related matters) and info@datopian.com (for general enquires).
 
 
 ## Using the Calendar
@@ -110,11 +110,8 @@ Please read the [ Getting Paid ](https://handbook.datopian.com/guide/#getting-pa
 The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up Slack channel in the following format:
 
 * Plan
-
 * Recap
-
 * Blockers (is there something getting in the way for you to complete your tasks)
-
 * Availability
 
 
@@ -205,8 +202,6 @@ Agenda
 
 ## Wrapping up 
 
-
-
 _Please go through the checklist to see if you have completed your onboarding_
 
 * You have had your onboarding call
@@ -218,10 +213,3 @@ _Please go through the checklist to see if you have completed your onboarding_
 * You have installed default styles to your googledoc
 * You have completed the quiz
 * Have posted your first daily stand-up
-
-
-
-
-
-
-
