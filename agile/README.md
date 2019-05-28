@@ -75,7 +75,7 @@ Before one goes into the sprint cycle there is some preparatory work that should
   * Tasks agreed in sprint planning meeting on a Monday - sprint then runs for 2 weeks
   * Tasks should be in product backlog (see next item)
 
-* **Product Backlog** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-backlog)] - use this [*trello template for managing backlog*](https://trello.com/b/kdowtIdn/project-sprint-template-board-do-not-edit)
+* **Product Backlog** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-backlog)] - we use GitLab or GitHub issues and project boards
 
   * Product backlog consists of user stories or tasks related to user stories (should flag which user story a task relates to if not a single user story)
   * Tasks are broken into at least 2 groups:
