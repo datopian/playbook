@@ -228,7 +228,7 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
         -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
         -   *Item* - Not required
         -   *Description* - Contractor fees for Month Year 
-        -   - **NB change in process wef 1st June 2019** You need to enter the number of hours worked as the *Qty* and your effective hourly rate as your Unit price.  Eg if your contractor fee per month is $2,000 and you worked 40 hours for project 1 and 120 hours for project 2 then you would split your contractor as per the example below:
+        -   - **Change in process wef 1st June 2019** You need to enter the number of hours worked as the *Qty* and your effective hourly rate as your Unit price.  Eg if your contractor fee per month is $2,000 and you worked 40 hours for project 1 and 120 hours for project 2 then you would split your contractor as per the example below:
 
 
 
@@ -246,12 +246,6 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
         -   Please also remember to include your PDF invoice.
         -   Please check that the total amount invoiced (bottom right) matches to your attached invoice. 
 
-        -   *Qty / Unit Price* Please refer to 3rd bullet point above. 
-        -   *Account* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
-        -   *Tax rate*\- choose - 0% Tax on purchases
-        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
-        -   Please also remember to include your PDF invoice.
-        -   Please check that the total amount invoiced (bottom right) matches to your attached invoice. 
 
 ### Company Expenses
 
