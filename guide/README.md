@@ -238,7 +238,7 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
         -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
         -   *Item* - Not required
         -   *Description* - Contractor fees for Month Year 
-        -   *Qty / Unit Price* Please refer to example above point above.
+        -   *Qty / Unit Price* Please refer to example above.
         -   *Account* - 5111 -COS - Contractor - if most of your time is spent on billable projects, or if not, use 6331 - Contractors;
         -   *Tax rate*\- choose - 0% Tax on purchases
         -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.)
