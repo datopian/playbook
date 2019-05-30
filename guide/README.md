@@ -211,20 +211,18 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
 
 #### Team invoicing on Xero:
 
--   Before the invoicing process, you will be invited to Viderum Xero. You should accept the invitation and set up your password.
--   NOTE: If team members invoice us by the 2nd of the month we will initiate the transfer by the 4th. If they submit their invoices by 7th of each month we will initiate the transfer by the 11th latest.  **Those who don't submit their invoices on time will simply be paid the following month.** 
--   You can either use the approximate days spent as the Qty and your effective daily as your Unit price or you can put the Qty as 1 and then used the Unit price to allocate your pay between different projects. Eg if your salary was $2,000 and you spent 50% of time to Project 1, 30% on project 2 and 20% on project 3. Then you would have 3 lines with an Unit price of $1,000 for Project 1 and $600 Project 2 and $400 Project 3.
--   The *amount* will automatically calculate based on the *Unit price* and *Qty*
--   -   - **Change in process wef 1st June 2019** You need to enter the number of hours worked as the *Qty* and your effective hourly rate as your Unit price.  Eg if your contractor fee per month is $2,000 and you worked 40 hours for project 1 and 120 hours for project 2 then you would split your contractor as per the example below:
+-   Before the invoicing process, you will be invited to Datopian Xero. You should accept the invitation and set up your password.
+-   NOTE: If team members invoice us by the 2nd of the month we will initiate the transfer by the 4th. If they submit their invoices by 7th of each month we will initiate the transfer by the 11th latest.  *Those who don't submit their invoices on time will simply be paid the following month.* 
+- **Change in process wef 1st June 2019** You need to enter the number of hours worked as the *Qty* and your effective hourly rate as your Unit price.  Eg if your contractor fee per month is $2,000 and you worked 40 hours for project 1 and 120 hours for project 2 then you would split your contractor as per the example below:
 
 
 
 | Qty | Unit price | Amount | Account | Projet | 
 | -------- | -------- | -------- | ------- | ------- | 
 | 40     | 12.5     | $500     | COS 5111 | Project 1 | 
-| 120     | 12.5     | $1,500    | COS 5111 | Project 1 |
+| 120     | 12.5     | $1,500    | COS 5111 | Project 2 |
 
- -  Continue as per usual
+-   The *amount* will automatically calculate based on the *Unit price* and *Qty*
 -   Team member **Invoice** instructions:
     -   Log in with your account
     -   Click on ‘Dashboard’
