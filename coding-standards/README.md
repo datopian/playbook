@@ -131,7 +131,7 @@ Prefer to make really good `README.md` files, rather than implementing a full do
 
 ## Frameworks
 
-We prefer the following frameworks and libraries. If you want to use an *alternative to one of these please flag this before starting any work.
+We prefer the following frameworks and libraries. If you want to use an *alternative to one of these please flag this before starting any work.*
 
 ### Python
 
@@ -142,7 +142,7 @@ We prefer the following frameworks and libraries. If you want to use an *alterna
 
 * lodash
 * Express
-* React
+* React (VueJS is possible esp for lightweight projects -- please ask)
 
 ## Version control
 
