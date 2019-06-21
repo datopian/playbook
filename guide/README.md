@@ -94,12 +94,9 @@ graph LR
   async --> email[Email]
 </mermaid>
 
-* **Chat** - We use [Slack](https://slack.com/) 
+* **Chat** - We use [Google chat](https://chat.google.com/) 
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
 *(Based on the transparent policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.)* 
-* We also use [Gitter](https://gitter.im/) -  this is  used by developers or SM/POs who are working on Datahub.io or Frictionless data. 
-
-
 * **Voice / Video calls:** Our default tool is Google Meet - video call links are automatically added to every meeting set up using our Google Apps calendar.
   
   *Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.*
@@ -261,21 +258,12 @@ See [Step-by-step Induction for new team member](https://docs.google.com/documen
 
 ## Planning and the Sprint Cycle
 
-TODO: think about how we integrate and adapt the RP PM guide.
-[TODO: This link is obsolete, remove:] READ FIRST: http://github.com/rufuspollock/project-management specifically:
+See [Agile Delivery][agile] and [User Stories][us].
 
-[TODO: Below links should be merged here or removed as currently partly contradicting with the content in the handbook.]
-* User stories - https://github.com/rufuspollock/project-management/blob/master/user-stories.md
-* Project delivery - (scrum-based): https://github.com/rufuspollock/project-management/blob/master/project-delivery.md
+[agile]: /agile/
+[us]: /user-stories/
 
-Roles:
-
-```mermaid
-graph TD
-
-  po[Product Owner]
-  scrum[Scrum Master]
-```
+TODO: merge / delete below in favour of agile delivery
 
 ### Sprint Planning
 
