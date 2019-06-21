@@ -85,16 +85,14 @@ To keep things fully transparent across our team, we have put some practises in 
 
 ### Communication Tools
 
-```mermaid
+<mermaid>
 graph LR
-
   sync((Synchronous))
   async((Asynchronous))
-  
   sync --> video[Video]
-  async --> chat[Chat - Gitter]
+  async --> chat[Chat - GChat]
   async --> email[Email]
-```
+</mermaid>
 
 * **Chat** - We use [Slack](https://slack.com/) 
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
@@ -573,44 +571,22 @@ We use Bitwarden.com to manage credentials and passwords to access key company s
 
 ### How is a website built ...
 
-```mermaid
-graph TD
+In Hugo (or Jekyll):
 
+<mermaid>
+graph TD
+&nbsp;
 text[Text in Markdown<br/>Frontmatter<br/>Stored in git]
 website[Website - HTML]
 browser
-
+&nbsp;
 text --hugo<br/>$ hugo server--> websitelocal[Local Site]
 websitelocal --hugo webserver--> browser
-
+&nbsp;
 text --git<br />$ git push--> gitlab
 gitlab --"gitlab pages<br/>(using hugo)"--> website
 website --gitlab hosting--> browser
-```
-
-
-```mermaid
-graph LR
-content
-template
-wordpress[Wordpress]
-
-content[Content e.g. blog post] --> wordpress
-template[Template] --> wordpress
-wordpress --> webpage[Web Page]
-```
-
-```mermaid
-graph LR
-content
-template
-wordpress[Hugo]
-
-
-content[Content e.g. blog post] --> wordpress
-template[Template] --> wordpress
-wordpress --> webpage[Web Page]
-```
+</mermaid>
 
 ### How do we serve html
 
