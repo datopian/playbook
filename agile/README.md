@@ -51,7 +51,7 @@ Before one goes into the sprint cycle there is some preparatory work that should
   * 1-5 sentence description
   * Outcomes (Goals) and (measurable) Outputs (Deliverables)
 
-    * Outputs are (easily) measurable (SMART if possible)
+    * Outputs are (easily) measurable ([SMART](https://en.wikipedia.org/wiki/SMART_criteria) if possible)
     * Can be classified as: Expect to see, Hope to see, Like to see
 
 * **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) [2-6h]
