@@ -66,10 +66,16 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
    * Xero - with their company email address;
    * Slack - with their company email address
+ 
+ 
+5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
+
+
+
 
 Wait for them to get setup on Systems then:
 
-5. **Add them to teams**:
+6. **Add them to teams**:
 
     * Trello: add to Org team
     * Slack: add to relevant channels
@@ -91,11 +97,11 @@ _In preparation for the onboarding call on :_
 
 **_1. Your Datopian Email_**
 
-_We have created a Viderum email for you. You should have already received an email about this with details of how to sign in and set your password._
+_We have created a Datopian email for you. You should have already received an email about this with details of how to sign in and set your password._
 
-_For best practice security reasons, we use 2fa on all Viderum Google Accounts._
+_For best practice security reasons, we use 2fa on all Datopian Google Accounts._
 
-_To enable 2fa for your account, ensure you are logged in to your Viderum account, and follow the steps here._
+_To enable 2fa for your account, ensure you are logged in to your Datopian account, and follow the steps here._
 
 _If you do not know what 2fa is, do not worry! You can also read more about 2fa here and here._
 
@@ -110,13 +116,13 @@ _Please do that as soon as possible and confirm to office@datopian.com that you 
 
 **_2. Our onboarding call_**
 
-_An onboarding call has been scheduled. An invite has been sent to your Viderum calendar and email! If that time does not work please let us know._
+_An onboarding call has been scheduled. An invite has been sent to your Datopian calendar and email! If that time does not work please let us know._
 
 _Also, talking of meetings, we have a weekly all hands, this should already be in your calendar._
 
 **_3. Start inducting yourself!_**
 
-_We have designed the onboarding process to be largely self-service so you can set yourself up! We are in the process of merging Datopian and Viderum so where you see Datopian please read Viderum._
+_We have designed the onboarding process to be largely self-service so you can set yourself up!_ 
 
 _Please start working your way through the Onboarding guide and induct yourself!_
 
@@ -175,6 +181,24 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 * Added to Trello
 * Xero account set up using personal email address
 * Completed Quiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
