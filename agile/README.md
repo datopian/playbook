@@ -44,15 +44,14 @@ Delivery is **facilitated** by a Scrum Master, who is accountable for **removing
 
 Before one goes into the sprint cycle there is some preparatory work that should be done. Total time required \<= 1d. The Product Owner is overall responsible for this stage of the process.
 
-* **Project Summary** [Product Owner] [1h]
+* **Project A10** [Product Owner] [1h]
 
   * This work should result in the creation of a Project Overview document
-  * Title (short descriptive sentence)
-  * 1-5 sentence description
-  * Outcomes (Goals) and (measurable) Outputs (Deliverables)
-
-    * Outputs are (easily) measurable ([SMART](https://en.wikipedia.org/wiki/SMART_criteria) if possible)
-    * Can be classified as: Expect to see, Hope to see, Like to see
+  * Total Budget
+  * Aims and Requirements (aka Purpose, Outcomes and Outputs. Also deliverables)
+  * Project Plan
+  * Issue tracker, repo etc (Or other key PM tools and links)
+  * Risks
 
 * **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) [2-6h]
 
