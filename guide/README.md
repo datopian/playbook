@@ -205,37 +205,8 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
 
 
 #### Team invoicing on Xero:
-
--   Before the invoicing process, you will be invited to Datopian Xero. You should accept the invitation and set up your password.
--   NOTE: The invoices need to be submitted to us by the 3rd of the month and we will initiate the transfer by the 10th latest.  *Those who don't submit their invoices on time will simply be paid the following month.* 
--   The *amount* will automatically calculate based on the *Unit price* and *Qty*
--   Team member **Invoice** instructions:
-    -   Log in with your account
-    -   Click on ‘Dashboard’
-    -   Scroll down to ‘New Bill’ and click on the button.
-    -   Fill out ‘New Bill’ :
-        -   *From*  - Your name
-        -   *Date* - last date of the billing month. (It would be better to put the date of the bill on the month you bill for, even if you make the invoice after that month. The reason is that it makes it easier for project management and budget planning.)
-        -   *Due date* - 30th of the month (Our word is to pay you on the 10th, but contractually payment is due 30 days after invoicing)
-        -   *Reference* - Start with 001, following month 002 and so on.
-        -   Double check you get the ***correct currency*** This is by default US Dollars, please only change if a different currency has been agreed in your contract 
-        -   Add ‘Tax Exclusive’ in the *Amounts Are* box on the right hand side
-        -   *Item* - Not required
-        -   *Description* - Description of services provided 
-        -   *Qty / Unit Price* Please refer to example below.
-        -   *Account* - "1111 - Datopian Contractors";
-        -   *Tax rate*\- choose - 0% Tax on purchases
-        -   *Project* - Scroll down to the one specific project where you spend the majorty of your time working on _(**Please always remember to add project.**)_ (If you have worked for different functions, please make different lines with the correct account and the clear description in the description box.) For example if you worked 50% on project A and 50% of project B then:
-         
-| Description| QTY | Unit price |Amount |
-| -------- | -------- | -------- |-------- |
-| Work on project A building A, B, C    | 0.5   |   $3,000  |  $1,500  |
-| Work on project B building X, Y, Z | 0.5 | $3,000 |$1,500 |
-
-*  Please also remember to include your PDF invoice and check that the total amount invoiced (bottom right) matches to your attached invoice.
-  
         
-A step by step process & FAQs is available [here](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.p5). 
+We have updated our process to make it as smooth and easy and possible. A step by step process & FAQs is available [here](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.p5). 
 
 ### Company Expenses
 
