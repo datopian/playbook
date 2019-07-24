@@ -52,6 +52,8 @@ Before one goes into the sprint cycle there is some preparatory work that should
   * Project Plan
   * Issue tracker, repo etc (Or other key PM tools and links)
   * Risks
+  * Resourcing Amount (FTE months)
+
 
 * **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) [2-6h]
 
