@@ -27,8 +27,8 @@ As an Onboardee I want a simple step by step process to get set up (that I can d
 5. Go through work “processes” in more detail; This depends on the accountability the Onboardee will assume; E.g.
 
     * Work sprints
-    * Trello management 
-    * Practice on trello (acceptance criteria, checklist, closing issues…)
+    * Kanban management 
+    * Practice on Gitlab (acceptance criteria, checklist, closing issues…)
     * How to take meeting notes on operation meeting notes
 
 7. Do the [onboarding quiz][quiz]
@@ -43,9 +43,6 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** We set this up so that your profile picture will show up automatically on your profile on other systems. Add *all* the email(s) you will use on other accounts. For example, if you plan to sign up to Trello with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com **Please tell your onboarder your github handle so we can add you**
 * Gitlab - https://gitlab.com/ **Please tell your onboarder your gitlab handle so we can add you**
-* Slack - https://slack.com/ (Using your Datopian email)
-* Gitter - https://gitter.im/ (this is only used by developers or SM/PO who are working on Datahub.io or Frictionless data. We recommend signing in with your github account as it helps in permissions management)) 
-* Trello - https://trello.com/ **Please tell your onboarder your Trello handle (or set one up if you haven't already) so we can add you to our Trello org**
 
 ## Setting up Google Drive
 
@@ -64,13 +61,11 @@ Set up google docs to use our default styles: [ Handbook Style Guide section ][s
 
 ## How we communicate
 
-Slack is the main text channel we use to communicate with our team members.
+Google Chats is the main text channel we use to communicate with our team members.
 
-Slack is a business communication tool, where all the other team members keep in touch and update on a daily basis theire work progress. 
+Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.** 
 
-Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Slack. **We use Slack as a communication platform and not a knowledge management platform.** 
-
-Once you have a Slack account, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone. 
+Once you have your Google Chats accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone. 
 
 Please say Hello too!
 
@@ -114,10 +109,6 @@ The team used to have a daily stand-up. This was replaced by asynchronous update
 * Blockers (is there something getting in the way for you to complete your tasks)
 * Availability
 
-
-### Trello
-
-* “Trello is used by some teams to managed tasks. If you are joining a team that uses Trello then you will be added to the board. If you have not used Trello before please [ click here ](https://www.youtube.com/watch?v=xky48zyL9iA&t=1s) to learn more about it.
 
 
 ## Tech Team Onboarding (Datahub)
