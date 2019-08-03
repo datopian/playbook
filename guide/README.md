@@ -172,7 +172,7 @@ To notify us of a holiday:
 
 * Talk to your Scrum Master / Product Owner 
 * Once agreed then write an email to office@datopian.com and inform them about the dates and the length of your absence.
-* Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+* Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) as well as in your own private caledar.
 
 ### Sick leave policy
 
