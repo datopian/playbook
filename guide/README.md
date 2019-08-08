@@ -182,14 +182,15 @@ Please add an out of office and include an alternative contact.
 
 ### Travel Arrangements:
 
-All business-related travel arrangements must be approved by a member of the Leadership team. Once approved, you need to send an email to office@datopian.com and include the following:
+All business-related travel arrangements must be approved by a member of the Leadership team. 
 
-* Exact dates of the business trip
-* Location and address of the event you will be attending
-* Any specific preferences in terms of transportation or accommodation 
-
-The Office team will book the transportation and accommodation for you and forward you the details via an email. For all other expenses, you must keep the receipts in order to be reimbursed [See **Expenses** section ](https://handbook.datopian.com/guide/#company-expenses)
-
+* The first thing to do is to research for the flights and the accommodation you want to book according to the budget agreed with your project manager
+* Send an email with the links to office@datopian.com 
+* Remember to include all information needed for the booking:
+    * preferences in terms of flights and accommodation (late check-ins, breakfast, window seats, pre-order cabs etc)
+    * Full name, birth date, phone number; airline miles account number if they are using frequent flier programme
+* The ops team will book the requested hotel & flight and forward the confirmations to you 
+* Remember to store all receipts from the trip or else they can’t get reimbursed. [See **Expenses** section ](https://handbook.datopian.com/guide/#company-expenses)
 
 ### Time tracking
 
