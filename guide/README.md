@@ -227,7 +227,7 @@ If you have any company expenses to be reimbursed for:
 > NOTE: You must submit your expenses from the business trip as soon as possible; ideally, within 10 working days after the trip. 
 Expenses submitted later than 5 months will not be paid. The same rule applies to non-travel expenses.
 
-### Team member Expense claim instructions:
+#### Team member Expense claim instructions:
 
 * Log in with your account
 * Click on ‘Business’
