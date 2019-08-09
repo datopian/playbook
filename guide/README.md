@@ -180,6 +180,10 @@ If you’re not feeling well and you’re unable to perform your duties, notify 
 
 Please add an out of office and include an alternative contact. 
 
+For german employees:
+* Remember you need to obtain the sick leave note (Arbeitsunfähigkeitsbescheinigung)
+* Please send the document to office@datopian.com within 3 working days
+
 ### Travel Arrangements:
 
 All business-related travel arrangements must be approved by a member of the Leadership team. 
@@ -211,15 +215,62 @@ We have updated our process to make it as smooth and easy and possible. Please f
 
 A step by step process & FAQs is available [here](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.p5). 
 
-### Company Expenses
+### Company Expenses policy
 
 If you have any company expenses to be reimbursed for:
 
- * Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable)
-* Please put a description for each invoice.
-* When travelling for work: If you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in.
- *  Add a new line for separate currencies. EG: If you are paid in GBP; a metro ticket and lunch in GBP can be on one line and make a new line for bus ticket and train in Euros converted GBP.
-*  Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)
+1. Use the **Expense claims** feature in Xero to upload your expenses/receipts
+* Another option would be to download the Xero Accounting Application on their phone
+    * [For Android](https://play.google.com/store/apps/details?id=com.xero.touch&hl=en)
+    * [For iOS](https://apps.apple.com/au/app/xero-accounting-invoices/id441880705)
+
+>  You must submit your expenses from the business trip as soon as possible; ideally, within 10 working days after the trip. 
+Expenses submitted later than 3 months will not be paid. The same rule applies to non-travel expenses.
+
+##### Team member Expense claim instructions:
+* Log in with your account
+* Click on ‘Business’
+* Scroll down to ‘Expense claims’ and click on the button.
+* Fill out ‘New Expense’: 
+    * Purchase amount  - Amount on the receipt
+    * Description - Short description of the expense type
+    * Spent at - Where did you spend it? Could be a particular institution/restaurant/station etc.
+    * Spent on - Date on the receipt
+    * Account - Could be
+        * 6411 -  Travel expenses
+        * 6412 - Travel meals expenses
+        * 6451 - Entertainment expenses (clients)
+        * 6452 - Entertainment expenses (internal)
+        * XXXX - Any other expense type account suitable for the expense in question
+
+>  **Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)**
+
+2. Make sure to submit your expenses for approval (or else they won’t be visible for any other person but yourself)
+3. Send an email to office@datopian.com confirming that the expenses have been submitted
+
+#### German employees
+
+##### Submitting expenses
+
+* Submit your expenses to Viderum GmbH by following the procedure above. 
+* After every business trip, you must also fill out and submit the [Per diem expense form](https://drive.google.com/file/d/17bcyifuPuegLSgWNdgdEhIcmoNu2iedy/view) (more info below) along with the other travel expenses
+    * The best way to do that is to download the form on your computer in order to have it calculated automatically (once you enter the rates)
+    * Make sure to tick the breakfast / lunch / dinner boxes if they were included in the accomodation 
+
+##### Travel policy
+
+1. Fill out the [Per diem form](https://drive.google.com/file/d/17bcyifuPuegLSgWNdgdEhIcmoNu2iedy/view) according to the [International per diem rates](https://drive.google.com/file/d/17SAisgQp3BWzHOkNu54BmgUYVOUs9tnH/view) as follows:
+* Anlass: Name of the event
+* Land/Ort: City/Country
+* Tagessatz: This is the per diem rate defined for the country you will be in. You can check these rates [here](https://drive.google.com/file/d/17SAisgQp3BWzHOkNu54BmgUYVOUs9tnH/view) (page 4).
+    * The day of arrival and departure is always counted as half-day (the number in the second/middle column)
+    * Eg. If you were in Gambia, you would get
+        * 30 EUR for a full day (24 hrs) (if no meals are included in your accommodation) 
+        * 20 EUR for a half day (more than 8 hours, less than 24)
+ 
+2. Upload the Per diem form in Xero along with the rest of your trip expenses (as described above).
+3. Make sure to mark them all and submit them for approval
+4. Send an email to office@datopian.com confirming that your expenses have been submitted
 
 
 ### Finance / Office Team ONLY
