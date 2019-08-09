@@ -224,10 +224,11 @@ If you have any company expenses to be reimbursed for:
     * [For Android](https://play.google.com/store/apps/details?id=com.xero.touch&hl=en)
     * [For iOS](https://apps.apple.com/au/app/xero-accounting-invoices/id441880705)
 
->  You must submit your expenses from the business trip as soon as possible; ideally, within 10 working days after the trip. 
+> NOTE: You must submit your expenses from the business trip as soon as possible; ideally, within 10 working days after the trip. 
 Expenses submitted later than 5 months will not be paid. The same rule applies to non-travel expenses.
 
-##### Team member Expense claim instructions:
+### Team member Expense claim instructions:
+
 * Log in with your account
 * Click on ‘Business’
 * Scroll down to ‘Expense claims’ and click on the button.
@@ -243,21 +244,21 @@ Expenses submitted later than 5 months will not be paid. The same rule applies t
         * 6452 - Entertainment expenses (internal)
         * XXXX - Any other expense type account suitable for the expense in question
 
->  **Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)**
+>  NOTE: **Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)**
 
 2. Make sure to submit your expenses for approval (or else they won’t be visible for any other person but yourself)
 3. Send an email to office@datopian.com confirming that the expenses have been submitted
 
-#### German employees
+### German employees
 
-##### Submitting expenses
+#### Submitting expenses
 
 * Submit your expenses to Viderum GmbH by following the procedure above. 
 * After every business trip, you must also fill out and submit the [Per diem expense form](https://drive.google.com/file/d/17bcyifuPuegLSgWNdgdEhIcmoNu2iedy/view) (more info below) along with the other travel expenses
     * The best way to do that is to download the form on your computer in order to have it calculated automatically (once you enter the rates)
     * Make sure to tick the breakfast / lunch / dinner boxes if they were included in the accomodation 
 
-##### Travel policy
+#### Travel policy
 
 1. Fill out the [Per diem form](https://drive.google.com/file/d/17bcyifuPuegLSgWNdgdEhIcmoNu2iedy/view) according to the [International per diem rates](https://drive.google.com/file/d/17SAisgQp3BWzHOkNu54BmgUYVOUs9tnH/view) as follows:
 * Anlass: Name of the event
