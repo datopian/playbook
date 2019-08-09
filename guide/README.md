@@ -184,7 +184,7 @@ For german employees:
 * Remember you need to obtain the sick leave note (Arbeitsunfähigkeitsbescheinigung)
 * Please send the document to office@datopian.com within 3 working days
 
-### Travel Arrangements:
+### Travel Arrangements
 
 All business-related travel arrangements must be approved by a member of the Leadership team. 
 
@@ -209,7 +209,7 @@ Some projects require more granular reporting. Your Scrum Master will advise wha
 ### Getting Paid
 
 
-#### Team invoicing on Xero:
+#### Team invoicing on Xero
         
 We have updated our process to make it as smooth and easy and possible. Please find all the info you need [here](https://docs.google.com/document/d/1wH59j0QsRAGtEa1yNpyqVYKe7Iq1WtUu5vDGv4SQo_M/edit#).
 
