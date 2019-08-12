@@ -353,19 +353,19 @@ Short description of bug or feature need preferentially in a user story form.
 
 [Can have multiple items esp if an epic]
 
-### Acceptance Criteria (for epics or "big" issues)
+## Acceptance Criteria (for epics or "big" issues)
 
 * [ ] ...
 * [ ] ...
 
-### Tasks
+## Tasks
 
 *Task list*
 
 * [ ] ...
 * [ ] ...
 
-### Analysis
+## Analysis
 
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
