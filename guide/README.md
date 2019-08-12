@@ -64,7 +64,7 @@ Intention and context: *as a virtual organization we need to have efficient, rel
 
 #### What is Transparent Communication - how does it works?
 
-Transparent communication is a way to share information across all team members of a company. It will be used across platform such as Slack and emails.
+Transparent communication is a way to share information across all team members of a company. It will be used across platform such as chat and emails.
 
 Transparent communication goal is to help all team members to be fully informed and understand what is going on within the company. Benefits include:
 
@@ -468,7 +468,7 @@ Each person needs to write
 * Do I have any blockers? 
 * What is my availability for today?
 
-We write these standups on the #standup channel on Slack, whenever we start our working day.
+We write these standups on the #standup channel on chat, whenever we start our working day.
 A standard template for updated is pinned to that channel.
 
 ## Meetings
