@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://datopian.com/img/logo.png
+heroImage: https://www.datopian.com/img/datopian-logo.png
 actionText: Get Started →
 actionLink: /guide/
 footer: Openly Licensed | Copyright © 2016-present Datopian (Atomatic Ltd)
