@@ -43,7 +43,8 @@ If the Ops team should share the contract and initiate the onboarding process, f
 *Note these steps do not always need to be done in the order list. E.g. sometimes getting a formal contract completed may take some time and their email can be set up and and onboarding can start prior to the contract being signed*. 
 
 
-1. **Contract:** Ensure they have a contract set up (and signed) - Template contracts are stored in the HR/Contracts folder.
+1. **Contract:** Ensure they have a contract set up (and signed) - Template contracts are stored in the HR/Contracts folder. After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
+
 2. **Message  when sharing the contract should be:** 
 
   “Hello XXX,
@@ -52,7 +53,7 @@ If the Ops team should share the contract and initiate the onboarding process, f
  
  Please feel free to read it and note any questions you might have. 
  
- Please review and/ or fill in the highlighted sections and have it prepared by the time of your Onboarding call. 
+ Please review and/ or fill in the highlighted sections. Once this is done, we will send you the contract via DocuSign for you to sign. 
  
  Please let me know if you have any questions.
  
@@ -60,12 +61,13 @@ If the Ops team should share the contract and initiate the onboarding process, f
  
  XXX”_
     
-2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps)
+2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
+
 3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email
 4. **Create accounts / send invitations** on systems where they can't create themselves
 
    * Xero - with their company email address;
-   * Slack - with their company email address
+   * Slack - with their company email address and only if previously requested;
  
  
 5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
@@ -78,9 +80,9 @@ Wait for them to get setup on Systems then:
 6. **Add them to teams**:
 
     * Trello: add to Org team
-    * Slack: add to relevant channels
+    * Slack: add to relevant channels (if applicable)
     * Gitter: add to relevant channels (if applicable)
-    * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)
+    * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)(if applicable)
     * Gitlab: add as a member of the org, add to relevant teams
     * GSuite / Drive: add them to relevant team drives and google groups
 
@@ -156,7 +158,7 @@ Onboarder is to use a meeting doc to capture questions, as well as answers as we
 ----
 ### After Onboarding:
 
-Have a meeting a week after Onboarding to catch up and see how new Staff Member is adapting.
+Have a meeting a week after Onboarding to catch up and see how new Staff Member is adapting.You should use this opportunity to clarify any unanswered questions as well and to provide feedback regarding the Datopian Quiz.
 
 
 #### Contract completion process:
