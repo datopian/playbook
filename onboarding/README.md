@@ -113,7 +113,7 @@ The team used to have a daily stand-up. This was replaced by asynchronous update
 
 ## Tech Team Onboarding (Datahub)
 
-**This section was writen for developers working on Datahub but contains a lot of useful information for Developers working for Viderum.**
+**This section was writen for developers working on Datahub but contains a lot of useful information for Developers working for Datopian.**
 
 *Training new Jedis!*
 
