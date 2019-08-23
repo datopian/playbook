@@ -27,15 +27,15 @@ The key principles of the agile approach to delivery are[^2]:
 
 These are largely based on standard scrum process (see e.g. [*Wikipedia*](http://en.wikipedia.org/wiki/Scrum_(software_development)))
 
-### Product Owner
+## Product Owner
 
 Represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner writes (or has the team write) customer-centric items (typically [*user stories*](http://en.wikipedia.org/wiki/User_story)), **assigns "business" value** to them, and **prioritizes** (ranks) them, and adds them to the [*product backlog*](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master. [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-owner)]
 
-### Scrum Master
+## Scrum Master
 
 Delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
 
-### Delivery Team
+## Delivery Team
 
 **Responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with project management offices (PMOs).
 
@@ -215,7 +215,7 @@ http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
 
 ## FAQ
 
-### What about a PM - is the Product Owner the PM?
+## What about a PM - is the Product Owner the PM?
 
 From [*this answer*](http://stackoverflow.com/questions/10775637/scrum-different-product-owner-and-project-manager)
 
