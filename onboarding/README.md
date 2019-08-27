@@ -59,6 +59,10 @@ Set up google docs to use our default styles: [ Handbook Style Guide section ][s
 
 [styleguide]: /guide/#style-guide
 
+### E-Mail Signature
+Please implement this [E-mail signature template](https://docs.google.com/document/d/1gpw5zucdlA_tU5geFpIs89AxuJ0is8kMEh6mIDkttnY/edit) into your gmail account
+
+
 ## How we communicate
 
 Google Chats is the main text channel we use to communicate with our team members.
