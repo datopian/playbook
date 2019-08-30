@@ -40,10 +40,17 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 ### Before Onboarding
 
-*Note these steps do not always need to be done in the order list. E.g. sometimes getting a formal contract completed may take some time and their email can be set up and and onboarding can start prior to the contract being signed*. 
+*Note these steps do not always need to be done in the order list. Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding*. 
 
+1. **Create a folder for the person on the HR drive (People/[Contracts and staff files](https://drive.google.com/drive/u/0/folders/1MbeZVuRM-A1Cu01bfm_aRDvsusJAxglF)) and draft a contract:** 
 
-1. **Contract:** Ensure they have a contract set up (and signed) - Template contracts are stored in the HR/Contracts folder. After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
+* Template contracts are stored [here](https://drive.google.com/drive/u/0/folders/1VoHxI-6vdv2skCsRA5uRLu8S7X0-ikvD). 
+* Highlight everything that needs to be filled out by the onboardee
+* After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
+* Create a trello card (copy content from previous onboarding cards)
+
+*Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding.*
+
 
 2. **Message  when sharing the contract should be:** 
 
@@ -61,30 +68,30 @@ If the Ops team should share the contract and initiate the onboarding process, f
  
  XXX”_
     
-2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Apps and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
+2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Admin page and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
 
-3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email
+3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email. Send them at least 2 invitations for Onboarding calls within the next days (depending on the starting date of the person)
+
 4. **Create accounts / send invitations** on systems where they can't create themselves
 
    * Xero - with their company email address;
    * Slack - with their company email address and only if previously requested;
- 
- 
+
+
 5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
 
-
-
+6. **If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using**
 
 Wait for them to get setup on Systems then:
 
-6. **Add them to teams**:
+7. **Add them to teams**:
 
     * Trello: add to Org team
-    * Slack: add to relevant channels (if applicable)
+    * G Chat: add to relevant channels (if applicable)
     * Gitter: add to relevant channels (if applicable)
     * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)(if applicable)
     * Gitlab: add as a member of the org, add to relevant teams
-    * GSuite / Drive: add them to relevant team drives and google groups
+    * G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
 
 
 ### Welcome Email
@@ -103,14 +110,12 @@ _We have created a Datopian email for you. You should have already received an e
 
 _For best practice security reasons, we use 2fa on all Datopian Google Accounts._
 
-_To enable 2fa for your account, ensure you are logged in to your Datopian account, and follow the steps here._
+_To enable 2fa for your account, ensure you are logged in to your Datopian account, and follow the steps [here](https://www.google.com/landing/2step/)._
 
-_If you do not know what 2fa is, do not worry! You can also read more about 2fa here and here._
+_If you do not know what 2fa is, do not worry! You can also read more about 2fa [here](https://support.google.com/accounts/answer/9096865?visit_id=636826985405511325-68735314&rd=1) and [here](https://www.google.com/landing/2step/)._
 
-_To support your use of 2fa, we recommend installing Authenticator on your smartphone._
+_To support your use of 2fa, we recommend installing [Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) on your smartphone._
 
-
-_Need to mention 2 factor authentication. Find Paul’s email (where he announced the 2fa policy) and include the links._
 
 **_2. Set up your Slack account_**
 
@@ -127,6 +132,8 @@ _Also, talking of meetings, we have a weekly all hands, this should already be i
 _We have designed the onboarding process to be largely self-service so you can set yourself up!_ 
 
 _Please start working your way through the Onboarding guide and induct yourself!_
+
+https://handbook.datopian.com/onboarding/#intention
 
 _Best,_
 
@@ -152,8 +159,7 @@ During onboarding meeting onboarder
 * Asks for feedback; 
 
 :::tip
-Onboarder is to use a meeting doc to capture questions, as well as answers as well as questions oboarder might have to forward to management, in case they don’t know the answer to it.
-:::
+Onboarder is to use a meeting doc to capture questions, as well as answers as well as questions oboarder might have to forward to management, in case they don’t know the answer to it.:::
 
 ----
 ### After Onboarding:
@@ -172,7 +178,19 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 3. After it has been signed, export it to _PDF_ and save it in the Staff members file in [HR Drive](https://drive.google.com/drive/u/0/folders/0ABL_avmhZBFiUk9PVA).
 4. Onboarder is to record the task complete and announce management and HR
 
----
+
+
+## Documents required for the German HR:
+
+* Anmeldung (residence address in Germany)
+* Social security number (Sozialversicherungsnummer) 
+    * Ops team needs to register them at Techniker Krankenkasse and provide all needed information for that. For a fast identification when contacting TK, you should use the following reference: 95591608 (Betriebsnummer)
+    * Ask the employee to register in the TK online portal so that they can upload their sick certificates and send them to the Techniker Krankenkasse.
+* Tax id (Steuernummer/SteuerID)
+    * Should be obtained from the Finanzamt by the employee 
+    * A residence address in Germany is required for this
+* German bank account
+
 
 ## Onboarding aide-memoir
 
