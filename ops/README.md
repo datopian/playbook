@@ -48,7 +48,7 @@ If the Ops team should share the contract and initiate the onboarding process, f
 * Highlight everything that needs to be filled out by the onboardee
 * Message  when sharing the contract should be: 
 
-  “Hello XXX,
+_“Hello XXX,
  
  Welcome! This is your contract.. 
  
@@ -67,22 +67,22 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 *Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding.*
 
-2. GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Admin page and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
+**2. GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Admin page and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
 
-3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email. Send them at least 2 invitations for Onboarding calls within the next days (depending on the starting date of the person)
+**3. Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email. Send them at least 2 invitations for Onboarding calls within the next days (depending on the starting date of the person)
 
-4. **Create accounts / send invitations** on systems where they can't create themselves
+**4. Create accounts / send invitations** on systems where they can't create themselves
 
 * Xero - with their company email address;
 * Slack - with their company email address and only if previously requested;
 
-5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
+**5. Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
 
-6. **If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using**
+**6. If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using**
 
 Wait for them to get setup on Systems then:
 
-7. **Add them to teams**:
+**7. Add them to teams**:
 
     * Trello: add to Org team
     * G Chat: add to relevant channels (if applicable)
