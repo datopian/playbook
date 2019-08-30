@@ -42,17 +42,11 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 *Note these steps do not always need to be done in the order list. Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding*. 
 
-1. **Create a folder for the person on the HR drive (People/[Contracts and staff files](https://drive.google.com/drive/u/0/folders/1MbeZVuRM-A1Cu01bfm_aRDvsusJAxglF)) and draft a contract:** 
+**1. Create a folder for the person on the HR drive (People/[Contracts and staff files](https://drive.google.com/drive/u/0/folders/1MbeZVuRM-A1Cu01bfm_aRDvsusJAxglF)) and draft a contract:** 
 
 * Template contracts are stored [here](https://drive.google.com/drive/u/0/folders/1VoHxI-6vdv2skCsRA5uRLu8S7X0-ikvD). 
 * Highlight everything that needs to be filled out by the onboardee
-* After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
-* Create a trello card (copy content from previous onboarding cards)
-
-*Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding.*
-
-
-2. **Message  when sharing the contract should be:** 
+* Message  when sharing the contract should be: 
 
   “Hello XXX,
  
@@ -67,8 +61,13 @@ If the Ops team should share the contract and initiate the onboarding process, f
  Many thanks,
  
  XXX”_
-    
-2. **GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Admin page and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
+
+* After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
+* Create a trello card (copy content from previous onboarding cards)
+
+*Unless otherwise agreed, we should never onboard someone before they have a signed contract. The minimum constraint on the procedure needs to be a signed contract before any other onboarding.*
+
+2. GSuite Account and Email:** Create their email account e.g. first.last@domain.com on Google Admin page and share the login details via email (part of email creation wizard in google apps); After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
 
 3. **Onboarding email:** Send them onboarding email to their new personal email cc'ing their company email. Send them at least 2 invitations for Onboarding calls within the next days (depending on the starting date of the person)
 
