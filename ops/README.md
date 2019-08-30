@@ -158,8 +158,7 @@ During onboarding meeting onboarder
 * Tells them who they will be working with at the beginning
 * Asks for feedback; 
 
-:::tip
-Onboarder is to use a meeting doc to capture questions, as well as answers as well as questions oboarder might have to forward to management, in case they don’t know the answer to it.:::
+> Onboarder is to use a meeting doc to capture questions, as well as answers as well as questions oboarder might have to forward to management, in case they don’t know the answer to it. 
 
 ----
 ### After Onboarding:
