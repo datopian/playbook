@@ -74,9 +74,8 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 4. **Create accounts / send invitations** on systems where they can't create themselves
 
-   * Xero - with their company email address;
-   * Slack - with their company email address and only if previously requested;
-
+* Xero - with their company email address;
+* Slack - with their company email address and only if previously requested;
 
 5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
 
