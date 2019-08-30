@@ -48,7 +48,7 @@ If the Ops team should share the contract and initiate the onboarding process, f
 * Highlight everything that needs to be filled out by the onboardee
 * Message  when sharing the contract should be: 
 
-_“Hello XXX,
+*“Hello XXX,
  
  Welcome! This is your contract.. 
  
@@ -60,7 +60,8 @@ _“Hello XXX,
  
  Many thanks,
  
- XXX”_
+ XXX”*
+
 
 * After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
 * Create a trello card (copy content from previous onboarding cards)
@@ -83,14 +84,12 @@ _“Hello XXX,
 Wait for them to get setup on Systems then:
 
 **7. Add them to teams**:
-
     * Trello: add to Org team
     * G Chat: add to relevant channels (if applicable)
     * Gitter: add to relevant channels (if applicable)
     * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)(if applicable)
     * Gitlab: add as a member of the org, add to relevant teams
     * G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
-
 
 ### Welcome Email
 
