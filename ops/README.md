@@ -48,19 +48,19 @@ If the Ops team should share the contract and initiate the onboarding process, f
 * Highlight everything that needs to be filled out by the onboardee
 * Message  when sharing the contract should be: 
 
-*“Hello XXX,
+*“Hello XXX,*
  
- Welcome! This is your contract.. 
+ *Welcome! This is your contract..* 
  
- Please feel free to read it and note any questions you might have. 
+ *Please feel free to read it and note any questions you might have.*
  
- Please review and/ or fill in the highlighted sections. Once this is done, we will send you the contract via DocuSign for you to sign. 
+ *Please review and/ or fill in the highlighted sections. Once this is done, we will send you the contract via DocuSign for you to sign.* 
  
- Please let me know if you have any questions.
+ *Please let me know if you have any questions.*
  
- Many thanks,
+ *Many thanks,*
  
- XXX”*
+ *XXX”*
 
 
 * After the onboardee has filled in the highlighted fields and has gotten all of theyre questions answered, then we proceed to send them the contract via Docusign so they may sign it electronically.
@@ -83,13 +83,13 @@ If the Ops team should share the contract and initiate the onboarding process, f
 
 Wait for them to get setup on Systems then:
 
-**7. Add them to teams**:
-    * Trello: add to Org team
-    * G Chat: add to relevant channels (if applicable)
-    * Gitter: add to relevant channels (if applicable)
-    * Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)(if applicable)
-    * Gitlab: add as a member of the org, add to relevant teams
-    * G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
+**7. Add them to teams**
+* Trello: add to Org team
+* G Chat: add to relevant channels (if applicable)
+* Gitter: add to relevant channels (if applicable)
+* Github: add as a member of the org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team)(if applicable)
+* Gitlab: add as a member of the org, add to relevant teams
+* G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
 
 ### Welcome Email
 
