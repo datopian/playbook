@@ -63,41 +63,9 @@ Set up google docs to use our default styles: [ Handbook Style Guide section ][s
 Please implement this [E-mail signature template](https://docs.google.com/document/d/1gpw5zucdlA_tU5geFpIs89AxuJ0is8kMEh6mIDkttnY/edit) into your gmail account
 
 
-## How we communicate
-
-Google Chats is the main text channel we use to communicate with our team members.
-
-Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.** 
-
-Once you have your Google Chats accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone. 
-
-Please say Hello too!
-
-Refer to the [How we communicate](https://handbook.datopian.com/guide/#communications) section in team handbook.
-
-## Communicating with clients
-
-All client emails should bcc crm@datopian.com. 
-
-Our clients can write to Viderum via support@datopian.com (for technical support related matters) and info@datopian.com (for general enquires).
-
-
 ## Using the Calendar
 
-It is expected that you keep your calendar up to date, so that if it shows as free, that means a colleague can add a meeting during that period. 
-
-Google Calendar automaticaly creates a Google Hangout Meets link.
-
-
-### Team Calendar
-
-You have been given access to create, edit and share in [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We use the team calendar to track people's holidays and business trips. 
-
-You can also add the calendars of the teammates you're mostly working with so you can easily see their availability:
-
-* Go to your calendar and find the **"Add calendar"** section on the left sidebar
-* Enter the email of the person you'd like to add
-* You've now added the calendar
+It is expected that you keep your calendar up to date, so that if it shows as free, that means a colleague can add a meeting during that period. For more information please check the [Guide Section](https://handbook.datopian.com/guide/#our-principles) in the Handbook.
 
 
 ### Getting paid and claiming expenses
