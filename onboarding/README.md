@@ -74,7 +74,7 @@ Please read the [ Getting Paid ](https://handbook.datopian.com/guide/#getting-pa
 
 ### Stand up
 
-The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up Slack channel in the following format:
+The team used to have a daily stand-up. This was replaced by asynchronous update on the stand-up on Google chats in the Standup channel in the following format:
 
 * Plan
 * Recap
@@ -171,8 +171,8 @@ _Please go through the checklist to see if you have completed your onboarding_
 * Read the Onboarding and Guide pages of the Handbook
 * Updated the phonebook with your details
 * You have access to Team Drives, email, team calendar
-* You have access to Slack (and Gitter if required), our Github/Gitlab repo and been added to Trello  
-* You have been introduced to the team on Slack and you have said hello to the team 
+* You have access to our Github/Gitlab repo   
+* You have been introduced to the team on Google Chats and you have said hello to the team 
 * You have installed default styles to your googledoc
 * You have completed the quiz
 * Have posted your first daily stand-up
