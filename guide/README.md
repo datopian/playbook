@@ -81,7 +81,7 @@ To keep things fully transparent across our team, we have put some practises in 
 
 * We are using groups (which are internal mail lists) for different aspects of our company.
 * We are cc-ing and bcc-ing those groups when communicating via email
-* We are using \*\*Inbox Filters\*\* ( e.g. a **@blackhole**  parallel Inbox, where you will receive the emails you might not have direct relevance or )
+* We are using \*\*Inbox Filters\*\* ( e.g. a **@blackhole**  parallel Inbox, where you will receive the emails you might not have direct relevance for)
 
 ### Communication Tools
 
@@ -103,6 +103,24 @@ graph LR
 
 * **Email** - we use Gmail
 * **Documents** - GDrive for all internal documents, Hackmd can be used when working with partners.
+ 
+## How we communicate
+
+Google Chats is the main text channel we use to communicate with our team members.
+
+Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.** 
+
+Once you have your Google Chats accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone. 
+
+Please say Hello too!
+
+Refer to the [How we communicate](https://handbook.datopian.com/guide/#communications) section in team handbook.
+
+## Communicating with clients
+
+All client emails should bcc crm@datopian.com. 
+
+Our clients can write to Viderum via support@datopian.com (for technical support related matters) and info@datopian.com (for general enquires).
 
 
 ### Datopian Contact Information
@@ -163,6 +181,16 @@ A place where phone numbers, usernames, phone numbers etc can be found:
 
 [Datopian Team Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431)
 
+### Team Calendar
+
+You have been given access to create, edit and share in [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We use the team calendar to track people's holidays and business trips. 
+
+You can also add the calendars of the teammates you're mostly working with so you can easily see their availability:
+
+* Go to your calendar and find the **"Add calendar"** section on the left sidebar
+* Enter the email of the person you'd like to add
+* You've now added the calendar
+* Google Calendar automaticaly creates a Google Hangout Meets link.
 
 ### Holidays
 
@@ -253,7 +281,7 @@ Expenses submitted later than 5 months will not be paid. The same rule applies t
 
 #### Submitting expenses
 
-* Submit your expenses to Viderum GmbH by following the procedure above. 
+* Submit your expenses to Datopian GmbH by following the procedure above. 
 * After every business trip, you must also fill out and submit the [Per diem expense form](https://drive.google.com/file/d/17bcyifuPuegLSgWNdgdEhIcmoNu2iedy/view) (more info below) along with the other travel expenses
     * The best way to do that is to download the form on your computer in order to have it calculated automatically (once you enter the rates)
     * Make sure to tick the breakfast / lunch / dinner boxes if they were included in the accomodation 
@@ -429,7 +457,7 @@ Notes:
 ::: tip
 Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
 
-You can refer to issues in another repo by using the full notation, e.g. 'fixes ViderumGlobal/PM#10'
+You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'
 :::
 
 ### Commit messages' format
@@ -469,7 +497,6 @@ Each person needs to write
 * What is my availability for today?
 
 We write these standups on the #standup channel on chat, whenever we start our working day.
-A standard template for updated is pinned to that channel.
 
 ## Meetings
 
