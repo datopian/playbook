@@ -4,36 +4,31 @@
 
 *The intention of this Onboarding Guide is to fulfil on the following user story.*
 
-As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know i am ready to go) and feel part of the team. 
+As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know I am ready to go) and feel part of the team. 
 
 ## Start your onboarding
 
 *We want your feedback as new joiners! Be critical, tell us what does not work, what isn’t obvious!*
 
-1. **Login in to your email account** and read your onboarding email (if you haven't already)
+1. **Login in to your email account.**
 
-2. **Read the [Handbook main guide](https://handbook.datopian.com/guide/)**. Note ALL questions that arise in a [google doc](https://docs.google.com/document/)
+2. Note ALL questions that arise in a [google doc](https://docs.google.com/document/) during reading the handbook.
 
-2. **Setup accounts on the systems we use**. See below. **Do this before you do next steps!**
+3. **Setup accounts on the systems.** See System We Use below. Make sure you do this **before** you do next steps!
 
-3. Add contact details to [Team Phonebook][phonebook] 
+4. Add contact details to [Team Phonebook][phonebook] 
 
-4. Email the Onboarder that you have accounts set up and details in team phonebook. They will now go and add you to relevant systems
+5. Email and notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
 
-5. Wait until you get a response to let you know you are added to relevant systems
+6. Read about your work processes for the job you do.
 
-6. Read about your work processes for the job you do
-
-5. Go through work “processes” in more detail; This depends on the accountability the Onboardee will assume; E.g.
+7. Go through work “processes” in more detail; This depends on the accountability the Onboardee will assume; E.g.
 
     * Work sprints
     * Kanban management 
     * Practice on Gitlab (acceptance criteria, checklist, closing issues…)
     * How to take meeting notes on operation meeting notes
 
-7. Do the [onboarding quiz][quiz]
-
-[quiz]: https://docs.google.com/forms/d/e/1FAIpQLSc4R_LiybAO6tGIYU9wbgg9xDyU9kSf5cG8__AKVaMg9gC1Bw/viewform?usp=pp_url
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
 ## Systems we use
