@@ -1,7 +1,17 @@
 {
+  "name": "handbook.datopian.com",
+  "version": "1.0.0",
+  "description": "Datopian Handbook",
   "dependencies": {
     "markdown-it-footnote": "",
-    "mermaid": "^8.0.0",
-    "vuepress": "^0.14.0"
+    "mermaid": "^8.0.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  },
+  "scripts": {
+    "start": "yarn start:docs",
+    "start:docs": "npx vuepress dev",
+    "build:docs": "npx vuepress build"
   }
 }
