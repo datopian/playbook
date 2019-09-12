@@ -53,7 +53,9 @@ Create a folder for the person on the HR drive (People/[Contracts and staff file
 
 ### Contractor Reviews
 
-Email the contractor with an email like the following
+1. Share the Google doc with the contractor without notifying them. 
+
+2. Email the contractor with an email like the following
 
 Subject: Your Datopian Contract: Please Review and Complete
 
