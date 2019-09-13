@@ -121,13 +121,40 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
     * Xero - with their company email address;
 
-2. **Welcome email:** Send them the welcome email to their new personal email and their Datopian email.
-
 3. **Welcome Call**: Send them an invitation for a Welcome Call within the next days. If this before their start date make sure you check their availability for the call.
+
+4. **Welcome email:** Send them the welcome email to their new personal email and their Datopian email.
+
+    Subject: Welcome to Datopian - next steps in getting you set up
+
+    ```
+    Hi {XXX},
+    
+    Welcome to Datopian. This is the beginning of an amazing journey 🚀👩‍🚀
+   
+    **1. Start Setting Yourself Up!**
+   
+    Please start getting yourself set up here:
+    
+    https://handbook.datopian.com/onboarding
+   
+    **2. Welcome call**
+    
+    A welcome call will be scheduled. Please accept the invite 😊 
+    
+    If you can not make that time please let us know asap by declining the invite and suggesting an alternative time!
+
+    Looking to having you on board!
+     
+    Best,
+    
+    ...
+    ```
 
 5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0). 
 
 6. If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using
+
 
 ### After new Datopian has filled in Person DB with their Details
 
@@ -137,32 +164,6 @@ Add them to relevant systems:
 * GChat: add to relevant channels (if applicable)
 * Gitlab: add as a member of the org, add to relevant teams
 * Github: add as a member of the Datopian org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
-
-### Welcome Email
-
-Email the new Datopian with an email like the following
-
-Subject: Welcome to Datopian - next steps in getting you set up
-
-> Hi {XXX},
-> 
-> Welcome to Datopian. This is the beginning of an amazing journey 🚀👩‍🚀
->
-> **1. Start Onboarding!**
->
-> We have designed the onboarding process to be largely self-service so you can set yourself up, please get started here:
-> 
-> https://handbook.datopian.com/onboarding
->
-> **2. Welcome call**
-> 
-> A welcome call has been scheduled. Please let us know as soon as possible if this time does **not** work.
-> 
-> Also, talking of meetings, we have a weekly all hands, this should already be in your calendar.
-> 
-> Best,
-> 
-> ...
 
 
 ### Welcome Meeting
