@@ -95,7 +95,6 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
   * Individual Tasks should be \<= 2d total time (reduces estimation error)
   * Meeting is timeboxed \<= 1-2.5h (~ 20-30m \* size of FTE team)
-  * We will use Trello
 
 * **Sprint review** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)] - what did we ship this sprint?
 
@@ -135,8 +134,7 @@ See [User Stories][]
 
 ## Managing the Product Backlog Board
 
-* Use this [*trello template board for managing backlog*](https://trello.com/b/kdowtIdn/project-sprint-template-board-do-not-edit) (you can copy boards in trello)
-* At end of each iteration “Complete” is renamed to name of this sprint (and moved right). Name of this sprint is recommended to be the date the sprint commenced. e.g. “15 Feb 2015” or similar.
+TODO: removed the trello reference and need to update for e.g. gitlab. Focus is on how board is setup and how sprints get completed.
 
 ## Estimating Cost
 

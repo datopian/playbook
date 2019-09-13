@@ -18,7 +18,7 @@ In short, we value Zen - deep simplicity, nothing to add and nothing to take awa
 
 *An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.*
 
-***Required reading** - [A ‘Value-Free’ Approach To Values](  https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)*
+**Required reading** - [A ‘Value-Free’ Approach To Values](  https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)
 
 #### Integrity
 
@@ -348,13 +348,13 @@ Each "scrum master" (with their team) has
 
 #### After review is complete with Product Owner
 
+TODO: this is out of date. (This was Atomatic process)
 
-  Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
-    * **Tab - Sprint metrics:** Extracted the points from your Trello board and inserted 'Planned Points' (beginning of sprint), 'Planned Points - End of sprint' and 'Hours'.
-    * **Tab - Timesheet:** The hours and points per project. 
+* Summarized total time spent against estimated and noted any planned tasks that were incomplete and added this time to the [metrics](https://docs.google.com/spreadsheets/d/15pAupQDACTd8xK0rbW616u_t8h7b3JR5MBO4otFMrIg/edit?usp=drive_web&ouid=107379996189258597736) tracker in 'Status Centre' Google sheet:
+  * **Tab - Sprint metrics:** Extracted the points from your board and inserted 'Planned Points' (beginning of sprint), 'Planned Points - End of sprint' and 'Hours'.
+  * **Tab - Timesheet:** The hours and points per project. 
 * Keep all remaining open issues either in 'This Sprint' column (if work is to continue) or move to 'Next Sprint'/'Inbox' (this may happen as part of sprint planning)
 * Closed all relevant milestones
-
 
 Scrum-master:
 
@@ -371,10 +371,6 @@ This key information should be present:
 * Short description: of what is involved. A user story if possible
 * Acceptance criteria: what would it mean for this to be done
 * Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
-
-::: warning
-This specific markdown structure is specific to issue trackers like those on github or gitlab. For Trello you can use checklists for Acceptance Criteria and Tasks.
-:::
 
 ```
 Short description of bug or feature need preferentially in a user story form. 
@@ -575,9 +571,6 @@ https://github.com/datopian/pm/issues/25
 - Shared Calendar
 - Datopian standard [styles for google docs](https://docs.google.com/document/d/1Cb0GFU0jMVRXqrk4wAJ_DQZkBFxQNBCchCv15mB81Ac/edit) (you have to update your google account with these styles)
 - Access to root Datopian folder (and add that to your drive)
-- [Trello](https://trello.com/)
-
-  * [Scrum for Trello](http://scrumfortrello.com/) *(adds estimates or record time-spent directly on Trello cards)*
 * [Gitter](https://gitter.im/) *(Chat hub)*
 
 #### Tools
