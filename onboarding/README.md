@@ -4,25 +4,17 @@
 
 *The intention of this Onboarding Guide is to fulfil on the following user story.*
 
-As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know I am ready to go) and feel part of the team. 
+As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know I am ready to go)
 
 ## Welcome!
 
 Welcome to Datopian! 🚀 👩‍🚀
 
-Reflective of our Zen philosophy and we have designed the onboarding process to be largely self-service so you can set yourself up at your pace.
-
 ## Prerequisites 
 
-Before we get to the onboarding proper there are some essential pre-quisites you need to do to get set up.
+Before we get to the onboarding proper there are some essential prerequisites to get yourself set up.
 
-You can do all of these in advance of your first day with us and we request you do all of these before your Welcome Call so you get the maximum out of that.
-
-:::tip
-We want your feedback as new joiners! Be critical, tell us what does not work or what isn’t obvious!
-
-We recommend noting ALL questions that arise and sharing with us in a Google Doc or HackMD. Bonus points for pull requests on the handbook itself!
-:::
+Please complete these at least two hours before your Welcome Call so we can make sure you have access to all systems. Note: you can begin these steps the moment you have your email account and in advance of your official start date.
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup accounts on the systems. See below. Make sure you do this **before** you do next steps!
@@ -32,15 +24,21 @@ We recommend noting ALL questions that arise and sharing with us in a Google Doc
 
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
+:::tip
+We want your feedback: be critical, tell us what does not work or what isn’t obvious! And you can submit suggestions for improvements directly by using the edit link at the bottom of each page.
+:::
+
 ### Your Datopian Email
 
 We have created a Datopian email for you. You should already have received an email about this with details of how to sign in and set your password.
 
-If you haven't already: sign in and set your password.
+Sign in and set your password, if you haven't already.
+
+Then check your account for any email you may have already received.
 
 #### 2FA 
 
-For best practice security reasons, we recommend 2FA on all Datopian Google Accounts.
+For best practice security, we recommend 2FA on all Datopian Google Accounts.
 
 To enable 2FA for your account, ensure you are logged in to your Datopian account, and follow the steps here:
 
