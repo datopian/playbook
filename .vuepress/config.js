@@ -3,6 +3,10 @@ module.exports = {
   description: 'A guide to our culture and processes',
   dest: 'public',
   markdown: {
+    linkify: true,
+    typographer: true,
+    breaks: true,
+    html: true,
     toc: {
       includeLevel: [1, 2, 3]
     },
