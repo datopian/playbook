@@ -17,7 +17,7 @@ Before we get to the onboarding proper there are some essential prerequisites to
 Please complete these at least two hours before your Welcome Call so we can make sure you have access to all systems. Note: you can begin these steps the moment you have your email account and in advance of your official start date.
 
 1. Login in to your Datopian email account and check it. See below.
-2. Setup accounts on the systems. See below. Make sure you do this **before** you do next steps!
+2. Setup your accounts on the systems we use. Do this **before** the next step!
 3. Add your details to the [Team Phonebook][phonebook] (aka Person DB)
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
 5. Setup your laptop -- install relevant software.
@@ -25,7 +25,7 @@ Please complete these at least two hours before your Welcome Call so we can make
 [phonebook]: https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431
 
 :::tip
-We want your feedback: be critical, tell us what does not work or what isn’t obvious! And you can submit suggestions for improvements directly by using the edit link at the bottom of each page.
+We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
 :::
 
 ### Your Datopian Email
@@ -36,7 +36,7 @@ Sign in and set your password, if you haven't already.
 
 Then check your account for any email you may have already received.
 
-#### 2FA 
+#### 2 Factor Authorization (2FA)
 
 For best practice security, we recommend 2FA on all Datopian Google Accounts.
 
@@ -44,13 +44,7 @@ To enable 2FA for your account, ensure you are logged in to your Datopian accoun
 
 https://www.google.com/landing/2step/
 
-If you do not know what 2fa is, do not worry! You can also read more about 2fa:
-
-https://support.google.com/accounts/answer/9096865?visit_id=636826985405511325-68735314&rd=1 and https://www.google.com/landing/2step/
-
-To support your use of 2fa, we recommend installing Authenticator on your smartphone:
-
-https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en
+If you do not know what 2FA is, do not worry! You can read more about it on that page.
 
 
 ### Systems we use
