@@ -1,3 +1,8 @@
+---
+prev: false
+next: ./first-steps/
+---
+
 # Onboarding Guide
 
 ## Intention
@@ -22,7 +27,7 @@ Please complete these at least two hours before your Welcome Call so we can make
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup your accounts on the systems we use. Do this **before** the next step!
-3. Add your details to our [Phonebook / Person DB form][googleform]
+3. Add your details to our [Phonebook / Person DB form][googleform] -- **note:** you will need to be logged in to your Datopian email.
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
 5. Setup your laptop and install relevant software. See below.
 
@@ -46,7 +51,6 @@ https://www.google.com/landing/2step/
 
 If you do not know what 2FA is, do not worry! You can read more about it on that page.
 
-
 ### Systems we use
 
 Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
@@ -54,6 +58,7 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com
 * Gitlab - https://gitlab.com/
+* HackMD - https://hackmd.io/
 
 ### Your Laptop is Your Sword
 
@@ -67,15 +72,15 @@ Please have the following software installed:
 
 * Google Chrome
 * VSCode https://code.visualstudio.com/ -- we use this for remote pair programming and we recommend it as default editor if you don't already have one (e.g. vim, emacs etc)
+* [MacOS] Brew installed and set up for development (you can then use this to install other tools)
+* Git
 * Python (v3)
 * NodeJS
-
-On MacOS laptop please have:
-
-* Brew installed and set up for development
 
 
 ## First Steps
 
-Coming soon ...!
+Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
+
+[first-steps]: ./first-steps/
 
