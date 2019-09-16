@@ -22,9 +22,9 @@ Please complete these at least two hours before your Welcome Call so we can make
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup your accounts on the systems we use. Do this **before** the next step!
-3. Add your details with our [Phonebook / Person DB form][googleform]
+3. Add your details to our [Phonebook / Person DB form][googleform]
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
-5. Setup your laptop -- install relevant software.
+5. Setup your laptop and install relevant software. See below.
 
 [googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
 
