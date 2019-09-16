@@ -10,6 +10,10 @@ As an Onboardee I want a simple step by step process to get set up (that I can d
 
 Welcome to Datopian! 🚀 👩‍🚀
 
+:::tip
+We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
+:::
+
 ## Prerequisites 
 
 Before we get to the onboarding proper there are some essential prerequisites to get yourself set up.
@@ -18,15 +22,11 @@ Please complete these at least two hours before your Welcome Call so we can make
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup your accounts on the systems we use. Do this **before** the next step!
-3. Add your details to our [Personal DB form](googleform)
+3. Add your details with our [Phonebook / Person DB form][googleform]
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
 5. Setup your laptop -- install relevant software.
 
 [googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
-
-:::tip
-We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
-:::
 
 ### Your Datopian Email
 
@@ -54,4 +54,28 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com
 * Gitlab - https://gitlab.com/
+
+### Your Laptop is Your Sword
+
+:::tip
+This section is largely for developers. However, even non-developers will benefit from having all or some of this done.
+:::
+
+We recommend you have a MacOS laptop if possible. Second best is Linux-based e.g. Ubuntu etc.
+
+Please have the following software installed:
+
+* Google Chrome
+* VSCode https://code.visualstudio.com/ -- we use this for remote pair programming and we recommend it as default editor if you don't already have one (e.g. vim, emacs etc)
+* Python (v3)
+* NodeJS
+
+On MacOS laptop please have:
+
+* Brew installed and set up for development
+
+
+## First Steps
+
+Coming soon ...!
 
