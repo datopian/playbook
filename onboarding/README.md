@@ -18,11 +18,9 @@ Please complete these at least two hours before your Welcome Call so we can make
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup your accounts on the systems we use. Do this **before** the next step!
-3. Add your details to our [Personal DB form](googleform)
+3. Add your details to our [Personal DB form](https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link)
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
 5. Setup your laptop -- install relevant software.
-
-[googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
 
 :::tip
 We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
