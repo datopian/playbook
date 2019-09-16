@@ -92,14 +92,16 @@ Format:
 ## Meetings
 
 * For all meetings we should have a meeting doc. Usually if meetings are regular we have a single meeting doc for all those meetings (i.e "Admin meeting doc") and we then update by adding new date of the meeting.
-* Please use the [meeting template](https://docs.google.com/document/d/1HIzMGA8_UV3bQL_uMgdvjY8P_fD3nw3-SWFHiu4_NZc/edit#heading=h.g8hq0h2xwr6b) so that our meeting documents are clear and consistent. You should COPY the template instead of editing it directly.
+* Please check out the [meeting template][] for a sense of the layout. You can copy this template for your own meetings.
 * Structure is as follows:
-  * List date (we often use the date as the heading for the meeting if we have a document with multiple meetings in it)
+  * Put the date (we often use the date as the heading for the meeting if we have a document with multiple meetings in it)
   * List who is present
-  * Goals: a meeting **MUST** have a short list of goals for that meeting. These are what you plan to achieve out of the meeting. Start the meeting by reviewing (or establishing) the goals.
-  * Agenda: `a meeting **SHOULD** have an agenda (a short list of items to cover)
+  * Goals: a meeting **MUST** have an intention and **SHOULD** have a short list of measurable associated outputs. These are what you plan to achieve out of the meeting. Start the meeting by reviewing (or establishing) the goals.
+  * Agenda: a meeting **SHOULD** have an agenda (a short list of items to cover)
   * Decisions & Actions (tasks that are assigned)
   * Notes
+
+[meeting-template]: https://docs.google.com/document/d/15tG_Bd-SxWQMUH9zNnft2kcxihqLwIccbbOpIhoUH8c/edit#
 
 Here's an example layout in markdown:
 
