@@ -4,7 +4,7 @@ Markdown is an easy-to-use markup language, used to write docs for web, using pl
 
 It is used by DataHub, GitHub, Stackoverflow and many other sites.
 
-[[toc]]
+[toc]
 
 ## General markdown guideline
 
@@ -16,7 +16,8 @@ General syntax when using markdown to format your text is popular
 `*italic text*` *italic text*   
 `**bold text**` **bold text**,  
 `~~crossed though~~` ~~crossed though~~  
-`double space` - linebreak
+`double space` - doublespace at the end of the text will break the lines
+
 
 `---` horizontal line like this:
 
@@ -68,7 +69,7 @@ Santa Claus said:
 
 List with checkboxes:
 
-:::tip
+:::info
 These work only in certain places e.g. GitHub, GitLab, HackMD. But not here in Vuepress
 :::
 
@@ -123,21 +124,20 @@ And our site will use this metadata while forming the page. The result you can s
 
 ### Table of contents
 
-If you will add `[[toc]]` in your document - this will be automatically transformed into Table Of Content section, with links to all your Headers.
+If you will add `[toc]` in your document - this will be automatically transformed into Table Of Content section, with links to all your Headers.
 
 ### Info boxes
 
 You can add info boxes in your text and the message will appear in a box with orange borders:
 
 ```
-:::tip
+:::success
 My important message here.
 :::
 ```
 
 and this is how it would be rendered:
 
-:::tip
+:::success
 My important message here.
 :::
-
