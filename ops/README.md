@@ -45,16 +45,19 @@ If the Ops team should create the contract (and initiate the onboarding process)
 
 ### Create the Contract
 
-Create a folder for the person on the HR drive (People/[Contracts and staff files](https://drive.google.com/drive/u/0/folders/1MbeZVuRM-A1Cu01bfm_aRDvsusJAxglF)) and draft a contract:
-
-* Template contracts are stored [here](https://drive.google.com/drive/u/0/folders/1VoHxI-6vdv2skCsRA5uRLu8S7X0-ikvD). 
-* Highlight everything that needs to be filled out by the onboardee
-* Insert our signature (we are happy to do this as key terms are already agreed and we will review before making final PDF)
+1. Create a folder for the person on the HR drive (People/[Contracts and staff files](https://drive.google.com/drive/u/0/folders/1MbeZVuRM-A1Cu01bfm_aRDvsusJAxglF))
+2. Create a draft contract:
+    1. Copy the template contract which is stored [here](https://drive.google.com/drive/u/0/folders/1VoHxI-6vdv2skCsRA5uRLu8S7X0-ikvD)
+    2. Move it to the Person's folder in HR Drive you created in Step 1
+    3. Rename it to `Datopian (Viderum inc. trading as) - {Contractor Name} - Contractor Agreement`
+    4. Fill in any relevant sections and especially the key terms in the Schedule section
+    5. Highlight everything that needs to be filled out by the onboardee
+    6. [Optional] Insert signature (if we are not doing DocuSign). We are happy to do this as key terms are already agreed and we will review before making final PDF.
 
 ### Contractor Reviews
 
-1. Share the Google doc with the contractor without notifying them. 
-
+1. In Google Docs click Share and share with the contractor's personal email.
+    * Make sure to tick "Skip sending notification" as you will notify them by email in the next step.
 2. Email the contractor with an email like the following
 
 Subject: Your Datopian Contract: Please Review and Complete
@@ -65,12 +68,12 @@ Subject: Your Datopian Contract: Please Review and Complete
 > 
 > {Insert Link to Google Doc} 
 >   
-> Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc.
+> Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. Then:
+>
+> EITHER: you have questions. If so, please email us to let us know so we can get those resolved 😀
 > 
-> If you have no questions, please insert your signature and email us to let us know so we can sign and send you a copy. If you have questions email us to let us know.
+> OR: it all looks good and you have no questions. Please then sign (insert your signature and date) and email us to let us know. We will then sign and send you a copy.
 > 
-> [OR: we will send you the contract via DocuSign for you to sign.] 
->   
 > Many thanks,
 >  
 > XXX
