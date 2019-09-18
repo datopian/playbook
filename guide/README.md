@@ -173,7 +173,7 @@ If not:
 
 ### Core Hours
 
-Our general working hours are 8am UK - 4pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 
+Our general working hours are 9am UK - 6PM CET/ CEST. Not necessarily when you work, but when it is permissible to schedule meetings. Some team members will have different working hours as agreed in their contract.
 
 ### Phone book 
 
