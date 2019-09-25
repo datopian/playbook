@@ -9,7 +9,7 @@ This is a summary of David Allen's "Getting Things Done: The Art of Stress Free 
 * The "Inbox" Process: having a reliable capture location (and separating capture from processing)
 * Next Actions: make tasks actionable and always leave meetings with clear "next actions"
 * Terminology and Structure
-  * Inbox -- somewhere to capture "unprocssed" stuff
+  * Inbox -- somewhere to capture "unprocessed" stuff
   * Reference and Project support folders
   * Standard buckets e.g. Next, Tickler, Waiting for etc
 * The Natural Planning Model - along with SCQH this is the goto method for planning (smallish) projects
@@ -26,7 +26,7 @@ GTD revolves around a core workflow of five steps:
 
 ### Capture
 
-1. Get It All Out of Your Head -- have tools immediately to hand to get stuff out of your head
+1. Get It All Out of Your Head -- have tools immediately on hand to get stuff out of your head
 2. Minimize the Number of Capture Locations - "You should have as many in-trays as you need and as few as you can get by with."
 3. Empty the Capture Tools Regularly e.g. daily or weekly
 
