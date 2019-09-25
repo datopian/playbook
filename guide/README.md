@@ -529,20 +529,6 @@ Actions:
 * Agreed on next meeting to be held in 2 weeks, James to schedule
 ```
 
-## User Stories and Analysis
-
-User stories are a great way of gathering requirements in an agile environment, where one of the key values is responding to change over following a plan. They are a good anchor for conversation that can then take place at the right time.
-
-A user story is a short sentence that encapsulates three things:
-
-* Who?
-* What?
-* Why?
-
-**User story template:** 
-*As a < type of user >, I want < some goal > so that < some reason >.*
-
-SEE: https://github.com/rufuspollock/project-management/blob/master/user-stories.md
 
 ## Appendix
 
