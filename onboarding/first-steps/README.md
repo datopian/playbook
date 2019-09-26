@@ -1,5 +1,56 @@
 # First Steps
 
+## Gitlab
+
+We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+
+It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
+
+You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
+
+
+## Template Issue
+
+You are going to track your progress using a Gitlab issue in the onboarding project.
+
+* Please go to https://gitlab.com/datopian/onboarding/issues
+* Create your own Gitlab issue and use it to track your Onboarding progress
+- Copy and paste the checklist below into your Gitlab issuee and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
+
+*Make sure to keep it updated every day after onboarding session!*
+
+```
+This is my exciting onboarding issue! 🚀
+
+## Onboarding Essentials
+
+### Prerequisites
+
+* [ ] I have access to email
+* [ ] I have set up all my accounts
+* [ ] I have sent details via Phonebook form
+* [ ] I have set up my laptop
+
+### First Steps
+
+* [ ] I have access to GDrive
+  * [ ] Email signature
+  * [ ] Doc Styles
+* [ ] Calendar
+  * [ ] Add a calendar meeting
+  * [ ] Invite one of the other people
+  * [ ] Delete it
+  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
+* [ ] How we communicate
+  * [ ] Go on GChat and message each other
+  * [ ] Drop a message in the onboarding channel
+* [ ] Stand up
+  * [ ] Do a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
+  * [ ] Check out the "standups" channel (don’t post there for now)
+* [ ] Meeting
+  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
+```
+
 ## Setting up Google Drive
 
 After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
