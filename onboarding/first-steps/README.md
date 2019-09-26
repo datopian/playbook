@@ -154,29 +154,119 @@ Format:
   * Decisions & Actions (tasks that are assigned)
   * Notes
 
-[meeting-template]: https://docs.google.com/document/d/15tG_Bd-SxWQMUH9zNnft2kcxihqLwIccbbOpIhoUH8c/edit#
+[meeting template]: https://docs.google.com/document/d/15tG_Bd-SxWQMUH9zNnft2kcxihqLwIccbbOpIhoUH8c/edit#
 
-Here's an example layout in markdown:
 
+## Issues / Tasks
+
+### Creating Issues
+
+This key information should be present:
+
+* Short description: of what is involved. A user story if possible
+* Acceptance criteria: what would it mean for this to be done
+* Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
 
 ```
-### 16 Jan 2017
+Short description of bug or feature need preferentially in a user story form.
 
-Present: X, Y, Z
+[Can have multiple items esp if an epic]
 
-Goals:
-* Plan the next week of work
-* Pick a date for our team meeting
+## Acceptance Criteria (for epics or "big" issues)
 
-Agenda:
-* Planning
-  * List the main projects for the next week of work
-  * List key tasks for each project
-  * Prioritize each project
-  * Check time allocated against availability
-* Date of next meeting
+* [ ] ...
+* [ ] ...
 
-Actions:
-* Agreed on next meeting to be held in 2 weeks, James to schedule
+## Tasks
+
+*Task list*
+
+* [ ] ...
+* [ ] ...
+
+## Analysis
+
+*This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
+```
+
+All issues must be properly labelled:
+- Support issues must have a support label (indicating their support package)
+- All client related issues must have a client label (all colored #800080)
+- Issues related to other, internal, projects need to be labelled accordingly
+- Contextual labels are encouraged:
+  - 'Source' labels for support issues (e.g. client/sentry/uptime etc.)
+  - 'Technical Debt', 'Bug' etc.
+
+Make sure you record relationships between issues, e.g.
+- Individual issues and their epics
+- Support requests and their fixes
+
+:::tip
+Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
+:::
+
+::: tip
+On Github (and Gitlab) you can create an issue template so this structure is always present.
+:::
+
+#### Issue Naming
+
+* Put [epic] prefix in title for epic issues
+* (Optional) Grouping ... e.g. `[ux]` for ux issues
+
+### Estimating
+
+**Github:** Using ZenHub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
+
+**Gitlab:** Estimation support is built in.
+
+
+### Closing Issues
+
+When closing issues you should leave a comment like this so that readers (including you later) are clear at glance what the outcome was and why, including being able to locate quickly any outputs produced as part of resolving the issue.
+
+```
+FIXED | INVALID | WONTFIX | DUPLICATE. *Insert
+your comment about what resolved this with links or issue references.*
+```
+
+Example:
+
+```
+FIXED. See commit {link to commit} and staging  {link to page on staging that was changed}.
+```
+
+```
+WONTFIX. This is not worth doing as the benefit is minor and a lot of work to implement e.g. we have to change the whole way we do search.
+```
+
+Notes:
+
+* When issues are closed in a commit you do not need to add a separate comment.
+* If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
+
+::: tip
+Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
+
+You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'
+:::
+
+### Commit messages' format
+
+```
+[ex][m]: plotly json examples - fixes #23.
+```
+
+That is:
+
+* a tag: [ex] this is an example - you make these tags up and use them consistently.
+* a size: [m] a size of this commit one of xs s m l xl
+* a short descriptive sentence of what you did. I need this as well as what issue this refs as I need to be able to understand the commit on its own without reading something else.
+* Finally anything that involves referencing or closing a github issue. e.g. refs #xx or fixes #xx (fixes and closes are synonymous so use either one)
+
+So command would look like this:
+
+```
+git commit -m '[ex][m]: plotly json examples - fixes #23'
 ```
 
