@@ -1,8 +1,28 @@
 #  Markdown
 
-Markdown is an easy-to-use markup language, used to write docs for web, **using plain text**. It is used by DataHub, GitHub, Stackoverflow and many other sites.
+Markdown is an easy-to-use markup language, used to write docs for web, **using plain text** with some conventions. 
 
-You control the display of the document;formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like ## or *.
+#### Why plain text?
+
+Plain text never goes out of fashion, it is creatable and usable almost anywhere ...
+
+#### Why markdown?
+
+Plain text needs conventions for "headings", lists etc. Wouldn't it be cool if this then could be converted to HTML or something that does actually look good?
+
+#### What use?
+
+Lots and lots of web tools allow you to use markdown such as:
+
+* Trello
+* Gitlab
+* Github
+* Email (with plugins)
+* DataHub
+* Stackoverflow
+* Many other sites..
+
+You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like ## or *.
 
 If you are unfamiliar with Markdown we recommend checking these websites **after** you read through this page: 
 * https://www.markdowntutorial.com/ (an easy turorial with interactive exercises)
