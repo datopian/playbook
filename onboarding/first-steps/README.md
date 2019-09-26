@@ -45,6 +45,8 @@ _Also, talking of meetings, we have a weekly all hands, this will be in your Dat
 
 ## How we communicate
 
+*As a virtual organization we need to have efficient, reliable, cost-effective ways to communicate and share material.*
+
 Google Chats is the main text channel we use to communicate with our team members.
 
 Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.**
