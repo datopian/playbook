@@ -60,23 +60,25 @@ If the Ops team should create the contract (and initiate the onboarding process)
     * Make sure to tick "Skip sending notification" as you will notify them by email in the next step.
 2. Email the contractor with an email like the following
 
-Subject: Your Datopian Contract: Please Review and Complete
+    Subject: Your Datopian Contract: Please Review and Complete
 
-> Hello XXX,
->  
-> Welcome! This is your contract:
-> 
-> {Insert Link to Google Doc} 
->   
-> Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. Then:
->
-> EITHER: you have questions. If so, please email us to let us know so we can get those resolved 😀
-> 
-> OR: it all looks good and you have no questions. Please then sign (insert your signature and date) and email us to let us know. We will then sign and send you a copy.
-> 
-> Many thanks,
->  
-> XXX
+    ```
+    Hello XXX,
+     
+    Welcome! This is your contract:
+
+    {Insert Link to Google Doc} 
+      
+    Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. Then:
+
+    EITHER: you have questions. If so, please email us to let us know so we can get those resolved 😀
+
+    OR: it all looks good and you have no questions. Please then sign (insert your signature and date) and email us to let us know. We will then sign and send you a copy.
+
+    Many thanks,
+     
+    XXX
+    ```
 
 #### Additional Documents required for the German HR:
 
@@ -140,12 +142,14 @@ However, unless otherwise agreed, we should only do these steps **once there is 
     Please start getting yourself set up here:
     
     https://handbook.datopian.com/onboarding
+
+    As that says, **please complete the "Prerequisites" section at least two hours before your Welcome Call**. Doing this allows us to grant you access to all systems and makes the the onboarding process super-smooth.
    
     **2. Welcome call**
     
     A welcome call will be scheduled. Please accept the invite 😊 
     
-    If you can not make that time please let us know asap by declining the invite and suggesting an alternative time!
+    If you are **unable** to make that time please let us know asap by declining the invite and suggesting an alternative time!
 
     Looking to having you on board!
      
@@ -159,7 +163,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 6. If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using
 
 
-### After new Datopian has filled in Person DB with their Details
+#### After new Datopian has filled in Person DB with their Details
 
 Add them to relevant systems:
 
@@ -199,3 +203,9 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 * Added to Trello
 * Xero account set up using personal email address
 * Completed Quiz
+
+## Accounting and Finances
+
+See [Accounting & Finances Guide](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.qy0fklx1v9sk)
+
+
