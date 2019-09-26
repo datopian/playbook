@@ -1,6 +1,10 @@
-# Our Culture
+# Our Culture and Principles
 
 A culture is "the way a community or organization does things". It is the combined set of behaviours and beliefs, norms and values, artifacts and institutions that organize how the set of people interact and work together. It is the basic operating system for collective being.
+
+Culture is often implicit rather than explicit. Unlike, say, the way we prepare an invoice or we set up a laptop it is undocumented. This can make it hard for newcomers to understand and contribute to. By being more explicit about it we want to make it easier to navigate, participate and contribute.
+
+## Ontology
 
 All culture is rooted in an (implicit) ontology: a set of beliefs about "being", about how human beings are and how they operate.
 
@@ -19,28 +23,24 @@ We also think that we humans have a tendency:
 * "Conclusion jumpers": ...
 * "Inconsistent decision makers" aka "Have multiple yous": we aren't consistent in our decision making, we have impulse control / self control issues. (I want to be healthy and i want to eat donuts). One way to can imagine at least two "yous" in decision making (and maybe more e.g. you can imagine a matrix of four between self control + impulsive and fast / slow (i.e. heuristic and reasoned)). 
 
-## Values
+## Our Principles
 
-TODO: copy from main guide
+Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)
 
 ### 1. Integrity, Authenticity and Commitment to Something Bigger than Yourself
 
 *An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.*
 
-*Recommended reading - [A ‘Value-Free’ Approach To Values](  https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)*
-
 #### Integrity
 
 **Honouring your word** - Doing what you said you would do **or** whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted. **Why is it important** - it is the bridge to workability and performance.
 
+### Restoring integrity**
 
-**Restoring integrity**
 * You acknowledge the word you gave (your promise)
 * You state matter of factly what happened (no justifications)
 * You look at the impact on others and yourself of not keeping your word
 * You say what you will put in place in future
-
-
 
 | Steps | Example  | Example *(NOT working)* |
 | -------- | -------- | -------- |
@@ -49,12 +49,20 @@ TODO: copy from main guide
 | 3. You look at the **impact** on **others** and **yourself** of not keeping your word | *I imagine you have been concerned whether I’m coming, and probably annoyed and frustrated about my lack of punctuality and being kept waiting around. For my part, I’m stressed and rushed and feeling guilty about not respecting your time.* | *Hope you haven’t been waiting long.* | 
 | You say what you will **put in place** in future. *This must be something “external” to yourself.*  | *"I will set a calendar reminder 10m before my meetings”* rather than *“I will try harder to be on time”* (this is intrinsic and we assume you tried your best this time – we always come from a place of assuming you did your best)
 
-### 2. Initiative 
+### Initiative 
+
 Take initiative and responsibility. We are agile and we want everyone to take responsibility and initiative. Be bold, be responsible.
 
-### 3. Communication
-We commit to be in communication and to provide feedback so we can both improve. If an issue arises we will raise it promptly so it can be addressed. We do not gossip. 
+### Zen
 
+We value judgment over rules. Patterns over processes and processes over systems. This means, for example, we put effort to explaining *why* we do things not just *how* we do things.
+
+We value parsimony and one way to do things. We prefer fewer systems and fewer things to know. We are happy to spend time refining and automating our processes and patterns.
+
+In short, we value Zen -- deep simplicity, nothing to add and nothing to take away. Essence, precision, elegance and rigour.
+
+
+---
 
 ## References
 
