@@ -1,8 +1,12 @@
 #  Markdown
 
-Markdown is an easy-to-use markup language, used to write docs for web, using plain text.  
+Markdown is an easy-to-use markup language, used to write docs for web, **using plain text**. It is used by DataHub, GitHub, Stackoverflow and many other sites.
 
-It is used by DataHub, GitHub, Stackoverflow and many other sites.
+You control the display of the document;formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like ## or *.
+
+If you are unfamiliar with Markdown we recommend checking these websites **after** you read through this page: 
+* https://www.markdowntutorial.com/ (an easy turorial with interactive exercises)
+* http://commonmark.org/help/ (10 minute of Markdown exercises)
 
 [toc]
 
