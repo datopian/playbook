@@ -4,7 +4,7 @@ Markdown is an easy-to-use markup language, used to write docs for web, **using 
 
 #### Why plain text?
 
-Plain text never goes out of fashion, it is creatable and usable almost anywhere ...
+Plain text never goes out of fashion, it is creatable and usable almost anywhere.
 
 #### Why markdown?
 
