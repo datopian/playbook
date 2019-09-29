@@ -8,7 +8,7 @@ module.exports = {
     breaks: true,
     html: true,
     toc: {
-      includeLevel: [1, 2, 3]
+      includeLevel: [2, 3]
     },
     extendMarkdown: md => {
       md.use(require('markdown-it-footnote'))
