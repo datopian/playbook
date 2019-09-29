@@ -32,6 +32,7 @@ Agreements
 * Be on time
 * Do assigned homework
 * Bring aliveness and curiosity
+* Be an active stand for the integrity of yourself and others
 
 ## What is a Tech Leader?
 
