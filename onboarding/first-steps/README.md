@@ -15,7 +15,7 @@ You are going to track your progress using a Gitlab issue in the onboarding proj
 
 * Please go to https://gitlab.com/datopian/onboarding/issues
 * Create your own Gitlab issue and use it to track your Onboarding progress
-- Copy and paste the checklist below into your Gitlab issuee and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
+- Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
 
 *Make sure to keep it updated every day after onboarding session!*
 
