@@ -198,7 +198,7 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 
 * Signed contract
 * Access to email, Team drives, Calendar
-* Access to Slack, Gitter (if necessary), Github/Gitlab
+* Access to Google Chat, Gitter (if necessary), Github/Gitlab
 * Completed phonebook
 * Added to Trello
 * Xero account set up using personal email address
