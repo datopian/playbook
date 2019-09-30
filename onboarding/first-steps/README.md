@@ -1,56 +1,5 @@
 # First Steps
 
-## Gitlab
-
-We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
-
-It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
-
-You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
-
-
-## Template Issue
-
-You are going to track your progress using a Gitlab issue in the onboarding project.
-
-* Please go to https://gitlab.com/datopian/onboarding/issues
-* Create your own Gitlab issue and use it to track your Onboarding progress
-- Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
-
-*Make sure to keep it updated every day after onboarding session!*
-
-```
-This is my exciting onboarding issue! 🚀
-
-## Onboarding Essentials
-
-### Prerequisites
-
-* [ ] I have access to email
-* [ ] I have set up all my accounts
-* [ ] I have sent details via Phonebook form
-* [ ] I have set up my laptop
-
-### First Steps
-
-* [ ] I have access to GDrive
-  * [ ] Email signature
-  * [ ] Doc Styles
-* [ ] Calendar
-  * [ ] Add a calendar meeting
-  * [ ] Invite one of the other people
-  * [ ] Delete it
-  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
-* [ ] How we communicate
-  * [ ] Go on GChat and message each other
-  * [ ] Drop a message in the onboarding channel
-* [ ] Stand up
-  * [ ] Do a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
-  * [ ] Check out the "standups" channel (don’t post there for now)
-* [ ] Meeting
-  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
-```
-
 ## Setting up Google Drive
 
 After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
@@ -156,6 +105,79 @@ Format:
 
 [meeting template]: https://docs.google.com/document/d/15tG_Bd-SxWQMUH9zNnft2kcxihqLwIccbbOpIhoUH8c/edit#
 
+
+## Markdown
+
+Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and gitlab.
+
+If you are new to Markdown, see the Markdown tutorial:
+
+https://handbook.datopian.com/markdown/
+
+## HackMD
+    
+We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD alos gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format. 
+
+Frequent senarios to use HackMD with the team: 
+  * as scratch pad for brainstorming to generate ideas of a project or a document 
+  * as essential document to co-work a project with team members, 
+  * as draft for gitlab issues 
+  * as draft before git commit, etc...
+
+Let's try it out here https://hackmd.io/
+
+_Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
+
+## Gitlab
+
+We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+
+It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
+
+You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
+
+
+## Template Issue
+
+You are going to track your progress using a Gitlab issue in the onboarding project.
+
+* Please go to https://gitlab.com/datopian/onboarding/issues
+* Create your own Gitlab issue and use it to track your Onboarding progress
+- Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
+
+*Make sure to keep it updated every day after onboarding session!*
+
+```
+This is my exciting onboarding issue! 🚀
+
+## Onboarding Essentials
+
+### Prerequisites
+
+* [ ] I have access to email
+* [ ] I have set up all my accounts
+* [ ] I have sent details via Phonebook form
+* [ ] I have set up my laptop
+
+### First Steps
+
+* [ ] I have access to GDrive
+  * [ ] Email signature
+  * [ ] Doc Styles
+* [ ] Calendar
+  * [ ] Add a calendar meeting
+  * [ ] Invite one of the other people
+  * [ ] Delete it
+  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
+* [ ] How we communicate
+  * [ ] Go on GChat and message each other
+  * [ ] Drop a message in the onboarding channel
+* [ ] Stand up
+  * [ ] Do a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
+  * [ ] Check out the "standups" channel (don’t post there for now)
+* [ ] Meeting
+  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
+```
 
 ## Issues / Tasks
 
@@ -270,3 +292,62 @@ So command would look like this:
 git commit -m '[ex][m]: plotly json examples - fixes #23'
 ```
 
+## User Stories
+
+User stories are a great way of gathering requirements in an agile environment, where one of the key values is responding to change over following a plan. They are a good anchor for conversation that can then take place at the right time. 
+
+The typical simple template: _**As a [WHO] I want [WHAT] so that [WHY].**_
+
+Please go read through the User Stories Page in the handbook: https://handbook.datopian.com/user-stories/
+
+### Exercises:
+
+* Give an example of bad user story and explain why it is bad.
+* Please create 2 user stories
+  1. Why we need to have a handbook in the company (as an onborder, as an onbordee etc.)
+  2. Any subject/project you want to create
+
+## Update your Gitlab onboarding issue 🤩
+
+Now, you know how to create amazingly [user stories](https://handbook.datopian.com/user-stories/) and [issues](https://handbook.datopian.com/onboarding/first-steps/#issues-tasks), try to update your gitlab onboarding issues by following the structure: 
+- user stories
+- acceptance criteria
+- checklist / tasklist etc...
+
+## Visual Studio Code & Pair Coding
+
+We use Visual Studio Code https://code.visualstudio.com/ for remote pair programming and we recommend it as default editor if you don’t already have one (e.g. vim, emacs etc).
+
+Online tutorial: 
+https://code.visualstudio.com/docs/introvideos/basics
+
+
+## Integrity
+
+Read more about how we understand and restore integrity
+https://handbook.datopian.com/guide/#_1-integrity-authenticity-and-commitment-to-something-bigger-than-yourself.
+
+### Practice to restore integrity
+1. Give 2-3 examples of what "we can put in place" if we're late for a meeting ("external" to ourselves)
+
+2. Create two situations to instore integrity, including:
+  * Acknowledge your promise (which you missed)
+  * State matter of factly what happened
+  * Look at the impact of not keeping your words
+  * Restore your integrity by saying what you will put in place in future
+
+
+## Getting Things Done (GTD) 
+
+Read [GTD section](https://handbook.datopian.com/getting-things-done/) as homework.
+
+Please generate at least 5 questions that you consider really important if you want to prove whether a person has understood the GTD workflow or not. Imagine you are creating a quiz!
+
+Exercises With the team: 
+  *  Share what did you get from getting things done article with your team members. 
+    * Share the questions you wrote.
+    * Discuss & co-create multiple choice question quiz on Markdown. 
+     
+Bonus: 
+* Read detailed GTD article https://rufuspollock.com/2019/05/27/getting-things-done/ or get yourself the book!
+* Check Todoist app (recommended not neccessary) 
