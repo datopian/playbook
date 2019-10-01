@@ -87,6 +87,6 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 
 ## Running the organization
 
-[Running the organization][rto] gives you some useful information! It helps you to understand how do we proceed payment. You are going to have a general idea about team, hours and the office as well.  
+[Running the organization][rto] gives you some useful information! You are going to have a general idea about team, hours and the office, it helps you to understand how we proceed payment as well. 
 
 [rto]: ./running-the-org/
