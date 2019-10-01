@@ -20,11 +20,7 @@ Through the program you will be brought fully up to speed as a fully operational
 
 ## Purpose
 
-The purpose the Apprenticeship Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Someone who is:
-
-* **At Home**: knows their way around our organization and how to get things done
-* **Skilled**: has the essential technical skills and familiarity with our patterns and products to contribute productively on our client projects 
-* **Acculturated**: aligned and connected with our culture and principles and is actively living them in their work
+The purpose the Apprenticeship Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Who knows their way around our organization, who is technically competent and is aligned and starting to live our culture and principles.
 
 
 ## Participation in the Program
@@ -46,7 +42,13 @@ Technically you should be comfortable digitally e.g. with email, google docs, ch
 
 Finally, you are comfortable communicating in spoken and written English.
 
-## Agreements
+Our work focuses on data -– collecting, managing, processing and presenting it. Thus, whatever you do with us you’ll be working with data in some capacity. There are a range of roles you can develop into:  data engineer, web developer, designer, scrum lead or even operations work.
+
+As part of a small team, you will have the opportunity to contribute in multiple areas and grow your role. We believe talented people can become many things and need time to discover what they are best at. Thus, we allow people to evolve their jobs and try out different areas.
+ 
+Initially, you will receive intensive training in our apprenticeship program whilst starting to contribute on client work under the supervision of a mentor.
+
+## Commitment and Agreements
 
 **The program last approximately three months**. As people enter the Apprenticeship Program with very different levels of experience and skill there is no absolute timeline and some people may complete well before three months.
 
@@ -60,13 +62,50 @@ Agreements
 * Bring aliveness and curiosity
 * Be coachable
 
-## The Plan
+## What is a Fully Operational Datopian
 
-Our work focuses on data – collecting, managing, processing and presenting it. Thus, whatever you do with us you’ll be working with data in some capacity. There are a range of roles you can develop into:  data engineer, web developer, designer, scrum lead or even operations work.
+A Datopian is someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Specifically, they are:
 
-As part of a small team, you will have the opportunity to contribute in multiple areas and grow your role. We believe talented people can become many things and need time to discover what they are best at. Thus, we allow people to evolve their jobs and try out different areas.
- 
-Initially, you will receive intensive training in our apprenticeship program whilst starting to contribute on client work under the supervision of a mentor.
+* **At Home**: knows their way around our organization and how to get things done
+* **Skilled**: has sufficient competence in key technical skills and familiarity with our patterns and products to contribute productively on our client projects
+* **Acculturated**: aligned and connected with our culture and principles and actively living them in their work
 
-*In progress*
+### Areas of Competence
+
+A (Fully Operational) Datopian has competence in the following areas
+
+#### Finding your way around
+
+* Running the Org: key processes and patterns of how we function
+  * Where to find things "in the kitchen"
+  * Being setup
+  * How we communicate
+  * Agile
+* Foundational Capabilities
+  * Meetings and communication
+  * Collecting and processing information
+  * Self-learning
+  * GTD
+* About us and Our Culture
+
+#### Technical Skills
+
+* Basics
+  * Markdown
+  * Git
+  * HTML / CSS
+* Analysis
+  * User Epics
+  * Estimation
+* Coding
+  * Core programming
+  * Python
+  * Javascript
+* Our Patterns and Products
+  * CKAN
+  * Frictionless Data
+
+#### Being
+
+In addition they are starting to live and exemplify our culture and principles in their way of being.
 
