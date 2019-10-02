@@ -89,4 +89,4 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 
 [RtO][rto] gives you some useful information! You are going to have a general idea about team, hours and the office, it helps you to understand how we proceed payment as well. 
 
-[rto]: ./RtO/
+[rto]: ./rto/
