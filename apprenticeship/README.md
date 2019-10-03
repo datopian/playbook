@@ -7,8 +7,6 @@ next: ./guide/
 
 The Datopian Apprenticeship is a rigorous training program to develop you into a fully operational  Datopian Engineer aka Datanaut 👩‍🚀
 
-Upon successful graduation you will be a fully operational Datopian!
-
 
 ## Introduction
 
