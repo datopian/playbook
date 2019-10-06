@@ -41,6 +41,7 @@ A Tech Lead reliably and effectively:
 1. **Distinguishes needs** of clients and users
 2. **Designs solutions** that address those needs utilizing and developing our (and others) tools and patterns
 3. **Delivers results** by empowering and enabling teams to plan and implement those solutions within and across projects.
+4. **Provides leadership** making things happen that weren't going to happen anyway, developing others and exemplifying the Datopian way
 
 ### Areas of Mastery
 
@@ -54,18 +55,33 @@ A Tech Leader has mastery in the following areas:
   * Distinguish customer needs into user epics, personas, stories and requirements
   * Analysing those into tasks with estimation
   * Evaluating technical options for addressing those tasks
-* Research and innovationto discover new and better ways to do technical work
+* Research and innovation to discover new and better ways to do technical work
   * Knowledge and research third-party tools and approaches
   * Extend and combine existing approaches
   * Create new tools, patterns and products
-* Data Portals and Data Management
+* Data Context: Data Portals, Management, Engineering and Policy
   * Key features
   * Patterns
+  * Key aspects of data engineering
+  * Open data, closed data and in between
 * Our patterns and tools and how they address the above
   * CKAN (Classic)
   * Frictionless Data
   * CKAN Next Generation
   * DevOps including Kubernetes and Docker
-* Understanding of broader technical areas such as Data Engineering, Data Policy etc ...
-  * Key aspects of data engineering
+* Leadership
+  * Integrity as a foundation  of workability
+  * Authenticity
+  * Commitment to something bigger than themselves
+
+
+## Structure
+
+The program is structured more like a business school class than a traditional course. Learning is centred around case studies and classrooms oriented to discussion and review. As far as possible, we try to have case studies focused on live, real-world examples.
+
+During the program, participants will take on at least three projects:
+
+1. **Project A**: in-depth analysis of a self-selected problem. This will include full needs analysis and should ultimately result in a new case study write-up.
+2. **Project B**: mini-project to create or improve some part of our technical training materials. This will exercise needs analysis in the area of documentation and also include implementation.
+3. **Project C**: Graduation project. Full analysis and design on a set problem.
 
