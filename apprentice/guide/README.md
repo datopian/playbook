@@ -1,8 +1,8 @@
-# Welcome to Your Apprenticeship
+# Welcome to the Apprentice Program
 
-We're excited to have you here. This guide contains an overview of your apprenticeship as well as information that past apprentices have found helpful.
+We're excited to have you here. This guide contains an overview of your apprentice program as well as information that past apprentices have found helpful.
 
-We recommend looking through it now and referring back to it later. Think of this as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
+We recommend looking through it now and referring back to it later. Think of this as your Hitchhiker's Guide. Don't Panic!
 
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
@@ -12,7 +12,7 @@ Feel free to file a pull request to improve any aspect of it, no matter how tiny
 TODO
 
 
-## Getting the Most Out of Your Apprenticeship
+## Getting the Most Out of Your Apprentice Program
 
 ### Expectations
 

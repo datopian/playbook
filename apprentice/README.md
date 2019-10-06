@@ -3,9 +3,9 @@ prev: false
 next: ./guide/
 ---
 
-# Apprenticeship
+# Apprentice Program
 
-The Datopian Apprenticeship is a rigorous training program to develop you into a fully operational  Datopian Engineer aka Datanaut 👩‍🚀
+The Datopian Apprentice Program is a rigorous training regime to develop you into a fully operational  Datopian Engineer aka Datanaut 👩‍🚀
 
 
 ## Introduction
@@ -16,25 +16,23 @@ Secondly, it is our philosophy to seek out undiscovered talent. Furthermore, we 
 
 Putting this all together means we reguarly meet -- and seek out -- potential Datopians who we would like to work with but who will need some training to be "fully operational".
 
-We therefore created the Datopian Apprenticeship. It is a rigorous training and development program designed for new joiners who are less experienced technically and may also be unfamiliar with some of our working practices e.g. remote working, self-organization etc.
+We therefore created the Datopian Apprentice Program. It is a rigorous training and development program designed for new joiners who are less experienced technically and may also be unfamiliar with some of our working practices e.g. remote working, self-organization etc.
 
 Through the program you will be brought fully up to speed as a fully operational Datopian aka Datanaut 👩‍🚀  and be able to operate autonomously in self-organizing teams, using your skills and knowledge of our tools and patterns to deliver great solutions on schedule for our clients.
 
 
 ## Purpose
 
-The purpose the Apprenticeship Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Who knows their way around our organization, who is technically competent and is aligned and starting to live our culture and principles.
+The purpose the Apprentice Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Who knows their way around our organization, who is technically competent and is aligned and starting to live our culture and principles.
 
 
 ## Participation in the Program
 
 Participation is by our normal application process https://www.datopian.com/jobs/ and we are always open to applications. We will occasionally run dedicated hiring rounds for apprentices.
 
-Apprenticeship is a paid role though compensation will reflect the fact you are being extensively trained and that you have not yet proven yourself. Part-time or full-time participation is possible.
+Normally, participants in the Apprentice Program are paid though compensation will reflect the fact you are being extensively trained and have not yet proven yourself. Part-time or full-time participation is possible.
 
-Participants in the program are known as Apprentices.
-
-The Apprenticeship is just as much about discovery of mutual fit as it is about training. Mutual fit is hard to predict in advance, even with an extensive selection process. Thus, we do not expect that 100% of apprentices will become full Datopians and and we decide to part ways. Even in these cases, our experience shows participants will have gained a lot of value from the program and be in a strong position to apply elsewhere.
+The Apprentice Program is just as much about discovery of mutual fit as it is about training. Mutual fit is hard to predict in advance, even with an extensive selection process. Thus, we do not expect that 100% of apprentices will become full Datopians and and we decide to part ways. Even in these cases, our experience shows participants will have gained a lot of value from the program and be in a strong position to apply elsewhere.
 
 
 ## Who is it for?
@@ -49,11 +47,11 @@ Our work focuses on data -– collecting, managing, processing and presenting it
 
 As part of a small team, you will have the opportunity to contribute in multiple areas and grow your role. We believe talented people can become many things and need time to discover what they are best at. Thus, we allow people to evolve their jobs and try out different areas.
  
-Initially, you will receive intensive training in our apprenticeship program whilst starting to contribute on client work under the supervision of a mentor.
+Initially, you will receive intensive training in our apprentice program whilst starting to contribute on client work under the supervision of a mentor.
 
 ## Commitment and Agreements
 
-**The program last approximately three months**. As people enter the Apprenticeship Program with very different levels of experience and skill there is no absolute timeline and some people may complete well before three months.
+**The program last approximately three months**. As people enter the Apprentice Program with very different levels of experience and skill there is no absolute timeline and some people may complete well before three months.
 
 During this time you will attend a 1h classroom 5x a week on average. This classroom is part of your normal working time. In addition, you will be expected to take on up to 2h of homework a week which you will complete in your own time.
 
