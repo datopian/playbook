@@ -164,21 +164,42 @@ In short, we value Zen and try to do things the Zen way: with deep simplicity, w
 ### Extreme Ownership aka 100% Responsibility
 
 
-### Mindfulness
+### Mindfulness / Presence
 
 
 
 ## Values
 
-Values are distinct from character strengths and principles. They are literally what we "value" -- i.e. what we deem important. Often, principles and values are run together and an organization's value list includes both things they "value" as important in life or in the world with things they "value" as ways of getting things done.
-
-As a concrete example for us, integrity is a principle not a value. It is way we choose to operate because it generates workability and wholeness (workability and wholeness are values though they are still not on our list because workability is still an instrumental value for us and wholeness though important is not a primary value for us).
+### Exploration / Discovery / Curiosity
 
 ### Transformation
 
 ### Quality
 
-### Zen
+
+## Appendix: Values, Principles and Character
+
+Values are distinct from character strengths and principles. They are literally what we "value" -- i.e. what we deem important. Often, character, principles and values are run together and an organization's value list includes both things they "value" as important in life or in the world with things they "value" as ways of getting things done (principles) or in how people operate (character).[^ex1]
+
+As a concrete example, for us integrity is a principle not a value. It is way we choose to operate because it generates workability and wholeness. Workability and wholeness themselves are actual values though they are still not on our list -- workability because it is instrumental rather than final and wholeness because though valued it is not of primary importance for us as an organization.
+
+To summarize, values is often used in three senses:
+
+1. What the organization values in people e.g. "hard working". We term this "character" or a "character strength". It is trait of character that we think important.
+3. What an organization values in terms of how it operates e.g. "quality"
+2. What an organization values as ends in themselves (either for themselves or the world) e.g. "Fulfilment"
+
+[^ex1]: As a concrete example, thoughbot (a company we admire) has the [following values list](https://thoughtbot.com/playbook/our-company/values) which we would map as follows:
+
+    * Fulfillment => value
+    * Self-management => character
+    * Continuous improvement => principle
+    * Trust => principle
+    * Quality => value / principle
+
+    Even within items you can distinguish different items e.g. for Quality they write:
+
+    > We create working, maintainable, and understandable software that is enjoyable and easy to use [value]. We improve the quality of the process and the client's environment [principle?]. Beyond that, designing and building quality software means improving the security, privacy, and accessibility of the product [priniciples]; this requires improvements of life and reduction of harm for all users, contributors, and the people they affect [value / principle?].
 
 
 ## References
