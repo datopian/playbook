@@ -23,7 +23,7 @@ Through the program you will be brought fully up to speed as a fully operational
 
 ## Purpose
 
-The purpose the Apprentice Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. Who knows their way around our organization, who is technically competent and is aligned and starting to live our culture and principles.
+The purpose the Apprentice Program is to empower you to be a "Fully Operational Datopian". Someone who can reliably and effectively deliver high quality work for clients as part of a self-organizing team. That means you know your way around Datopian, are technically competent and are starting to actively live our culture.
 
 
 ## Participation in the Program
@@ -37,9 +37,9 @@ The Apprentice Program is just as much about discovery of mutual fit as it is ab
 
 ## Who is it for?
 
-You should be curious, eager and hard-working. You are committed and have a willingness to learn and be trained.
+You are curious, eager and hard-working. You are committed and have a willingness to learn and be trained.
 
-Technically you should be comfortable digitally e.g. with email, google docs, chat, finding things on google etc. However, you may have limited or no skills in coding or data: a basic knowledge of python or javascript is a plus but we will accept candidates with little or no knowledge if you demonstrate passion and commitment to learn rapidly.
+Technically you are comfortable digitally e.g. with email, google docs, chat, finding things on google etc. Coding-wise a basic knowledge of python or javascript is desirable but we will accept candidates with little or no knowledge if you demonstrate passion and ability to learn rapidly.
 
 Finally, you are comfortable communicating in spoken and written English.
 
