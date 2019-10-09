@@ -43,6 +43,7 @@ module.exports = {
           { text: 'Objectives and Key Results (OKRs)', link: '/objectives-and-key-results/' },
           { text: 'Getting Things Done (GTD)', link: '/getting-things-done/' },
           { text: 'Planning Your Day', link: '/planning-your-day/' },
+          { text: 'Git', link: '/git/' },
           { text: 'Markdown', link: '/markdown/' },
           { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
