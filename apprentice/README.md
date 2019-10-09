@@ -43,11 +43,15 @@ Technically you are comfortable digitally e.g. with email, google docs, chat, fi
 
 Finally, you are comfortable communicating in spoken and written English.
 
-Our work focuses on data -– collecting, managing, processing and presenting it. Thus, whatever you do with us you’ll be working with data in some capacity. There are a range of roles you can develop into:  data engineer, web developer, designer, scrum lead or even operations work.
 
-As part of a small team, you will have the opportunity to contribute in multiple areas and grow your role. We believe talented people can become many things and need time to discover what they are best at. Thus, we allow people to evolve their jobs and try out different areas.
+## What will I do?
+
+Our work focuses on data -– collecting, managing, processing and presenting it. Thus, whatever you do with us you’ll be working with data in some capacity. There are a range of roles you can develop into longer-term:  data engineer, web developer, designer, scrum lead or even operations work. As part of a small team, you will have the opportunity to contribute in multiple areas and grow your role. We believe talented people can become many things and need time to discover what they are best at. Thus, we specifically allow people to evolve their jobs and try out different areas.
  
-Initially, you will receive intensive training in our apprentice program whilst starting to contribute on client work under the supervision of a mentor.
+Initially, in the apprentice program you will receive intensive training both in the basics and in our specific areas of expertise. Next you will start to contribute on client projects under the supervision of a mentor.
+
+We provide apprentices with a guide during onboarding that helps them get comfortable and have the best apprentice program possible.
+
 
 ## Commitment and Agreements
 
