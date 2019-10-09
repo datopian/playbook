@@ -2,7 +2,7 @@
 
 Using Git is essential for everyone working with code -- and even if you don't knowing some Git will be valuable as it is also used for some content management including many of our websites.
 
-This howto is short and primarily consists of pointers to good materials elsewhere. In particular, **[Pro Git][pro] is both a great introduction and a detailed guide to Git and is available online for free**. If you are are new to Git we strongly recommend checking it out.
+This howto is short and primarily consists of pointers to good materials elsewhere. In particular, **[Pro Git][pro] is both a great introduction and a detailed guide to Git and is available online for free**. If you are new to Git we strongly recommend checking it out.
 
 [pro]: https://git-scm.com/book/en/v2/
 
@@ -28,7 +28,7 @@ Even though git is distributed you will often need an online git repository eith
 
 Github and Gitlab are the main git repository hosting providers.
 
-* Gitlab is are default provider for git hosting because it is open-source and provides the best value for money.
+* Gitlab is a default provider for git hosting because it is open-source and provides the best value for money.
 * Github is a secondary provider because of its established dominance. We mainly use it for publishing open source work due to its higher visibility.
 
 ## Recommended tools
