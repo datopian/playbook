@@ -208,4 +208,78 @@ Have a meeting a week after Onboarding to catch up and see how new Staff Member 
 
 See [Accounting & Finances Guide](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.qy0fklx1v9sk)
 
+# Ops process for opening and tracking issues 
+
+## User stories 
+### For Opening and tracking issues for Ops 
+
+[Link to the user stories](https://docs.google.com/document/d/1woRiyVqsWNHqEMw4aodl77y-_tlT5y9pBPyo-OGE8r4/edit#heading=h.7ddreqxrmlu3)
+ 
+### For Documentation
+
+As Head of Operations, I want to have a place which reminds, reinforces and clarifies the office@ process, so that (i) the ops team is aligned with and knows how to manage the ops inbox efficiently and (ii) any new team member can pick it up if necessary.  
+
+As Ops team, I want to refresh my knowledge about the opening and tracking issues process (if I need), so that I am confident in my job and have no doubts on how to process incoming requests.  
+
+As a newly hired ops team member, I want to understand how we manage our requests in the ops team, so that I can catch up quickly and keep the machine running smoothly.  
+
+## How it works
+
+1. The ops team has got a Gitlab Group *(Datopian Office)* and a project inside of this group *(Office Requests)* 
+2. The ops team uses the *“Email a new issue to this project”* option in Gitlab which generates a unique private Gitlab email address for the project
+3. This email address is used from all team members for all kinds of office requests  
+4. Every email sent to this Gitlab email automatically generates an issue in the Gitlab project *(Office Requests)*  
+5. Ops team deals with the issue and updates the requestor via email 
+
+
+## How to set it up:
+
+1. Go to your Gmail inbox
+2. Go to Contacts → Create a new contact  
+
+    *First Name: Office*  
+    *Second Name: Requests*  
+    *Email: incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com*  
+    
+## How to open and track issues in Gitlab:  
+### Step-by-step process  
+
+1. A team member or management person writes to the Gitlab email which the ops team has shared with them *(the above mentioned “Office Requests” Contact)* and CCs office@  
+* Eg. for creating / deleting an account  
+* Booking a trip  
+* Sorting out submitted expenses  
+* Asking questions regarding the Getting paid etc.  
+
+2. Every email sent to the Gitlab email *(Office Requests)* directly generates an issue in the *Office Requests* Project on Gitlab   
+* The email subject becomes the issue title.  
+* The email body becomes the issue description.  
+* Markdown and quick actions are supported.  
+
+3. If the team member forgets and doesn’t send it to Office Requests but to office@, then:
+* The ops team forwards this email to Office Requests manually and **CCs office@**  
+
+:::warning
+It is VERY important to CC office@ or else we won’t know if this has been forwarded to the Office Requests and we can end up with multiple issues for the same request
+:::
+
+* The ops team advises the team member that they should always send their requests to Office Requests going forward   
+
+4. Every day, the ops member who is in charge of the inbox goes through the Gitlab issues and:   
+* Assigns them to someone    
+* Sets a deadline if necessary  
+* Adjusts label *(Backlog, In Progress, Blocked, Done)*  
+
+5. The person who gets assigned to the issue understands what actions are required and resolves it asap  
+
+:::tip
+This project won’t be visible to other team members so the ops team deals with the issues internally and provides updates to the requestor via email.
+:::
+
+6. If the issue has been resolved / the request has been fulfilled, the ops member comments and/or sends an email to the requestor and closes the Gitlab issue.  
+* There is an actual button “Comment and close issue”  
+* Don’t forget to update the label from “In progress” to “Done”  
+
+
+
+
 
