@@ -84,7 +84,18 @@ You can find team members' phone numbers, usernames, phone numbers in Team [Phon
 
 ### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email: **office@datopian.com**
+For **ALL** office/finance/admin related inquiries, please email **Office Requests** and CC office@datopian.com
+
+To set up the above mentioned **Office Requests** contact, please follow the steps below:
+
+1. Go to your Gmail inbox
+2. Go to Contacts → Create a new contact  
+
+    *First Name: Office*  
+    *Second Name: Requests*  
+    *Email: incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com* 
+
+This automatically generates Gitlab issues for the Office and allows us to keep track on your requests and deal with them promptly.
 
 ### Holidays
 
