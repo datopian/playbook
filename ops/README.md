@@ -244,25 +244,25 @@ As a newly hired ops team member, I want to understand how we manage our request
 ## How to open and track issues in Gitlab:  
 ### Step-by-step process  
 
-1. A team member or management person writes to the Gitlab email which the ops team has shared with them *(the above mentioned “Office Requests” Contact)* and CCs office@  
+1. A team member or management person writes to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) and CCs office@datopian.com  
 * Eg. for creating / deleting an account  
 * Booking a trip  
 * Sorting out submitted expenses  
 * Asking questions regarding the Getting paid etc.  
 
-2. Every email sent to the Gitlab email *(Office Requests)* directly generates an issue in the *Office Requests* Project on Gitlab   
+2. Every email sent to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) directly generates an issue in the *Office Requests* Project on Gitlab   
 * The email subject becomes the issue title.  
 * The email body becomes the issue description.  
 * Markdown and quick actions are supported.  
 
-3. If the team member forgets and doesn’t send it to Office Requests but to office@, then:
-* The ops team forwards this email to Office Requests manually and **CCs office@**  
+3. If the team member forgets and doesn’t send it to Office Requests but to office@datopian.com, then:
+* The ops team forwards this email to Office Requests manually and **CCs office@datopian.com**  
 
 :::warning
-It is very important to CC office@ or else we won’t know if this has been forwarded to the Office Requests and we can end up with multiple issues for the same request
+It is very important to CC office@datopian.com or else we won’t know if this has been forwarded to the [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) and we can end up with multiple issues for the same request
 :::
 
-* The ops team advises the team member that they should always send their requests to Office Requests going forward   
+* The ops team advises the team member that they should always send their requests to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) going forward   
 
 4. Every day, the ops member, who is in charge of the inbox, goes through the Gitlab issues and: 
 * Assigns them to someone  
@@ -276,9 +276,9 @@ It is very important to CC office@ or else we won’t know if this has been forw
   * Put **/estimate X h** in the comments to estimate  
   * Put **/spend X h** in the comments to add consumed time  
 * Label  
-  * When you pick it up and start working on it → **In progress**  
-  * When it’s blocked *(on hold, waiting for sth)* → **Blocked**  
-  * When it’s done → **Done** *(drop a comment and close the issue)*  
+  * When you start working on it → **In progress**  
+  * When it’s blocked → **Blocked**  
+  * When it’s done → **Done**  
 * Due date *(if applicable)*  
 
 :::tip
