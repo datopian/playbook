@@ -235,7 +235,7 @@ As a newly hired ops team member, I want to understand how we manage our request
 ## How to set it up:
 
 1. Go to your Gmail inbox
-2. Go to Contacts → Create a new contact  
+2. Go to [Contacts](https://contacts.google.com/) → Create a new contact  
 
     *First Name: Office*  
     *Second Name: Requests*  
@@ -259,26 +259,36 @@ As a newly hired ops team member, I want to understand how we manage our request
 * The ops team forwards this email to Office Requests manually and **CCs office@**  
 
 :::warning
-It is VERY important to CC office@ or else we won’t know if this has been forwarded to the Office Requests and we can end up with multiple issues for the same request
+It is very important to CC office@ or else we won’t know if this has been forwarded to the Office Requests and we can end up with multiple issues for the same request
 :::
 
 * The ops team advises the team member that they should always send their requests to Office Requests going forward   
 
-4. Every day, the ops member who is in charge of the inbox goes through the Gitlab issues and:   
-* Assigns them to someone    
-* Sets a deadline if necessary  
-* Adjusts label *(Backlog, In Progress, Blocked, Done)*  
+4. Every day, the ops member, who is in charge of the inbox, goes through the Gitlab issues and: 
+* Assigns them to someone  
+* Adjusts label to **Backlog**  
 
-5. The person who gets assigned to the issue understands what actions are required and resolves it asap  
+5. The assignee reads through the issue, understands what actions are required and adds:  
+* Short summary of the request on the top of the description  
+* Who is the requestor *(if not clear)*  
+* Acceptance criteria and checklist *(if over ~1h)*  
+* Time tracking estimate:  
+  * Put **/estimate X h** in the comments to estimate  
+  * Put **/spend X h** in the comments to add consumed time  
+* Label  
+  * When you pick it up and start working on it → **In progress**  
+  * When it’s blocked *(on hold, waiting for sth)* → **Blocked**  
+  * When it’s done → **Done** *(drop a comment and close the issue)*  
+* Due date *(if applicable)*  
 
 :::tip
-This project won’t be visible to other team members so the ops team deals with the issues internally and provides updates to the requestor via email.
+This project won’t be visible to other team members so we deal with the issues internally and provide updates to the requestor via email.
 :::
 
-6. If the issue has been resolved / the request has been fulfilled, the ops member comments and/or sends an email to the requestor and closes the Gitlab issue.  
-* There is an actual button “Comment and close issue”  
-* Don’t forget to update the label from “In progress” to “Done”  
-
+6. If the issue has been resolved / the request has been fulfilled, the ops member:
+* Comments and closes the issue
+* Updates the label from “In progress” to “Done”
+* Updates the requestor that the issue has been resolved
 
 
 
