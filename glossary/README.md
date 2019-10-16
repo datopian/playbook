@@ -44,3 +44,24 @@ Often used in the phrase "Getting Complete". Also "Whole and Complete".
 
 (Landmark / Werner Erhard)
 
+## Sustainable Motivations
+
+> To only a fraction of the human race does God give the privilege of earning one’s bread doing what one would have gladly pursued free, for passion. I am very thankful.
+—Frederick Brooks, The Mythical Man-Month
+
+From Apprenticeship Patterns
+
+> ### Problem
+>
+> Working in the trenches of real-world projects is rigorous, sometimes tedious, sometimes exhausting, often frustrating, and frequently overly chaotic or constraining.
+>
+> ### Solution
+>
+> Ensure that your motivations for craftsmanship will adapt and survive through the trials and tribulations of The Long Road.
+>
+> There will be days, weeks, and months when you love your job. You’ll chuckle to yourself, in awe that you actually get paid to develop software. The software you write will flow effortlessly from your mind through your fingertips, beautiful to behold in function and design. These are good and extraordinary days. In other words, they are not your ordinary days.
+> 
+> > ..there is not much overlap between the kind of software that makes money and the kind of software that’s interesting to write.... If you want to make money, you tend to be forced to work on problems that are too nasty for anyone to solve for free. -- Paul Graham, Hackers and Painters
+>
+> As Paul Graham so rightly says, the typical programming job will put you face-to-face with tedious, vaguely defined, and needlessly complex problems. Nasty, wicked problems. What’s more, you may also be faced with bureaucracy, difficult personalities, and spotty leadership. There will be days, weeks, and months when you question your commitment to the craft. When you are confronted with such problems, it is crucial that your motivations to program are aligned with walking The Long Road.
+
