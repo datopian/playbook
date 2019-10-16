@@ -2,7 +2,9 @@
 
 **We provide exceptional client support at Datopian.**
 
-We are patient with our clients, help them achieve their goals, and use our support experiences to improve the delivery of our services. Providing exceptional support starts with a really clear process for how support is done, how responsibility is taken, and what we do when we get stuck on an issue. This document gives an overview of client support at Datopian, and the complete playbook is available [here](https://github.com/datopian/support) (staff only access with additional information).
+We are patient with our clients, help them achieve their goals, and use our support experiences to improve the delivery of our services. Providing exceptional support starts with a really clear process for how support is done, how responsibility is taken, and what we do when we get stuck on an issue. This document gives an overview of client support at Datopian, and the [complete playbook is available here][complete] (staff only access with additional information).
+
+[complete]: https://docs.google.com/document/d/11Y74p61n-VEaBXe0KQDdJhWPosEquz5C5OItZUXYy2I/edit#
 
 ## Roles
 
