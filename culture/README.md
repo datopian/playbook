@@ -6,7 +6,7 @@ Culture is often implicit rather than explicit. It is usually undocumented, unli
 
 ## Ontology
 
-All culture is rooted in an (implicit) ontology: a set of beliefs about "being", about how human beings are and how they operate.
+All culture is rooted in an (implicit) ontology: a set of beliefs about "being", that is, how human beings are and how they operate.
 
 We believe that we human beings are fundamentally:
 
@@ -14,9 +14,11 @@ We believe that we human beings are fundamentally:
 * **Great**: we see people as possibilities and as able to achieve more than they (or we) can imagine
 * **Curious**: we want to test, discover, explore, take apart and be awed and wondrous
 * **Creative**: we want to build, develop, scaffold and innovate
-* **More than mind**: we are more than our thoughts or feelings. Just like we have a body, we have our thoughts and feeling but we aren't them.
+* **More than mind**: we are more than our thoughts or feelings. Just like we have a body, we have our thoughts and feeling but we aren't just them.
 
-In short, we believe all have "buddha-nature" (or christ-nature or ...) and it is there to be unlocked (not made!).[^mirror]
+In short, we believe we all have "buddha-nature"[^buddha-nature] and it is there to be unlocked (not made!).[^mirror]
+
+[^buddha-nature]: Or, if you prefer, christ-nature etc etc
 
 [^mirror]: From Philip Kapleau's Three Pillars of Zen:
 
@@ -29,33 +31,33 @@ In short, we believe all have "buddha-nature" (or christ-nature or ...) and it i
     “How could polishing a tile make a mirror?”
     “How could sitting in zazen make a Buddha?”
 
-We also think that there is much that gets in the way of realising that nature: fear, ignorance, delusion, craving, anger etc. In particular, and especially relevant for an organization, we humans have a tendency to:
+We also believe that much that gets in the way of realising that nature: fear, ignorance, delusion, craving, anger etc. In particular, and especially relevant for us as an organization, we believe we humans have a tendency to:
 
-* "Looking good / avoiding looking bad": we often are concerned with how we appear to others -- rather than actual outcomes in reality
-* "Judging": to make ourselves, others and situations "wrong" (or "right"), assessing them as good and bad (and making these assessments on very little evidence)
-* "Story-making": we make up narrative and stories about people and situations and these stories are distinct from "what (actually) happened". These stories are very powerful and rapidly start to frame and color what we see like a pair of tinted glasses.
-* "Lack self-control": We are inconsistent decision makers -- you can even imagine there are "multiple yous".[^mcgilchrist]: we aren't consistent in our decision making, we have impulse control / self control issues. I want to be healthy but then I eat the donuts.
+* **Looking good / avoiding looking bad**: we often are concerned with how we appear to others -- rather than actual outcomes in reality
+* **Judging**: to make ourselves, others and situations "wrong" (or "right"), assessing them as good and bad (and making these assessments on very little evidence)
+* **Story-making**: we make up narrative and stories about people and situations and these stories are distinct from "what (actually) happened". These stories are very powerful and rapidly start to frame and color what we see like a pair of tinted glasses.
+* **Being inconsistent / Lacking self-control**: We are inconsistent decision makers -- you can even imagine there are "multiple yous".[^mcgilchrist]: we aren't consistent in our decision making, we have impulse control / self control issues. I want to be healthy but then I eat the donuts.
 
 [^mcgilchrist]: The idea of multiple yous actually has growing evidence in neuroscience. See, for example McGilchrist's the Master and his Emissary which provides a lot of evidence that your right and left hemisphere see the world differently and would operate differently. Similarly, Kahnemann and Tversky's work can be framed in terms of 2 parallel decision making processes: a fast and a slow one. One way to explain self-control or inconsistent decision-making is to imagine at least two "yous" in decision making and maybe more e.g.  matrix of four between self control + impulsive and fast / slow (i.e. heuristic and reasoned).
 
 
 ## Character Strengths
 
-These are the character strengths we seek to find and develop in our team members.
+These are the character strengths we seek to uncover and develop in our team members.
 
 ### Coachability
 
 You can take and act on coaching including constructive, critical coaching. Even more important you have an active desire to grow and be coached -- you not only welcome coaching, you seek it out.
 
-Opposite is uncoachable -– you don’t take feedback and/or don’t act on it. You get angry, defensive or upset when feedback is provided.[^mckinsey]
+Opposite is uncoachable -- you don’t take feedback and/or don’t act on it. You get angry, defensive or upset when feedback is provided.[^mckinsey]
 
 [^mckinsey]: See “Mckinsey Kiss of Death” https://www.caseinterview.com/mckinsey-kiss-of-death:
 
     > “The McKinsey culture involves others giving you a lot of feedback on how to improve your performance. It also requires you to receive and act upon that feedback. Rather than receiving this feedback, some new consultants get defensive and argumentative with their managers and partners.”
 
-There are four key steps involved:[^1]
+There are four key steps involved in being coachable:[^1]
 
-* Reaction: The person responds positively to feedback. They express a willingness to be coached through both words and actions.
+* Reaction: The coachee responds positively to feedback. They express a willingness to be coached through both words and actions.
 * Self-Awareness: They demonstrate an awareness of the situation and recognize the gaps between the desired state and the current state. They also seek out the views and input of others proactively.
 * Behavioral Change: They make the change from the current state to the desired state. You, and others they work with, notice a change in specific behaviors.
 * Performance: In the end, the new behavior improves performance in a real and measurable way.
@@ -89,7 +91,7 @@ Note: integrity does not mean always doing what you say -- that is impossible if
 
 ### Communication
 
-You have the verbal and cognitive skills to communicate effectively. You also have a commitment to proactively communicate especially about things that are not working as well as we would like. This is key in all teams and all orgs and it is especially important for us as we are a) remote b) relatively flat (self-managing, autonomous).
+You have the verbal and cognitive skills to communicate effectively. You also have a commitment to proactively communicate especially about things especially things that are not working as well as we would like. This is key in all teams and all organizations and it is especially important for us as we are a) remote b) relatively flat (self-managing, autonomous).
 
 ### Initiative and Self-management
 
@@ -104,6 +106,8 @@ References: maverick, seven day weekend etc.
 We use "intelligence" here as a broad term for cognitive skills. We think a basic level of intelligence is a major basic factor in people’s performance (and hence their satisfaction) and in a variety of other qualities we seek.
 
 Along with basic intelligence you should have ability to learn (continuously) new skills. Distinguished from coachability as less about behaviour and more about skills.
+
+However, we emphasize that we think intelligence is secondary to coachability and a work ethic: if you can take and act on feedback and are willing to work hard, we believe there is little you can't accomplish.
 
 References: See Burks et al re truckers https://www.ncbi.nlm.nih.gov/pubmed/19416865
 
