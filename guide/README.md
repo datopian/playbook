@@ -87,3 +87,8 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * [Running the Org](/running-the-org/)
   * Holidays
   * Getting Paid and Expenses
+
+## Glossary
+
+* [Glossary](/glossary/)
+
