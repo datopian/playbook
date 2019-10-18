@@ -5,15 +5,9 @@ next: ./first-steps/
 
 # Onboarding Guide
 
-## Intention
-
-*The intention of this Onboarding Guide is to fulfil on the following user story.*
-
-As an Onboardee I want a simple step by step process to get set up (that I can do largely on my own) so that I am ready to go (and know I am ready to go)
-
-## Welcome!
-
 Welcome to Datopian! 🚀 👩‍🚀
+
+This provides you with a simple step by step process to get set up at Datopian so that you are ready to go. We have designed it to be largely self-service so that you can do it on your own at your own pace.
 
 :::tip
 We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
