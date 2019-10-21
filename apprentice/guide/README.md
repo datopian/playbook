@@ -1,6 +1,6 @@
-# Welcome to the Apprentice Program
+# Apprentice Program Guide
 
-We're excited to have you here. This guide contains an overview of your apprentice program as well as information that past apprentices have found helpful.
+Welcome to the Apprentice Program. We're excited to have you here. This guide contains an overview of your apprentice program as well as information that past apprentices have found helpful.
 
 We recommend looking through it now and referring back to it later. Think of this as your Hitchhiker's Guide. Don't Panic!
 
