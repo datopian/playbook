@@ -20,12 +20,14 @@ Before we get to the onboarding proper there are some essential prerequisites to
 Please complete these at least two hours before your Welcome Call so we can make sure you have access to all systems. Note: you can begin these steps the moment you have your email account and in advance of your official start date.
 
 1. Login in to your Datopian email account and check it. See below.
-2. Setup your accounts on the systems we use. Do this **before** the next step!
+2. Setup your accounts on the systems we use. See below. Do this **before** the next step!
 3. Add your details to our [Phonebook / Person DB form][googleform] -- **note:** you will need to be logged in to your Datopian email.
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
-5. Setup your laptop and install relevant software. See below.
+5. Setup your laptop and install relevant software. See [Laptop Setup][laptop]
+
 
 [googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
+[laptop]: /laptop-setup/
 
 ### Your Datopian Email
 
@@ -54,23 +56,6 @@ Create an account on each of these. Please make sure you set up Gravatar first. 
 * Gitlab - https://gitlab.com/
 * HackMD - https://hackmd.io/
 
-### Your Laptop is Your Sword
-
-:::tip
-This section is largely for developers. However, even non-developers will benefit from having all or some of this done.
-:::
-
-We recommend you have a MacOS laptop if possible. Second best is Linux-based e.g. Ubuntu etc.
-
-Please have the following software installed:
-
-* Google Chrome
-* VSCode https://code.visualstudio.com/ -- we use this for remote pair programming and we recommend it as default editor if you don't already have one (e.g. vim, emacs etc)
-* [MacOS] Brew installed and set up for development (you can then use this to install other tools)
-* Git
-* Python (v3)
-* NodeJS
-
 
 ## First Steps
 
@@ -82,3 +67,4 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 ## Running the Organization
 
 [Running the Org](https://handbook.datopian.com/running-the-org/#getting-paid) gives you some useful information! You are going to have a general idea about team, hours and the office, it helps you to understand how we proceed payment as well. 
+
