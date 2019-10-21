@@ -1,12 +1,64 @@
 # First Steps
 
+## Gitlab
+
+We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+
+It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
+
+You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
+
+## Onboarding Issue
+
+You are going to track your onboarding progress using a Gitlab issue in the onboarding project.
+
+* Please go to https://gitlab.com/datopian/onboarding/issues
+* Create your own Gitlab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
+* Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
+
+```
+This is my exciting onboarding issue! 🚀
+
+## Onboarding Essentials
+
+### Prerequisites
+
+* [ ] I have access to Datopian email
+* [ ] I have set up accounts on all the systems
+* [ ] I have submitted my details via the Phonebook form
+* [ ] I have set up my laptop
+
+### First Steps
+
+* [ ] I have access to GDrive
+  * [ ] Email signature
+  * [ ] Doc Styles
+* [ ] Calendar
+  * [ ] Created a calendar meeting
+  * [ ] Invited one or more other people to it
+  * [ ] Deleted it
+  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
+  * [ ] Confirmed I have the all hands meeting in my calendar
+* [ ] How we communicate
+  * [ ] Go on GChat and message each other directly
+  * [ ] Drop a message in the onboarding channel
+* [ ] Stand up
+  * [ ] Do a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
+  * [ ] Check out the "standups" channel (don’t post there for now)
+* [ ] Meeting
+  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
+  * [ ] Structure a meeting as if you were going to introduce someone to the place where you live
+  * [ ] Review each others and sign it off
+```
+
+
 ## Setting up Google Drive
 
 After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
 
-The Onboarder will grant you access to relevent Team Drives, so you can access and store the information / documents you require.
+The Onboarder will have granted you access to relevent Team Drives, so you can access and store the information / documents you require.
 
-* Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture.
+* Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture and avoids having to explicitly share files with people.
 * If you require access to files that you currently don't have access to, please reach out to your Onboarder.
 
 ### E-Mail Signature
@@ -40,18 +92,18 @@ You can also add the calendars of the teammates you're mostly working with so yo
 * You've now added the calendar
 * Google Calendar automatically creates a Google Hangout Meets link.
 
-_Also, talking of meetings, we have a weekly all hands, this will be in your Datopian calendar once you sign in to your email._
+*Also, talking of meetings, we have a weekly all hands, this will be in your Datopian calendar once you sign in to your email.*
 
 
 ## How we communicate
 
 *As a virtual organization we need to have efficient, reliable, cost-effective ways to communicate and share material.*
 
-Google Chats is the main text channel we use to communicate with our team members.
+Google Chats is the main chat channel we use to communicate with our team members.
 
 Any project information or artifacts (e.g. README or technical specs) should be kept on the drive and not on Google Chats. **We use Google Chats as a communication platform and not a knowledge management platform.**
 
-Once you have your Google Chats accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone.
+Once you have your Google Chat accounts, please let your Onboarder know and they will add you to the appropriate channels for your role and introduce you to everyone.
 
 ### Communication Tools
 
@@ -80,11 +132,13 @@ graph LR
 The Team has a daily stand-up on Google chats in the Standup channel.
 
 Purpose:
+
 * keep team in sync
 * surface blockers
 * deal with issues arising (e.g. need to reprioritize in face of an arising issue or change in estimate)
 
 Format:
+
 * Plan (What is your plan for today?)
 * Recap (What did you accomplish yesterday?)
 * Blockers (Is there something getting in the way for you to complete your tasks)
@@ -128,170 +182,6 @@ Let's try it out here https://hackmd.io/
 
 _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
 
-## Gitlab
-
-We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
-
-It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
-
-You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
-
-
-## Template Issue
-
-You are going to track your progress using a Gitlab issue in the onboarding project.
-
-* Please go to https://gitlab.com/datopian/onboarding/issues
-* Create your own Gitlab issue and use it to track your Onboarding progress
-- Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
-
-*Make sure to keep it updated every day after onboarding session!*
-
-```
-This is my exciting onboarding issue! 🚀
-
-## Onboarding Essentials
-
-### Prerequisites
-
-* [ ] I have access to email
-* [ ] I have set up all my accounts
-* [ ] I have sent details via Phonebook form
-* [ ] I have set up my laptop
-
-### First Steps
-
-* [ ] I have access to GDrive
-  * [ ] Email signature
-  * [ ] Doc Styles
-* [ ] Calendar
-  * [ ] Add a calendar meeting
-  * [ ] Invite one of the other people
-  * [ ] Delete it
-  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
-* [ ] How we communicate
-  * [ ] Go on GChat and message each other
-  * [ ] Drop a message in the onboarding channel
-* [ ] Stand up
-  * [ ] Do a standup in the onboarding channel (Plan, Recap, Blockers (if any), Availability)
-  * [ ] Check out the "standups" channel (don’t post there for now)
-* [ ] Meeting
-  * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
-```
-
-## Issues / Tasks
-
-### Creating Issues
-
-This key information should be present:
-
-* Short description: of what is involved. A user story if possible
-* Acceptance criteria: what would it mean for this to be done
-* Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
-
-```
-Short description of bug or feature need preferentially in a user story form.
-
-[Can have multiple items esp if an epic]
-
-## Acceptance Criteria (for epics or "big" issues)
-
-* [ ] ...
-* [ ] ...
-
-## Tasks
-
-*Task list*
-
-* [ ] ...
-* [ ] ...
-
-## Analysis
-
-*This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
-```
-
-All issues must be properly labelled:
-- Support issues must have a support label (indicating their support package)
-- All client related issues must have a client label (all colored #800080)
-- Issues related to other, internal, projects need to be labelled accordingly
-- Contextual labels are encouraged:
-  - 'Source' labels for support issues (e.g. client/sentry/uptime etc.)
-  - 'Technical Debt', 'Bug' etc.
-
-Make sure you record relationships between issues, e.g.
-- Individual issues and their epics
-- Support requests and their fixes
-
-:::tip
-Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
-:::
-
-::: tip
-On Github (and Gitlab) you can create an issue template so this structure is always present.
-:::
-
-#### Issue Naming
-
-* Put [epic] prefix in title for epic issues
-* (Optional) Grouping ... e.g. `[ux]` for ux issues
-
-### Estimating
-
-**Github:** Using ZenHub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
-
-**Gitlab:** Estimation support is built in.
-
-
-### Closing Issues
-
-When closing issues you should leave a comment like this so that readers (including you later) are clear at glance what the outcome was and why, including being able to locate quickly any outputs produced as part of resolving the issue.
-
-```
-FIXED | INVALID | WONTFIX | DUPLICATE. *Insert
-your comment about what resolved this with links or issue references.*
-```
-
-Example:
-
-```
-FIXED. See commit {link to commit} and staging  {link to page on staging that was changed}.
-```
-
-```
-WONTFIX. This is not worth doing as the benefit is minor and a lot of work to implement e.g. we have to change the whole way we do search.
-```
-
-Notes:
-
-* When issues are closed in a commit you do not need to add a separate comment.
-* If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
-
-::: tip
-Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
-
-You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'
-:::
-
-### Commit messages' format
-
-```
-[ex][m]: plotly json examples - fixes #23.
-```
-
-That is:
-
-* a tag: [ex] this is an example - you make these tags up and use them consistently.
-* a size: [m] a size of this commit one of xs s m l xl
-* a short descriptive sentence of what you did. I need this as well as what issue this refs as I need to be able to understand the commit on its own without reading something else.
-* Finally anything that involves referencing or closing a github issue. e.g. refs #xx or fixes #xx (fixes and closes are synonymous so use either one)
-
-So command would look like this:
-
-```
-git commit -m '[ex][m]: plotly json examples - fixes #23'
-```
-
 ## User Stories
 
 User stories are a great way of gathering requirements in an agile environment, where one of the key values is responding to change over following a plan. They are a good anchor for conversation that can then take place at the right time. 
@@ -307,47 +197,9 @@ Please go read through the User Stories Page in the handbook: https://handbook.d
   1. Why we need to have a handbook in the company (as an onborder, as an onbordee etc.)
   2. Any subject/project you want to create
 
-## Update your Gitlab onboarding issue 🤩
-
-Now, you know how to create amazingly [user stories](https://handbook.datopian.com/user-stories/) and [issues](https://handbook.datopian.com/onboarding/first-steps/#issues-tasks), try to update your gitlab onboarding issues by following the structure: 
-- user stories
-- acceptance criteria
-- checklist / tasklist etc...
-
 ## Visual Studio Code & Pair Coding
 
 We use Visual Studio Code https://code.visualstudio.com/ for remote pair programming and we recommend it as default editor if you don’t already have one (e.g. vim, emacs etc).
 
-Online tutorial: 
-https://code.visualstudio.com/docs/introvideos/basics
+Online tutorial: https://code.visualstudio.com/docs/introvideos/basics
 
-
-## Integrity
-
-Read more about how we understand and restore integrity
-https://handbook.datopian.com/guide/#_1-integrity-authenticity-and-commitment-to-something-bigger-than-yourself.
-
-### Practice to restore integrity
-1. Give 2-3 examples of what "we can put in place" if we're late for a meeting ("external" to ourselves)
-
-2. Create two situations to instore integrity, including:
-  * Acknowledge your promise (which you missed)
-  * State matter of factly what happened
-  * Look at the impact of not keeping your words
-  * Restore your integrity by saying what you will put in place in future
-
-
-## Getting Things Done (GTD) 
-
-Read [GTD section](https://handbook.datopian.com/getting-things-done/) as homework.
-
-Please generate at least 5 questions that you consider really important if you want to prove whether a person has understood the GTD workflow or not. Imagine you are creating a quiz!
-
-Exercises With the team: 
-  *  Share what did you get from getting things done article with your team members. 
-    * Share the questions you wrote.
-    * Discuss & co-create multiple choice question quiz on Markdown. 
-     
-Bonus: 
-* Read detailed GTD article https://rufuspollock.com/2019/05/27/getting-things-done/ or get yourself the book!
-* Check Todoist app (recommended not neccessary) 
