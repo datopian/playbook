@@ -182,24 +182,3 @@ Let's try it out here https://hackmd.io/
 
 _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
 
-## User Stories
-
-User stories are a great way of gathering requirements in an agile environment, where one of the key values is responding to change over following a plan. They are a good anchor for conversation that can then take place at the right time. 
-
-The typical simple template: _**As a [WHO] I want [WHAT] so that [WHY].**_
-
-Please go read through the User Stories Page in the handbook: https://handbook.datopian.com/user-stories/
-
-### Exercises:
-
-* Give an example of bad user story and explain why it is bad.
-* Please create 2 user stories
-  1. Why we need to have a handbook in the company (as an onborder, as an onbordee etc.)
-  2. Any subject/project you want to create
-
-## Visual Studio Code & Pair Coding
-
-We use Visual Studio Code https://code.visualstudio.com/ for remote pair programming and we recommend it as default editor if you don’t already have one (e.g. vim, emacs etc).
-
-Online tutorial: https://code.visualstudio.com/docs/introvideos/basics
-
