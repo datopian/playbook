@@ -103,16 +103,22 @@ Our general working hours are 8am UK - 5pm UK. Not necessarily when you work but
 You can find team members' phone numbers, usernames, phone numbers in Team [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431).
 
 
-### Holidays
+### Time-off
 
-We ask that you be mindful of business priorities when choosing which days to take off and liaise with you scrum master / product owner. 
+This is something you generally discuss and negotiate with the project teams you are working with and the resourcing group as they are the one's affected.
 
-To notify us of a holiday:
+Remember, we aren't a traditional organization and we practice self-management and self-organizing. Thus, time-off is not something approved by your "boss" (who is your boss??). Rather it is something discussed and negotiated with your peers and the overall resourcing coordination.
 
-* Discuss with your Scrum Team
-* Talk to your Scrum Master / Product Owner 
-* Once agreed then write an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) and CC office@datopian.com to inform them about the dates and the length of your absence.
-* Make sure to add your holiday dates in our [Datopian Team calendar](https://calendar.google.com/calendar?cid=dmlkZXJ1bS5jb21fbzhlbWhqMmJvZmptamF1YTE0cDYzbmlkbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) as well as in your own private caledar.
+We ask that you be mindful of business priorities when choosing which days to take off and that you liaise with your colleagues and team, especially with the scrum master and product owner on any projects you are involved in.
+
+Whilst there is no hard and fast rules we recommend giving reasonable notice, for example for a two week break something like 2 months notice in would be recommended.
+
+How to organize time-off:
+
+* Discuss with your project team(s) and especially with the Scrum Master and Product Owner 
+* Once agreed notify the Resourcing Group to inform them about the dates of your absence.
+* Make sure to add your holiday dates in both the Datopian Team calendar as well as in your own personal calendar.
+
 
 ### Sick leave policy
 
