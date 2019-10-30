@@ -164,9 +164,8 @@ Format:
 
 Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and gitlab.
 
-If you are new to Markdown, see the Markdown tutorial:
+If you are new to Markdown, see the [Markdown tutorial](/markdown/)
 
-https://handbook.datopian.com/markdown/
 
 ## HackMD
     
@@ -181,4 +180,12 @@ Frequent senarios to use HackMD with the team:
 Let's try it out here https://hackmd.io/
 
 _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
+
+
+## Version Control and Git
+
+We use version control and git in particular to manage code and also a lot of content.
+
+See the [Version Control and Git section](/git/) for more information, including an introduction for those new to the topic.
+
 
