@@ -65,3 +65,21 @@ From Apprenticeship Patterns
 >
 > As Paul Graham so rightly says, the typical programming job will put you face-to-face with tedious, vaguely defined, and needlessly complex problems. Nasty, wicked problems. What’s more, you may also be faced with bureaucracy, difficult personalities, and spotty leadership. There will be days, weeks, and months when you question your commitment to the craft. When you are confronted with such problems, it is crucial that your motivations to program are aligned with walking The Long Road.
 
+## Ontology
+
+Ontology = a view on the nature of being.
+
+The word ontology and ontological are derived from the Greek word for being or existence.
+
+We use ontology and ontological in their Heideggerian or modern existential sense: that is, as concerned with the nature and function of Being -- and in particular, the nature and function of Being for human beings.
+
+Note that we are not speaking of individual beings, but of the nature of Being for beings. Another way of speaking about this is: what is the nature of Being for human beings, and what is the possibility of Being for human beings. Or in short, what is it to be a human being.
+
+Ontological is an adjective as in "this is an ontological proposition" (i.e. a proposition related to the nature of Being).
+
+Ontology has two common uses: a) the study of Being ("he is workiong in Ontology) b) a position on the nature of e.g. "our ontology" meaning our position (or belief or hypothesis) about the nature of Being. We generally use it in this latter sense.
+
+(For those with a philosophical background, we do not use ontological in an old or even new metaphysical sense - for example, in a "first causes of things" sense, or in a "takes up space or persists through time" sense, or in a "class of true propositions" sense, or in the Platonic sense of an a priori existence of ideal forms or archetypes.)
+
+Credits: Erhard and Jensen adapted.
+
