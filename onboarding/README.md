@@ -7,10 +7,10 @@ next: ./first-steps/
 
 Welcome to Datopian! 🚀 👩‍🚀
 
-This provides you with a simple step by step process to get set up at Datopian so that you are ready to go. We have designed it to be largely self-service so that you can do it on your own at your own pace.
+This provides you with a simple step by step process to get set up at Datopian so that you are ready to go. We have designed it to be largely self-service so you can do it on your own, at your own pace.
 
 :::tip
-We want your feedback to make the handbook better: be critical, tell us what does not work or what isn’t obvious! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
+We want **your** feedback to help make this handbook better: be critical, tell us what we could improve! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
 :::
 
 ## Prerequisites 
@@ -64,7 +64,19 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 [first-steps]: ./first-steps/
 
 
-## Running the Organization
+## Initial Reading
 
-[Running the Org](https://handbook.datopian.com/running-the-org/#getting-paid) gives you some useful information! You are going to have a general idea about team, hours and the office, it helps you to understand how we proceed payment as well. 
+Start with the [Intro and Overview](/guide) -- read the content and glance through the links but there's no need to follow any of them for now other than these ones which we recommend you read:
+
+* https://datopian.com/ -- have a quick look around
+* [The Culture section](/culture/)
+* [Running the Organization](/running-the-org/) gives you key information about how we run so you have a general idea about team structure, working hours, the office, getting paid etc.
+
+
+## Quiz
+
+Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and 
+
+[quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
+
 

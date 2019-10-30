@@ -167,42 +167,72 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
 Add them to relevant systems:
 
-* G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team. TODO: which teams?
-* GChat: add to relevant channels (if applicable)
+* G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
+* GChat: add to relevant channels esp `onboarding`
 * Gitlab: add as a member of the org, add to relevant teams
 * Github: add as a member of the Datopian org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
 
 
-### Welcome Meeting
+### Welcome Call
 
-During Welcome Meeting with new Datopian:
-
-* Welcome new joiner and formally introduce yourself
-* Ask the onboardee to introduce himself/ herself 
-  * find out a little about his/ her history, what brought them here and what they want to accomplish within Datopian
-* Asks if they have any expectations or requests from Datopian
-* Asks onboardee to address any questions / unclarities regarding what they already read in the Handbook and addresses them. 
-* Takes onboardee through our Core Values and explains them
-* Tells them who they will be working with at the beginning
-* Asks for feedback 
+Here is the suggested agenda for the Welcome Call with the new Datopian. The first two sections should usually take no more than an hour.
 
 :::tip
-Onboarder is to use a meeting doc to capture questions, as well as answers as well as questions oboarder might have to forward to management, in case they don’t know the answer to it.
+The Onboarder should use the onboarding meeting doc to capture questions. The Onboarder can forward to other team members any questions they don’t know the answer to, for example technical questions.
 :::
+
+**Welcome**
+
+* Introduce yourself, confirm that you are the onboarder [5m]
+* Get them to intro themselves [2-3m per person e.g. 15m for 5 ppl]
+* Expectation and requests from them [10m]
+
+**What this call is about -- intro to onboarding and company context**
+
+* We’ve designed the onboarding process to be a self-service one but I’m just going to say a few words to intro you to the company
+* Overview of the company
+  * What we do
+  * Team is global and fully remote. We have team members all over the world from London to Bangalore, New York to Berlin, Kazachstan to Portugal.
+  * Flat, self-organizing self-managing organisational set-up [very brief but this informs the nature of this onboarding process even!]
+* Who they will be working with / Apprentice program [intro Appr Progam Course Lead]
+* Talk about Values & Culture briefly – emphasize we will come back to this and we wanted to flag this now as our emphasis on culture is an important and distinctive part of our approach
+  * Why that’s important to us
+  * Example: Integrity
+
+**Onboarding**
+
+Here, the Onboarder is are largely following the structure of the [Onboarding Guide](/onboarding/).
+
+* Check that they have done prerequisites [15m]
+  * They have access to email
+  * Drives
+  * Making sure they are all set - no blockers
+* Housekeeping [15m] (for Apprentices)
+  * How much time have they got today => Schedule end of day of meeting if possible
+  * When are they available this week.
+  * Schedule the apprentice welcome meeting if not already scheduled
+* First steps [onboardees / apprentices on their own] => follow the onboarding guide and read the first steps. Check in with them regularly [2h]
+* Reference reading [2h]
+* Homework:
+  * Practice markdown and git if you haven’t done that before (do the markdown exercises)
+  * Culture reading on "Value Free Approach to Values" (linked from the culture page)
+  * Do the quiz (if not done already)
+
 
 ### After Welcome Call
 
-Have a meeting a week after Onboarding to catch up and see how new Staff Member is adapting.You should use this opportunity to clarify any unanswered questions as well and to provide feedback regarding the Datopian Quiz.
+You MAY want to have a meeting a week after Onboarding to catch up and see how the new team member is doing. You should use this opportunity to clarify any unanswered questions as well and to provide feedback regarding the Datopian Quiz.
+
 
 ## Onboarding aide-memoir
 
 * Signed contract
 * Access to email, Team drives, Calendar
-* Access to Google Chat, Gitter (if necessary), Github/Gitlab
+* Access to Google Chat, Github/Gitlab
 * Completed phonebook
-* Added to Trello
-* Xero account set up using personal email address
+* Xero account set up
 * Completed Quiz
+
 
 ## Accounting and Finances
 
