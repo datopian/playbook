@@ -12,7 +12,7 @@ Git is a Distributed Version Control System (DVCS).
 
 A Version Control System is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
-Clients don’t just check out the latest snapshot of the files: they fully mirror the repository. Any of the client repositories can be copied back up to the server to restore it. Every checkout is really a full backup of all the data.
+In a *Distributed* Version Control System, clients don’t just check out the latest snapshot of the files: they fully mirror the repository. Any of the client repositories can be copied back up to the server to restore it. Every checkout is really a full sync of all the data.
 
 Read the following:
 
@@ -35,7 +35,7 @@ Github and Gitlab are the main git repository hosting providers.
 
 By default use the command line.
 
-If you want something other than the command line, Visual Studio Code as it has good git integration built-in.
+If you want something other than the command line, use Visual Studio Code as it has good git integration built-in.
 
 ## Getting Started
 
