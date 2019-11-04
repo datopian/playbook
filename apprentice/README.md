@@ -114,3 +114,10 @@ A (Fully Operational) Datopian has competence in the following areas
 
 In addition they are starting to live and exemplify our culture and principles in their way of being.
 
+
+## Guide
+
+Further information about the program is available in the [Guide for Apprentice Program Participants][guide]
+
+[guide]: ./guide/
+
