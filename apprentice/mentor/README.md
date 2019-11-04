@@ -56,21 +56,6 @@ During the one-on-one:
 * Review the upcoming week and what the plan is.
 * Briefly recap the plan for the remaining time with you and make adjustments as necessary.
 
-## ~~When your Apprentice is Rotating to a new Mentor~~
-
-The new Mentor should join the one-on-one during the apprentice retrospective
-if possible. If not possible (most likely because they have an apprentice
-themselves) then meet separately with the new mentor and your apprentice to:
-
-* Review what has been achieved
-* Share your assessment of the apprentice with the new mentor and provide
-  guidance about what next steps you think the apprentice should take
-
-It should be possible to make your assessment openly in front of the Apprentice
-because you should have been communicating openly and honestly about strengths
-and weaknesses throughout their previous time with you. If you aren’t able to
-communicate an assessment to the new mentor in front of the Apprentice,
-then you likely have failed as a mentor.
 
 ## Being an Effective Mentor
 
