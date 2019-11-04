@@ -131,7 +131,7 @@ Please add an "Out of office" and include an alternative contact.
 
 Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/datopian/)!
  
-If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) *(CC office@datopian.com)* and describe your idea. They will either post it for you or give you access so you can do it by yourself.
+If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) *(CC office@datopian.com)* and describe your idea. They will either post it for you or give you access so you can do it by yourself. Feel free to reach out to our [Comms team](mailto:lea.manoussakis@datopian.com) for any further related requests.
 
 
 ## Sharing your magical tools with the Team
