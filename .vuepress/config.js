@@ -29,7 +29,6 @@ module.exports = {
       { text: 'Running the Org', link: '/running-the-org/' },
       { text: 'Ops', link: '/ops/' },
       { text: 'Agile Delivery', link: '/agile/' },
-      { text: 'Job Stories', link: '/job-stories/' },
       {
         text: 'Playbooks',
         items: [

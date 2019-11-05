@@ -35,7 +35,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * [Planning Your Day](/planning-your-day)
 * [Git](/git/)
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
-* [User Stories](/user-stories/)
+* [Job Stories](/job-stories/)
 * [Markdown](/markdown/)
 
 ## Developing
