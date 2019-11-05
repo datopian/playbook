@@ -5,13 +5,16 @@ title: User Stories
 ::: warning
 At Datopian we're moving from user stories to [job stories](/job-stories/).
 :::
+
 # User Stories
 
 User stories are a great way of gathering requirements in an agile environment, where one of the key values is **responding to change** over *following a plan*. They are a good anchor for conversation that can then take place at the right time.
 
-> *Don't like text?* [**This is a good video**](https://www.youtube.com/watch?v=Dtrgg4ZFGe4) *to watch which covers these basics (albeit for a Scrum process, so focus on the user story part of it, not the surroundings)*
+::: tip
+*Don't like text?* [**This is a good video**](https://www.youtube.com/watch?v=Dtrgg4ZFGe4) *to watch which covers these basics (albeit for a Scrum process, so focus on the user story part of it, not the surroundings)*
+:::
 
-## What is a user story?
+## What is a User Story?
 
 A user story is a *short* sentence that encapsulates three things:
 
@@ -29,7 +32,7 @@ Be careful **not** to sneak in any *Hows* into that template. That usually happe
 
 Basically avoid anything that has to do with the actual implementation.
 
-### Bad user stories
+### Bad User Stories
 
 * As a government official I want a Range Rover so that I can get from A to B quickly
 
@@ -39,12 +42,12 @@ Basically avoid anything that has to do with the actual implementation.
 
     * *Problem: A whole lot! What about GNU/Linux and Windows users? What if there is a better typeface out there? What about language of the content? The Why isn't really a why. The list goes on. Don't go into detail. It's bad practice and creates more problems than it solves.*
 
-### Good user stories
+### Good User Stories
 
 * As a government official I want means of transportation so that I can get from A to B quickly
 * As a website visitor I want to know what the website is about so that I can see how it can help me
 
-## Why shouldn't we go into details?
+## Why Shouldn't We Go Into Details?
 
 ![](./media/image09.png)
 
@@ -58,7 +61,7 @@ We also value interactions and individuals over processes and tools. In an ever 
 * "Are A and B in the same city, country, on Earth?",
 * "Are there any policies we need to be aware of?" etc.
 
-## Acceptance of user stories
+## Acceptance of User Stories
 
 Surely the customer would still want to be able to have a say in how things get implemented. That's where acceptance criteria comes in. The customer would create a checklist for each user story *when the time comes* in a joint meeting, based on discussion. That's the key thing. It comes out of a discussion.
 
@@ -72,7 +75,7 @@ This criteria tells the team in a bit more detail what they need to fulfill to d
 
 Then the implementation team might even pick public transportation to solve this requirement. A Range Rover wasn't really needed in the end (albeit this would probably go against the "satisfy the customer" principle but hey! I'm teaching you about user stories here! Stay focussed!).
 
-## How is this managed?
+## How is this Managed?
 
 One key thing we want to get out of user stories is to not scope the requirement in detail until it becomes clear that it's definitely going to be implemented. How then do you know what you'll be doing in the future?
 
@@ -94,7 +97,7 @@ There is a notion of the requirements iceberg or pyramid which tries to visualis
 
 ![](./media/image05.png)
 
-# When should who be involved?
+# When Should Who be Involved?
 
 So the core team has to decide at what stage of the iceberg they want to write the user stories, and that kind of depends on the project, the customer, and the customer's involvement. So we need to better understand *"the team"*.
 
