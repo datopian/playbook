@@ -8,15 +8,15 @@ Job stories give the team more context for the user’s situation and allows the
 
 **When** *\<situation/context\>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
 
-*Example*: 
-> ***When** I'm hungry, in a rush, and not sure when I'll be able to eat next, **I want to** be able to eat something 'on the go' with one hand **so I can** satisfy my hunger and make it to my appointment on time.*
+Example: 
+***When** I'm hungry, in a rush, and not sure when I'll be able to eat next, **I want to** be able to eat something 'on the go' with one hand **so I can** satisfy my hunger and make it to my appointment on time.*
 
 ::: tip
 Define problems, not solutions
 :::
 It is about understanding *what-is*, not creating a *what-should-be*.
 
-## The more context, the better
+## The More Context, the Better
 
 In the image below, the following solutions could work:
 
@@ -36,7 +36,7 @@ In case the product has multiple roles or characters (different from personas), 
 This would be similar to the 'As a ___' clause in a user story.
 
 Using Ebay as an example:
-> ***When a buyer** has already made a bid on an item, they are anxious about missing a counter bid and **want to** immediately receive counter bid notifications, **so they can** have enough time to evaluate and update their own bid.*[^replacing-user-story]
+***When a buyer** has already made a bid on an item, they are anxious about missing a counter bid and **want to** immediately receive counter bid notifications, **so they can** have enough time to evaluate and update their own bid.*[^replacing-user-story]
 
 [^replacing-user-story]: [Klement, Alan. (2013). *Replacing The User Story With The Job Story*. post on JTBD.info](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
@@ -44,7 +44,7 @@ In this case it is helpful to clarify who we’re talking about, a *buyer* or a 
 
 You can read more about characters here: https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69
 
-### Why personas are not that useful
+### Why Personas are Not That Useful
 
 > Because personas focus on creating a story made up of a customer’s attributes, instead of a story that explains a purchase, personas leave the brain in a unsatisfied state. To fix this, in just a split second, the brain decides to make up it’s own story.[^characters]
 
@@ -75,7 +75,7 @@ For a more in depth look into the Jobs to be Done theory:
 
 ## Appendix
 
-### The problem with User Stories
+### The Problem With User Stories
 > When I used to write user stories with my team, my teammates would read them, think they understand them and then go on with their own interpretation of the story, which ended up being different than mine.  I started noticing the problem was with the user stories, and not me, when different engineers would interpret the same story very differently.[^problem-with-user-stories]
 
 [^problem-with-user-stories]: [Klement, Alan. (2013). *The Problem With User Stories and What's Better...*. personal blog on blogspot](https://web.archive.org/web/20160616195445/http://alanklement.blogspot.com/2013/03/the-problem-with-user-stories-and-whats.html)
@@ -92,7 +92,7 @@ To understand why person's are irrelevant, take a look at the following series o
 
 Does having the persona/role in there add much?
 
-### The theory behind Job Stories
+### The Theory Behind Job Stories
 Jobs-As-Progress: a theory that is promoted by Clayton Christensen, Alan Klement and Bob Moesta.[^jobs-as-progress]
 
 [^jobs-as-progress]: [Klement, Alan. (2018). *Know the Two — Very — Different Interpretations of Jobs to be Done*. post on JTBD.info](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
