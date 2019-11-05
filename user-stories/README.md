@@ -2,6 +2,9 @@
 title: User Stories
 ---
 
+::: warning
+At Datopian we're moving from user stories to [job stories](/job-stories/).
+:::
 # User Stories
 
 User stories are a great way of gathering requirements in an agile environment, where one of the key values is **responding to change** over *following a plan*. They are a good anchor for conversation that can then take place at the right time.
@@ -131,4 +134,3 @@ So if the representative helps the team go from coarse to mid-range, the user st
 > *As a side note, because the chickens are there to make sure the pigs can deliver, they will always have to be available to answer questions. Many have picked up the standup activity from the Scrum process to discuss blockers, and in those cases it's important that everyone involved, both pigs and chickens, so the chickens can act quickly to unblock the pigs.*
 
 Now go and have fun with user stories. They shouldn't be a burden. They should make your life easier ...
-
