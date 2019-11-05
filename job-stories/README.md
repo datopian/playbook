@@ -4,7 +4,7 @@ At Datopian we're moving to job stories from [user stories](/user-stories/).
 
 Job stories give the team more context for the user’s situation and allows them to share their viewpoint and create a solution for what the user wants to do.
 
-## Overview / Getting Started / Introduction
+## Quick Start
 
 **When** *\<situation/context\>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
 
@@ -14,6 +14,7 @@ Example:
 ::: tip
 Define problems, not solutions
 :::
+
 It is about understanding *what-is*, not creating a *what-should-be*.
 
 ## The More Context, the Better
@@ -57,18 +58,22 @@ You can read more about characters here: https://medium.com/down-the-rabbit-hole
 ## Further Reading
 
 Comparisson of users stories with job stories:
+
 * [Klement, Alan. (2013). *Replacing The User Story With The Job Story*. post on JTBD.info](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 * [Fiedler, Kyle. (2015). *Converting To Job Stories*. post on thoughtbot](https://thoughtbot.com/blog/converting-to-jobs-stories)
 * [Klement, Alan. *Designing features using Job Stories*. guest post on Intercom](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
   
 Explanation of why it's important not to insert solutions when designing a job story:
+
 * [Klement, Alan. (2013). *5 Tips For Writing A Job Story*. post on JTBD.info](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9#da5a) (see tip 3)
 * [Furnas, Josh. (2017). *Great Innovators Start with Customer Struggles (Not Customer Needs)*. post on JTBD.info](https://jtbd.info/great-innovators-start-with-customer-struggles-not-customer-needs-7f9a4fd9412a)
 
 A good introduction to the Jobs to be Done theory:
+
 * [Klement, Alan. (2016). *What is Jobs to be Done (JTBD)?*. post on JTBD.info](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
 For a more in depth look into the Jobs to be Done theory:
+
 * [Klement, Alan. (2016). *when coffee and kale compete: become great at making products people will buy*. book](http://www.whencoffeeandkalecompete.com/)
 * [*Intercom on Jobs-to-be-Done*. PDF](https://marketing.intercomcdn.com/assets/jtbd/v1/Intercom_on_Jobs-to-be-Done.pdf)
 * Christensen M., Clayton. (2016). *Competing Against Luck: The Story of Innovation and Customer Choice*. book
@@ -98,10 +103,10 @@ Jobs-As-Progress: a theory that is promoted by Clayton Christensen, Alan Klement
 [^jobs-as-progress]: [Klement, Alan. (2018). *Know the Two — Very — Different Interpretations of Jobs to be Done*. post on JTBD.info](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
 
 > The phrase “jobs to be done” carries a lot of meaning with it. The three most important parts are:
-> * Job. Just as an employer hires and fires employees to improve itself, consumers hire and fire products to help them achieve progress. Also like the employer/employee relationship, the product does the work, while the consumer enjoys the benefits of that work.
-> * to be. When something doesn’t exist yet, we can say it is to be.
-A Job to be Done, then, is to create a life-situation that doesn’t exist yet.
-> * Done. When I hire a product and make the progress I desire, then the Job is Done.[^why-the-name]
+>
+>* **Job**. Just as an employer hires and fires employees to improve itself, consumers hire and fire products to help them achieve progress. Also like the employer/employee relationship, the product does the work, while the consumer enjoys the benefits of that work.
+>* **to be**. When something doesn’t exist yet, we can say it is to be. A Job to be Done, then, is to create a life-situation that doesn’t exist yet.
+>* **Done**. When I hire a product and make the progress I desire, then the Job is Done.[^why-the-name]
 
 [^why-the-name]: [Klement, Alan. (2018). *Why Is It Called “Jobs to be Done”? (And Why Is This Important?)*. post on JTBD.info](https://jtbd.info/why-is-it-called-jobs-to-be-done-and-why-is-this-important-7febc880289b)
 
