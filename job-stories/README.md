@@ -52,7 +52,12 @@ You can read more about characters here: https://medium.com/down-the-rabbit-hole
 
 * Prone to prejudice/biases that the team might have for that persona or role.
 * Gives a false sense of knowing the customer. 
-* Products don't match people, they match problems.
+
+::: tip
+Products don't match people, they match problems.[^intercom-pdf]
+:::
+
+[^intercom-pdf]: [*Intercom on Jobs-to-be-Done*. PDF](https://marketing.intercomcdn.com/assets/jtbd/v1/Intercom_on_Jobs-to-be-Done.pdf)
 
 ## Further Reading
 
