@@ -1,6 +1,10 @@
+::: warning
+At Datopian we're moving to job stories from [user stories](/user-stories/).
+:::
+
 # Job Stories
 
-At Datopian we're moving to job stories from [user stories](/user-stories/).
+Like [user stories](/user-stories/), job stories are a great way of gathering requirements in an agile environment, where one of the key values is **responding to change** over *following a plan*. They are a good anchor for conversation that can then take place at the right time.
 
 Job stories give the team more context for the user’s situation and allows them to share their viewpoint and create a solution for what the user wants to do.
 
