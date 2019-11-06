@@ -14,7 +14,6 @@ Example:
 ::: tip
 Define problems, not solutions
 :::
-
 It is about understanding *what-is*, not creating a *what-should-be*.
 
 ## The More Context, the Better

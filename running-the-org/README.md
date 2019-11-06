@@ -105,18 +105,16 @@ You can find team members' phone numbers, usernames, phone numbers in Team [Phon
 
 ### Time-off
 
-This is something you generally discuss and negotiate with the project teams you are working with and the resourcing group as they are the one's affected.
+Remember, we aren't a traditional organization and we practice self-management and self-organizing. Thus, time-off is not something approved by your "boss" (who is your boss?). Rather it is something to discuss and negotiate with your peers and overall resourcing coordination team as they are the ones affected.
 
-Remember, we aren't a traditional organization and we practice self-management and self-organizing. Thus, time-off is not something approved by your "boss" (who is your boss??). Rather it is something discussed and negotiated with your peers and the overall resourcing coordination.
-
-We ask that you be mindful of business priorities when choosing which days to take off and that you liaise with your colleagues and team, especially with the scrum master and product owner on any projects you are involved in.
+In short, we ask that you be mindful of business priorities when choosing which days to take off and that you liaise with your colleagues and team, especially with the scrum master and product owner on any projects you are involved in.
 
 Whilst there is no hard and fast rules we recommend giving reasonable notice, for example for a two week break something like 2 months notice in would be recommended.
 
 How to organize time-off:
 
 * Discuss with your project team(s) and especially with the Scrum Master and Product Owner 
-* Once agreed notify the Resourcing Group to inform them about the dates of your absence.
+* Once agreed notify the Resourcing Group to inform them about the dates of your absence and so they can flag if any issues.
 * Make sure to add your holiday dates in both the Datopian Team calendar as well as in your own personal calendar.
 
 
