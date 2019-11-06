@@ -1,8 +1,9 @@
 # Running the Organization
 
-### Datopian Contact Information
 
-For **ALL** office/finance/admin related inquiries, please email **Office Requests** and CC office@datopian.com
+## Contacting Ops
+
+For **ALL** ops (office/finance/admin) related inquiries, please email **Office Requests** and cc office@datopian.com
 
 To set up the above mentioned **Office Requests** contact, please follow the steps below:
 
@@ -14,6 +15,7 @@ To set up the above mentioned **Office Requests** contact, please follow the ste
     *Email: incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com* 
 
 This automatically generates Gitlab issues for the Office and allows us to keep track on your requests and deal with them promptly.
+
 
 ## Getting Paid
         
@@ -105,7 +107,7 @@ You can find team members' phone numbers, usernames, phone numbers in Team [Phon
 
 ### Time-off
 
-Remember, we aren't a traditional organization and we practice self-management and self-organizing. Thus, time-off is not something approved by your "boss" (who is your boss?). Rather it is something to discuss and negotiate with your peers and overall resourcing coordination team as they are the ones affected.
+Remember, we're not a traditional organization and we practice self-management and self-organizing. Thus, time-off is not something approved by your "boss" (who is your boss?). Rather it is something to discuss and negotiate with your peers and overall resourcing coordination team as they are the ones affected.
 
 In short, we ask that you be mindful of business priorities when choosing which days to take off and that you liaise with your colleagues and team, especially with the scrum master and product owner on any projects you are involved in.
 
@@ -118,7 +120,7 @@ How to organize time-off:
 * Make sure to add your holiday dates in both the Datopian Team calendar as well as in your own personal calendar.
 
 
-### Sick leave policy
+### If You're Ill
 
 If you’re not feeling well and you’re unable to work, notify your Scrum Master / Product Owner as soon as possible. The notified person will then let teammates know.
 
@@ -131,9 +133,3 @@ Firstly, please like us on [Facebook](https://www.facebook.com/datopianltd/) and
  
 If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) *(CC office@datopian.com)* and describe your idea. They will either post it for you or give you access so you can do it by yourself. Feel free to reach out to our [Comms team](mailto:lea.manoussakis@datopian.com) for any further related requests.
 
-
-## Sharing your magical tools with the Team
-        
-The team creates an [inbox] issue for sharing & storing their magical tools / tutorials / free online videos / books / programs / courses or any other helpful and interesting resources/materials. https://gitlab.com/datopian/dojo/onboarding/issues/7
-
-Feel free to add stuff on a regular basis.
