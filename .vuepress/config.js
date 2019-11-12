@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Team Handbook',
+  title: 'Datopian Playbook',
   description: 'A guide to our culture and processes',
   dest: 'public',
   markdown: {
@@ -23,7 +23,6 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
       { text: 'Culture', link: '/culture/' },
       { text: 'Onboarding', link: '/onboarding/' },
       { text: 'Running the Org', link: '/running-the-org/' },
