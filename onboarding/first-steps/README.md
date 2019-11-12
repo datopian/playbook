@@ -107,14 +107,16 @@ Once you have your Google Chat accounts, please let your Onboarder know and they
 
 ### Communication Tools
 
-<mermaid>
+```mermaid
 graph LR
-  sync((Synchronous))
-  async((Asynchronous))
-  sync --> video[Video]
-  async --> chat[Chat - GChat]
-  async --> email[Email]
-</mermaid>
+
+sync((Synchronous))
+async((Asynchronous))
+
+sync --> video[Video]
+async --> chat[Chat - GChat]
+async --> email[Email]
+```
 
 * **Chat** - We use [Google chat](https://chat.google.com/)
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
@@ -188,4 +190,5 @@ We use version control and git in particular to manage code and also a lot of co
 
 See the [Version Control and Git section](/git/) for more information, including an introduction for those new to the topic.
 
+<mermaid/>
 
