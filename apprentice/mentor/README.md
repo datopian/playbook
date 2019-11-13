@@ -104,3 +104,12 @@ During the one-on-one:
 * Use your network to find your apprentice interesting work after the program.
 * Be Socratic. Ask tons of questions.
 
+## Improve the Mentorship 
+
+Feedback is always appreciated at Datopian. 
+
+* Fill out and submit the [Evaluation form for Mentors](https://forms.gle/5f5sfPXL7cLUQiA66) at the end of each week and give feedback about your mentoree.
+* Any ideas for improvements of the Mentorship program are more than welcome.
+
+
+
