@@ -59,9 +59,9 @@ NB: we have drawn this to follow classic software development and omitted certai
 
 There are 3 sub-stages of analysis:
 
-1. **Distinguishing needs** of clients and users
-2. **Designing solutions** that address those needs utilizing and developing our (and others) tools and patterns
-3. **Planning work** to deliver that solution. This includes breaking down a design into tasks, clarifying their dependencies and estimating these.
+1. **Needs**: Capturing and distinguishing needs of clients and users
+2. **Design**: Researching, designing and architecting a solution to address those needs utilizing and developing our (and others) tools and patterns
+3. **Plan**: planning work to deliver that solution. This includes breaking down a design into tasks, clarifying their dependencies and estimating these (i.e. a roadmap).
 
 ```mermaid
 graph TD
