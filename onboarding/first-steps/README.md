@@ -32,7 +32,7 @@ This is my exciting onboarding issue! 🚀
 
 * [ ] I have access to GDrive
   * [ ] Email signature
-  * [ ] Doc Styles
+  * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
   * [ ] Created a calendar meeting
   * [ ] Invited one or more other people to it
