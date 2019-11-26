@@ -3,7 +3,7 @@
 This document is a guide of Datopian’s coding standards for source code in the JavaScript programming language.
 
 ## 1. Formatting
-    
+
 Write all new code in ES6 ([ES6 Coding Standards])
 
 ### 1.1 Block indentation
@@ -48,47 +48,55 @@ method(foo) {
 ### 1.3 Language Features
 
 * Variables, functions and methods should be ```camelCase```
-    * Correct: :thumbsup:
-    ```javascript
-    // good
-    var shapeHeight = 5.0;
-    var shapeWidth = 6.0; 
-    ```
-    * Not correct: :thumbsdown:
-    ```javascript
-    // bad
-    var ShapeHeight = 5.0;
-    var ShapeWidth = 6.0; 
-    ```
+  * Correct: :thumbsup:
+  
+  ```javascript
+  // good
+  var shapeHeight = 5.0;
+  var shapeWidth = 6.0;
+  ```
+
+  * Not correct: :thumbsdown:
+  
+  ```javascript
+  // bad
+  var ShapeHeight = 5.0;
+  var ShapeWidth = 6.0;
+  ```
+
 * Classes are ```TitleCase```
-    * Correct: :thumbsup:
-        ```javascript
-        // good
-        class MovingShape {
-          constructor (id, x, y) {
-            this.id = id
-            this.move(x, y)
-          }
-          move (x, y) {
-            this.x = x
-            this.y = y
-          }
-        }
-        ```
-    * Not correct: :thumbsdown:
-        ```javascript
-        // bad
-        class movingShape {
-          constructor (id, x, y) {
-            this.id = id
-            this.move(x, y)
-          }
-          move (x, y) {
-            this.x = x
-            this.y = y
-          }
-        }
-        ```
+  * Correct: :thumbsup:
+  
+  ```javascript
+   // good
+  class MovingShape {
+    constructor(id, x, y) {
+        this.id = id
+        this.move(x, y)
+    }
+    move(x, y) {
+        this.x = x
+        this.y = y
+    }
+   }
+  ```
+
+  * Not correct: :thumbsdown:
+  
+  ```javascript
+  // bad
+  class movingShape {
+    constructor (id, x, y) {
+      this.id = id
+      this.move(x, y)
+    }
+    move (x, y) {
+      this.x = x
+      this.y = y
+    }
+  }
+  ```
+
 * Don’t use semi-colons
 
 [ES6 Coding Standards]:http://es6-features.org/#Constants
@@ -102,10 +110,10 @@ method(foo) {
 ## 3. Testing
 
 * Use mocha to test code.
-    * https://mochajs.org/
+  * https://mochajs.org/
 * Use Zombie.js or jsdom for tests that require a DOM.
-    * http://zombie.js.org/
-    * https://github.com/jsdom/jsdom
+  * http://zombie.js.org/
+  * https://github.com/jsdom/jsdom
 
 ## 4.  Docstrings
 
