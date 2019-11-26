@@ -54,4 +54,4 @@ so the settings.json looks similar to the following
 
 Now just save the modified `settings.json` configuration file.
 
-![David Anson's GitHub repository][https://github.com/DavidAnson/vscode-markdownlint#install]
+![David Anson's GitHub repository]:https://github.com/DavidAnson/vscode-markdownlint#install
