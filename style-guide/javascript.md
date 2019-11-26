@@ -11,9 +11,10 @@ Write all new code in ES6 ([ES6 Coding Standards])
 * Use spaces; never use tabs
 * 2 space indentation
 
-Correct Indentation:
+Correct Indentation: :thumbsup:
 
 ```javascript
+// good
 method(foo) {
   if (condition(foo)) {
     try {
@@ -25,9 +26,10 @@ method(foo) {
 }
 ```
 
-Incorrect indentation:
+Incorrect indentation: :thumbsdown:
 
 ```javascript
+// bad
 method(foo) {
     if (condition(foo)) {
         try {
@@ -46,19 +48,22 @@ method(foo) {
 ### 1.3 Language Features
 
 * Variables, functions and methods should be ```camelCase```
-    * Correct
+    * Correct: :thumbsup:
     ```javascript
+    // good
     var shapeHeight = 5.0;
     var shapeWidth = 6.0; 
     ```
-    * Not correct
+    * Not correct: :thumbsdown:
     ```javascript
+    // bad
     var ShapeHeight = 5.0;
     var ShapeWidth = 6.0; 
     ```
 * Classes are ```TitleCase```
-    * Correct
+    * Correct: :thumbsup:
         ```javascript
+        // good
         class MovingShape {
           constructor (id, x, y) {
             this.id = id
@@ -70,8 +75,9 @@ method(foo) {
           }
         }
         ```
-    * Not correct
+    * Not correct: :thumbsdown:
         ```javascript
+        // bad
         class movingShape {
           constructor (id, x, y) {
             this.id = id
