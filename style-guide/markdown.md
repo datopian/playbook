@@ -1,17 +1,12 @@
-# Markdown style guide
+# Markdown style guide  
 
-1. Document layout
-2. Headings
-3. Lists
-4. Code
-5. [ TOC ]
-6. Tips and tricks
+ This is a markdown style guide. It has some recommendations, tips and tricks that will useful for you. They will help you format and design great Datopian markdown documents!
 
-## Document layout
 
 In general, most documents benefit from some variation of the following layout:
 
-```
+``` markdown
+
 # Document Title
 
 Short introduction.
@@ -26,6 +21,7 @@ Content.
 
 * https://link-to-more-info
 ``` 
+
 1. `# Document Title:` The first heading should be a level one heading, and should ideally be the same or nearly the same as the filename. The first level one heading is used as the page <title>.
 
 2. `author:` Optional. If you'd like to claim ownership of the document or if you are very proud of it, add yourself under the title. However, revision history generally suffices.
@@ -42,14 +38,22 @@ Content.
 ## Headings
 
 ### ATX-style headings
-```
+
+``` markdown
 ## Heading 2
 ```
-
 Headings with **=** or **-** underlines can be annoying to maintain and don't fit with the rest of the heading syntax. The user has to ask: Does `---` mean H1 or H2?
 
+Bad example: :-1: :x:
+
+``` markdown
+Paris - Is it the most romantic city in the world? 
+---------
 ```
-Heading - do you remember what level? DO NOT DO THIS.
+Good example: :+1: :white_check_mark:
+
+``` markdown
+Paris, Is it the most romantic city in the world? ? 
 ---------
 ```
 
@@ -57,7 +61,9 @@ Heading - do you remember what level? DO NOT DO THIS.
 
 Prefer spacing after # and newlines before and after:
 
-```
+Good example: :+1: :white_check_mark:
+
+```  markdown
 ...text before.
 
 # Heading 1
@@ -67,11 +73,13 @@ Text after...
 
 Lack of spacing makes it a little harder to read in source:
 
-```
+Bad example: :-1: :x:
+
+``` markdown
 ...text before.
 
 # Heading 1
-Text after... DO NOT DO THIS.
+Text after... 
 ```
 
 ## Lists
@@ -80,7 +88,7 @@ Text after... DO NOT DO THIS.
 
 Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, use "lazy" numbering:
 
-```
+``` markdown
 1.  Foo.
 1.  Bar.
     1.  Foofoo.
@@ -90,7 +98,7 @@ Markdown is smart enough to let the resulting HTML render your numbered lists co
 
 However, if the list is small and you don't anticipate changing it, prefer fully numbered lists, because it's nicer to read in source:
 
-```
+``` markdown
 1.  Foo.
 2.  Bar.
 3.  Baz.
@@ -99,8 +107,8 @@ However, if the list is small and you don't anticipate changing it, prefer fully
 ### Nested list spacing
 
 When nesting lists, use a 4 space indent for both numbered and bulleted lists:
-
-```
+ 
+``` markdown
 1.  2 spaces after a numbered list.
     4 space indent for wrapped text.
 2.  2 spaces again.
@@ -115,7 +123,9 @@ When nesting lists, use a 4 space indent for both numbered and bulleted lists:
 
 The following works, but it's very messy:
 
-```
+Bad example: :-1: :x:
+
+``` markdown
 * One space,
 with no indent for wrapped text.
      1. Irregular nesting... DO NOT DO THIS.
@@ -123,7 +133,7 @@ with no indent for wrapped text.
 
 Even when there's no nesting, using the 4 space indent makes layout consistent for wrapped text:
 
-```
+```  markdown
 *   Foo,
     wrapped.
 
@@ -134,7 +144,7 @@ Even when there's no nesting, using the 4 space indent makes layout consistent f
 
 However, when lists are small, not nested, and a single line, one space can suffice for both kinds of lists:
 
-```
+```  markdown
 * Foo
 * Bar
 * Baz.
@@ -149,7 +159,7 @@ However, when lists are small, not nested, and a single line, one space can suff
 
 Backticks (``) designate `inline code`, and will render all wrapped content literally. Use them for short code quotations and field names:
 
-```
+```  markdown
 You'll want to run `really_cool_script.sh arg`.
 
 Pay attention to the `foo_bar_whammy` field in that table.
@@ -157,16 +167,17 @@ Pay attention to the `foo_bar_whammy` field in that table.
 
 Use inline code when referring to file types in an abstract sense, rather than a specific file:
 
-```
+```  markdown
 Be sure to update your `README.md`!
 ```
 
 Backticks are the most common approach for "escaping" Markdown metacharacters; in most situations where escaping would be needed, code font just makes sense anyway.
 
 ### Codeblocks
+
 For code quotations longer than a single line, use a codeblock:
 
-```
+```  
 ```python
 def Foo(self, bar):
   self.bar = bar```
@@ -180,7 +191,7 @@ It is best practice to explicitly declare the language, so that neither the synt
 
 Four-space indenting is also interpreted as a codeblock. These can look cleaner and be easier to read in source, but there is no way to specify the language. We encourage their use when writing many short snippets:
 
-```
+``` markdown
 You'll need to run:
 
     bazel run :thing -- --foo
@@ -197,7 +208,7 @@ And again:
 #### Escape newlines
 
 Because most commandline snippets are intended to be copied and pasted directly into a terminal, it's best practice to escape any newlines. Use a single backslash at the end of the line:
-```
+``` 
 ```shell
 bazel run :target -- --flag --foo=longlonglonglonglongvalue \
 --bar=anotherlonglonglonglonglonglonglonglonglonglongvalue```
@@ -219,7 +230,8 @@ If you need a codeblock within a list, make sure to indent it so as to not break
 
 You can also create a nested code block with 4 spaces. Simply indent 4 additional spaces from the list indentation:
 
-```
+``` 
+
 *   Bullet.
 
         int foo;
@@ -227,21 +239,23 @@ You can also create a nested code block with 4 spaces. Simply indent 4 additiona
 *   Next bullet.
 ```
 
-## [TOC] Table of contents
+## Table of contents
 
 Requires markdown.toc to be true.
 
-Place [TOC] surrounded by blank lines to insert a generated table of contents extracted from the H1, H2, and H3 headers used within the document:
+Place ```[TOC]``` surrounded by blank lines to insert a generated table of contents extracted from the H1, H2, and H3 headers used within the document:
 
-```
+```  markdown
 # Title
 
 [TOC]
 
 ## Section 1
+
 Blah blah...
 
 ## Section 2
+
 Go on...
 ```
 
@@ -258,7 +272,7 @@ See [named anchors](https://gerrit.googlesource.com/gitiles/+/master/Documentati
 
 * Long links make source Markdown difficult to read and break the 80 character wrapping. Wherever possible, **shorten your links.** Markdown link syntax allows you to set a link title, just as HTML does. Write the sentence naturally, then go back and wrap the most appropriate phrase with the link. For example:
 
-  ```
+  ``` markdown
   See the [syntax guide](syntax_guide.md) for more info.
   Or, check out the [style guide](style_guide.md).
   ```
