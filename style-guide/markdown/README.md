@@ -11,7 +11,7 @@ Optional you can install Mermaid markdown plug-in to create nice flow charts in 
 
 ## Change VS Code settings.json file
 
-Open `File -> Preferences -> Settings` or use `Ctrl + ,` for Windows or `CMD + ,` for Mac OS and edit `settings.json` file.
+Open `File -> Preferences -> Settings` or use `Ctrl + ,` (Windows) or `CMD + ,` (Mac OS) and edit `settings.json` file.
 You can also access `settings.json` quickly by opening the command palette `CMD + Shift + P` (Mac OS) or `Ctrl + Shift + P`(Windows)) and type `settings.json`
 
 Add the following content to this file.
