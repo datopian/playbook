@@ -18,17 +18,17 @@ Add the following content to this file.
 
 ``` markdown
 "markdownlint.config": {
-        "MD007": { "indent": 2 },
-        "MD022": { "lines_above": 1,
-                   "lines_below": 1 },
-        "MD024": { "siblings_only": true },
-        "no-bare-urls": false,
-        "no-inline-html": {
-            "allowed_elements": [
-              "mermaid"
-            ]
-          }
-    }
+  "MD007": { "indent": 2 },
+  "MD022": { "lines_above": 1,
+             "lines_below": 1 },
+  "MD024": { "siblings_only": true },
+  "no-bare-urls": false,
+  "no-inline-html": {
+    "allowed_elements": [
+      "mermaid"
+    ]
+  }
+}
 ```
 
 so the settings.json looks similar to the following
@@ -38,17 +38,17 @@ so the settings.json looks similar to the following
     "python.pythonPath": "some_path\\python.exe",
     "git.autofetch": true,
     "markdownlint.config": {
-        "MD007": { "indent": 2 },
-        "MD022": { "lines_above": 1,
-              "lines_below": 1 },
-        "MD024": { "siblings_only": true },
-        "no-bare-urls": false,
-        "no-inline-html": {
-            "allowed_elements": [
-              "mermaid"
-            ]
-          }
-         }
+      "MD007": { "indent": 2 },
+      "MD022": { "lines_above": 1,
+                 "lines_below": 1 },
+      "MD024": { "siblings_only": true },
+      "no-bare-urls": false,
+      "no-inline-html": {
+        "allowed_elements": [
+          "mermaid"
+        ]
+      }
+    }
 }
 ```
 
