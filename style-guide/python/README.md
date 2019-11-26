@@ -68,7 +68,7 @@ Incorrect indentation: :thumbsdown:
 
 ```python
     Bad Example   # Not aligned with opening delimiter
-       foo = long_function_name(var_one, var_two,var_three, 
+       foo = long_function_name(var_one, var_two,var_three,
        var_four)
        meal = (spam,
        beans)
