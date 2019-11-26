@@ -68,7 +68,7 @@ However, if the list is small and you don't anticipate changing it, prefer fully
 
 ``` 
 1.  Foo.
-2.  Bar.
+2.  Bar. 
 3.  Baz.
 ```
 
