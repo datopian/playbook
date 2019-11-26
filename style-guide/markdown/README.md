@@ -52,6 +52,6 @@ so the settings.json looks similar to the following
 }
 ```
 
-Now just save the modified `settings.json` configuration file.
+Now just save the modified `settings.json` configuration file. Your markdown linting settings are activated and ready for use.
 
-![David Anson's GitHub repository]:https://github.com/DavidAnson/vscode-markdownlint#install
+[David Anson's GitHub repository]:https://github.com/DavidAnson/vscode-markdownlint#install
