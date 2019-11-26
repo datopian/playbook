@@ -13,7 +13,7 @@ Write all new code in ES6 ([ES6 Coding Standards])
 
 Correct Indentation:
 
-```
+```javascript
 method(foo) {
   if (condition(foo)) {
     try {
@@ -27,7 +27,7 @@ method(foo) {
 
 Incorrect indentation:
 
-```
+```javascript
 method(foo) {
     if (condition(foo)) {
         try {
@@ -47,18 +47,18 @@ method(foo) {
 
 * Variables, functions and methods should be ```camelCase```
     * Correct
-    ```
+    ```javascript
     var shapeHeight = 5.0;
     var shapeWidth = 6.0; 
     ```
     * Not correct
-    ```
+    ```javascript
     var ShapeHeight = 5.0;
     var ShapeWidth = 6.0; 
     ```
 * Classes are ```TitleCase```
     * Correct
-        ```
+        ```javascript
         class MovingShape {
           constructor (id, x, y) {
             this.id = id
@@ -71,7 +71,7 @@ method(foo) {
         }
         ```
     * Not correct
-        ```
+        ```javascript
         class movingShape {
           constructor (id, x, y) {
             this.id = id
