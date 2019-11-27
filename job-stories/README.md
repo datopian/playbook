@@ -4,20 +4,24 @@ At Datopian we're moving to job stories from [user stories](/user-stories/).
 
 # Job Stories
 
-Like [user stories](/user-stories/), job stories are a great way of gathering requirements in an agile environment, where one of the key values is **responding to change** over *following a plan*. They are a good anchor for conversation that can then take place at the right time.
+Like [user stories](/user-stories/), job stories are a great way of gathering requirements. They are especially in an agile environment, where one of the key values is **responding to change** over *following a plan*.
 
 Job stories give the team more context for the user’s situation and allows them to share their viewpoint and create a solution for what the user wants to do.
 
+Job stories are very similar to user stories with one key difference: personas becomes contexts (and jobs). We prefer job stories to user stories because they focus on a job to be done rather than a persona -- "When I'm on the morning commute and bored" vs "As a a middle-aged, educated person".
+
 ## Quick Start
 
-**When** *\<situation/context\>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
+**When** *<situation/context>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
 
 Example: 
-***When** I'm hungry, in a rush, and not sure when I'll be able to eat next, **I want to** be able to eat something 'on the go' with one hand **so I can** satisfy my hunger and make it to my appointment on time.*
+
+**When** I'm hungry, in a rush, and not sure when I'll be able to eat next, **I want to** be able to eat something 'on the go' with one hand **so I can** satisfy my hunger and make it to my appointment on time.
 
 ::: tip
 Define problems, not solutions
 :::
+
 It is about understanding *what-is*, not creating a *what-should-be*.
 
 ## The More Context, the Better
@@ -29,20 +33,20 @@ In the image below, the following solutions could work:
 * situation version 4: a ready-made slice of pizza given in hand
 
 ![](https://miro.medium.com/max/2048/1*MvlgRZL90wtgSsvmtdZjww.png)
+
 Source: Alan Klement 2013[^5-tips]
 
 [^5-tips]: [Klement, Alan. (2013). _5 Tips For Writing A Job Story_. post on JTBD.info](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
 
 ## Roles / Characters
 
-In case the product has multiple roles or characters (different from personas), it can be helpful to include the role or character in the 'When ___' clause.
+In case the product has multiple roles or characters (different from personas), it can be helpful to include the role or character in the 'When ...' clause.
 
-This would be similar to the 'As a ___' clause in a user story.
+This would be similar to the 'As a ...' clause in a user story.
 
 Using Ebay as an example:
-***When a buyer** has already made a bid on an item, they are anxious about missing a counter bid and **want to** immediately receive counter bid notifications, **so they can** have enough time to evaluate and update their own bid.*[^replacing-user-story]
 
-[^replacing-user-story]: [Klement, Alan. (2013). *Replacing The User Story With The Job Story*. post on JTBD.info](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
+> **When a buyer** has already made a bid on an item, they are anxious about missing a counter bid and **want to** immediately receive counter bid notifications, **so they can** have enough time to evaluate and update their own bid.
 
 In this case it is helpful to clarify who we’re talking about, a *buyer* or a *seller*.
 
@@ -50,9 +54,13 @@ You can read more about characters here: https://medium.com/down-the-rabbit-hole
 
 ### Why Personas are Not That Useful
 
-> Because personas focus on creating a story made up of a customer’s attributes, instead of a story that explains a purchase, personas leave the brain in a unsatisfied state. To fix this, in just a split second, the brain decides to make up it’s own story.[^characters]
+As Alan Klement writes in [Replacing Personas With Characters][replacing]:
 
-[^characters]: [Klement, Alan. (2014). *Replacing Personas With Characters*. post on JTBD.info](https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69)
+[replacing]: https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69
+
+> Because personas focus on creating a story made up of a customer’s attributes, instead of a story that explains a purchase, personas leave the brain in a unsatisfied state. To fix this, in just a split second, the brain decides to make up it’s own story.
+
+This makes them:
 
 * Prone to prejudice/biases that the team might have for that persona or role.
 * Gives a false sense of knowing the customer. 
@@ -61,11 +69,21 @@ You can read more about characters here: https://medium.com/down-the-rabbit-hole
 Products don't match people, they match problems.[^intercom-pdf]
 :::
 
-[^intercom-pdf]: [*Intercom on Jobs-to-be-Done*. PDF](https://marketing.intercomcdn.com/assets/jtbd/v1/Intercom_on_Jobs-to-be-Done.pdf)
+[^intercom-pdf]: [Intercom on Jobs-to-be-Done. PDF](https://marketing.intercomcdn.com/assets/jtbd/v1/Intercom_on_Jobs-to-be-Done.pdf)
 
 ## Further Reading
 
-Comparisson of users stories with job stories:
+Introduction to Job to be Done from Clayton Christiansen (excellent):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfGtw2C95Ms?start=28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Know Your Customers’ "Jobs to Be Done"][jobs-2016]
+* [Marketing Malpractice: The Cause and the Cure (2005][marketing]
+
+[jobs-2016]: https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
+[marketing]: https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure
+
+Comparison of users stories with job stories:
 
 * [Klement, Alan. (2013). *Replacing The User Story With The Job Story*. post on JTBD.info](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 * [Fiedler, Kyle. (2015). *Converting To Job Stories*. post on thoughtbot](https://thoughtbot.com/blog/converting-to-jobs-stories)
