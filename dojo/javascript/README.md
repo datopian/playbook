@@ -1,6 +1,6 @@
 # How to Learn Javascript
 
-Javascript is a scripting language, like [Python](dojo/python), orginialy designed for the Web for both client and server side. It was created in '95 by Brendan Eich [^JS-history].
+Javascript is a scripting language, like [Python](dojo/python), originally designed for the Web for both client and server side. It was created in '95 by Brendan Eich [^JS-history].
 
 In the past it had mostly been used on the client side i.e. in browsers to create and control dynamic web content e.g. interactive forms, autocomplete suggestions, animations, slideshows, ...
 
@@ -41,7 +41,7 @@ Javascript is not to be confused with Java. They are 2 different languages.
 
 * Tutorials
 
-  * [Youtube channel](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+  * [YouTube channel](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 * Blogposts
 
@@ -63,7 +63,7 @@ Testing React:
 
   * [http://www.bebetterdeveloper.com/coding/getting-started-react-mocha.html](http://www.bebetterdeveloper.com/coding/getting-started-react-mocha.html)
 
-> I find very useful video tutorials on youtube channel. Guy explains things very clearly for people who have idea what react is (thought knowledge of Javascript is pretty much required).
+> I find very useful video tutorials on YouTube channel. Guy explains things very clearly for people who have idea what react is (thought knowledge of Javascript is pretty much required).
 >
 > Blog posts are very useful if you are going to work with vega or some other visualization libraries or tools.
 >
