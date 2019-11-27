@@ -1,57 +1,260 @@
-# Setting-up Datopian Мarkdown Style in VS Code
+# Markdown style guide
 
-We use David Anson's VS Code markdownlint as the basis for our markdown rules.
+This style guide contains some useful recommendations, tips and tricks for using markdown.
+They will help you format and design great Datopian markdown documents!
 
-## Installation of markdownlint plug-in to VS Code
+## Linting
 
-Open VS Code and go to Extensions or `Ctrl + Shift + X`(Windows) or `CMD + Shift + X` (Mac OS). Then type `markdownlint`, select Markdownlint by David Anson and install it.
-Additional detailed installation instructions can be found on [David Anson's GitHub repository].
+There is a linter called [markdownlint] for which we have created a Datopian configuration, which can be found, together with instructions [here](/style-guide/markdown/linting).
 
-Optional you can install Mermaid markdown plug-in to create nice flow charts in markdown.
+[markdownlint]: https://github.com/DavidAnson/markdownlint
 
-## Change VS Code settings.json file
+## Headings
 
-Open `File -> Preferences -> Settings` or use `Ctrl + ,` (Windows) or `CMD + ,` (Mac OS) and edit `settings.json` file.
-You can also access `settings.json` quickly by opening the command palette `CMD + Shift + P` (Mac OS) or `Ctrl + Shift + P`(Windows)) and type `settings.json`
+### ATX-style headings
 
-Add the following content to this file.
-
-``` markdown
-"markdownlint.config": {
-  "MD007": { "indent": 2 },
-  "MD022": { "lines_above": 1,
-             "lines_below": 1 },
-  "MD024": { "siblings_only": true },
-  "no-bare-urls": false,
-  "no-inline-html": {
-    "allowed_elements": [
-      "mermaid"
-    ]
-  }
-}
+```markdown
+## Heading 2
 ```
 
-so the settings.json looks similar to the following
+Headings with **=** or **-** underlines can be annoying to maintain and don't fit with the rest of the heading syntax. The user has to ask: Does `---` mean H1 or H2?
 
-``` markdown
-{
-    "python.pythonPath": "some_path\\python.exe",
-    "git.autofetch": true,
-    "markdownlint.config": {
-      "MD007": { "indent": 2 },
-      "MD022": { "lines_above": 1,
-                 "lines_below": 1 },
-      "MD024": { "siblings_only": true },
-      "no-bare-urls": false,
-      "no-inline-html": {
-        "allowed_elements": [
-          "mermaid"
-        ]
-      }
-    }
-}
+Bad example: :-1: :x:
+
+```markdown
+Paris - Is it the most romantic city in the world?
+---------
 ```
 
-Now just save the modified `settings.json` configuration file. Your markdown linting settings are activated and ready for use.
+Good example: :+1: :white_check_mark:
 
-[David Anson's GitHub repository]:https://github.com/DavidAnson/vscode-markdownlint#install
+```markdown
+Paris, Is it the most romantic city in the world? ?
+---------
+```
+
+### Add spacing to headings
+
+Prefer spacing after # and newlines before and after:
+
+Good example: :+1: :white_check_mark:
+
+```markdown
+...text before.
+
+# Heading 1
+
+Text after...
+```
+
+Lack of spacing makes it a little harder to read in source:
+
+Bad example: :-1: :x:
+
+```markdown
+...text before.
+
+# Heading 1
+Text after...
+```
+
+## Lists
+
+### Use lazy numbering for long lists
+
+Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, use "lazy" numbering:
+
+```markdown
+1.  Foo.
+1.  Bar.
+    1.  Foofoo.
+    1.  Barbar.
+1.  Baz.
+```
+
+However, if the list is small and you don't anticipate changing it, prefer fully numbered lists, because it's nicer to read in source:
+
+```markdown
+1.  Foo.
+2.  Bar.
+3.  Baz.
+```
+
+### Nested list spacing
+
+When nesting lists, use a 4 space indent for both numbered and bulleted lists:
+
+```markdown
+1.  2 spaces after a numbered list.
+    4 space indent for wrapped text.
+2.  2 spaces again.
+
+*   3 spaces after a bullet.
+    4 space indent for wrapped text.
+    1.  2 spaces after a numbered list.
+        8 space indent for the wrapped text of a nested list.
+    2.  Looks nice, doesn't it?
+*   3 spaces after a bullet.
+```
+
+The following works, but it's very messy:
+
+Bad example: :-1: :x:
+
+```markdown
+* One space,
+with no indent for wrapped text.
+     1. Irregular nesting... DO NOT DO THIS.
+```
+
+Even when there's no nesting, using the 4 space indent makes layout consistent for wrapped text:
+
+```markdown
+*   Foo,
+    wrapped.
+
+1.  2 spaces
+    and 4 space indenting.
+2.  2 spaces again.
+```
+
+However, when lists are small, not nested, and a single line, one space can suffice for both kinds of lists:
+
+```markdown
+* Foo
+* Bar
+* Baz.
+
+1. Foo.
+2. Bar.
+```
+
+## Code
+
+### Inline
+
+Backticks (``) designate `inline code`, and will render all wrapped content literally. Use them for short code quotations and field names:
+
+```markdown
+You'll want to run `really_cool_script.sh arg`.
+
+Pay attention to the `foo_bar_whammy` field in that table.
+```
+
+Use inline code when referring to file types in an abstract sense, rather than a specific file:
+
+```markdown
+Be sure to update your `README.md`!
+```
+
+Backticks are the most common approach for "escaping" Markdown metacharacters; in most situations where escaping would be needed, code font just makes sense anyway.
+
+### Codeblocks
+
+For code quotations longer than a single line, use a code block:
+
+``````markdown
+```python
+def Foo(self, bar):
+  self.bar = bar
+```
+``````
+
+#### Declare the language
+
+It is best practice to explicitly declare the language, so that neither the syntax highlighter nor the text editor must guess.
+
+#### Indented code blocks are sometimes cleaner
+
+Four-space indenting is also interpreted as a code block. These can look cleaner and be easier to read in source, but there is no way to specify the language. We encourage their use when writing many short snippets:
+
+```markdown
+You'll need to run:
+
+    bazel run :thing -- --foo
+
+And then:
+
+    bazel run :another_thing -- --bar
+
+And again:
+
+    bazel run :yet_again -- --baz
+```
+
+#### Escape newlines
+
+Because most command line snippets are intended to be copied and pasted directly into a terminal, it's best practice to escape any newlines. Use a single backslash at the end of the line:
+
+``````markdown
+```shell
+bazel run :target -- --flag --foo=longlonglonglonglongvalue \
+--bar=anotherlonglonglonglonglonglonglonglonglonglongvalue
+```
+``````
+
+#### Nest code blocks within lists
+
+If you need a code block within a list, make sure to indent it so as to not break the list:
+
+``````markdown
+*   Bullet.
+
+    ```c++
+    int foo;
+    ```
+
+*   Next bullet.
+```
+
+You can also create a nested code block with 4 spaces. Simply indent 4 additional spaces from the list indentation:
+
+```markdown
+*   Bullet.
+
+        int foo;
+
+*   Next bullet.
+```
+
+## Table of contents
+
+Requires markdown.toc to be true.
+
+Place `[TOC]` surrounded by blank lines to insert a generated table of contents extracted from the H1, H2, and H3 headers used within the document:
+
+```markdown
+# Title
+
+[TOC]
+
+## Section 1
+
+Blah blah...
+
+## Section 2
+
+Go on...
+```
+
+H1 headers are omitted from the table of contents if there is only one level one header present. This allows H1 to be used as the document title without creating an unnecessary entry in the table of contents.
+
+Anchors are automatically extracted from the headers.
+See [named anchors](https://gerrit.googlesource.com/gitiles/+/master/Documentation/markdown.md#Named-anchors).
+
+## Tips and tricks
+
+* The [CommonMark spec](https://spec.commonmark.org/0.20/#hard-line-breaks) decrees that two spaces at the end of a line should insert a `<br />` tag. However, many directories have a trailing whitespace pre-submit check in place, and many IDEs will clean it up anyway. Avoid the need for a `<br />` altogether. Markdown creates **paragraph tags simply with newlines:** get used to that.
+
+* Obey projects' character line limit wherever possible. Otherwise, wrap your text. Long URLs and tables are the usual suspects when breaking the rule. Headings can't be wrapped, but you better keep them short. Often, **inserting a newline before a long link** preserves readability while minimizing the overflow.
+
+* Long links make source Markdown difficult to read and break the 80 character wrapping. Wherever possible, **shorten your links.** Markdown link syntax allows you to set a link title, just as HTML does. Write the sentence naturally, then go back and wrap the most appropriate phrase with the link. For example:
+
+```markdown
+See the [syntax guide](syntax_guide.md) for more info.
+Or, check out the [style guide](style_guide.md).
+```
+
+* Use images sparingly, and **prefer simple screenshots.** This guide is designed around the idea that plain text gets users down to the business of communication faster with less reader distraction and author procrastination. However, it's sometimes very helpful to show what you mean.
+
+* **Prefer lists to tables.**  Any tables in your Markdown should be small. Complex, large tables are difficult to read in source and most importantly, a pain to modify later.
