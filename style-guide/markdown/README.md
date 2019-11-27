@@ -1,4 +1,4 @@
-# Markdown style guide
+# Markdown Style Guide
 
 This style guide contains some useful recommendations, tips and tricks for using markdown.
 They will help you format and design great Datopian markdown documents!
@@ -11,7 +11,7 @@ There is a linter called [markdownlint] for which we have created a Datopian con
 
 ## Headings
 
-### ATX-style headings
+### ATX-style Headings
 
 ```markdown
 ## Heading 2
@@ -33,7 +33,7 @@ Paris, Is it the most romantic city in the world? ?
 ---------
 ```
 
-### Add spacing to headings
+### Add Spacing to Headings
 
 Prefer spacing after # and newlines before and after:
 
@@ -60,7 +60,7 @@ Text after...
 
 ## Lists
 
-### Use lazy numbering for long lists
+### Use Lazy Numbering for Long Lists
 
 Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, use "lazy" numbering:
 
@@ -80,7 +80,7 @@ However, if the list is small and you don't anticipate changing it, prefer fully
 3.  Baz.
 ```
 
-### Nested list spacing
+### Nested List Spacing
 
 When nesting lists, use a 4 space indent for both numbered and bulleted lists:
 
@@ -149,7 +149,7 @@ Be sure to update your `README.md`!
 
 Backticks are the most common approach for "escaping" Markdown metacharacters; in most situations where escaping would be needed, code font just makes sense anyway.
 
-### Codeblocks
+### Code blocks
 
 For code quotations longer than a single line, use a code block:
 
@@ -160,11 +160,11 @@ def Foo(self, bar):
 ```
 ``````
 
-#### Declare the language
+#### Declare the Language
 
 It is best practice to explicitly declare the language, so that neither the syntax highlighter nor the text editor must guess.
 
-#### Indented code blocks are sometimes cleaner
+#### Indented Code Blocks are Sometimes Cleaner
 
 Four-space indenting is also interpreted as a code block. These can look cleaner and be easier to read in source, but there is no way to specify the language. We encourage their use when writing many short snippets:
 
@@ -182,7 +182,7 @@ And again:
     bazel run :yet_again -- --baz
 ```
 
-#### Escape newlines
+#### Escape Newlines
 
 Because most command line snippets are intended to be copied and pasted directly into a terminal, it's best practice to escape any newlines. Use a single backslash at the end of the line:
 
@@ -193,7 +193,7 @@ bazel run :target -- --flag --foo=longlonglonglonglongvalue \
 ```
 ``````
 
-#### Nest code blocks within lists
+#### Nest Code Blocks Within Lists
 
 If you need a code block within a list, make sure to indent it so as to not break the list:
 
@@ -217,7 +217,7 @@ You can also create a nested code block with 4 spaces. Simply indent 4 additiona
 *   Next bullet.
 ```
 
-## Table of contents
+## Table of Contents
 
 Requires markdown.toc to be true.
 
@@ -242,7 +242,7 @@ H1 headers are omitted from the table of contents if there is only one level one
 Anchors are automatically extracted from the headers.
 See [named anchors](https://gerrit.googlesource.com/gitiles/+/master/Documentation/markdown.md#Named-anchors).
 
-## Tips and tricks
+## Tips and Tricks
 
 * The [CommonMark spec](https://spec.commonmark.org/0.20/#hard-line-breaks) decrees that two spaces at the end of a line should insert a `<br />` tag. However, many directories have a trailing whitespace pre-submit check in place, and many IDEs will clean it up anyway. Avoid the need for a `<br />` altogether. Markdown creates **paragraph tags simply with newlines:** get used to that.
 
