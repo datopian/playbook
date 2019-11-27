@@ -14,9 +14,9 @@ You are going to track your onboarding progress using a Gitlab issue in the onbo
 
 * Please go to https://gitlab.com/datopian/onboarding/issues
 * Create your own Gitlab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
-* Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc). 
+* Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc).
 
-```
+```markdown
 This is my exciting onboarding issue! 🚀
 
 ## Onboarding Essentials
@@ -32,12 +32,14 @@ This is my exciting onboarding issue! 🚀
 
 * [ ] I have access to GDrive
   * [ ] Email signature
-  * [ ] Doc Styles
+  * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
+  * [ ] [settings] Add working hours
+  * [ ] [settings] Check if your time zone is correct
   * [ ] Created a calendar meeting
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
-  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate). 
+  * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
   * [ ] Confirmed I have the all hands meeting in my calendar
 * [ ] How we communicate
   * [ ] Go on GChat and message each other directly
@@ -50,7 +52,6 @@ This is my exciting onboarding issue! 🚀
   * [ ] Structure a meeting as if you were going to introduce someone to the place where you live
   * [ ] Review each others and sign it off
 ```
-
 
 ## Setting up Google Drive
 
@@ -78,24 +79,31 @@ For **Documents:**
 * Start writing.
 * Double check you got it correctly - you can compare with the template
 
-
 ## Calendar
 
 You have been given access to create, edit and share in Datopian Team calendar. We use the team calendar to track people's holidays and business trips.
 
 It is expected that you keep your calendar up to date, so that if it shows as free, that means a colleague can add a meeting during that period.
 
-You can also add the calendars of the teammates you're mostly working with so you can easily see their availability:
+### Set Your Working Hours
 
-*  Go to your calendar and find the "Add calendar" section on the left sidebar
-* Enter the email of the person you'd like to add
-* You've now added the calendar
-* Google Calendar automatically creates a Google Hangout Meets link.
+Set your working hours in the Google Calendar settings so that people automatically get warned when they try to schedule a meeting outside of your working hours.
 
-*Also, talking of meetings, we have a weekly all hands, this will be in your Datopian calendar once you sign in to your email.*
+For instructions on how to set your working hours, see https://support.google.com/calendar/answer/7638168?hl=en
 
+Working hours are according to the primary time zone you have set in Google Calendar.
+For info on where to find your primary time zone in the settings, see https://support.google.com/calendar/answer/37064?hl=en&co=GENIE.Platform=Desktop
 
-## How we communicate
+### How To
+
+* To see someone else's calendar, see others' calendars side by side or find a time that someone is free, see: https://support.google.com/calendar/answer/6294878?co=GENIE.Platform%3DDesktop&hl=en
+* You can also add the calendars of the teammates you're mostly working with so you can easily see their availability. For instructions, see https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en
+
+::: tip
+We have a weekly all hands, this will be in your Datopian calendar once you sign in to your email.
+:::
+
+## How We Communicate
 
 *As a virtual organization we need to have efficient, reliable, cost-effective ways to communicate and share material.*
 
@@ -128,7 +136,6 @@ async --> email[Email]
 * **Email** - we use Gmail
 * **Documents** - GDrive for all internal documents, we also use Hackmd.
 
-
 ## Standups
 
 The Team has a daily stand-up on Google chats in the Standup channel.
@@ -146,7 +153,6 @@ Format:
 * Blockers (Is there something getting in the way for you to complete your tasks)
 * Availability (What is your availability for today?)
 
-
 ## Meetings
 
 * For all meetings we should have a meeting doc. Usually if meetings are regular we have a single meeting doc for all those meetings (i.e "Admin meeting doc") and we then update by adding new date of the meeting.
@@ -161,28 +167,26 @@ Format:
 
 [meeting template]: https://docs.google.com/document/d/15tG_Bd-SxWQMUH9zNnft2kcxihqLwIccbbOpIhoUH8c/edit#
 
-
 ## Markdown
 
 Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and gitlab.
 
 If you are new to Markdown, see the [Markdown tutorial](/markdown/)
 
-
 ## HackMD
-    
-We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD alos gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format. 
 
-Frequent senarios to use HackMD with the team: 
-  * as scratch pad for brainstorming to generate ideas of a project or a document 
-  * as essential document to co-work a project with team members, 
-  * as draft for gitlab issues 
-  * as draft before git commit, etc...
+We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD alos gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format.
+
+Frequent senarios to use HackMD with the team:
+
+* as scratch pad for brainstorming to generate ideas of a project or a document
+* as essential document to co-work a project with team members,
+* as draft for gitlab issues
+* as draft before git commit, etc...
 
 Let's try it out here https://hackmd.io/
 
 _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
-
 
 ## Version Control and Git
 
@@ -190,5 +194,4 @@ We use version control and git in particular to manage code and also a lot of co
 
 See the [Version Control and Git section](/git/) for more information, including an introduction for those new to the topic.
 
-<mermaid/>
-
+<mermaid />

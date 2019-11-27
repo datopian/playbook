@@ -96,6 +96,10 @@ _Note: Remember to store all receipts from the trip or else they can’t get rei
 
 ## Team, Hours and Office
 
+### Timezone
+
+The usual timezone we use in Datopian Chats is BST (unless otherwise agreed within your team).
+
 ### Core Hours
 
 Our general working hours are 8am UK - 5pm UK. Not necessarily when you work but when it is permissible to schedule meetings. 

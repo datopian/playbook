@@ -41,7 +41,17 @@ The contract should be signed within **3 working days**, unless otherwise agreed
 
 ### Request Contract Creation
 
-If the Ops team should create the contract (and initiate the onboarding process) fill in [this form &raquo;](https://goo.gl/forms/nX7SZe379gdN2xfp2)
+Follow the steps below if the Ops team should create the contract and initiate the onboarding process:
+
+1. Once you have shared the [Key principles Email after Verbal Agreement](https://docs.google.com/document/d/1iyismjORzPQywZB_ASPLLenRX3xKZ3FvP4L1AWLa-_A/edit#heading=h.uyjqu05q3flr) with the future contractor and they have agreed, you are to forward this email to office@datopian.com
+2. Request a contract and/or onboarding
+3. Make sure that your email contains the key information for drafting a contract:
+    * Name of contractor
+    * Role / Services they will be providing
+    * Start date
+    * Rate
+    * Urgency level *(optional)*
+4. The ops team will pick it up from this point and initiate the contract creation and the onboarding process
 
 ### Create the Contract
 
