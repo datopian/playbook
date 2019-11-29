@@ -120,7 +120,7 @@ Whilst there is no hard and fast rules we recommend giving reasonable notice, fo
 How to organize time-off:
 
 * Discuss with your project team(s) and especially with the Scrum Master and Product Owner 
-* Once agreed notify the Resourcing Group to inform them about the dates of your absence and so they can flag if any issues.
+* Once agreed notify resourcing@datopian.com to inform them about the dates of your absence and so they can flag if any issues.
 * Make sure to add your holiday dates in both the Datopian Team calendar as well as in your own personal calendar.
 
 
