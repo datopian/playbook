@@ -10,7 +10,7 @@ This document outlines coding standards for use at Datopian. It is a living docu
 
 * We use Python and Javascript (Node.js). If you plan to develop in another language please flag this and discuss.
 * Tests are required. Unit tests, as well as functional and integration tests. Aiming for test coverage of 80% and above is desirable.
-  * Tests must be automated via a continuous integration platform that is triggered when code is pushed to the canonical repository. 
+  * Tests must be automated via a continuous integration platform that is triggered when code is pushed to the canonical repository.
 * Documentation is required for all code. Documentation is just as important as tests.
   * Document functions, classes, modules and packages with docstrings.
   * Provide a great `README.md` file with examples of how to use the code.
@@ -39,110 +39,11 @@ For example apps that implement the Datopian preferences, see the following:
 * [oki lib in Javascript](https://github.com/okfn/oki-js)
 * [oki lib in Python](https://github.com/okfn/oki-py)
 
-## Style and linting
+### Style Guides
 
-### Python
-
-1. Follow the Python Style Guide (PSG) as formulated in PEP-8: http://www.python.org/dev/peps/pep-0008/
-2. Use `pylint` to lint code.
-
-The critical points are:
-
-* Use spaces; never use tabs
-* 4 space indentation
-* 79 character line limit
-* Variables, functions and methods should be `lower_case_with_underscores`
-* Classes are `TitleCase`
-
-And other preferences:
-
-* Use ' and not " as the quote character by default
-* When writing a method, consider if it is really a method (needs `self`) or if it would be better as a utility function
-* When writing a `@classmethod`, consider if it really needs the class (needs `cls`) or it would be better as a utility function or factory class
-
-#### Python 2/3
-
-As a rule, all Python code should be written to support Python 3. No code should be written to be compatible with Python 2 only.
-
-The [python porting guide](https://docs.python.org/3/howto/pyporting.html) has great, practical advice on writing code for Python 2 and 3, if strictly necessary. Some choose to use helper libraries like [`six`](https://pypi.python.org/pypi/six). In any case, it is strongly recommend to follow the advice from the Python porting guide and add the following snippet to all Python modules to ensure API consistency for strings, division, imports, and the print function.
-
-```
-# -*- coding: utf-8 -*-
-from __future__ import division
-from __future__ import print_function
-from __future__ import absolute_import
-from __future__ import unicode_literals
-```
-
-### Javascript
-
-1. Use `eslint` to lint code.
-2. Prefer to write all new code in `ES6` and compile/transpile with Webpack. This applies to frontend and backend code. In some cases, the cost of transpilation (inflated file size) is too great (for small utility libraries), so use judgement.
-
-The critical points are:
-
-* Use spaces; never use tabs
-* 2 space indentation
-* 79 character line limit
-* Variables, functions and methods should be `camelCase`
-* Classes are `TitleCase`
-
-And other preferences:
-
-* Don't use semi-colons in `ES6` or any code that you are transpiling - it is quite unnecessary.
-
-## Testing
-
-### Python
-
-1. Use `tox` with `py.test` to test code.
-
-### Javascript
-
-1. Use `mocha` to test code.
-2. Use `Zombie.js` or `jsdom` for tests that require a DOM.
-
-## Documentation
-
-### Python
-
-#### Docstrings
-
-Use Sphinx-style or Google-style documentation conventions.
-
-* http://packages.python.org/an_example_pypi_project/sphinx.html#function-definitions
-* https://google.github.io/styleguide/pyguide.html#Comments
-
-#### User documentation
-
-Prefer to make really good `README.md` files, rather than implementing a full documentation framework.
-
-### Javascript
-
-#### Docstrings
-
-Use Google-style documentation conventions.
-
-* https://google.github.io/styleguide/javascriptguide.xml#Comments
-
-#### User documentation
-
-Prefer to make really good `README.md` files, rather than implementing a full documentation framework. 
-
-## Frameworks
-
-We prefer the following frameworks and libraries. If you want to use an *alternative to one of these please flag this before starting any work.*
-
-### Python
-
-* Flask
-* Click
-
-### Javascript
-
-* lodash
-* Express
-* React (VueJS is possible esp for lightweight projects -- please ask)
+* [Javascript](/style-guide/javascript/)
+* [Python](/style-guide/python/)
+* [Markdown](/style-guide/markdown/)
 
 ## Version control
 
@@ -197,10 +98,9 @@ We support modern browsers. Notably, IE 10 and above. Our browser support is in 
 
 * http://docs.python-guide.org/en/latest/
 
-
 ## Commit messages' format
 
-```
+```bash
 [ex][m]: plotly json examples - fixes #23.
 ```
 
@@ -213,7 +113,6 @@ That is:
 
 So command would look like this:
 
+```bash
+git commit -m '[ex][m]: plotly json examples - fixes #23.'
 ```
-git commit -m '[ex][m]: plotly json examples - fixes #23'
-```
-
