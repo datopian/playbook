@@ -38,6 +38,24 @@ When one is complete with any aspect of the past and therefore the past has no c
 
 Often used in the phrase "Getting Complete". Also "Whole and Complete".
 
+## Racket
+
+Racket = fixed way of being + a persistent complaint
+
+Reaction to a real or imagined threat.
+
+|              **Payoff**              |          **Cost**          |
+|:------------------------------------:|:--------------------------:|
+|             Right / Wrong            |       Love / Affinity      |
+|      Dominate / Avoid Domination     |    Vitality / Well-being   |
+| Justify yourself / Invalidate Others |       Self-expression      |
+|              Win / Lose              | Satisfaction / Fulfillment |
+
+Fundamental payoff: Avoid Responsibility
+Fundamental cost: Aliveness
+
+Credit: Landmark Worldwide
+
 ## Responsibility
 
 "Responsibility begins with the willingness to take the stand that one is cause in the matter of one’s life. It is a declaration not an assertion, that is, it is a context from which one chooses to live. Responsibility is not burden, fault, praise, blame, credit, shame or guilt. In responsibility, there is no evaluation of good or bad, right or wrong. There is simply what’s so, and the stand you choose to take on what’s so. Being responsible starts with the willingness to deal with a situation from the view of life that you are the generator of what you do, what you have and what you are. That is not the truth. It is a place to stand. No one can make you responsible, nor can you impose responsibility on another. It is a grace you give yourself – an empowering context that leaves you with a say in the matter of life."
