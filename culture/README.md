@@ -4,6 +4,8 @@ A culture is "the way a community or organization does things". It is the combin
 
 Culture is often implicit rather than explicit. It is usually undocumented, unlike, say, the way to prepare an invoice or to set up a laptop. This is our attempt to document our culture, to make it more explicit and therefore to make it easier to navigate, participate in and contribute to, especially for newcomers.
 
+At Datopian we stand for an extraordinary culture and we are an enterprise where culture comes first.
+
 ## Ontology
 
 All culture is rooted in an (implicit) ontology: a set of beliefs about "being", that is, how human beings are and how they operate.
@@ -36,14 +38,29 @@ We also believe that much that gets in the way of realising that nature: fear, i
 * **Looking good / avoiding looking bad**: we often are concerned with how we appear to others -- rather than actual outcomes in reality
 * **Judging**: to make ourselves, others and situations "wrong" (or "right"), assessing them as good and bad (and making these assessments on very little evidence)
 * **Story-making**: we make up narrative and stories about people and situations and these stories are distinct from "what (actually) happened". These stories are very powerful and rapidly start to frame and color what we see like a pair of tinted glasses.
-* **Being inconsistent / Lacking self-control**: We are inconsistent decision makers -- you can even imagine there are "multiple yous".[^mcgilchrist]: we aren't consistent in our decision making, we have impulse control / self control issues. I want to be healthy but then I eat the donuts.
+* **Being inconsistent / Lacking self-control**: we aren't consistent in our decision making, we have impulse control / self control issues that mean we struggle to maintain committed to choices especially the choices most beneficial to us. For example, you may have decided you want to get fit and deeply want that but when the alarm goes off at 6:30am for your early morning run you hit the snooze button. Or you know you want to go bed early so you are fresh tomorrow but when the next episode option comes up on netflix you hit yes. You can even imagine there are "multiple yous":[^mcgilchrist] I want to be healthy but then I eat the donuts.
 
 [^mcgilchrist]: The idea of multiple yous actually has growing evidence in neuroscience. See, for example McGilchrist's the Master and his Emissary which provides a lot of evidence that your right and left hemisphere see the world differently and would operate differently. Similarly, Kahnemann and Tversky's work can be framed in terms of 2 parallel decision making processes: a fast and a slow one. One way to explain self-control or inconsistent decision-making is to imagine at least two "yous" in decision making and maybe more e.g.  matrix of four between self control + impulsive and fast / slow (i.e. heuristic and reasoned).
 
+## Ontogeny
+
+Linked to an ontology is an ontogeny: a belief about how we got to be the way we are and how that can change (or "transform").
+
+Ontogeny is not about how we acquire knowledge or learn new skills. It is focused on how we come to "be" and our "ways of being" -- i.e. personality, attitudes, will and consciousness.
+
+:::warning
+This section is incomplete.
+:::
 
 ## Character Strengths
 
 These are the character strengths we seek to uncover and develop in our team members.
+
+Before we list them we mention briefly some of the "why" behind them:
+
+* We are remote and distributed => need to self-manage, need to (over-)communicate esp re breakdowns, integrity
+* We have team-mates and clients from many different nationalities and cultures => be explicit in your communication
+* Performance and quality are important => integrity and coachability as well as a base of intelligence and ability to learn
 
 ### Coachability
 
@@ -57,9 +74,9 @@ Opposite is uncoachable -- you don’t take feedback and/or don’t act on it. Y
 
 There are four key steps involved in being coachable:[^1]
 
-* Reaction: The coachee responds positively to feedback. They express a willingness to be coached through both words and actions.
-* Self-Awareness: They demonstrate an awareness of the situation and recognize the gaps between the desired state and the current state. They also seek out the views and input of others proactively.
-* Behavioral Change: They make the change from the current state to the desired state. You, and others they work with, notice a change in specific behaviors.
+* Reaction: A coachee responds positively to feedback. They express a willingness to be coached through both words and actions.
+* Self-Awareness: A coachee demonstrates an awareness of the situation and recognize the gaps between the desired state and the current state. They also seek out the views and input of others proactively.
+* Behavioral Change: A coachee makes the change from the current state to the desired state. You, and others they work with, notice a change in specific behaviors.
 * Performance: In the end, the new behavior improves performance in a real and measurable way.
 
 [^1]: Taken from https://decision-wise.com/how-do-you-know-if-someone-is-coachable/
@@ -107,7 +124,7 @@ We use "intelligence" here as a broad term for cognitive skills. We think a basi
 
 Along with basic intelligence you should have ability to learn (continuously) new skills. Distinguished from coachability as less about behaviour and more about skills.
 
-However, we emphasize that we think intelligence is secondary to coachability and a work ethic: if you can take and act on feedback and are willing to work hard, we believe there is little you can't accomplish.
+However, we emphasize that we think (pure) intelligence is secondary to coachability and a work ethic: if you have a basic level of intelligence, being able take and act on feedback and willing to work hard will be the main determinants of what you can accomplish.
 
 References: See Burks et al re truckers https://www.ncbi.nlm.nih.gov/pubmed/19416865
 
@@ -115,14 +132,11 @@ References: See Burks et al re truckers https://www.ncbi.nlm.nih.gov/pubmed/1941
 
 You are curious and enquiring. You want to learn new things, discover new areas. You want to take things apart and figure out how they work. You ask why (judiciously!).
 
+### Open-minded Rigour
 
-### Why?
+You are open to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly. 
 
-We are remote and distributed => need to self-manage, need to (over-)communicate esp re breakdowns, integrity
-
-We have team-mates and clients from many different nationalities and cultures => be explicit in your communication
-
-Performance and quality are important => integrity and coachability as well as a base of intelligence and ability to learn
+At the same time time open-mindedness does not mean "anything goes" -- astrology and astronomy are *not* equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned -- but judiciously. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence.
 
 
 ## Our Principles
@@ -151,9 +165,16 @@ Please start with this **required reading** which provides essential context [A 
 | 3. You look at the **impact** on **others** and **yourself** of not keeping your word | *I imagine you have been concerned whether I’m coming, and probably annoyed and frustrated about my lack of punctuality and being kept waiting around. For my part, I’m stressed and rushed and feeling guilty about not respecting your time.* | *Hope you haven’t been waiting long.* | 
 | You say what you will **put in place** in future. *This must be something “external” to yourself.*  | *"I will set a calendar reminder 10m before my meetings”* rather than *“I will try harder to be on time”* (this is intrinsic and we assume you tried your best this time – we always come from a place of assuming you did your best)
 
-### Initiative 
+### Extreme Ownership aka 100% Responsibility
+
+
+Cause in the Matter.
+
+### Initiative
 
 Take initiative and responsibility. We are agile and we want everyone to take responsibility and initiative. Be bold. Take ownership.
+
+Also: Think for yourself, use your judgment, take initiative. Don't wait for someone to tell you how to do it, or answer your questions. Try and work it out for yourself. (See also: Question and hypotheses Pattern).
 
 ### Judgment over Rules
 
@@ -165,27 +186,53 @@ We value parsimony and one way to do things. We prefer fewer systems and fewer t
 
 In short, we value Zen and try to do things the Zen way: with deep simplicity, with nothing to add and nothing to take away. With that comes essence, precision, elegance and rigour.
 
-### Extreme Ownership aka 100% Responsibility
+### Humility and egolessness / White-belt / Beginner's mind
+
+There is *always* something to learn.
+
+### Plan and reflect before you jump -- and then jump!
+
+Do user stories before you code, estimate sprints before you do them. Almost everything is improved with planning. Often this can take discipline as we have urgent things to deal with -- just remember, more haste, less speed.
+
+### Your Relationship to Your Parents is Relevant to Us
+
+You will be supported and challenged to develop continuously professionally and personally.
+
+Your relationship to your parents is not only a personal matter -- it impacts your whole being include your work.
+
+This isn't something we'll insist on anyone sharing -- but we strongly believe that the greatest opportunities for breakthrough personally and organizationally coming from dealing with the past that constrains our future.
+
+### Getting in Sync / Getting Complete
+
+TODO: from Dalio etc.
+
+### (Constructive) Disagreement is Welcome
+
+We strive for an environment where disagreement can be handled powerfully and constructively rather than being a source of fear and distrust.
 
 
-### Mindfulness / Presence
-
-
+---
 
 ## Values
 
-### Exploration / Discovery / Curiosity
+### Integrity
 
-### Transformation
+We value wholeness, completeness, honour, workability, reliability.
 
-### Quality
+### Rigour and Precision
+
+We value getting things right, crispness, clean lines, zen simplicity and a precision of analysis and delivery. 
+
+### Excellence
+
+We value quality. A job well done, a product well-made. And more than that, a striving for the possibility of greatness. In short, we value excellence.
 
 
 ## Appendix: Values, Principles and Character
 
-Values are distinct from character strengths and principles. They are literally what we "value" -- i.e. what we deem important. Often, character, principles and values are run together and an organization's value list includes both things they "value" as important in life or in the world with things they "value" as ways of getting things done (principles) or in how people operate (character).[^ex1]
+Values are distinct from character strengths and principles. They are literally what we "value" -- i.e. what we deem important. Often, character, principles and values are run together and an organization's value list includes both things they "value" as important in life or in the world as well as things they "value" as ways of getting things done (principles) or in how people operate (character).[^ex1]
 
-As a concrete example, for us integrity is a principle not a value. It is way we choose to operate because it generates workability and wholeness. Workability and wholeness themselves are actual values though they are still not on our list -- workability because it is instrumental rather than final and wholeness because though valued it is not of primary importance for us as an organization.
+As a concrete example, for us integrity is both a principle and a value. It is way we choose to operate because it generates workability and wholeness and gets the job done. Workability and wholeness themselves are also actual values but they are distinct from the principle.
 
 To summarize, values is often used in three senses:
 
