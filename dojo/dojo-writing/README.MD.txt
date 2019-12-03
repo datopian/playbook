@@ -8,6 +8,7 @@ A data - driven post is the way of data storytelling and presenting to provide d
 * [27 Reasons why your content sucks](https://contentmarketinginstitute.com/2018/01/reasons-content-sucks/)
 
 Here are some  examples of data-driven blog posts 
+
 * https://datahub.io/blog/automated-kpis-collection-and-visualization-of-the-funnels
 * https://okfnlabs.org/blog/2018/03/08/open-data-day-tweets.html
 
@@ -22,12 +23,15 @@ Before starting to write, you must distinguish what counts as data. Use the abov
 ### Step 2: Understand what the message is:
 
 After you’ve chosen the subject you want to be clear on what is the message you are trying to convey. This is your chance to communicate to the world what your view point is on the specific matter or what solutions you can come up with.
+  
 Make sure you understand the problem you are talking about. You must be able to answer some key questions: how long has this “issue” existed for? How has it been handled until now? What are your thoughts on the matter? How can this be resolved? What does this issue/problem say about our humanity? (if you want to generate a  profound relatedness with your audience, which I would recommend).
 
 ### Step 3: Know Your Audience
 
 I cannot stress enough how important this is. You should always be aware of your audience and what they believe in. Knowing who your audience is will not only focus you on creating great content but also creating the right content. This could be a helpful resource to understand your audience: [12 ways to understand your audience](https://www.webhostingsecretrevealed.net/blog/inbound-marketing/12-ways-to-understand-your-audience-and-deliver-stellar-content/).
+
 Your job is to address your audience’s concerns, answer their questions and even be sensitive to certain topics or approaches that could trigger upsets for them.
+
 It will also inform the style of writing you are using - formal, business, scientific, or informal. Even if it is a data-driven blog post, you do NOT want to forget that people will read it. Therefore do not forget to approach the matter from a human and empathetic angle as well.
 
 ### Step 4: Explore the data and the content
@@ -47,6 +51,7 @@ Put some clear and detailed information of the problem, purpose, and datasets th
 ### Step 7: Use actual data, facts and figures
 
 The data that you’re providing should be legitimate and credible. There is a hard truth for this - if you’re not an expert, not many people will trust your advice. Link the data source that you use so that the readers can verify if the site is trustworthy. Also, use the open source statistics.
+
 If you are making bold statements such as "climate change has become a severe matter that we must attend to" - you can bet the reader will expect to see some figures that back up what you are saying. You can say how it has been increasing/decreasing in the last couple of years; which countries contribute to global warming the most; or what has been done/not been done about it etc.
 
 ### Step 8: Use visualizations
@@ -60,6 +65,7 @@ Don’t forget search engine optimization. What good is an amazing blog post if 
 ### Step 10: Conclusions
 
 At last, sum up your key message you want your readers to remember in the conclusion. A STRONG CONCLUSION is what will make your blog post memorable. It can't be shallow or any less important than the rest of the content.
+
 Leave them with a question to ponder — and encourage them to comment on your post. Invite them to consider their perspective on the matter makes them feel like their opinions are heard and valued. Where relevant, you want to also encourage people to start using certain services - such as Datopian’s services;
 
 ### Step 11: Review and correct
