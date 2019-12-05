@@ -32,7 +32,7 @@ There may be occasions where the Ops team is requested to produce contract and i
 
 The contract should be signed within **3 working days**, unless otherwise agreed with the the person that interviewed the staff member. Within those 3 days, staff member can address questions and we will try as much as possible to get them resolved.
 
-0. [Optional] Request a contract be created
+0. [Optional] Request a contract creation
 1. Create the contract and update with key terms
 3. Email the contractor to review and fill in
 4. Both parties sign
@@ -62,7 +62,7 @@ Follow the steps below if the Ops team should create the contract and initiate t
     3. Rename it to `Datopian (Viderum inc. trading as) - {Contractor Name} - Contractor Agreement`
     4. Fill in any relevant sections and especially the key terms in the Schedule section
     5. Highlight everything that needs to be filled out by the onboardee
-    6. [Optional] Insert signature (if we are not doing DocuSign). We are happy to do this as key terms are already agreed and we will review before making final PDF.
+    6. [Optional] Insert signature. We are happy to do this as key terms are already agreed and we will review before making final PDF.
 
 ### Contractor Reviews
 
@@ -111,7 +111,7 @@ Once both parties have signed we:
 
 * Make a PDF of the contract
 * Store that in Drive in the contract folder for that contractor
-* Email the PDF of the signed contract to the contractor for their records cc'ing office@ ...
+* Email the PDF of the signed contract to the contractor for their records cc'ing office@
 
 ### Notify Onboarder
 
