@@ -75,8 +75,18 @@ Start with the [Intro and Overview](/guide) -- read the content and glance throu
 
 ## Quiz
 
-Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and 
+Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and help improve this onboarding guide).
 
 [quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
 
+
+## Tech Onboarding
+
+:::warning
+**Only** technical joiners -- engineeers, designers, developers etc -- need do this section. Apprentices also can (and should) skip this.
+:::
+
+Let's get started with your [Technical Onboarding &raquo;][tech]
+
+[tech]: ./tech/
 
