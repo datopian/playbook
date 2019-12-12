@@ -8,6 +8,12 @@ It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
 
 You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
 
+## Github
+
+We also use Github, though less actively, and primarily for our open-source, public codebases.
+
+The only thing to do here is to publicly display your Datopian membership, see: https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership
+
 ## Onboarding Issue
 
 You are going to track your onboarding progress using a Gitlab issue in the onboarding project.
@@ -30,6 +36,8 @@ This is my exciting onboarding issue! 🚀
 
 ### First Steps
 
+* [ ] I have created this issue in gitlab :smile:
+* [ ] On GitHub I have made my membership of Datopian public and it's visible on my profile and on https://github.com/datopian
 * [ ] I have access to GDrive
   * [ ] Email signature
   * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).

@@ -52,8 +52,7 @@ If you do not know what 2FA is, do not worry! You can read more about it on that
 Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
-* Github - https://www.github.com   
-  Most people have their membership set to private (by default). Let's update it to public and proudly display our Datopian membership!
+* Github - https://www.github.com
 * Gitlab - https://gitlab.com/
 * HackMD - https://hackmd.io/
 
