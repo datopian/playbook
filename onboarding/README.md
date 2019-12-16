@@ -13,6 +13,37 @@ This provides you with a simple step by step process to get set up at Datopian s
 We want **your** feedback to help make this handbook better: be critical, tell us what we could improve! You can record your comments in a document or make corrections directly by using the edit link at the bottom of each page (they will get reviewed before they go live!).
 :::
 
+## Onboardee Journey Overview
+
+```mermaid
+graph TD
+
+firststeps[First Steps]
+tech[Tech Onboard]
+tech2[Tech BootCamp Phase I]
+moreinfo[Initial Reading]
+rto[Running the Org, Culture etc]
+
+subgraph "Before your Welcome Call"
+  basics[Prerequisites]
+end
+
+subgraph "Handbook"
+  rto --> howtos["... more reading (optional)"]
+end
+
+subgraph "Day 1"
+  basics --> firststeps
+  firststeps --> moreinfo 
+  moreinfo --> rto
+end
+
+subgraph "Tech & Data School"
+  moreinfo --> tech
+  tech --> tech2
+end
+```
+
 ## Prerequisites 
 
 Before we get to the onboarding proper there are some essential prerequisites to get yourself set up.
