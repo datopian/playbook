@@ -99,9 +99,9 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 
 ## Initial Reading
 
-Start with the [Intro and Overview](/guide) -- read the content and glance through the links but there's no need to follow any of them for now other than these ones which we recommend you read:
+Glance through the handbook sections but there's no need to dive into any of them for now other than in these ones which we recommend you read:
 
-* https://datopian.com/ -- have a quick look around
+* https://datopian.com/ - have a quick look around
 * [The Culture section](/culture/)
 * [Running the Organization](/running-the-org/) gives you key information about how we run so you have a general idea about team structure, working hours, the office, getting paid etc.
 
