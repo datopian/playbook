@@ -130,3 +130,11 @@ Prefer to make really good README.md files, rather than implementing a full docu
 * lodash
 * Express
 * React (VueJS is possible esp for lightweight projects – please ask)
+
+### 6.1. Redux
+
+Larger React applications are usually accompanied by the use of Redux. Defined by their authors as "a predictable state container for JavaScript apps," it is also a synchronous pub/sub system.
+
+The following presentation describes some of its use cases and a widespread anti-pattern that we should avoid.
+
+https://rangle.slides.com/yazanalaboudi/deck
