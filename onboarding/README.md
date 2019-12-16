@@ -15,7 +15,7 @@ We want **your** feedback to help make this handbook better: be critical, tell u
 
 ## Onboardee Journey Overview
 
-```mermaid
+<div class="mermaid">
 graph TD
 
 firststeps[First Steps]
@@ -42,7 +42,7 @@ subgraph "Tech & Data School"
   moreinfo --> tech
   tech --> tech2
 end
-```
+</div>
 
 ## Prerequisites 
 
