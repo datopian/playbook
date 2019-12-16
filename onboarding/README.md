@@ -101,9 +101,10 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 
 Glance through the handbook sections but there's no need to dive into any of them for now other than in these ones which we recommend you read:
 
-* https://datopian.com/ - have a quick look around
 * [The Culture section](/culture/)
 * [Running the Organization](/running-the-org/) gives you key information about how we run so you have a general idea about team structure, working hours, the office, getting paid etc.
+
+Also, we do recommend you having a quick look around https://datopian.com/ 
 
 
 ## Quiz
