@@ -1,8 +1,8 @@
+# Job Stories
+
 ::: warning
 At Datopian we're moving to job stories from [user stories](/user-stories/).
 :::
-
-# Job Stories
 
 Like [user stories](/user-stories/), job stories are a great way of gathering requirements. They are especially in an agile environment, where one of the key values is **responding to change** over *following a plan*.
 
@@ -14,7 +14,7 @@ Job stories are very similar to user stories with one key difference: personas b
 
 **When** *<situation/context>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
 
-Example: 
+Example:
 
 **When** I'm hungry, in a rush, and not sure when I'll be able to eat next, **I want to** be able to eat something 'on the go' with one hand **so I can** satisfy my hunger and make it to my appointment on time.
 
@@ -32,7 +32,7 @@ In the image below, the following solutions could work:
 * situation version 2 & 3: a pizza in a take-away box
 * situation version 4: a ready-made slice of pizza given in hand
 
-![](https://miro.medium.com/max/2048/1*MvlgRZL90wtgSsvmtdZjww.png)
+![more context is better](https://miro.medium.com/max/2048/1*MvlgRZL90wtgSsvmtdZjww.png)
 
 Source: Alan Klement 2013[^5-tips]
 
@@ -63,7 +63,7 @@ As Alan Klement writes in [Replacing Personas With Characters][replacing]:
 This makes them:
 
 * Prone to prejudice/biases that the team might have for that persona or role.
-* Gives a false sense of knowing the customer. 
+* Gives a false sense of knowing the customer.
 
 ::: tip
 Products don't match people, they match problems.[^intercom-pdf]
@@ -107,6 +107,7 @@ For a more in depth look into the Jobs to be Done theory:
 ## Appendix
 
 ### The Problem With User Stories
+
 > When I used to write user stories with my team, my teammates would read them, think they understand them and then go on with their own interpretation of the story, which ended up being different than mine.  I started noticing the problem was with the user stories, and not me, when different engineers would interpret the same story very differently.[^problem-with-user-stories]
 
 [^problem-with-user-stories]: [Klement, Alan. (2013). *The Problem With User Stories and What's Better...*. personal blog on blogspot](https://web.archive.org/web/20160616195445/http://alanklement.blogspot.com/2013/03/the-problem-with-user-stories-and-whats.html)
@@ -116,14 +117,15 @@ For a more in depth look into the Jobs to be Done theory:
 * ignores context, situations and anxieties
 * a lot of assumptions sneak in
 
-![](https://i.imgur.com/BpLmQsj.png)
+![too many assumptions](https://i.imgur.com/BpLmQsj.png)
 
 To understand why person's are irrelevant, take a look at the following series of user stories:
-![](https://miro.medium.com/max/922/1*AKw3nKW5wo3j1WvepFgOLg.jpeg)
+![user stories table](https://miro.medium.com/max/922/1*AKw3nKW5wo3j1WvepFgOLg.jpeg)
 
 Does having the persona/role in there add much?
 
 ### The Theory Behind Job Stories
+
 Jobs-As-Progress: a theory that is promoted by Clayton Christensen, Alan Klement and Bob Moesta.[^jobs-as-progress]
 
 [^jobs-as-progress]: [Klement, Alan. (2018). *Know the Two — Very — Different Interpretations of Jobs to be Done*. post on JTBD.info](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
