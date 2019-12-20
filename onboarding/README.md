@@ -124,13 +124,22 @@ Let's get started with your [Technical Onboarding &raquo;][tech]
 
 [tech]: ./tech/
 
-## Getting help
 
-Got lost? Need help? If you have any additional questions or require further clarification, please do not hesitate to get in touch with us:
+## Meeting your Mentor / Buddy
 
-* For anything Onboarding-related, please use the [Onboarding channel](https://chat.google.com/room/AAAAQmJneCg) in GChat.
-* For anything Tech-related, please use the [Tech channel](https://chat.google.com/room/AAAAS60JAu0) in GChat.
-* If you simply want to cheer up on a down-day, go for the [Watercooler channel](https://chat.google.com/room/AAAAVJ0Vn3Q) and chit-chat with other team members. 
-* For any other questions or concerns, please email our Ops team under office@datopian.com - they'll get back to you as soon as possible!
+Usually, you will have a mentor/buddy to accompany in your journey to Datopianhood 🚀 If they haven't already arranged a meeting with you this would be a good time to ping them via chat and arrange something 😃
 
-Here's our [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431) with all team members' contact details and roles in case you need to contact a specific team member directly. 
+
+## Getting Help and Finding Stuff
+
+We're fully remote so our equivalents of all the standard office chatting takes place online either in Chat 💬 or on video calls 📺
+
+So if you need help 🙋 or just want to hang out here's a list of the best places to start:
+
+* [Onboarding channel](https://chat.google.com/room/AAAAQmJneCg) -- may be the best place for you right at the start
+* [The Watercooler](https://chat.google.com/room/AAAAVJ0Vn3Q) -- if you just want to hang out
+
+Also you can just message anyone direct and they'll be happy to help -- we are a friendly bunch 🤗
+
+In terms of finding stuff the best place to start is here in this handbook. Next up would be to look in Google Drive. 🗄️
+
