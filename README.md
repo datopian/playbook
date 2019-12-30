@@ -61,20 +61,22 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 
 ## Developing
 
-* [Laptop Setup](/onboarding/#your-laptop-is-your-sword)
-* [Coding Standards](/coding-standards/)
+* [Laptop Setup](/laptop-setup)
+* [Coding Style Guides](./style-guide/)
 * Deployment
 * [Client Support](/support/)
 
-## Boot Camp
+## Dojo
 
 * Coding
   * Concepts
-  * Python
-  * Javascript
+  * [Python](/dojo/python/)
+  * [Javascript](/dojo/javascript)
+* [Research: how to do research](/dojo/research)
+* [Writing: how to write e.g. blog posts, documentation etc](/dojo/writing)
 * [CKAN](https://tech.datopian.com/ckan/)
 * [Frictionless Data](https://tech.datopian.com/frictionless/)
-* Technical Analysis
+* [Technical Analysis
 * [Tech Library (in GDrive)](https://drive.google.com/drive/u/0/folders/1LY3IItiCh6-0l8Ep8VSYUbShMunzie-h)
 
 ## Programs
