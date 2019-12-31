@@ -8,9 +8,9 @@ We use the term "Analysis" broadly to cover:
 
 It is therefore a broader than just "requirements analysis" (capturing needs), it also includes designing and architecting solutions and planning implementation.
 
-In keeping with a general agile approach, the analysis process should be kept in a healthy balance and iteration with implementation. Analysis itself internally can cycle over its sub-stages with analysis feeding design and planning which in turn feed back into further analysis.
+In keeping with a general agile approach, the analysis process should be kept in a healthy balance and iteration with implementation. In addition, analysis itself can cycle over its sub-stages: analysis feeds into design and planning, which, in turn, feeds back into further analysis.
 
-We emphasize that analysis is applicable both to large projects and to a single simple task. Just as test-driven development is worthwhile even for simple changes, so analyis will pay dividends even for small script or a minor change to a website.
+Finally, we emphasize that analysis is applicable both to large projects and to a single simple task. Just as test-driven development is worthwhile even for simple changes, so analyis will pay dividends even for small script or a minor change to a website.
 
 ## Analysis in Context
 
@@ -109,15 +109,15 @@ planning -. products .-> plan
 
 ## Distinguishing Needs
 
-This approach borrows from the GTD "Inbox" pattern and information processing pattern.
+This approach borrows from the GTD "Inbox" and information processing pattern.
 
-1. **Capture** *everything* you can into a Needs Document usually in a section called "Inbox". This is a brain dump type exercise where you capture as much as possible. This can include half-user stories, emails, technical diagrams, requirements etc.
+1. **Capture** *everything* you can into a Needs Document usually in a section called "Inbox". This is a brain dump type exercise where you capture as much as possible. This can include half-done user stories, emails, technical diagrams, requirements etc.
 2. **Clarify** Process this information into distilled user or job "epics", i.e. high level summaries of needs in the form of [job stories][] (or [user stories][]).
     * You can start by Inline as much as is relevant from the inbox items into the document.
     * Organize that, pulling together common items.
     * Start creating User / Job "Epics" in a new section
 
-At the end of this process you should have some set of high level epics with associated backup material (in bullet points or in an appendix).
+At the end of this process you should have a set of high level epics with associated backup material (in bullet points or in an appendix).
 
 Now that you have an initial set of needs you can move onto designing a solution.
 
@@ -135,17 +135,23 @@ In this section you design a solution. In software this may involve doing some d
 
 1. **Research**: search for existing patterns and tools that address this kind of problem. How well do they fit etc.
 2. **Select and adapt**: select existing patterns and/or tools that can be adapted to this purpose. How do they fit together? What work is required to connect them? Are new bespoke components needed?
-3. **Blueprint** create an outline of the overall solution
+3. **Blueprint** design and architect an outline of the overall solution
 
+This process may again use the GTD Inbox + Clarify pattern with the research stage being "inbox-y" with a lot of quick capturing of ideas and tools followed by some annotation and analysis. It is fine if this research is quite messy as it is then followed by the clarification (select and adapt) into the design blueprint.
 
 ## Plan the Work
 
-The final stage involves breaking down the solution into distinct tasks and clearly defining done in the form of acceptance criteria.
+The final stage involves breaking down the solution into distinct tasks and clearly defining done in the form of acceptance criteria. It may also involve estimation of those tasks to 
 
+Our usual process involves creating one of more task epics following the [issue / tasks template][issues]. Depending on the needs of the situation these epics may be more or less detailed and in some cases you may even break out explicit sub-tasks at finer levels of detail. This can be useful if accurate estimation is needed -- though beware of false precision.
 
 ## Examples
 
 TODO e.g. Quizzical, doing tech docs
+
+* [Harvester Needs Analysis - Dec 19](https://docs.google.com/document/d/1C9GrgJrRJcwT8ZbYIIggWpOd_paZqdxq_7J00-vUZHA/edit)
+* [Full Data Download (EDS) - Dec 19](https://docs.google.com/document/d/1yKK9_mRHC9-X9hN263OpjEKZb1jOOVDC5GYHdrCHam8/edit)
+* [Quiz Format Research and Design](https://gitlab.com/datopian/experiments/quizzical/issues/2) -- this is a gitlab issue and is in the "epic" format for issues. It is a little messy but still gives a good sense of a real world analysis (this time to design a quiz format).
 
 
 ## Structure of an Analysis Documents
@@ -160,7 +166,11 @@ For example:
 
 `Awesome Data Portal Needs Analysis`
 
-This is the suggested default structure for a large scale Analysis document. You will generally work backwards through this document adding sections as you go. That is, you will start with Inbox, create the Epics section, then do Research.
+This is the suggested default structure for a large scale Analysis document. You will generally work backwards through this document adding sections as you go. That is, you will start with Inbox, create the Epics section, then do Research, then do Design based on the Research and finally produce the Summary which summarizes the needs (epics) and solution (design).
+
+:::tip
+Inbox and Research are both "Inbox" sections that then get distilled: Inbox into Epics and Research into Design. As such, it can be useful to move Research down below Epics and to mark both as done in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties one may even consider removing these sections or clearly separating from the 3 main sections to avoid confusion.
+:::
 
 ```
 # Summary
