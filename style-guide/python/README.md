@@ -1,10 +1,11 @@
 # Python Style Guide
 
-## Background
+This document is a guide of Datopian’s coding standards for source code in the Python programming language. Consult this guide to make sure you are following proper coding standards while writing python code.
 
-Python and javascript are the main languages used at Datopian. This is a style guide for python.
 You can also use [yapf](https://github.com/google/yapf/) which is an auto-formatting tool.
+
 As a rule, all Python code should be written to support Python 3. No code should be written to be compatible with Python 2 only.
+
 [Python porting guide](https://docs.python.org/3/howto/pyporting.html) has great, practical advice on writing code for Python 2 and 3, if strictly necessary. Some choose to use helper libraries like `six`. In any case, it is strongly recommend to follow the advice from the Python porting guide and add the following snippet to all Python modules to ensure API consistency for strings, division, imports, and the print function.
 
 ---
@@ -98,6 +99,7 @@ Incorrect indentation: :thumbsdown:
 ### Lint
 
 Run [pylint](https://www.pylint.org/) over your code.
+
 Pylint can be helpful for debugging. It catches errors that are easy-to-miss errors like typos, etc.
 
 ### Naming Conventions
