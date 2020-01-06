@@ -39,6 +39,12 @@ For example apps that implement the Datopian preferences, see the following:
 * [oki lib in Javascript](https://github.com/okfn/oki-js)
 * [oki lib in Python](https://github.com/okfn/oki-py)
 
+## Frameworks
+
+In the same way we have default choices for programming languages, we have for frameworks. These preferences exist after a thorough research concerning a common set of requirements in an average Datopian project.
+
+* CSS -> use [Tailwind CSS](https://tailwindcss.com/). Background information in [kb#26](https://gitlab.com/datopian/tech/kb/issues/26).
+
 ### Style Guides
 
 * [Javascript](/style-guide/javascript/)
