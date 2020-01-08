@@ -6,7 +6,7 @@ Doing research provides a systematic approach to answering any type of questions
 
 In the following video Rufus explains the research pattern and demo's how to get started on doing research:
 
-<video width="740" height="416" controls>
+<video width="740" controls>
   <source src="./lightning-tour.mp4" type="video/mp4">
 </video>
 
@@ -134,6 +134,6 @@ Once we have the data in a structured format i.e. table, we can visualize the da
 
 In the following video you can see Rufus' feedback on this very example that the apprentices of cohort 2 did:
 
-<video width="740" height="393" controls>
+<video width="740" controls>
   <source src="./cloud-research.mp4" type="video/mp4">
 </video>
