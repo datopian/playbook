@@ -2,6 +2,14 @@
 
 Doing research provides a systematic approach to answering any type of questions from: "What is the best power bank to buy for my smartphone?" to "What is the nature of reality?", any of those questions can benefit from doing it in a structured way.
 
+## Lightning Tour
+
+In the following video Rufus explains the research pattern and demo's how to get started on doing research:
+
+<video width="740" height="416" controls>
+  <source src="./lightning-tour.mp4" type="video/mp4">
+</video>
+
 ## What is Research
 
 > Research is a **process of systematic inquiry** that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.
@@ -36,7 +44,7 @@ If you start your search in a search engine, library, or elsewhere, there is a v
 
 You start out by doing a broad search first, i.e. breadth-first search. You want to get an overview of the land.
 
-First step would be to open a scratchpad (e.g. in a text editor, notes app). Then you start your search, for example when using a search engine, you start out with a certain query and quickly glance over the sources and start collecting the sources that look promising by writing the links and some notes in the scratchpad.
+First step would be to open a scratchpad (e.g. HackMD, GDocs, notes app, ...). Get clear on the research question and start your search, for example when using a search engine, you start out with a certain query and quickly glance over the sources and start collecting the sources that look promising by writing the links and some notes in the scratchpad.
 
 While you are searching you might get more familiar with the language around the research topic and might get ideas for more detailed search queries and find more sources that way.
 
@@ -46,13 +54,86 @@ Once you've identified a couple of potentially great sources, then you go in dep
 
 ## Structuring Into a Spreadsheet/DB
 
-For the analysis part, which runs somewhat in parallel with the in depth part of your research, you want to get a structured overview that allows you and anyone new to have an overview of the data and spot any patterns present in them.
+Once you've gathered a reasonable amount of data, you start organizing your data, this will involve moving the data to a spreadsheet/database. This process wil require you to think about what criteria/key dimension you will evaluate on e.g. range or mileage if you're evaluating cars.
+
+Ultimately you want to get a structured overview that allows you and anyone new to have an overview of the data and spot any patterns present in them.
 
 Some guidelines:
 
 * Try to use boolean values for indicating when something is present in the data e.g. a 'supports markdown' column -> Yes/No values instead of writing 'supports markdown' as the value
-* If you have 1 column which contains thea same values for all entries, then you can leave it out, it doesn't convey anything.
+
+| Supports Markdown | Format                    |
+| ----------------- | ------------------------- |
+| Yes               | Supports Markdown         |
+| No                | Does not support Markdown |
+
+* No blank rows
+* Don't put meta data at the bottom of the table
+* Avoid having multiple columns in one sheet.
+  * If you do, have them side by side because if you have them above or below each other then if you add or delete a column in one of the tables it might mess up the other ones.
+* If you have 1 column which contains thea same values for all entries, generally you can leave it out because it doesn't convey anything.
 
 ## Worked Out Example
 
-TODO
+As an example we'll take the cloud storage time series research question, see [Issue 58 in Apprentice Program](https://gitlab.com/datopian/dojo/apprentice-program/issues/58) for the original request.
+
+The research question here is: *Which cloud storage provider offers the best value for money and how has this changed over time?*
+
+A key outcome of this research was a time series chart detailing the price evolution of the 3 major cloud storage providers for the last 10 years.
+
+![Cloud Provider Pricing Time Series Chart](./cloud-pricing-chart.svg)
+
+This chart is based on the data from the table below:
+
+| Provider     | Year | Price (in USD/1GB) |
+| ------------ | ---- | ------------------ |
+| Amazon S3    | 2010 | 0.14               |
+| MS Azure     | 2010 | 0.15               |
+| Google Cloud | 2010 | 0.18               |
+| Amazon S3    | 2011 | 0.13               |
+| MS Azure     | 2011 | 0.14               |
+| Google Cloud | 2011 | 0.15               |
+| Amazon S3    | 2012 | 0.12               |
+| MS Azure     | 2012 | 0.125              |
+| Google Cloud | 2012 | 0.115              |
+| Amazon S3    | 2013 | 0.09               |
+| MS Azure     | 2013 | 0.105              |
+| Google Cloud | 2013 | 0.075              |
+| Amazon S3    | 2014 | 0.075              |
+| MS Azure     | 2014 | 0.08               |
+| Google Cloud | 2014 | 0.04               |
+| Amazon S3    | 2015 | 0.027              |
+| MS Azure     | 2015 | 0.025              |
+| Google Cloud | 2015 | 0.026              |
+| Amazon S3    | 2016 | 0.026              |
+| MS Azure     | 2016 | 0.024              |
+| Google Cloud | 2016 | 0.026              |
+| Amazon S3    | 2017 | 0.025              |
+| MS Azure     | 2017 | 0.023              |
+| Google Cloud | 2017 | 0.026              |
+| Amazon S3    | 2018 | 0.023              |
+| MS Azure     | 2018 | 0.022              |
+| Google Cloud | 2018 | 0.026              |
+| Amazon S3    | 2019 | 0.022              |
+| MS Azure     | 2019 | 0.021              |
+| Google Cloud | 2019 | 0.026              |
+
+In order to get to the structured data in a table format like above, a couple of questions might come up:
+
+* Who are the major cloud storage providers?
+* How do we define best value for money?
+* How do we get historical pricing data?
+
+Any question that comes up you note in your scratchpad and after a while when you gathered enough information in the breath part of your search, you start compiling it down and go more in depth and start structuring it in a spreadsheet.
+
+In this case, since we're looking at cloud *storage*, the key unit of measure is *storage* capacity e.g. Gigabytes (GB) or Terabytes (TB). In order to easily compare between different providers we use a metric which is the price per 1 GB of storage capacity.
+
+This is similar to what you sometimes see in supermarkets, where they recalculate the price and show it per unit of measure of the bottom of the label. For example nuts A come in a bag of 500g for € 10 and nuts B are 333g for €7, so nuts A are €20/kg and nuts B are €21/kg. The per kg pricing allows you to quickly and easily compare nuts A vs nuts B and you then know nuts A are cheaper.
+
+Once we have the data in a structured format i.e. table, we can visualize the data in a chart which makes it much easier and more clear to be able to answer our original research question in a meaningful way.
+
+In the following video you can see Rufus' feedback on this very example that the apprentices of cohort 2 did:
+
+<video width="740" height="393" controls>
+  <source src="./cloud-research.mp4" type="video/mp4">
+</video>
