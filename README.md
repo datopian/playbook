@@ -41,7 +41,7 @@ We will pioneer an exceptional way of being and operating as an organization. Wo
 
 Our growth will flow from inner choice rather than outer pressure and growth will be seen as a measure of our success in fulfilling on what we are committed to rather than something sought for its own sake.
 
-30 years now we will be a billion dollar company with over $500m a year in revenue (20% CAGR) and more than 2000 team members many of whom will have become co-owners of our enterprise.
+30 years from now, we will be a billion dollar company with over $500m a year in revenue (20% CAGR) and more than 2000 team members many of whom will have become co-owners of our enterprise.
 
 ## Culture and Principles
 
