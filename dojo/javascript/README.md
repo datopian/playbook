@@ -69,3 +69,7 @@ Testing React:
 >
 > If you using Plotly with React, it is really useful to take a look at their own tutorials listed above.  
 ~ Rufus
+
+## Further Resources
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS070MADESCDrUrc5fTVuy1YKUzFrZmtpU1N-sOVSWC859Kprt1ETUwqe-sH71klcN8WNM4b78trxd9/pubhtml?gid=1780798818&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe>

@@ -59,3 +59,7 @@ Python was designed in '91 by Guido van Rossum [^history].
 ## Tools
 
 * https://www.pythonanywhere.com/try-ipython/
+
+## Further Resources
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS070MADESCDrUrc5fTVuy1YKUzFrZmtpU1N-sOVSWC859Kprt1ETUwqe-sH71klcN8WNM4b78trxd9/pubhtml?gid=1723914441&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400"></iframe>
