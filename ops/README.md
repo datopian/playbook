@@ -27,6 +27,46 @@ There may be occasions where the Ops team is requested to produce contract and i
 * Things to do during onboarding
 * Things to do after onboarding
 
+## Onboarding Checklist: Issue template
+
+```
+* [ ]  Folder on People drive created
+* [ ]  Contract drafted (and reviewed)
+* [ ]  Contract shared with the onbordee (CC the requestor)
+* [ ]  Contract signed
+* [ ]  Contract PDF-ed and saved in their folder
+* [ ]  GSuite Email created
+   * [ ]  License assigned
+   * [ ]  Added to Services Team Group
+   * [ ]  Added to All Team calendar
+* [ ]  Welcome/Onboarding call scheduled
+* [ ]  Welcome email sent
+* [ ]  Added to GChat channels
+   * [ ] General
+   * [ ] Onboarding
+   * [ ] Standups
+   * [ ] Tech
+   * [ ] Watercooler
+   * [ ] Travelling Datopians
+   * [ ] Any other relevant channel (eg. Apprentice channel for Apprentices etc.)
+* [ ]  Added to Xero 
+* [ ]  Added to Gitlab
+   * [ ] Datopian
+   * [ ] Viderum  
+* [ ]  Added to Github 
+   * [ ] Viderum (Datopian) --> Team "Everyone"
+* [ ]  Added to real rates
+* [ ]  Added to inter org sheet 
+* [ ]  Person DB form filled out (Prerequisites)
+* [ ]  Their submitted information in the Person DB is copy-pasted from the Form responses tab into the [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431) tab
+* [ ]  Had the Welcome/Onboarding call (Quiz sent)
+* [ ]  Follow up meeting scheduled [optional]
+* [ ]  Message them to have the quiz ready eg. by the time we have the follow up meeting
+* [ ]  Quiz passed
+* [ ]  Welcomed to the team
+* [ ]  Confirm to the requestor that the Onboarding is complete
+* [ ]  Follow up meeting complete [optional]
+```
 
 ## Create and Sign the Contract
 
