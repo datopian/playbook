@@ -11,7 +11,7 @@ These are living documents, and we encourage pull request and issues to improve 
 * [Web Apps](./web-apps/)
 * [Continuous Integration and Deployment](./continuous-integration-deployment/)
 * [Version Control](./version-control/)
-* [Code reviews](/code-reviews/)
+* [Code Review](./code-review/)
 
 
 ## TL;DR

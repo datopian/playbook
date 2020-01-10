@@ -1,12 +1,10 @@
-# Code reviews
+# Code Review
 
-At Datopian all code must be reviewed by a colleague before merging into the main branch of the repository (usually `master`). This short document examples how to do code reviews, and why we do it.
+At Datopian all code SHOULD be reviewed by a colleague before merging into the main branch of the repository (usually `master`). This short document examples how to do code reviews, and why we do it.
 
-## How
+The process for code reviews is straight forward as long as you are already following our [coding standards](/style-guide/) and are working with version control (in particular, our git flow-influenced process of branch management).
 
-The process for code reviews is straight forward as long as you are already following our [coding standards](/coding-standards/) for working with version control, and in particular our git flow-influenced process of branch management. The bottom line is that, before any code hits `master`, it must be reviewed by a colleague.
-
-### Submitting code for review
+## Submitting code for review
 
 Submitting code for review should follow these steps:
 
@@ -19,15 +17,15 @@ Submitting code for review should follow these steps:
 7. When the reviewer indicates that the pull request is ready to merge, you may merge into `master`. It is *recommended* that the developer merge her own branch into master, due to the cross-project review process (the developer can decide the best time to merge, after the review has approved the merge).
 8. **If** your branch was a branch on the main repository (usually `origin`), then you must also remove your branch to reduce clutter.
 
-### Reviewing code in a pull request
+## Reviewing code in a pull request
 
 Reviewing someone else's code should follow the following steps:
 
-1. Respond to a request for a code review immediately. Indicate when you can do it ("now", "in the next hour", and so on).
+1. Respond to a request for a code review promptly. Indicate when you can do it ("now", "in the next hour", and so on).
 2. Review the pull request, using inline commenting for specific issues.
 3. If you are satisfied with the pull request (without any questions, or after your questions have been answered), then explicitly state that the pull request is ready to be merged as a comment on the pull request.
 
-### A simple checklist for reviewers
+## A simple checklist for reviewers
 
 Remember that the primary reason for doing code reviews at Datopian is to distribute knowledge across our team. This does mean identifying areas the code could be improved and asking useful questions, but it does not mean you go too deeply on issues that are clearly subjective.
 
@@ -44,21 +42,15 @@ There are some clear red flags that, on seeing any of them, you should immediate
 * There are tests that fail
 * There is code that is not linted
 
-### Prioritizing code reviews
+## Prioritizing code reviews
 
-Code reviews should take the highest priority of work during the day. When a colleague asks for a review, s/he is asking for work to be validated, and to be unblocked in order to move forward to other tasks. Respect this and address the code review as soon as possible.
+Code reviews should have a high priority equal to that of shipping code yourself. When a colleague asks for a review, s/he is asking for work to be checked, and to be unblocked in order to move forward to other tasks.
 
-Sometimes, you will be asked to review and you are simply not available (due to meetings or deadlines on the same day - not due to "having your own work to do"). In such cases, communicate immediately with the colleague requesting review so that she can find an alternative.
+## Expertise
 
-### Effort, distraction, and code reviews
+A situation may occur where you are reviewing a language that you do not feel skilled enough in. This does not necessarily prevent your reviewing. Ask the developer simple questions, try to understand the general flow. There is an important learning element in this process - languages, techniques, projects, requirements - so lack of familiarity with a language is not a blocker to being a reviewer.
 
-Considering the priority given to code reviews, it could be easy to fall into seeing them as a distraction, or a wasted effort. Try to avoid this way of thinking, and relate to the reasons why we are actually doing code reviews (outlined in "Why") below.
-
-### Expertise
-
-A situation may occur where you are reviewing a language that you do not feel skilled enough in. This does not prevent your ability to review. Ask the developer simple questions, try to understand the general flow. There is an important learning element in this process - languages, techniques, projects, requirements - so lack of familiarity with a language is not a blocker to being a reviewer.
-
-### Responsibility
+## Responsibility
 
 Reviewers don't hold final responsibility for code - the person who wrote the code does. Reviewing is a best effort endeavor.
 
