@@ -27,12 +27,12 @@ Various structures you can use:
 
 * What do you do?
 * How do you do it?
-* What's different
+* What's different?
 
 #### Personality and Values: Questions about the emotional aspects
 
 * What does this company / organization / brand believe in?
-* What do it value the most?
+* What does it value the most?
 * What personality does it have?
 
 #### Purpose: Questions about "why we're here"
