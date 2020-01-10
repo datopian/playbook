@@ -16,6 +16,8 @@ These are living documents, and we encourage pull request and issues to improve 
 
 ## TL;DR
 
+* Be consistent ... and don't rewrite existing code to follow this guide.
+* Don't violate a guideline without a good reason. (A reason is good when you can convince a teammate.)
 * We use Python and Javascript (Node.js). If you plan to develop in another language please flag this and discuss.
 * Tests are required. Unit tests, as well as functional and integration tests. Aiming for test coverage of 80% and above is desirable.
   * Tests must be automated via a continuous integration platform that is triggered when code is pushed to the canonical repository.
@@ -36,6 +38,13 @@ These are living documents, and we encourage pull request and issues to improve 
 * Write small, reusable libraries where possible. There are many opportunities for reuse across our different products.
 * We support modern browsers. Notably, IE 10 and above. Our browser support is in sync with the browser support of Google web properties, as [declared here](https://support.google.com/a/answer/33864?hl=en)
 
+A note on our use of language:
+
+* "Avoid" means don't do it unless you have good reason.
+* "Don't" means there's never a good reason.
+* "Prefer" indicates a better option and its alternative to watch out for.
+* "Use" is a positive instruction.
+* "MUST", "SHOULD", etc are used in classic RFC style
 
 ## Languages
 
