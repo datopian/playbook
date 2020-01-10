@@ -44,6 +44,12 @@ There is no expectation for other apprentices to contribute to your project, but
 
 A team that has a designer apprentice and a developer apprentice has worked very well for both designer and developer in the past. Don't be afraid to ask if someone wants to work with you!
 
+### Preliminary Reading Section
+
+“Reading is essential for those who seek to rise above the ordinary.” 
+
+You should always have an attitude of learning and improving yourself. As an apprentice, if you aspire to become a great software developer and believe that software is your future then you would want to read the **[Apprentice Patterns](https://drive.google.com/drive/search?q=apprentice%20patterns)** book. Go read at least four chapters from this book and you're already in the game! We want you to win your game! Let's do it!
+
 ### Feedback and Coaching
 
 It's not easy, but you should get comfortable asking for and receiving feedback. People are nice and none of it is personal. It's a great way to develop professionally.
