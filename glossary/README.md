@@ -101,3 +101,19 @@ Ontology has two common uses: a) the study of Being ("he is workiong in Ontology
 
 Credits: Erhard and Jensen adapted.
 
+
+## Promise
+
+A task you want to complete in a given time.
+
+A promise is a creation from your word. Don't get attached to it -- walk the line of commitment and non-attachment.
+
+A promise makes something real. It creates a game. It hones your skill estimating the duration of your work/tasks and builds the muscle of integrity and playing a big game.
+
+
+## Unix Philosophy
+
+https://en.wikipedia.org/wiki/Unix_philosophy
+
+http://harmful.cat-v.org/cat-v/unix_prog_design.pdf
+
