@@ -62,7 +62,11 @@ We generally follow [Git Flow](https://nvie.com/posts/a-successful-git-branching
 
 ## Continuous integration and deployment
 
-All projects must be configured with a CI server. The CI server must run the test suite with linting.
+All projects must be configured with a CI server. The CI server must run the test suite with linting.  
+CI platforms to use:
+
+* In Gitlab: Use [Gitlab CI](https://docs.gitlab.com/ee/ci/).
+* In GitHub: Use [Travis](https://travis-ci.org/).
 
 ## App deployment
 
