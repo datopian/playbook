@@ -38,6 +38,12 @@ When one is complete with any aspect of the past and therefore the past has no c
 
 Often used in the phrase "Getting Complete". Also "Whole and Complete".
 
+## Design Lean Agile
+
+Remember there is no "The" Process https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8
+
+https://www.mindtheproduct.com/understanding-design-thinking-lean-agile-work-together/
+
 ## Racket
 
 Racket = fixed way of being + a persistent complaint
