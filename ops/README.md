@@ -27,6 +27,55 @@ There may be occasions where the Ops team is requested to produce contract and i
 * Things to do during onboarding
 * Things to do after onboarding
 
+## Overview
+
+```mermaid
+graph TD
+
+subgraph Onboarder
+  contract[Create Contract]
+  send[Send Contract]
+  gsuite[Create GSuite Account<br/>And send email]
+  welcome[Send Welcome Email<br/>personal+work email]
+  addthem[Give them access]
+  
+  contract --> send
+  gsuite --> welcome
+end
+
+subgraph Onboardee
+  recc[Receive Contract]
+  review[Review and Sign Contract]
+  
+  send --> recc
+  recc --> review
+  review --> gsuite
+  gsuite --> recc2[Receive GSuite setup<br/>Login and set password]
+  welcome --> recc3[Receive welcome email]
+  recc3 --> onboard[Visit<br/>handbook/onboarding]
+end
+
+subgraph Basics
+  onboard --> setup[Setup Accounts]
+  setup --> phonebook[Add details to phonebook]
+  phonebook --> emailob[Email Onboarder]
+  emailob --> addthem
+  emailob --> styles[Default Styles]
+  styles --> comms[Communication channels]
+  comms --> calendar[Calendar Setup]
+  calendar --> gettingpaid[Getting paid]
+  gettingpaid --> standup[Standup Howto]
+  standup --> finishbasics[Finish Basics]
+end
+
+subgraph "Welcome / Getting Started"
+  finishbasics --> aboutus[About us / Our Philosophy]
+  aboutus --> culture[Our Culture and Principles]
+  culture --> onboardmeet[Onboarding Meeting]
+end
+```
+
+
 ## Onboarding Checklist: Issue template
 
 ```
@@ -160,9 +209,7 @@ Email the Onboarder that contract is signed.
 [Optional]: record the task complete and announce to any other relevant parties.
 
 
-## Onboarder manual
-
-### Before Onboarding
+## Setup on Systems
 
 :::warning
 These steps can be done in parallel or out of order.
@@ -176,7 +223,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
     * Xero - with their company email address;
 
-3. **Welcome Call**: Send them an invitation for a Welcome Call within the next days. If this before their start date make sure you check their availability for the call.
+3. **Welcome Call Invitation**: Send them an invitation for a Welcome Call within the next days. If this before their start date make sure you check their availability for the call.
 
 4. **Welcome email:** Send them the welcome email to their new personal email and their Datopian email.
 
@@ -213,7 +260,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 6. If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using
 
 
-#### After new Datopian has filled in Person DB with their Details
+### After new Datopian has filled in Person DB with their Details
 
 Add them to relevant systems:
 
@@ -223,7 +270,7 @@ Add them to relevant systems:
 * Github: add as a member of the Datopian org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
 
 
-### Welcome Call
+## Welcome Call
 
 Here is the suggested agenda for the Welcome Call with the new Datopian. The first two sections should usually take no more than an hour.
 
@@ -287,4 +334,6 @@ You MAY want to have a meeting a week after Onboarding to catch up and see how t
 ## Accounting and Finances
 
 See [Accounting & Finances Guide](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.qy0fklx1v9sk)
+
+<mermaid />
 
