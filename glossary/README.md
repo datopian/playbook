@@ -38,6 +38,12 @@ When one is complete with any aspect of the past and therefore the past has no c
 
 Often used in the phrase "Getting Complete". Also "Whole and Complete".
 
+## Deliberate Practice
+
+Deliberate Practice is purposeful practice that is informed and structured by an understanding of the skill being developed and which incorporates clear, rapid feedback loops.
+
+Read more in [Deliberate Practice principle](/deliberate-practice).
+
 ## Design Lean Agile
 
 Remember there is no "The" Process https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8
