@@ -1,6 +1,6 @@
 # Deliberate Practice
 
-Deliberate Practice is purposeful that is informed and structured by an understanding of the skill being developed and which incorporates clear, rapid feedback loops.
+Deliberate Practice is practice that is purposeful, informed and structured by an understanding of the skill being developed and which incorporates clear, rapid feedback loops.
 
 The idea was developed by Professor Anders Ericsson and colleagues and made famous in books by Malcolm Gladwell and others.
 
