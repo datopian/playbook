@@ -81,7 +81,7 @@ end
 ```
 * [ ]  Folder on People drive created
 * [ ]  Contract drafted (and reviewed)
-* [ ]  Contract shared with the onbordee (CC the requestor)
+* [ ]  Contract shared with the onbordee (CC the requestor and people-team@datopian.com)
 * [ ]  Contract signed
 * [ ]  Contract PDF-ed and saved in their folder
 * [ ]  GSuite Email created
@@ -132,7 +132,7 @@ The contract should be signed within **3 working days**, unless otherwise agreed
 
 Follow the steps below if the Ops team should create the contract and initiate the onboarding process:
 
-1. Once you have shared the [Key principles Email after Verbal Agreement](https://docs.google.com/document/d/1iyismjORzPQywZB_ASPLLenRX3xKZ3FvP4L1AWLa-_A/edit#heading=h.uyjqu05q3flr) with the future contractor and they have agreed, you are to forward this email to office@datopian.com
+1. Once you have shared the [Key principles Email after Verbal Agreement](https://docs.google.com/document/d/1iyismjORzPQywZB_ASPLLenRX3xKZ3FvP4L1AWLa-_A/edit#heading=h.uyjqu05q3flr) with the future contractor and they have agreed, you are to forward this email to office@datopian.com (cc people-team@datopian.com)
 2. Request a contract and/or onboarding
 3. Make sure that your email contains the key information for drafting a contract:
     * Name of contractor
@@ -157,7 +157,7 @@ Follow the steps below if the Ops team should create the contract and initiate t
 
 1. In Google Docs click Share and share with the contractor's personal email.
     * Make sure to tick "Skip sending notification" as you will notify them by email in the next step.
-2. Email the contractor with an email like the following
+2. Email the contractor with an email like the following (cc people-team@datopian.com)
 
     Subject: Your Datopian Contract: Please Review and Complete
 
@@ -204,7 +204,7 @@ Once both parties have signed we:
 
 ### Notify Onboarder
 
-Email the Onboarder that contract is signed.
+Email the Onboarder that contract is signed and CC people-team@datopian.com.
 
 [Optional]: record the task complete and announce to any other relevant parties.
 
