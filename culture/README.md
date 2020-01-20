@@ -206,6 +206,10 @@ This isn't something we'll insist on anyone sharing -- but we strongly believe t
 
 TODO: from Dalio etc.
 
+### Don't (Intentionally) Cause Upsets, Withold or Gossip
+
+We do not intentionally cause upsets, withold communications or gossip.
+
 ### (Constructive) Disagreement is Welcome
 
 We strive for an environment where disagreement can be handled powerfully and constructively rather than being a source of fear and distrust.
