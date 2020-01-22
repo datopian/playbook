@@ -10,11 +10,11 @@ It is therefore a broader than just "requirements analysis" (capturing needs), i
 
 In keeping with a general agile approach, the analysis process should be kept in a healthy balance and iteration with implementation. In addition, analysis itself can cycle over its sub-stages: analysis feeds into design and planning, which, in turn, feeds back into further analysis.
 
-Finally, we emphasize that analysis is applicable both to large projects and to a single simple task. Just as test-driven development is worthwhile even for simple changes, so analyis will pay dividends even for small script or a minor change to a website.
+Finally, we emphasize that analysis is applicable both to large projects and to a single simple task. Just as test-driven development is worthwhile even for simple changes, so analysis will pay dividends even for small script or a minor change to a website.
 
 ## Analysis in Context
 
-Analysis is one part of the larger software development lifecycle. It is the yin to the implementation yang. It is the "look before you jump" companion to "let's just code".
+Analysis is one part of the larger software development life cycle. It is the yin to the implementation yang. It is the "look before you jump" companion to "let's just code".
 
 ```mermaid
 graph LR
@@ -147,14 +147,15 @@ Our usual process involves creating one of more task epics following the [issue 
 
 ## Examples
 
-TODO e.g. Quizzical, doing tech docs
-
+* [Client X Needs Analysis - Jan 20](https://docs.google.com/document/d/19T4M93WnKiGSakC6V3k2xsbBJhjc4zxS6qXNckagcw4/edit)
 * [Harvester Needs Analysis - Dec 19](https://docs.google.com/document/d/1C9GrgJrRJcwT8ZbYIIggWpOd_paZqdxq_7J00-vUZHA/edit)
 * [Full Data Download (EDS) - Dec 19](https://docs.google.com/document/d/1yKK9_mRHC9-X9hN263OpjEKZb1jOOVDC5GYHdrCHam8/edit)
-* [Quiz Format Research and Design](https://gitlab.com/datopian/experiments/quizzical/issues/2) -- this is a gitlab issue and is in the "epic" format for issues. It is a little messy but still gives a good sense of a real world analysis (this time to design a quiz format).
+* [Quiz Format Research and Design](https://gitlab.com/datopian/experiments/quizzical/issues/2) -- this is a Gitlab issue and is in the "epic" format for issues. It is a little messy but still gives a good sense of a real world analysis (this time to design a quiz format).
 
 
-## Structure of an Analysis Documents
+## Analysis Document Format
+
+### Naming of Analysis Documents
 
 Documents related to Analysis SHOULD be named:
 
@@ -166,34 +167,58 @@ For example:
 
 `Awesome Data Portal Needs Analysis`
 
-This is the suggested default structure for a large scale Analysis document. You will generally work backwards through this document adding sections as you go. That is, you will start with Inbox, create the Epics section, then do Research, then do Design based on the Research and finally produce the Summary which summarizes the needs (epics) and solution (design).
+### Structure of Analysis Documents
+
+This is the suggested default structure for a large scale Analysis document. You will generally **work backwards** through this structure adding sections as you go. That is, you will start with Inbox, create the Epics section, then do (Design) Research, then do a (Proposed) Design based on that Research. Finally, you will produce the Summary which summarizes the needs (epics) and solution (design).
+
+Plan of Work: an optional section. Sometimes you may add a Plan of Work section after (and above) the Design sections. This section breaks down the implementation work into actionable tasks following the [template for issues / tasks][issues]. This is optional in this document for two reasons: a) this may not be necessary until later (e.g. after the design is approved) b) this is often done in another document e.g. a HackMD for easy transfer into issues in an issue tracker.
 
 :::tip
-Inbox and Research are both "Inbox" sections that then get distilled: Inbox into Epics and Research into Design. As such, it can be useful to move Research down below Epics and to mark both as done in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties one may even consider removing these sections or clearly separating from the 3 main sections to avoid confusion.
+Inbox and Research are both "Inbox" sections that then get distilled: Inbox into Epics and Research into Design. As such, when finalizing a document you can move Research down below Epics and to mark both as done in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties one may even consider removing these sections or clearly separating from the 3 main sections to avoid confusion.
 :::
 
+
 ```
-# Summary
+# Executive Summary
 
-# Design
+A summary of the needs and the solution.
 
-# Research 
+Usually, starts with key needs followed with overview of the solution and key tasks.
 
-# Epics
 
-# Inbox
+# Plan of Work
+
+One or more structured issues as per the issue/task template.
+
+
+# Design Proposed
+
+This is the design of the solution.
+
+
+# Design Research 
+
+This is preliminary research for how to build a solution.
+
+
+# Needs Epics
+
+These are distilled needs, preferably in the form of job epics.
+
+
+# Needs Inbox
+
+This is where you dump all incoming needs related items prior to distilling them.
 ```
-
-A smaller scale version of this is the [template for issues / tasks][issues].
-
-[issues]: /issues-tasks/
 
 ### Templates
 
 * [Google Doc Template][template]
-* [Smaller scale version template in markdown for issues / tasks][issues].
+* [Template for issues / tasks in markdown][issues].
 
 [template]: https://docs.google.com/document/d/1a_KTb2d70odrl1EF12AOQ0zzfxlVcHObnUPhhdFtCAw/edit#
+[issues]: /issues-tasks/
+
 
 <mermaid />
 
