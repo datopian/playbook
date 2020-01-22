@@ -1,5 +1,11 @@
 # First Steps
 
+## Install Hypothesis
+
+Install the Hypothesis web annotation tool so can use it to annotate this playbook with questions, comments and corrections.
+
+https://web.hypothes.is/start/
+
 ## Gitlab
 
 We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
@@ -36,10 +42,11 @@ This is my exciting onboarding issue! 🚀
 
 ### First Steps
 
-* [ ] I have created this issue in gitlab :smile:
+* [ ] Have created this issue in gitlab :smile:
+* [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] On GitHub I have made my membership of Datopian public and it's visible on my profile and on https://github.com/datopian
 * [ ] I have access to GDrive
-  * [ ] Email signature
+  * [ ] Have created my Email signature
   * [ ] Doc Styles are set. Test by creating a google doc in apprentice folder and see that default doc styles are automatically applied (you can delete this document afterwards).
 * [ ] Calendar
   * [ ] [settings] Add working hours
