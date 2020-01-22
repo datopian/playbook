@@ -65,6 +65,33 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 **Gitlab:** Estimation support is built in.
 
 
+## Completing Tasks
+
+When completing a task (i.e. a checklist item) you SHOULD
+
+* Check the item
+* Edit the item to add some information about what happened and make this obvious (e.g. use bolding) ... so that people can see at a glance the status of the issue (and don't have to wade through all the comments)
+* Leave a comment on the issue task ... so that people get notified
+
+For example, suppose the task was:
+
+```
+* [ ] Create the mockup of front page
+```
+
+The updated item would be:
+
+```
+* [x] Create the mockup of front page - **Done - mockup here {LINK}. Few minor items to finalize once we have answers from client**
+```
+
+And the comment here would be almost identical (often comments can be terser):
+
+```
+Mockup complete:{LINK}. Few minor items to finalize once we have answers from client.
+```
+
+
 ## Closing Issues
 
 When closing issues you should leave a comment like this so that readers (including you later) are clear at glance what the outcome was and why, including being able to locate quickly any outputs produced as part of resolving the issue.
