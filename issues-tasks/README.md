@@ -9,11 +9,13 @@ This key information should be present:
 * Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
 
 ```
-Short description of bug or feature need preferentially in a user story form.
+Short description of bug or feature need preferentially in a job story form.
 
 [Can have multiple items esp if an epic]
 
-## Acceptance Criteria (for epics or "big" issues)
+[May have a sub section called Stories if you want to list stores]
+
+## Acceptance [Criteria]
 
 * [ ] ...
 * [ ] ...
