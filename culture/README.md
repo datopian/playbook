@@ -141,17 +141,20 @@ At the same time time open-mindedness does not mean "anything goes" -- astrology
 
 ## Our Principles
 
-Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view)
+Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view) (note: in our terminology we could rename this "A Value-Free Approach to Principles").
 
-### 1. Integrity, Authenticity and Commitment to Something Bigger than Yourself
+### 1. Integrity
 
-*An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.*
+An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.
 
-#### Integrity
+Concretely and specifially, integrity is **Honouring your word**. Honouring your word is defined as:
 
-**Honouring your word** - Doing what you said you would do **or** whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted. **Why is it important** - it is the bridge to workability and performance.
+* Doing what you said you would do OR
+* Whenever you will *not* be keeping your word you get in action restoring your word with everyone impacted.
 
-### Restoring integrity**
+Why is integrity so valuable? It is the bridge to workability and performance.
+
+#### Restoring integrity
 
 * You acknowledge the word you gave (your promise)
 * You state matter of factly what happened (no justifications)
@@ -166,7 +169,6 @@ Please start with this **required reading** which provides essential context [A 
 | You say what you will **put in place** in future. *This must be something “external” to yourself.*  | *"I will set a calendar reminder 10m before my meetings”* rather than *“I will try harder to be on time”* (this is intrinsic and we assume you tried your best this time – we always come from a place of assuming you did your best)
 
 ### Extreme Ownership aka 100% Responsibility
-
 
 Cause in the Matter.
 
