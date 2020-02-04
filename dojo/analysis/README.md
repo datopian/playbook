@@ -169,47 +169,65 @@ For example:
 
 ### Structure of Analysis Documents
 
-This is the suggested default structure for a large scale Analysis document. You will generally **work backwards** through this structure adding sections as you go. That is, you will start with Inbox, create the Epics section, then do (Design) Research, then do a (Proposed) Design based on that Research. Finally, you will produce the Summary which summarizes the needs (epics) and solution (design).
+The the suggested *final* structure for an Analysis document is below in markdown outline. 
 
-Plan of Work: an optional section. Sometimes you may add a Plan of Work section after (and above) the Design sections. This section breaks down the implementation work into actionable tasks following the [template for issues / tasks][issues]. This is optional in this document for two reasons: a) this may not be necessary until later (e.g. after the design is approved) b) this is often done in another document e.g. a HackMD for easy transfer into issues in an issue tracker.
+**Creation Process**: this structure is designed for reading by the consumers of this analysis. It is *not* in the order you actually do your work. In fact, you will generally work somewhat backwards through this structure adding sections as you go. That is, you will start with Needs Inbox, distill that material into the Needs (Epics) section, then do Design Research, then distill that into a (Proposed) Design. Finally, you will produce the Summary which summarizes the needs (epics) and solution (design).
 
-:::tip
-Inbox and Research are both "Inbox" sections that then get distilled: Inbox into Epics and Research into Design. As such, when finalizing a document you can move Research down below Epics and to mark both as done in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties one may even consider removing these sections or clearly separating from the 3 main sections to avoid confusion.
-:::
+```mermaid
+graph LR
 
+inbox[Needs Inbox]
+needs["Needs (Epics)"]
+research[Design Research]
+design[Design]
+plan[Plan]
+summary[Summary]
+
+inbox --> needs
+needs --> research
+research --> design
+design --> summary
+design -.-> plan
+plan --> summary
+```
 
 ```
-# Executive Summary
+# Summary
 
 A summary of the needs and the solution.
 
 Usually, starts with key needs followed with overview of the solution and key tasks.
 
+# Needs
 
-# Plan of Work
+These are distilled needs, preferably in the form of job epics.
 
-One or more structured issues as per the issue/task template.
-
-
-# Design Proposed
+# Design
 
 This is the design of the solution.
 
+# Plan of Work [optional]
+
+One or more structured issues as per the issue/task template.
+
+--- Appendix ---
 
 # Design Research 
 
 This is preliminary research for how to build a solution.
 
-
-# Needs Epics
-
-These are distilled needs, preferably in the form of job epics.
-
-
 # Needs Inbox
 
-This is where you dump all incoming needs related items prior to distilling them.
+This is where you collect all incoming needs related items prior to distilling them.
 ```
+
+**Plan of Work**: this is an optional section. Sometimes you may add a Plan of Work section after the Design sections. This section breaks down the implementation work into actionable tasks following the [template for issues / tasks][issues]. This is optional (in this document) for two reasons: a) this may not be necessary until later (e.g. after the design is approved) b) this is often done in another document e.g. a HackMD for easy transfer into issues in an issue tracker.
+
+:::tip
+When booting a document you may just want to start with Needs Inbox and Design Research and only add other sections as you come to them.
+
+When finalizing you may want to mark these two inbox sections as obsolete in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties you may want to remove these sections or clearly separate theme to avoid confusion.
+:::
 
 ### Templates
 
