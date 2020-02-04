@@ -143,7 +143,7 @@ At the same time time open-mindedness does not mean "anything goes" -- astrology
 
 Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view) (note: in our terminology we could rename this "A Value-Free Approach to Principles").
 
-### 1. Integrity
+### Integrity
 
 An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.
 
