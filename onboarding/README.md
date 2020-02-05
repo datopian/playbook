@@ -15,6 +15,8 @@ We want **your** feedback to help make this handbook better: be critical, tell u
 
 ## Onboardee Journey Overview
 
+This diagram illustrates how you should work through this onboarding process.
+
 ```mermaid
 graph TD
 
@@ -23,23 +25,26 @@ tech[Tech Onboard]
 tech2[Tech BootCamp Phase I]
 moreinfo[Initial Reading]
 rto[Running the Org, Culture etc]
+welcome["Welcome Call (+ access to systems)"]
+quiz[Quiz]
+howtos["... more reading (optional)"]
 
 subgraph "Before your Welcome Call"
   basics[Prerequisites]
 end
 
-subgraph "Handbook"
-  rto --> howtos["... more reading (optional)"]
-end
-
 subgraph "Day 1"
-  basics --> firststeps
-  firststeps --> moreinfo 
+  basics --> welcome
+  welcome --> firststeps
+  welcome --> moreinfo 
   moreinfo --> rto
+  moreinfo --> quiz
+  firststeps --> quiz
+  rto -.-> howtos
 end
 
 subgraph "Tech & Data School"
-  moreinfo --> tech
+  quiz -. for tech folks .-> tech
   tech --> tech2
 end
 ```
@@ -56,7 +61,7 @@ Please complete these at least two hours before your Welcome Call so we can make
 2. Setup your accounts on the systems we use. See below. Do this **before** the next step!
 3. Add your details to our [Phonebook / Person DB form][googleform] -- **note:** you will need to be logged in to your Datopian email.
 4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
-5. Setup your laptop and install relevant software. See [Laptop Setup][laptop]
+5. [Setup your laptop as per these instructions][laptop]
 
 
 [googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
@@ -82,7 +87,7 @@ If you do not know what 2FA is, do not worry! You can read more about it on that
 
 ### Systems we use
 
-Create an account on each of these. Please make sure you set up Gravatar first. For items marked with a `*` please add your account id to the phone book.
+Create an account on each of these. Please make sure you set up Gravatar first.
 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
 * Github - https://www.github.com
@@ -110,6 +115,8 @@ Also, we do recommend you having a quick look around https://datopian.com/
 ## Quiz
 
 Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and help improve this onboarding guide).
+
+⏰ Please spend max 15-30m on this!
 
 [quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
 
