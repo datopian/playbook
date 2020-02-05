@@ -190,7 +190,7 @@ If you are new to Markdown, see the [Markdown tutorial](/markdown/)
 
 ## HackMD
 
-We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD alos gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format.
+We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD also gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format.
 
 Frequent senarios to use HackMD with the team:
 
