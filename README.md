@@ -76,7 +76,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * [Writing: how to write e.g. blog posts, documentation etc](/dojo/writing)
 * [CKAN](https://tech.datopian.com/ckan/)
 * [Frictionless Data](https://tech.datopian.com/frictionless/)
-* [Technical Analysis
+* [Technical Analysis](/dojo/analysis/)
 * [Tech Library (in GDrive)](https://drive.google.com/drive/u/0/folders/1LY3IItiCh6-0l8Ep8VSYUbShMunzie-h)
 
 ## Programs
