@@ -23,27 +23,26 @@ Various structures you can use:
 * SWOT (I've personally never liked this much)
 * Facts, Obstacles and Opportunities
 
-#### What: Questions about the functional, the nuts and bolts stuff
+### What: Questions about the functional, the nuts and bolts stuff
 
 * What do you do?
 * How do you do it?
 * What's different?
 
-#### Personality and Values: Questions about the emotional aspects
+### Personality and Values: Questions about the emotional aspects
 
 * What does this company / organization / brand believe in?
 * What does it value the most?
 * What personality does it have?
 
-#### Purpose: Questions about "why we're here"
+### Purpose: Questions about "why we're here"
 
 * What you been put on earth to do?
 * What problem do you want to solve?
 * What's our long-term ambition (and why will it matter in the future)?
 * What does success look like?
 
-
-#### For NGOs
+### For NGOs
 
 ```
                        |
@@ -57,16 +56,18 @@ Various structures you can use:
                        |
 ```
 
+
 ## Strategy and Narrative
 
 6 step process
 
+* Why are we here? [Our ambition]
 * What do we do and how do we do it?
+* What makes us different
 * Who are we here for?
 * What do we value the most?
 * What’s our personality?
-* What makes us different?
-* Why are we here? [Our ambition]
+* Our ambition
 
 This order can vary depending on whether for existing brands or new ones:
 
@@ -75,6 +76,40 @@ This order can vary depending on whether for existing brands or new ones:
 You can drill down a lot more into each of these:
 
 ![](./6-steps-detailed.jpg)
+
+### 1. Why are we here?
+
+#### Why we’re here
+
+A simple statement 
+
+#### What problem we exist to solve
+
+#### What we have been put on earth to do
+
+#### Our Ambition
+
+### 2. What?
+
+#### What do we do and how do we do it?
+
+#### What do we do?
+
+#### How do we do it?
+
+#### What are we like?
+
+#### What makes us different?
+
+### 3. Who? Who are we here for?
+
+### 4. Values and Personality
+
+#### What do we value the most?
+
+#### What’s our personality?
+
+
 
 ### Working out the Why with Scenarios
 
