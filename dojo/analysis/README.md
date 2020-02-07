@@ -67,16 +67,21 @@ There are 3 sub-stages of analysis:
 graph TD
 
 needs --> epics
-epics --> analysis
-analysis --> plan
+epics --> designr
+designr --> design
+design --> plan
 
-subgraph "What we want"
+subgraph "Needs: What we want (and why)"
   needs[Needs Discovery]
   epics[Distillation into e.g. Epics]
 end
 
-subgraph "How we do it"
-  analysis[Technical Analysis]
+subgraph "Design: how we do it"
+  designr[Research]
+  design[Distillation into a Blueprint]
+end
+
+subgraph "Plan: how we implement it"
   plan[Plan of Work / Prioritized Backlog]
 end
 ```
@@ -86,23 +91,19 @@ graph TD
 
 needs[Need Discovery]
 epics[Epic Distillation]
-analysis[Technical Analysis]
+analysis[Design Research]
 planning[Planning]
 
 summary((Needs<br/>Summary))
-epicsout((User Epics))
-design((Design))
+epicsout((Job Epics))
+design((Blueprint))
 plan((Plan of Work))
-
-needs --> epics
-epics --> analysis
 
 needs -. produces .-> summary
 summary -. input to .-> epics
 epics -. produces .-> epicsout
 epicsout -. input to .-> analysis
 analysis -. produces .-> design
-analysis  --> planning
 design -. input to .-> planning
 planning -. products .-> plan
 ```
@@ -113,7 +114,7 @@ This approach borrows from the GTD "Inbox" and information processing pattern.
 
 1. **Capture** *everything* you can into a Needs Document usually in a section called "Inbox". This is a brain dump type exercise where you capture as much as possible. This can include half-done user stories, emails, technical diagrams, requirements etc.
 2. **Clarify** Process this information into distilled user or job "epics", i.e. high level summaries of needs in the form of [job stories][] (or [user stories][]).
-    * You can start by Inline as much as is relevant from the inbox items into the document.
+    * You can start by inlining as much as is relevant from the inbox items into the document.
     * Organize that, pulling together common items.
     * Start creating User / Job "Epics" in a new section
 
@@ -169,9 +170,9 @@ For example:
 
 ### Structure of Analysis Documents
 
-The the suggested *final* structure for an Analysis document is below in markdown outline. 
+The suggested *final* structure for an Analysis document is below in markdown outline. There is also a [Google Doc Template][template].
 
-**Creation Process**: this structure is designed for reading by the consumers of this analysis. It is *not* in the order you actually do your work. In fact, you will generally work somewhat backwards through this structure adding sections as you go. That is, you will start with Needs Inbox, distill that material into the Needs (Epics) section, then do Design Research, then distill that into a (Proposed) Design. Finally, you will produce the Summary which summarizes the needs (epics) and solution (design).
+**Creation Process**: this *final* structure is designed for reading. It's section are *not* in the order you would actually do your work. In fact, you would generally work backwards through this structure adding sections as you go: you would start with Needs Inbox, distill that material into the Needs (Epics) section, then do Design Research, then distill that into a (Proposed) Design. Finally, you will produce the Summary which summarizes the needs (epics) and solution (design). In visual form:
 
 ```mermaid
 graph LR
