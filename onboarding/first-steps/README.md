@@ -83,16 +83,16 @@ Please implement this [E-mail signature template](https://docs.google.com/docume
 
 ### Default Styles
 
-We want our documents to look neat and coherent so we set up a Style guide for Datopian. Follow the steps below to set it up for your Drive.
-
-For **Documents:**
+We want our documents to look neat and coherent so we set up default styles for Datopian. Follow the steps below to set up default styles for your documents in Drive.
 
 * Go into  [Doc Style Template](https://docs.google.com/document/d/1oOMD9l0fRpYKiYd0zf0MQsiP8URce3WFSPUHmYGN428/edit) (Drive: *All -> Handbook -> Style Guide -> Datopian)*
-* Click the tab *Format - Paragraph Styles - Options - SAVE as my default styles*
-* Open a new document
-* Click the tab *Format - Paragraph Styles - Options - USE my default styles*
+* Then, click the menu item *Format - Paragraph Styles - Options - SAVE as my default styles*
+
+Test it:
+
+* Create a new document
 * Start writing.
-* Double check you got it correctly - you can compare with the template
+* Check the styles are correct: compare with the styles in the template
 
 ## Calendar
 
