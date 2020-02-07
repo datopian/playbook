@@ -46,32 +46,29 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 ## Culture and Principles
 
 * [Culture and Principles](/culture/)
+
+## Plays
+
 * [Our Agile Approach (to everything)](/agile/)
+* [Style Guides - for Code and more](/style-guide/)
+* [Client Support](/support/)
+* [Meetings](/meetings/)
 
-## Howtos
+## Patterns
 
-* [Getting Things Done Patterns](/getting-things-done)
-  * 5 step planning process
+* [Getting Things Done Patterns](/getting-things-done) including 5 step planning process
 * [Situation, Complication, Question, Hypothesis (SCQH)](/scqh/)
 * [Planning Your Day](/planning-your-day)
 * [Git](/git/)
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Job Stories](/job-stories/)
 * [Markdown](/markdown/)
-
-## Developing
-
 * [Laptop Setup](/laptop-setup)
-* [Coding Style Guides](./style-guide/)
-* Deployment
-* [Client Support](/support/)
 
 ## Dojo
 
-* Coding
-  * Concepts
-  * [Python](/dojo/python/)
-  * [Javascript](/dojo/javascript)
+* [Python](/dojo/python/)
+* [Javascript](/dojo/javascript)
 * [Research: how to do research](/dojo/research)
 * [Writing: how to write e.g. blog posts, documentation etc](/dojo/writing)
 * [CKAN](https://tech.datopian.com/ckan/)
@@ -82,16 +79,14 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 ## Programs
 
 * [Onboarding](/onboarding/)
-  * Drive and Styling Docs
-  * Calendar
-  * Standups at Datopian
-  * Gitlab
-  * Essential software and programs + Systems we use (covered in pre-requisites)
 * [Tech Leaders Program](/tech-leaders-program/)
 * [Apprentice Program](/apprentice/)
 
 ## Running the Organization
 
+* [Running the Org](/running-the-org/)
+  * Holidays
+  * Getting Paid and Expenses
 * Business Development and Sales
 * Hiring
 * A10
@@ -104,12 +99,6 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * Teams, Tribes and Crews
 * Team Directory / Phonebook
 * [Ops](/ops/)
-
-### Admin
-
-* [Running the Org](/running-the-org/)
-  * Holidays
-  * Getting Paid and Expenses
 
 ## Glossary
 

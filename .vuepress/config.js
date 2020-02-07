@@ -15,37 +15,56 @@ module.exports = {
     }
   },
   themeConfig: {
+    smoothScroll: true,
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://gitlab.com/datopian/handbook',
-    repoLabel: 'Contribute!',
+    repo: 'https://gitlab.com/datopian/core/playbook',
+    repoLabel: '📕',
     // defaults to false, set to true to enable
     editLinks: true,
     sidebar: 'auto',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Culture', link: '/culture/' },
-      { text: 'Onboarding', link: '/onboarding/' },
-      { text: 'Running the Org', link: '/running-the-org/' },
-      { text: 'Ops', link: '/ops/' },
-      { text: 'Agile Delivery', link: '/agile/' },
+      { text: '🥢 Culture', link: '/culture/' },
       {
-        text: 'Playbooks',
+        text: '📚 Plays',
         items: [
+          { text: 'Agile Delivery', link: '/agile/' },
           { text: 'Client Support', link: '/support/' },
-          { text: 'Coding Standards', link: '/coding-standards/' }
+          { text: 'Running the Org', link: '/running-the-org/' },
+          { text: 'Style Guides', link: '/style-guide/' },
+          { text: 'Communications (Internal)', link: '/communications/' }
         ]
       },
       {
-        text: 'Howtos',
+        text: '🕸️ Patterns',
         items: [
-          { text: 'Objectives and Key Results (OKRs)', link: '/objectives-and-key-results/' },
+          { text: 'Job Stories', link: '/job-stories/' },
           { text: 'Getting Things Done (GTD)', link: '/getting-things-done/' },
+          { text: 'Objectives and Key Results (OKRs)', link: '/objectives-and-key-results/' },
           { text: 'Planning Your Day', link: '/planning-your-day/' },
           { text: 'Git', link: '/git/' },
           { text: 'Markdown', link: '/markdown/' },
           { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
-      }
+      },
+      {
+        text: '👩‍🎓 Programs',
+        items: [
+          { text: 'Onboarding', link: '/onboarding/' },
+          { text: 'Apprentice', link: '/apprentice/' },
+          { text: 'Tech Leaders', link: '/tech-leaders-program/' }
+        ]
+      },
+      {
+        text: '🥋 Dojo',
+        items: [
+          { text: 'Dojo', link: '/dojo/' },
+          { text: 'Python', link: '/dojo/python/' },
+          { text: 'Javascript', link: '/dojo/javascript/' },
+          { text: 'Analysis', link: '/dojo/analysis/' },
+          { text: 'Datopian Tech', link: 'https://tech.datopian.com/' }
+        ]
+      },
+      { text: 'Glossary', link: '/glossary/' }
     ]
   },
   plugins: [
