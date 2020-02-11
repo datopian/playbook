@@ -219,6 +219,8 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
 1. **GSuite Account and Email:** Create their email account as first.last@datopian.com on Google Admin page and share the login details via email (part of email creation wizard in google apps). After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
 
+    * Add to Services Team Group on Google Admin page
+    
 2. **Create accounts / send invitations** on systems where they can't create themselves
 
     * Xero - with their company email address;
