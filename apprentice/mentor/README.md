@@ -44,6 +44,10 @@ If you can, set explicit goals e.g. "At the end of week one you will be able to 
 
 This meeting is also a good opportunity to tell them about the client project you’ll be working on together.
 
+### Resourcing of the Apprentice
+
+You want to assign your mentees to client projects as fast as possible so that they gain more experience and are all set to become fully operational Datopians. Please make sure to follow the process for [Resourcing of Apprentices ](https://docs.google.com/document/d/1dB9lKeh1Kg4mQE0SPKCzuDYSGW1iEulmpNL6dFg2W6M/edit#heading=h.l2pn4hdriw1s).
+
 
 ## One-on-One Retrospective
 
