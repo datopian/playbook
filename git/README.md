@@ -60,7 +60,7 @@ You are going to do some simple tasks for starting:
 * `$ git status`: check the status of your files
 * `$ git add`: "stage" changes after changes, so that git can track and it's ready for commit. 
 * `$ git pull` this command is used to to download and integrate remote changes. Make sure you do pull before commit.
-* `$ git commit` means to save your changes to the local repository, so that you can push to server later. Please remember to follow [commit message's format](https://handbook.datopian.com/coding-standards/#commit-messages%E2%80%99-format).  
+* `$ git commit` means to save your changes to the local repository, so that you can push to server later. Please remember to follow [commit message's format](/style-guide/version-control).  
 * `$ git push` "push" to the server, others can see the changes and can pull your version. 
 * `$ git log` view commit history
 
