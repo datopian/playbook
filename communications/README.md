@@ -1,6 +1,12 @@
 # Communications
 
-We're fully distributed and remote. This means we've put even more effort than usual into building patterns and processes that support great communication.
+This document is primarily about how we communicate *internally* at Datopian. To a lesser extent it is about how we communicate with partners with clients. It is *not* about outward-focused communications such as blogging, tweeting etc.
+
+We're fully distributed and remote. This means we need to put even more effort than usual into creating strong *explicit* patterns and processes for communication if we are going to function really well.
+
+:::tip
+Humans evolved in small groups with face to face communication so remote is challenging. In addition, we are doing complex knowledge work where a) communication is essential (in fact, in a sense it is all we do if we think of coding as communication) b) we're communicating about complex things c) we're often doing this cross-culturally.
+:::
 
 ## Media
 
@@ -9,9 +15,11 @@ We have the following *media* of communication:
 * Call: voice or video
 * Chat (aka IM): text chat / instant messenger
 * Email: a conversation via email either one to one or in a group
-* Documment: written document such as Google Docs, HackMD etc
+* Document: written document such as Google Docs, HackMD etc
 * Issue tracker: combination of written text, checklists and comments e.g. gitlab or github issue tracker
-* In person
+* In person: face to face
+
+A big part of the foundation for great internal communication 
 
 ## Information Flow and Capture
 
