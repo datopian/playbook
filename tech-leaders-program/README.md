@@ -74,6 +74,14 @@ A Tech Leader has mastery in the following areas:
   * Authenticity
   * Commitment to something bigger than themselves
 
+### Topics
+
+This [Coggle provides an overview of the topics we cover][topics]:
+
+[topics]: https://coggle.it/diagram/XUE2AVj7lWAJndbE/t/topics-datopian-tech-leaders-program
+
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/XUE2AVj7lWAJndbE/4633501624ea955bdc74fa07b81a270cc51cc1c3d47cc3d5e162399f94bbe52f' frameborder='0' allowfullscreen></iframe>
+
 
 ## Structure
 
