@@ -8,6 +8,10 @@ Dojo: https://gitlab.com/datopian/dojo/tech-leaders-program
 * Around 30m before call the lead (or delegated person) has set up meeting structure in the meeting doc
 * Around 15m after call all issues are in tech leaders program issue tracker (if there is homework etc)
 
+## Assignments
+
+* Please do assignments at least 1h before the classroom when they are due so that there is time for Classroom Leader to review before the class
+
 
 ## Team Roles
 
