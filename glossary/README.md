@@ -123,6 +123,20 @@ A promise is a creation from your word. Don't get attached to it -- walk the lin
 A promise makes something real. It creates a game. It hones your skill estimating the duration of your work/tasks and builds the muscle of integrity and playing a big game.
 
 
+## Proficieny Levels
+
+When discussing proficiency we often utilize a five level schema (from Dreyfus):
+
+* Novice (unskilled, not knowing, new to)
+* Competent (knows adequately, qualified)
+* Proficient (practiced, skillful)
+* Expert (well practiced, having versatile knowledge)
+* Master (natural expression, generative, ability to transmit)
+
+NB: many people modify this model to insert Beginner after Novice and remove Master.
+
+Dreyfus paper: https://apps.dtic.mil/dtic/tr/fulltext/u2/a084551.pdf
+
 ## Unix Philosophy
 
 https://en.wikipedia.org/wiki/Unix_philosophy
