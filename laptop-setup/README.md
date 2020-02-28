@@ -22,3 +22,7 @@ we recommend installing this as we use this for remote pair programming.
 
 We use Visual Studio Code https://code.visualstudio.com/ for remote pair programming and we recommend it as default editor if you don’t already have one (e.g. vim, emacs etc).
 
+For pair programming, we recommend using the ["Live Share" functionality][liveshare] (which is built in).
+
+[liveshare]: https://visualstudio.microsoft.com/services/live-share/
+
