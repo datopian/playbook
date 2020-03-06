@@ -18,8 +18,8 @@ When doing something substantive
 * [ ] Read about job stories and watched the video at the bottom (you do *not* need to read all the links)
   * [ ] Created >= 2 job stories (try and make these as real and relevant as possible, pick something you are working on)
   * [ ] Written short paragraph summarizing difference between job stories and user stories
-* [ ] Created >= 2 issues
-* [ ] Command line git (and a GUI if you like that)
+* [ ] Created >= 2 issues following the structure (e.g. in onboarding issue tracker)
+* [ ] Command line git installed (and a GUI if you like that)
 * [ ] Python 2 and 3 installed
 * [ ] Recent version of NodeJS installed
 
@@ -27,10 +27,12 @@ When doing something substantive
 
 * [ ] Read the documentation
   * [ ] Summarize in your own words what a data package is
-  * [ ] Create a minimal datapackage.json by hand
+  * [ ] Create a minimal datapackage.json by hand (and validate it)
 * [ ] Curate a new dataset
   * [ ] Select a dataset from https://github.com/datasets/awesome-data/issues
   * [ ] Turn it into a data package with a script to automate collecting the data
+  * [ ] Added a graph (bonus)
+  * [ ] Published to datahub.io
 * [ ] Provided feedback
 
 ## Part IIB: DataHub
@@ -84,12 +86,14 @@ Steps:
   * Github (or Gitlab) is our default location for storing (smallish) datasets.
   * We use Github Actions to automate running the pipeline, publishing to DataHub and doing continuous data integration
 * **Practice task**: Curate a new dataset
-	* Select a dataset from https://github.com/datasets/awesome-data/issues (verify your choice with your mentor or coach)
-  * Turn it into a data package with a script to automate collecting the data
+	* Select a dataset from https://github.com/datasets/awesome-data/issues -- easiest is to look at the board and focus on "Ready to Package" https://github.com/datasets/awesome-data/projects/1 (verify your choice with your mentor or coach)
+  * Turn it into a data package
+    * with a script to automate collecting (and packaging) the data
   * Validate it https://datahub.io/tools/validate
   * [Bonus] Add a graph to it
-  * [Bonus] Push to github with automated collection automated by github actions
-
+  * Push to github (or gitlab)
+    * [Bonus] with automated collection automated by github actions
+  * Publish to datahub.io
 
 ## Part IIB: DataHub
 
