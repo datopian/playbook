@@ -37,7 +37,7 @@ Paris, Is it the most romantic city in the world? ?
 
 Prefer spacing after # and newlines before and after:
 
-Good example: :+1: :white_check_mark:
+Good example: :+1:
 
 ```markdown
 ...text before.
@@ -49,7 +49,7 @@ Text after...
 
 Lack of spacing makes it a little harder to read in source:
 
-Bad example: :-1: :x:
+Bad example: :-1:
 
 ```markdown
 ...text before.
@@ -62,13 +62,13 @@ Text after...
 
 ### Use Lazy Numbering for Long Lists
 
-Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, use "lazy" numbering:
+Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, you MAY use "lazy" numbering:
 
 ```markdown
-1.  Foo.
-1.  Bar.
-    1.  Foofoo.
-    1.  Barbar.
+1. Foo.
+1. Bar.
+    1. Foofoo.
+    1. Barbar.
 1.  Baz.
 ```
 
@@ -82,11 +82,11 @@ However, if the list is small and you don't anticipate changing it, prefer fully
 
 ### Nested List Spacing
 
-When nesting lists, use a 4 space indent for both numbered and bulleted lists:
+When nesting lists, use a 2 space indent bulleted lists and 4 spaces for numbered lists (as 2 spaces don't work):
 
 ```markdown
-1.  2 spaces after a numbered list.
-    4 space indent for wrapped text.
+1. 2 spaces after a numbered list.
+   4 space indent for wrapped text.
 2.  2 spaces again.
 
 *   3 spaces after a bullet.
@@ -99,34 +99,12 @@ When nesting lists, use a 4 space indent for both numbered and bulleted lists:
 
 The following works, but it's very messy:
 
-Bad example: :-1: :x:
+Bad example: :-1:
 
 ```markdown
 * One space,
 with no indent for wrapped text.
      1. Irregular nesting... DO NOT DO THIS.
-```
-
-Even when there's no nesting, using the 4 space indent makes layout consistent for wrapped text:
-
-```markdown
-*   Foo,
-    wrapped.
-
-1.  2 spaces
-    and 4 space indenting.
-2.  2 spaces again.
-```
-
-However, when lists are small, not nested, and a single line, one space can suffice for both kinds of lists:
-
-```markdown
-* Foo
-* Bar
-* Baz.
-
-1. Foo.
-2. Bar.
 ```
 
 ## Code
@@ -198,23 +176,22 @@ bazel run :target -- --flag --foo=longlonglonglonglongvalue \
 If you need a code block within a list, make sure to indent it so as to not break the list:
 
 ``````markdown
-*   Bullet.
+* Bullet.
 
-    ```c++
-    int foo;
-    ```
-
-*   Next bullet.
+  ```c++
+  int foo;
+  ```
+* Next bullet.
 ```
 
 You can also create a nested code block with 4 spaces. Simply indent 4 additional spaces from the list indentation:
 
 ```markdown
-*   Bullet.
+* Bullet.
 
-        int foo;
+      int foo;
 
-*   Next bullet.
+* Next bullet.
 ```
 
 ## Table of Contents
