@@ -38,17 +38,18 @@ If you have any company expenses to be reimbursed for:
     * Click on ‘Business’
     * Scroll down to ‘Expense claims’ and click on the button.
     * Fill out ‘New Expense’: 
-    * Purchase amount  - Amount on the receipt
-    * Description - Short description of the expense type
-    * Spent at - Where did you spend it? Could be a particular institution/restaurant/station etc.
-    * Spent on - Date on the receipt
-    * Account - Could be
-        * 6411 -  Travel expenses
-        * 6412 - Travel meals expenses
-        * 6451 - Entertainment expenses (clients)
-        * 6452 - Entertainment expenses (internal)
-        * XXXX - Any other expense type account suitable for the expense in question
-
+       * Purchase amount  - Amount on the receipt
+       * Description - Short description of the expense type
+       * Spent at - Where did you spend it? Could be a particular institution/restaurant/station etc.
+       * Spent on - Date on the receipt
+       * Account - Could be
+          * 6411 -  Travel expenses
+          * 6412 - Travel meals expenses
+          * 6451 - Entertainment expenses (clients)
+          * 6452 - Entertainment expenses (internal)
+          * XXXX - Any other expense type account suitable for the expense in question
+    * Receipt - Attach a copy of the receipt (expense) by clicking on the A4 paper next to Reference. (Make sure amount, date, merchant are readable) 
+    * Currency - If you have expenses in different currencies for that month, convert the expense in XE.com into the currency you are paid in.
 
 :::warning
 Please remember to specify in the ‘Tax Rate’ box ie *Amounts are*; **Tax Exclusive** and Tax rate as **Tax on Purchases 0%** (we are all self-employed)
