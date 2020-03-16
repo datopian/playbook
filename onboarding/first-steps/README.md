@@ -204,6 +204,6 @@ _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
 
 We use version control and git in particular to manage code and also a lot of content.
 
-See the [Version Control and Git section](/git/) for more information, including an introduction for those new to the topic.
+See the [Version Control and Git section](/version-control/) for more information, including an introduction for those new to the topic.
 
 <mermaid />

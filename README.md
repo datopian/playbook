@@ -59,7 +59,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * [Getting Things Done Patterns](/getting-things-done) including 5 step planning process
 * [Situation, Complication, Question, Hypothesis (SCQH)](/scqh/)
 * [Planning Your Day](/planning-your-day)
-* [Git](/git/)
+* [Version Control](/version-control/)
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Job Stories](/job-stories/)
 * [Markdown](/markdown/)
