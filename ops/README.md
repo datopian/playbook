@@ -108,14 +108,22 @@ end
 * [ ]  Added to inter org sheet 
 * [ ]  Person DB form filled out (Prerequisites)
 * [ ]  Their submitted information in the Person DB is copy-pasted from the Form responses tab into the [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431) tab
-* [ ]  Had the Welcome/Onboarding call (Quiz sent)
-* [ ]  Follow up meeting scheduled [optional]
+* [ ]  Follow up meeting scheduled (for after 7 days) [optional]
 * [ ]  Message them to have the quiz ready eg. by the time we have the follow up meeting
 * [ ]  Quiz passed
-* [ ]  Welcomed to the team
+* [ ]  Had the Welcome/Onboarding call (Quiz sent)
+* [ ]  Welcomed to the team (either in the "General" channel or in an All team meeting)
 * [ ]  Confirm to the requestor that the Onboarding is complete
-* [ ]  Follow up meeting complete [optional]
 ```
+
+### General Onboarding Agreements
+
+* For the onboarding of every onboardee we should create a Gitlab issue containing the checklist above 
+* We start onboarding them early enough (at least 5-7 days in advance) so that 
+   * we leave them enough time to review and sign the contract and do the prerequisites on their end 
+   * we leave ourselves enough time to set up their accounts on our end and ensure their smooth onboarding
+* The Welcome/Onboarding call should possibly be on the day **before** their start date so that the onboardee is all set and can start working efficiently on their first day in Datopian
+* The onboardee should be **fully** onboarded by us **prior to** their start date (= Github issue fixed and closed)
 
 ## Create and Sign the Contract
 

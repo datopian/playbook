@@ -75,16 +75,6 @@ Sign in and set your password, if you haven't already.
 
 Then check your account for any email you may have already received.
 
-#### 2 Factor Authorization (2FA)
-
-For best practice security, we recommend 2FA on all Datopian Google Accounts.
-
-To enable 2FA for your account, ensure you are logged in to your Datopian account, and follow the steps here:
-
-https://www.google.com/landing/2step/
-
-If you do not know what 2FA is, do not worry! You can read more about it on that page.
-
 ### Systems we use
 
 Create an account on each of these. Please make sure you set up Gravatar first.
@@ -94,6 +84,28 @@ Create an account on each of these. Please make sure you set up Gravatar first.
 * Gitlab - https://gitlab.com/
 * HackMD - https://hackmd.io/
 
+#### 2 Factor Authorization (2FA)
+
+Due to the fact that we handle company and client’s information which can be very sensitive, the 2FA is a MUST on all Datopian Google/GitLab/GitHub Accounts.
+
+To enable 2FA for your account, ensure you are logged in to your Datopian account, and follow the steps here:
+
+* [Google][Google2FA]
+* [GitLab][GitLab2FA]
+* [GitHub][GitHub2FA]
+
+We recommend downloading the Google Authenticator App to your smartphone to support your use of the 2FA, you can find the app on the following links:
+
+* [Android][GoogleAndroidAuth]
+* [IOS][GoogleIOSAuth]
+
+If you do not know what 2FA is, do not worry! You can read more about it on those pages.
+
+[Google2FA]: https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=en
+[GitLab2FA]: https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html
+[GitHub2FA]: https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication
+[GoogleAndroidAuth]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
+[GoogleIOSAuth]: https://apps.apple.com/us/app/google-authenticator/id388497605
 
 ## First Steps
 
