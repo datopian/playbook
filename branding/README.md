@@ -89,7 +89,7 @@ A simple statement
 
 #### Our Ambition
 
-### 2. What?
+### 2. What?
 
 #### What do we do and how do we do it?
 
@@ -109,7 +109,7 @@ A simple statement
 
 #### What’s our personality?
 
-
+---
 
 ### Working out the Why with Scenarios
 
