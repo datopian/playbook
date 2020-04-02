@@ -16,6 +16,11 @@ To set up the above mentioned **Office Requests** contact, please follow the ste
 
 This automatically generates Gitlab issues for the Office and allows us to keep track on your requests and deal with them promptly.
 
+# Bitwarden: Our Password Management System
+
+All credentials are stored in Bitwarden. Contact the DevOps team (devops@datopian.com ) if you need sysadmin credentials and office@datopian.com for any other credentials. 
+Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
+
 
 ## Getting Paid
         
