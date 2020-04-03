@@ -41,7 +41,7 @@ Each daily plan:
 * Most recent day at the top.
 * Two sections to the daily plan:
   * Plan for the day (usually done previous night or first thing in the day)
-  * End of day note including a socre
+  * End of day note including a score
     * [ ] Percentage of planned tasks that got done + summary score out of 10
     * [ ] Quick retrospective on learnings from the day - what worked and what did not work so well
       * [ ] Add major ones to the learnings section
@@ -79,7 +79,7 @@ Misc (small) items e.g.
 
 ## Template
 
-Full markdown template for a Planning your Day doc
+Full (annotated) markdown template for a Planning your Day doc
 
 ```
 # Backlog
@@ -92,14 +92,18 @@ Full markdown template for a Planning your Day doc
 
 # Plans
 
-## Template
+## {yyyy-mm-dd}
 
-%tage + score
+* X% (Done)
+* Y/10 (3 = plan, 4 = % done, 3 = experience)
 
-*End of day comments go here*
+*End of day comments go here* [copy major learnings from this to main learnings at top]
 
 * Worked:
 * Did not work:
+* Learnings:
+
+### Plan
 
 Big items (try and get specific so you easily evaluate whether this happened or not)
 
@@ -108,24 +112,29 @@ Big items (try and get specific so you easily evaluate whether this happened or 
 Misc (small) items e.g.
 
 * [ ]
+```
 
+Copy and paste-able daily section (without annotations):
+
+```
 ## {yyyy-mm-dd}
 
-%tage + score
-
-*End of day comments go here*
+X%
+Y/10
 
 * Worked:
 * Did not work:
+* Learnings: 
 
 ### Plan
 
-Big items
+Big:
 
 * [ ] 
 
-Misc items
+Misc (small):
 
 * [ ]
+
 ```
 
