@@ -16,11 +16,6 @@ To set up the above mentioned **Office Requests** contact, please follow the ste
 
 This automatically generates Gitlab issues for the Office and allows us to keep track on your requests and deal with them promptly.
 
-## Bitwarden: Password Management 
-
-All credentials are stored in Bitwarden. Contact the DevOps team (devops@datopian.com ) if you need sysadmin credentials and office@datopian.com for any other credentials. 
-Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
-
 
 ## Getting Paid
         
@@ -135,6 +130,16 @@ How to organize time-off:
 If you’re not feeling well and you’re unable to work, notify your Scrum Master / Product Owner as soon as possible. The notified person will then let teammates know.
 
 Please add an "Out of office" and include an alternative contact. 
+
+
+## Password Management 
+
+All Datopian credentials are stored in Bitwarden. 
+
+* Contact the DevOps team (devops@datopian.com) if you need sysadmin credentials  
+* Contact the Ops team (office@datopian.com) for any other credentials you may need
+
+Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
 
 
 ## Displaying proudly your Datopianness
