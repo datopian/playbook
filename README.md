@@ -90,6 +90,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * Business Development and Sales
 * Hiring
 * A10
+* Bitwarden -password management
 * Communication
   * Meetings
   * Chat

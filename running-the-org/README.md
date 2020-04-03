@@ -16,6 +16,11 @@ To set up the above mentioned **Office Requests** contact, please follow the ste
 
 This automatically generates Gitlab issues for the Office and allows us to keep track on your requests and deal with them promptly.
 
+## Bitwarden: Password Management 
+
+All credentials are stored in Bitwarden. Contact the DevOps team (devops@datopian.com ) if you need sysadmin credentials and office@datopian.com for any other credentials. 
+Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
+
 
 ## Getting Paid
         
@@ -99,7 +104,7 @@ _Note: Remember to store all receipts from the trip or else they can’t get rei
 
 ### Timezone
 
-The usual timezone we use in Datopian Chats is BST (unless otherwise agreed within your team).
+The usual timezone we use in Datopian Chats is GMT + 1 (UK time) (unless otherwise agreed within your team).
 
 ### Core Hours
 
