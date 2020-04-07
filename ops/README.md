@@ -276,8 +276,11 @@ Add them to relevant systems:
 
 * G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
 * GChat: add to relevant channels esp `onboarding`
-* Gitlab: add as a member of the org, add to relevant teams
-* Github: add as a member of the Datopian org, add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
+* GitLab: add as a member of the org according to the following criteria:
+  * i) apprentice, junior developer or developer = developer permission level
+  * ii) senior developer or tech lead = maintainer permission level
+  * iii) upper management = owner permission level
+* GitHub: add as a member of the Datopian org or if they are a senior developer or tech lead, add an owner; add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
 
 
 ## Welcome Call
