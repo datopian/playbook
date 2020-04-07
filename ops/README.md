@@ -99,10 +99,10 @@ end
    * [ ] Travelling Datopians
    * [ ] Any other relevant channel (eg. Apprentice channel for Apprentices etc.)
 * [ ]  Added to Xero 
-* [ ]  Added to Gitlab
+* [ ]  Added to Gitlab according to the following criteria: i) developer permission level: {apprentice, jr dev, developer}, ii) maintainer permission level: {senior dev, tech lead}, iii) owner: upper management 
    * [ ] Datopian
    * [ ] Viderum  
-* [ ]  Added to Github 
+* [ ]  Added to Github according to the to the following criteria: i) member: {apprentice, jr dev, developer}, ii) owner: {senior dev, tech lead, upper management}
    * [ ] Viderum (Datopian) --> Team "Everyone"
 * [ ]  Added to real rates
 * [ ]  Added to inter org sheet 
