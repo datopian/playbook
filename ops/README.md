@@ -99,10 +99,10 @@ end
    * [ ] Travelling Datopians
    * [ ] Any other relevant channel (eg. Apprentice channel for Apprentices etc.)
 * [ ]  Added to Xero 
-* [ ]  Added to Gitlab according to the following criteria: i) developer permission level: {apprentice, jr dev, developer}, ii) maintainer permission level: {senior dev, tech lead}, iii) owner: upper management 
+* [ ]  Added to Gitlab with the appropriate permission pertaining to their role on the [Inter-Org Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and [process in this section](https://playbook.datopian.com/ops/#after-new-datopian-has-filled-in-person-db-with-their-details)
    * [ ] Datopian
    * [ ] Viderum  
-* [ ]  Added to Github according to the to the following criteria: i) member: {apprentice, jr dev, developer}, ii) owner: {senior dev, tech lead, upper management}
+* [ ]  Added to Github with the appropriate permission pertaining to their role on the [Inter-Org Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and [process in this section](https://playbook.datopian.com/ops/#after-new-datopian-has-filled-in-person-db-with-their-details)
    * [ ] Viderum (Datopian) --> Team "Everyone"
 * [ ]  Added to real rates
 * [ ]  Added to inter org sheet 
