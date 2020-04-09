@@ -276,12 +276,14 @@ Add them to relevant systems:
 
 * G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
 * GChat: add to relevant channels esp `onboarding`
-* GitLab: add as a member of the org according to the following criteria:
+* GitLab: find their role on the [Inter-Org Rates Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and add them as a member of the org according to the following criteria below:
   * i) apprentice, junior developer or developer = developer permission level
   * ii) senior developer or tech lead = maintainer permission level
   * iii) upper management = owner permission level
-* GitHub: add as a member of the Datopian org or if they are a senior developer or tech lead, add an owner; add to relevant teams (Add user to our GitHub organisation and the ‘Everyone’ team) (if applicable)
-
+* GitHub: allocate the approporiate permission levels defined below that are respective to their role on the [Inter-Org Rates Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and add them to the relevant teams (ie: GitHub organisation and the ‘Everyone’ team -if applicable):
+  * i) apprentice, junior developer or developer = member permission level
+  * ii) senior developer or tech lead = owner permission level
+* *Please note: exceptions to the permission levels may be permitted at the discretion of upper management* 
 
 ## Welcome Call
 
