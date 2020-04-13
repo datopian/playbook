@@ -59,9 +59,9 @@ Please complete these at least two hours before your Welcome Call so we can make
 
 1. Login in to your Datopian email account and check it. See below.
 2. Setup your accounts on the systems we use. See below. Do this **before** the next step!
-3. Add your details to our [Phonebook / Person DB form][googleform] -- **note:** you will need to be logged in to your Datopian email.
-4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems
-5. [Setup your laptop as per these instructions][laptop]
+3. Add your details to our [Phonebook / Person DB form][googleform]. -- **Note:** you will need to be logged in to your Datopian email.
+4. Notify the Onboarder that you have added accounts in team phonebook so that they can add you to relevant systems.
+5. [Setup your laptop as per these instructions][laptop].
 
 
 [googleform]: https://docs.google.com/forms/d/e/1FAIpQLSfFi5egs4lQFkqJ-M_UGl3KnY0Bip0vLl_qEhdPIhEVlTiWkQ/viewform?usp=sf_link
@@ -80,9 +80,9 @@ Then check your account for any email you may have already received.
 Create an account on each of these. Please make sure you set up Gravatar first.
 
 * Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
-* Github - https://www.github.com
-* Gitlab - https://gitlab.com/
-* HackMD - https://hackmd.io/
+* Github - https://www.github.com.
+* Gitlab - https://gitlab.com.
+* HackMD - https://hackmd.io.
 
 #### 2 Factor Authorization (2FA)
 
@@ -94,7 +94,7 @@ To enable 2FA for your account, ensure you are logged in to your Datopian accoun
 * [GitLab][GitLab2FA]
 * [GitHub][GitHub2FA]
 
-We recommend downloading the Google Authenticator App to your smartphone to support your use of the 2FA, you can find the app on the following links:
+We recommend downloading the Google Authenticator App to your smartphone to support your use of the 2FA. You can find the app on the following links:
 
 * [Android][GoogleAndroidAuth]
 * [IOS][GoogleIOSAuth]
@@ -109,7 +109,7 @@ If you do not know what 2FA is, do not worry! You can read more about it on thos
 
 ## First Steps
 
-Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
+Let's get started with your [First Steps as a Datopian &raquo;][first-steps].
 
 [first-steps]: ./first-steps/
 
@@ -118,17 +118,17 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps]
 
 Glance through the handbook sections but there's no need to dive into any of them for now other than in these ones which we recommend you read:
 
-* [The Culture section](/culture/)
-* [Running the Organization](/running-the-org/) gives you key information about how we run so you have a general idea about team structure, working hours, the office, getting paid etc.
+* [The Culture section](/culture/);
+* [Running the Organization](/running-the-org/) gives you key information about how we run so you have a general idea about team structure, working hours, the office, getting paid, etc.
 
-Also, we do recommend you having a quick look around https://datopian.com/ 
+Also, we do recommend you having a quick look around https://datopian.com.
 
 
 ## Quiz
 
 Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and help improve this onboarding guide).
 
-⏰ Please spend max 15-30m on this!
+⏰ Please spend max 15 - 30 min on this!
 
 [quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
 
@@ -136,29 +136,29 @@ Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new
 ## Tech Onboarding
 
 :::warning
-**Only** technical joiners -- engineeers, designers, developers etc -- need do this section. Apprentices also can (and should) skip this.
+**Only** technical joiners -- engineers, designers, developers, etc. -- need do this section. Apprentices also can (and should) skip this.
 :::
 
-Let's get started with your [Technical Onboarding &raquo;][tech]
+Let's get started with your [Technical Onboarding &raquo;][tech].
 
 [tech]: ./tech/
 
 
 ## Meeting your Mentor / Buddy
 
-Usually, you will have a mentor/buddy to accompany in your journey to Datopianhood 🚀 If they haven't already arranged a meeting with you this would be a good time to ping them via chat and arrange something 😃
+Usually, you will have a mentor/buddy to accompany you in your journey to Datopianhood 🚀. If they haven't already arranged a meeting with you, this would be a good time to ping them via chat and arrange something. 😃
 
 
 ## Getting Help and Finding Stuff
 
 We're fully remote so our equivalents of all the standard office chatting takes place online either in Chat 💬 or on video calls 📺
 
-So if you need help 🙋 or just want to hang out here's a list of the best places to start:
+So if you need help 🙋 or just want to hang out, here's a list of the best places to start:
 
-* [Onboarding channel](https://chat.google.com/room/AAAAQmJneCg) -- may be the best place for you right at the start
-* [The Watercooler](https://chat.google.com/room/AAAAVJ0Vn3Q) -- if you just want to hang out
+* [Onboarding channel](https://chat.google.com/room/AAAAQmJneCg) -- May be the best place for you right at the start.
+* [The Watercooler](https://chat.google.com/room/AAAAVJ0Vn3Q) -- If you just want to hang out.
 
-Also you can just message anyone direct and they'll be happy to help -- we are a friendly bunch 🤗
+Also, you can just message anyone direct and they'll be happy to help -- we are a friendly bunch. 🤗
 
-In terms of finding stuff the best place to start is here in this handbook. Next up would be to look in Google Drive. 🗄️
+In terms of finding stuff, the best place to start is here in this handbook. Next up would be to look in Google Drive. 🗄️
 
