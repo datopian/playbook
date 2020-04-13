@@ -8,9 +8,9 @@ We are patient with our clients, help them achieve their goals, and use our supp
 
 ## Roles
 
-Client support is run as a project (an “internal” project**. It is staffed based on required capacity, with clear assignment of roles and responsibility.
+Client support is run as a project (an “internal” project). It is staffed based on required capacity, with clear assignment of roles and responsibility.
 
-### Product owner
+### Product Owner
 
 As per the normal role of Product Owner at Datopian, the Product Owner represents the needs of the client, and is accountable for the value delivered via customer support at Datopian.
 
@@ -37,7 +37,7 @@ When a technical support request requires further information from the customer,
 
 ## Tools
 
-Our support setup is very simple, using Google Group features for multi-party email addresses, a static web frontend, and some custom applications in Twilio for phone number management.
+Our support setup is very simple: we use Google Group features for multi-party email addresses, a static web frontend, and some custom applications in Twilio for phone number management.
 
 ### Web
 

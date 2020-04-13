@@ -37,10 +37,10 @@ Here are some points to hold in mind and guide the review process:
 
 There are some clear red flags that, on seeing any of them, you should immediately ask your colleague to address before continuing with any code review:
 
-* There is no CI
-* There are no tests
-* There are tests that fail
-* There is code that is not linted
+* There is no CI.
+* There are no tests.
+* There are tests that fail.
+* There is code that is not linted.
 
 ## Prioritizing code reviews
 
@@ -48,11 +48,11 @@ Code reviews should have a high priority equal to that of shipping code yourself
 
 ## Expertise
 
-A situation may occur where you are reviewing a language that you do not feel skilled enough in. This does not necessarily prevent your reviewing. Ask the developer simple questions, try to understand the general flow. There is an important learning element in this process - languages, techniques, projects, requirements - so lack of familiarity with a language is not a blocker to being a reviewer.
+A situation may occur where you are reviewing a language that you do not feel skilled enough in. This does not necessarily prevent your reviewing. Ask the developer simple questions, try to understand the general flow. There is an important learning element in this process -- languages, techniques, projects, requirements -- so lack of familiarity with a language is not a blocker to being a reviewer.
 
 ## Responsibility
 
-Reviewers don't hold final responsibility for code - the person who wrote the code does. Reviewing is a best effort endeavor.
+Reviewers don't hold final responsibility for code -- the person who wrote the code does. Reviewing is a best effort endeavor.
 
 ## Why
 

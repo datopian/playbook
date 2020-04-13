@@ -13,7 +13,7 @@ There is a linter called [markdownlint] for which we have created a Datopian con
 
 ### ATX-style Headings
 
-```markdown
+```md
 ## Heading 2
 ```
 
@@ -21,14 +21,14 @@ Headings with **=** or **-** underlines can be annoying to maintain and don't fi
 
 Bad example: :-1: :x:
 
-```markdown
+```md
 Paris - Is it the most romantic city in the world?
 ---------
 ```
 
 Good example: :+1: :white_check_mark:
 
-```markdown
+```md
 Paris, Is it the most romantic city in the world? ?
 ---------
 ```
@@ -39,7 +39,7 @@ Prefer spacing after # and newlines before and after:
 
 Good example: :+1:
 
-```markdown
+```md
 ...text before.
 
 # Heading 1
@@ -51,7 +51,7 @@ Lack of spacing makes it a little harder to read in source:
 
 Bad example: :-1:
 
-```markdown
+```md
 ...text before.
 
 # Heading 1
@@ -64,7 +64,7 @@ Text after...
 
 Markdown is smart enough to let the resulting HTML render your numbered lists correctly. For longer lists that may change, especially long nested lists, you MAY use "lazy" numbering:
 
-```markdown
+```md
 1. Foo.
 1. Bar.
     1. Foofoo.
@@ -74,7 +74,7 @@ Markdown is smart enough to let the resulting HTML render your numbered lists co
 
 However, if the list is small and you don't anticipate changing it, prefer fully numbered lists, because it's nicer to read in source:
 
-```markdown
+```md
 1.  Foo.
 2.  Bar.
 3.  Baz.
@@ -84,7 +84,7 @@ However, if the list is small and you don't anticipate changing it, prefer fully
 
 When nesting lists, use a 2 space indent bulleted lists and 4 spaces for numbered lists (as 2 spaces don't work):
 
-```markdown
+```md
 1. 2 spaces after a numbered list.
    4 space indent for wrapped text.
 2.  2 spaces again.
@@ -101,7 +101,7 @@ The following works, but it's very messy:
 
 Bad example: :-1:
 
-```markdown
+```md
 * One space,
 with no indent for wrapped text.
      1. Irregular nesting... DO NOT DO THIS.
@@ -113,7 +113,7 @@ with no indent for wrapped text.
 
 Backticks (``) designate `inline code`, and will render all wrapped content literally. Use them for short code quotations and field names:
 
-```markdown
+```md
 You'll want to run `really_cool_script.sh arg`.
 
 Pay attention to the `foo_bar_whammy` field in that table.
@@ -121,7 +121,7 @@ Pay attention to the `foo_bar_whammy` field in that table.
 
 Use inline code when referring to file types in an abstract sense, rather than a specific file:
 
-```markdown
+```md
 Be sure to update your `README.md`!
 ```
 
@@ -131,7 +131,7 @@ Backticks are the most common approach for "escaping" Markdown metacharacters; i
 
 For code quotations longer than a single line, use a code block:
 
-``````markdown
+``````md
 ```python
 def Foo(self, bar):
   self.bar = bar
@@ -146,7 +146,7 @@ It is best practice to explicitly declare the language, so that neither the synt
 
 Four-space indenting is also interpreted as a code block. These can look cleaner and be easier to read in source, but there is no way to specify the language. We encourage their use when writing many short snippets:
 
-```markdown
+```md
 You'll need to run:
 
     bazel run :thing -- --foo
@@ -164,7 +164,7 @@ And again:
 
 Because most command line snippets are intended to be copied and pasted directly into a terminal, it's best practice to escape any newlines. Use a single backslash at the end of the line:
 
-``````markdown
+``````md
 ```shell
 bazel run :target -- --flag --foo=longlonglonglonglongvalue \
 --bar=anotherlonglonglonglonglonglonglonglonglonglongvalue
@@ -175,7 +175,7 @@ bazel run :target -- --flag --foo=longlonglonglonglongvalue \
 
 If you need a code block within a list, make sure to indent it so as to not break the list:
 
-``````markdown
+``````md
 * Bullet.
 
   ```c++
@@ -186,7 +186,7 @@ If you need a code block within a list, make sure to indent it so as to not brea
 
 You can also create a nested code block with 4 spaces. Simply indent 4 additional spaces from the list indentation:
 
-```markdown
+```md
 * Bullet.
 
       int foo;
@@ -200,7 +200,7 @@ Requires markdown.toc to be true.
 
 Place `[TOC]` surrounded by blank lines to insert a generated table of contents extracted from the H1, H2, and H3 headers used within the document:
 
-```markdown
+```md
 # Title
 
 [TOC]
@@ -227,7 +227,7 @@ See [named anchors](https://gerrit.googlesource.com/gitiles/+/master/Documentati
 
 * Long links make source Markdown difficult to read and break the 80 character wrapping. Wherever possible, **shorten your links.** Markdown link syntax allows you to set a link title, just as HTML does. Write the sentence naturally, then go back and wrap the most appropriate phrase with the link. For example:
 
-```markdown
+```md
 See the [syntax guide](syntax_guide.md) for more info.
 Or, check out the [style guide](style_guide.md).
 ```

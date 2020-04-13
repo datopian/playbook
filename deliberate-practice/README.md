@@ -6,15 +6,15 @@ The idea was developed by Professor Anders Ericsson and colleagues and made famo
 
 Key principles applicable for us:
 
-* Start from an assumption that *anyone* can learn and improve significantly through practice
-* Deliberate practice is structured and intentional (it's not casual)
+* Start from an assumption that *anyone* can learn and improve significantly through practice.
+* Deliberate practice is structured and intentional (it's not casual).
 * Establish structures for regular feedback. Try and make that feedback objectively based e.g. record meetings or coding sessions and involve expert coaches.
   * Clear measurable results (win/lose in chess) plus an ability to analyse the source of those results is optimal.
-* Break down performance into smaller parts which can be worked on individually
-* Get outside your comfort zone -- you improve most rapidly just beyond the edge of your current capability
-* Practice is probably distinct from day-to-day work though there is a potential to design it in
-* Practice with intensity: it requires your full attention and conscious effort
-* Search for experts and high performers and analyse what they do
+* Break down performance into smaller parts which can be worked on individually.
+* Get outside your comfort zone -- you improve most rapidly just beyond the edge of your current capability.
+* Practice is probably distinct from day-to-day work though there is a potential to design it in.
+* Practice with intensity: it requires your full attention and conscious effort.
+* Search for experts and high performers and analyse what they do.
 
 > For anyone in the business or professional world looking for an effective approach to improvement, my basic advice is to look for one that follows the principles of deliberate practice: Does it push people to get outside their comfort zones and attempt to do things that are not easy for them? Does it offer immediate feedback on the performance and on what can be done to improve it? Have those who developed the approach identified the best performers in that particular area and determined what sets them apart from everyone else? Is the practice designed to develop the particular skills that experts in the field possess? A yes answer to all those questions may not guarantee that an approach will be effective, but it will certainly make that much more likely.
 
@@ -40,8 +40,7 @@ As defined, deliberate practice is a very specialized form of practice. You need
 
 But not to worry—**even if your field is one in which deliberate practice in the strictest sense is not possible, you can still use the principles of deliberate practice as a guide to developing the most effective sort of practice possible in your area.**
 
-
-## Example of Top Gun - Applying Deliberate Practice in Less Well-Defined Fields
+## Example of Top Gun -- Applying Deliberate Practice in Less Well-Defined Fields
 
 IT WAS 1968, AND THE VIETNAM WAR was in full swing. U.S. fighter pilots from the navy and air force were regularly engaging Soviet-trained North Vietnamese airmen flying Russian-made MiG fighter planes in dogfights, and the Americans weren’t doing so well. In the previous three years, the pilots of both the navy and the air force had been winning about two-thirds of their dogfights: they downed two North Vietnamese jets for every one jet they lost. But in the first five months of 1968 the ratio for the navy pilots had dropped down to about one-to-one: the U.S. Navy had shot down nine MiGs, but lost ten of its own jets. Furthermore, over the summer of 1968, navy pilots had fired more than fifty air-to-air missiles without shooting down a single MiG. The navy’s brass decided that something had to be done.
 

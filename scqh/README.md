@@ -2,20 +2,20 @@
 
 ## Introduction
 
-Situation, Complication, Question, Hypothesis (SCQH) is a simple and powerful problem solving tool. It is especially useful for strategy and is part of the standard training in leading strategy consultancies such as McKinsey.
+Situation, Complication, Question, Hypothesis (SCQH) is a simple and powerful problem-solving tool. It is especially useful for strategy and is part of the standard training in leading strategy consultancies such as McKinsey.
 
 It can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
 
-It is sometimes written as SCQA, for Answer, but it is usually helpful to treat the last component as  a Hypothesis, which can then be tested.
+It is sometimes written as SCQA, for *Answer*, but it is usually helpful to treat the last component as a *Hypothesis*, which can then be tested.
 
-It describes a problem (situation, complication) frames a question about what to do, and finally offers a solution in the form of the hypothesis.
+It describes a problem (situation, complication), frames a question about what to do, and finally offers a solution in the form of the hypothesis.
 
-The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question)
+The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question).
 
 :::tip
 SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/
 
-Another intro is https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
+Another intro is: https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
 :::
 
 ## Overview
@@ -30,15 +30,14 @@ We have created a [Google Sheets SCQH Issue Tree Template][issue-tree-tmpl].
 
 What do the columns mean?
 
-* **What material is needed?** A literal description of what the output should be (e.g. a list, a 1-pager etc) or, more broadly, a definition of done for this item. For example, if the question were "Who are our competitors?" the "What material is needed" might say "A list of our competitors with brief description"
-* **Value**: an estimate of business value. We recommend 1-13 fibonnaci
-* **Status**: completion status 0-100%
-* **Owner**: who owns answering this
-* **By when**: when this will be complete by
-* **Output**: the output(s) answering this question. Usually a link to outputs e.g. others docs, spreadsheets etc. If answer is short it can be written directly.
-* **Notes / TODO**: self-explanatory. This will often be used sparingly and detailed planning work on answering something will be in a separate project management system.
+* **What material is needed?** A literal description of what the output should be (e.g. a list, a 1-pager, etc.) or, more broadly, a definition of "done" for this item. For example, if the question were "*Who are our competitors?*", the "*What material is needed*" might say "*A list of our competitors with brief description*".
+* **Value**: An estimate of business value. We recommend 1-13 Fibonacci.
+* **Status**: Completion status 0-100%.
+* **Owner**: Who owns answering this.
+* **By when**: When this will be completed by.
+* **Output**: The output(s) answering this question. Usually a link to outputs e.g. others docs, spreadsheets, etc. If the answer is short, it can be written directly.
+* **Notes / TODO**: Self-explanatory. This will often be used sparingly and detailed planning work on answering something will be in a separate project management system.
 
 Notes
 
-* Sheet is set up for  an issue tree of depth 3. If you have greater depth just add more columns to the left of the green line.
-
+* The sheet is set up for an issue tree of depth 3. If you have greater depth, just add more columns to the left of the green line.

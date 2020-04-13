@@ -2,7 +2,6 @@
 
 Dojo: https://gitlab.com/datopian/dojo/tech-leaders-program
 
-
 ## Classrooms
 
 * Around 30m before call the lead (or delegated person) has set up meeting structure in the meeting doc
@@ -12,16 +11,15 @@ Dojo: https://gitlab.com/datopian/dojo/tech-leaders-program
 
 * Please do assignments at least 1h before the classroom when they are due so that there is time for Classroom Leader to review before the class
 
-
 ## Team Roles
 
-### Scrum Lead (Team lead + Scrum master) 
+### Scrum Lead (Team lead + Scrum master)
 
 * Lead calls.
 * Stand for team in general and for all accountabilities.
 * Setting up meeting docs.
-* To move forward the program, following P.O vision. 
-* Ensure agile and scrum for the developments. 
+* To move forward the program, following P.O vision.
+* Ensure agile and scrum for the developments.
 
 ### Homework
 
@@ -43,4 +41,3 @@ Responsibilities:
 * Write down the summary in the designated classroom spreadsheet
 
 We recommend having a permanent "master" scribe and assign additional scribes per meetings.
-

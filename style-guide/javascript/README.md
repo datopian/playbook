@@ -4,12 +4,12 @@ This document is a guide of Datopian’s coding standards for source code in the
 
 ## 1. Formatting
 
-Write all new code in ES6 ([ES6 Coding Standards])
+Write all new code in ES6 ([ES6 Coding Standards]).
 
 ### 1.1 Block indentation
 
-* Use spaces; never use tabs
-* 2 space indentation
+* Use spaces; never use tabs.
+* 2 space indentation.
 
 Correct Indentation: :thumbsup:
 
@@ -43,11 +43,11 @@ method(foo) {
 
 ### 1.2 Line Wrapping
 
-* 79 character line limit
+* 79 character line limit.
 
 ### 1.3 Language Features
 
-* Variables, functions and methods should be ```camelCase```
+* Variables, functions and methods should be ```camelCase```.
   * Correct: :thumbsup:
   
   ```javascript
@@ -64,7 +64,7 @@ method(foo) {
   var ShapeWidth = 6.0;
   ```
 
-* Classes are ```TitleCase```
+* Classes are ```TitleCase```.
   * Correct: :thumbsup:
   
   ```javascript
@@ -97,7 +97,7 @@ method(foo) {
   }
   ```
 
-* Don’t use semi-colons
+* Don’t use semi-colons.
 
 [ES6 Coding Standards]:http://es6-features.org/#Constants
 
@@ -129,7 +129,7 @@ Prefer to make really good README.md files, rather than implementing a full docu
 
 * lodash
 * Express
-* React (VueJS is possible esp for lightweight projects – please ask)
+* React (VueJS is possible esp for lightweight projects -- please ask)
 
 ### 6.1. Redux
 

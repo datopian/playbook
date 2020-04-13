@@ -56,7 +56,6 @@ Various structures you can use:
                        |
 ```
 
-
 ## Strategy and Narrative
 
 6 step process
@@ -67,7 +66,7 @@ Various structures you can use:
 * Who are we here for?
 * What do we value the most?
 * What’s our personality?
-* Our ambition
+* Our ambition.
 
 This order can vary depending on whether for existing brands or new ones:
 
@@ -81,7 +80,7 @@ You can drill down a lot more into each of these:
 
 #### Why we’re here
 
-A simple statement 
+A simple statement.
 
 #### What problem we exist to solve
 
@@ -119,7 +118,6 @@ Esp like p.94 where he suggests generating various "why" options as a way to sti
 |:---------------------------------:|:-----------------------------------:|--------------------------------------------|
 | Humanizing the business of travel | Celebrate the magic of human flight | Get more out of life and life's adventures |
 
-
 ### Manifestos
 
 Just watch Jobs from 1997 (an incredible piece on branding):
@@ -133,7 +131,6 @@ This is where naming happens.
 ## Design
 
 Create a design brief and hand it over to the creatives and see how it goes.
-
 
 ## Appendix: Google Ventures 3h Brand Sprint
 
@@ -156,10 +153,8 @@ See https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a
 
 ![](./google-brand-sprint-overview.png)
 
-
 ## Appendix: Brand Pyramid
 
 <p>
 <img src="./brand-pyramid.jpg" width="280" />
 </p>
-

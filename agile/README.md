@@ -44,7 +44,7 @@ Delivery is **facilitated** by a Scrum Master, who is accountable for **removing
 
 Before one goes into the sprint cycle there is some preparatory work that should be done. Total time required \<= 1d. The Product Owner is overall responsible for this stage of the process.
 
-* **Project A10** [Product Owner] [1h]
+* **Project A10** [Product Owner] **[1h]**
 
   * This work should result in the creation of a Project Overview document
   * Total Budget
@@ -54,13 +54,12 @@ Before one goes into the sprint cycle there is some preparatory work that should
   * Risks
   * Resourcing Amount (FTE months)
 
+* **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) **[2-6h]**
 
-* **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) [2-6h]
-
-  * Generate first set of user stories for this project
-  * Do **not** need to be comprehensive - can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
-  * Can not over-state value of generation (of good) user stories at this point. Will have a transformative effect on quality of project
-  * Should involve some or all of delivery team + scrum master, at least some part of this
+  * Generate first set of user stories for this project.
+  * Do **not** need to be comprehensive -- can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
+  * Cannot over-state the value of generating (good) user stories at this point. Will have a transformative effect on the quality of the project.
+  * Should involve some or all of delivery team + scrum master, at least some part of this:
 
     * Gets everyone up to speed
     * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
@@ -73,10 +72,10 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
 * **2-week sprint process**
 
-  * Tasks agreed in sprint planning meeting on a Monday - sprint then runs for 2 weeks
-  * Tasks should be in product backlog (see next item)
+  * Tasks agreed in sprint planning meeting on a Monday -- sprint then runs for 2 weeks.
+  * Tasks should be in product backlog (see next item).
 
-* **Product Backlog** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-backlog)] - we use GitLab or GitHub issues and project boards
+* **Product Backlog** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-backlog)] -- we use GitLab or GitHub issues and project boards
 
   * Product backlog consists of user stories or tasks related to user stories (should flag which user story a task relates to if not a single user story)
   * Tasks are broken into at least 2 groups:
@@ -90,30 +89,30 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
   * Results in 2 outputs
 
-    * A sprint backlog - A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
-    * A sprint goal - short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
+    * A sprint backlog -- A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
+    * A sprint goal -- short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
 
   * Individual Tasks should be \<= 2d total time (reduces estimation error)
   * Meeting is timeboxed \<= 1-2.5h (~ 20-30m \* size of FTE team)
 
-* **Sprint review** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)] - what did we ship this sprint?
+* **Sprint review** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)] -- What did we ship this sprint?
 
-  * End of sprint (e.g. Friday)
-  * No more than 15m \* no of people in team
+  * End of sprint (e.g. Friday).
+  * No more than 15 minutes times the number of people in team.
   * Team shows what they accomplished during the sprint. Typically this takes the form of a demo.
   * Kept very informal, typically with rules forbidding the use of PowerPoint slides and allowing no more than two hours of preparation time for the meeting. A sprint review meeting should not become a distraction or significant detour for the team; rather, it should be a natural result of the sprint.
   * See Appendix for detailed overview.
 
-* **Sprint retrospective** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)] - what can we learn from this sprint for the future
+* **Sprint retrospective** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)] -- What can we learn from this sprint for the future?
 
   * End of sprint (suggest holding straight after review). Even shorter.
   * Start-Stop-Continue structure (what should team start doing, stop doing, and continue doing)
 
 * **Standup** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum), [*link-wp*](http://en.wikipedia.org/wiki/Stand-up_meeting)]
 
-  * (very) regular meeting - e.g. daily
-  * purpose: keep team in sync, surface blockers
-  * each person answers 3 questions
+  * (Very) regular meeting -- e.g. daily.
+  * Purpose: keep team in sync; surface blockers.
+  * Each person answers 3 questions:
 
     * What did I accomplish yesterday?
     * What will I do today?
@@ -121,8 +120,8 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
   * meeting is strictly timeboxed to 5-15m
 
-    * answers should be very short - each person should speak for no more than  2m (less as team gets larger)
-    * if bigger issues arise take them out of standup
+    * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
+    * If bigger issues arise, take them out of standup.
 
   * Only people "committed" to the project may speak (anyone “involved” with the project may listen)
 
@@ -134,11 +133,11 @@ See [User Stories][]
 
 ## Managing the Product Backlog Board
 
-TODO: removed the trello reference and need to update for e.g. gitlab. Focus is on how board is setup and how sprints get completed.
+TODO: removed the trello reference and need to update for e.g. GitLab. Focus is on how board is setup and how sprints get completed.
 
 ## Estimating Cost
 
-Estimation - Central to Workability and Low-Stress
+Estimation -- Central to Workability and Low-Stress.
 
 * Estimation is the process of estimating
 * Many approaches to estimation
@@ -213,7 +212,7 @@ http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
 
 ## FAQ
 
-## What about a PM - is the Product Owner the PM?
+## What about a PM -- is the Product Owner the PM?
 
 From [*this answer*](http://stackoverflow.com/questions/10775637/scrum-different-product-owner-and-project-manager)
 

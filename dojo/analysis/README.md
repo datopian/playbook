@@ -54,7 +54,6 @@ testing --> deploy
 
 NB: we have drawn this to follow classic software development and omitted certain details. For example, testing (if we test-driven development) may come both before and after development etc. And, of course, implementation loops back into analysis.
 
-
 ## Analysis Overview
 
 There are 3 sub-stages of analysis:
@@ -129,30 +128,28 @@ We prefer the term need or want to requirements. It helps focus on the overall d
 [job stories]: /job-stories/
 [user stories]: /user-stories/
 
-
 ## Design and Architecture
 
-In this section you design a solution. In software this may involve doing some degree of technical architecture: specifying components and their interconnections, component behaviour etc.
+In this section you design a solution. In software this may involve doing some degree of technical architecture: specifying components and their interconnections, component behaviour, etc.
 
-1. **Research**: search for existing patterns and tools that address this kind of problem. How well do they fit etc.
+1. **Research**: search for existing patterns and tools that address this kind of problem. How well do they fit, etc.
 2. **Select and adapt**: select existing patterns and/or tools that can be adapted to this purpose. How do they fit together? What work is required to connect them? Are new bespoke components needed?
-3. **Blueprint** design and architect an outline of the overall solution
+3. **Blueprint** design and architect an outline of the overall solution.
 
 This process may again use the GTD Inbox + Clarify pattern with the research stage being "inbox-y" with a lot of quick capturing of ideas and tools followed by some annotation and analysis. It is fine if this research is quite messy as it is then followed by the clarification (select and adapt) into the design blueprint.
 
 ## Plan the Work
 
-The final stage involves breaking down the solution into distinct tasks and clearly defining done in the form of acceptance criteria. It may also involve estimation of those tasks to 
+The final stage involves breaking down the solution into distinct tasks and clearly defining done in the form of acceptance criteria. It may also involve estimation of those tasks too.
 
 Our usual process involves creating one of more task epics following the [issue / tasks template][issues]. Depending on the needs of the situation these epics may be more or less detailed and in some cases you may even break out explicit sub-tasks at finer levels of detail. This can be useful if accurate estimation is needed -- though beware of false precision.
 
 ## Examples
 
-* [Client X Needs Analysis - Jan 20](https://docs.google.com/document/d/19T4M93WnKiGSakC6V3k2xsbBJhjc4zxS6qXNckagcw4/edit)
-* [Harvester Needs Analysis - Dec 19](https://docs.google.com/document/d/1C9GrgJrRJcwT8ZbYIIggWpOd_paZqdxq_7J00-vUZHA/edit)
-* [Full Data Download (EDS) - Dec 19](https://docs.google.com/document/d/1yKK9_mRHC9-X9hN263OpjEKZb1jOOVDC5GYHdrCHam8/edit)
-* [Quiz Format Research and Design](https://gitlab.com/datopian/experiments/quizzical/issues/2) -- this is a Gitlab issue and is in the "epic" format for issues. It is a little messy but still gives a good sense of a real world analysis (this time to design a quiz format).
-
+* [Client X Needs Analysis -- Jan 20](https://docs.google.com/document/d/19T4M93WnKiGSakC6V3k2xsbBJhjc4zxS6qXNckagcw4/edit).
+* [Harvester Needs Analysis -- Dec 19](https://docs.google.com/document/d/1C9GrgJrRJcwT8ZbYIIggWpOd_paZqdxq_7J00-vUZHA/edit).
+* [Full Data Download (EDS) -- Dec 19](https://docs.google.com/document/d/1yKK9_mRHC9-X9hN263OpjEKZb1jOOVDC5GYHdrCHam8/edit).
+* [Quiz Format Research and Design](https://gitlab.com/datopian/experiments/quizzical/issues/2) -- this is a GitLab issue and is in the "epic" format for issues. It is a little messy but still gives a good sense of a real world analysis (this time to design a quiz format).
 
 ## Analysis Document Format
 
@@ -213,7 +210,7 @@ One or more structured issues as per the issue/task template.
 
 --- Appendix ---
 
-# Design Research 
+# Design Research
 
 This is preliminary research for how to build a solution.
 
@@ -222,22 +219,20 @@ This is preliminary research for how to build a solution.
 This is where you collect all incoming needs related items prior to distilling them.
 ```
 
-**Plan of Work**: this is an optional section. Sometimes you may add a Plan of Work section after the Design sections. This section breaks down the implementation work into actionable tasks following the [template for issues / tasks][issues]. This is optional (in this document) for two reasons: a) this may not be necessary until later (e.g. after the design is approved) b) this is often done in another document e.g. a HackMD for easy transfer into issues in an issue tracker.
+**Plan of Work**: this is an optional section. Sometimes you may add a Plan of Work section after the Design sections. This section breaks down the implementation work into actionable tasks following the [template for issues / tasks][issues]. This is optional (in this document) for two reasons: **a)** this may not be necessary until later (e.g. after the design is approved) **b)** this is often done in another document, e.g. a HackMD for easy transfer into issues in an issue tracker.
 
 :::tip
 When booting a document you may just want to start with Needs Inbox and Design Research and only add other sections as you come to them.
 
-When finalizing you may want to mark these two inbox sections as obsolete in some way e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties you may want to remove these sections or clearly separate theme to avoid confusion.
+When finalizing you may want to mark these two inbox sections as obsolete in some way, e.g. by adding "Archive" to their names. Given their archival nature, when sharing the doc with third parties you may want to remove these sections or clearly separate theme to avoid confusion.
 :::
 
 ### Templates
 
-* [Google Doc Template][template]
+* [Google Doc Template][template].
 * [Template for issues / tasks in markdown][issues].
 
 [template]: https://docs.google.com/document/d/1a_KTb2d70odrl1EF12AOQ0zzfxlVcHObnUPhhdFtCAw/edit#
 [issues]: /issues-tasks/
 
-
 <mermaid />
-

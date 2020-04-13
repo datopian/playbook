@@ -14,7 +14,7 @@ These are the **Datopian Tech Leaders**. Through a rigorous development program 
 
 The purpose of the Tech Leaders program is to empower you to be a tech leader for Datopian. Someone who is able to distinguish client needs rapidly, architect excellent solutions and effectively empower and enable a team in their own planning and implementation.
 
-## Partipication in the Program
+## Participation in the Program
 
 Anyone at Datopian may apply to participate in the program and acceptance into the program will be decided by the CTO.
 
@@ -40,10 +40,10 @@ Agreements
 
 A Tech Lead reliably and effectively:
 
-1. **Distinguishes needs** of clients and users
-2. **Designs solutions** that address those needs utilizing and developing our (and others) tools and patterns
+1. **Distinguishes needs** of clients and users.
+2. **Designs solutions** that address those needs utilizing and developing our (and others) tools and patterns.
 3. **Delivers results** by empowering and enabling teams to plan and implement those solutions within and across projects.
-4. **Provides leadership** making things happen that weren't going to happen anyway, developing others and exemplifying the Datopian way
+4. **Provides leadership** making things happen that weren't going to happen anyway, developing others and exemplifying the Datopian way.
 
 :::tip
 1 + 2 (plus the planning in 3) together form what we term [(technical) analysis][analysis].
@@ -88,7 +88,6 @@ This [Coggle provides an overview of the topics we cover][topics]:
 
 <iframe width='680' height='980' src='https://embed.coggle.it/diagram/XUE2AVj7lWAJndbE/4633501624ea955bdc74fa07b81a270cc51cc1c3d47cc3d5e162399f94bbe52f' frameborder='0' allowfullscreen></iframe>
 
-
 ## Structure
 
 The program is structured more like a business school class than a traditional course. Learning is centred around case studies and classrooms oriented to discussion and review. As far as possible, we try to have case studies focused on live, real-world examples.
@@ -96,7 +95,7 @@ The program is structured more like a business school class than a traditional c
 The program is divided into two phases:
 
 1. Phase I focuses on the "technical" in Technical Leader and looks more at [analysis][] and, specifically, dimensions 1 and 2 "Distinguishing Needs" and "Designing Solutions".
-2. Phase II focuses on the "leader" in Technica Leader and looks more at dimensions 3 and 4: "Delivering Results" and "Providing Leadership"
+2. Phase II focuses on the "leader" in Technical Leader and looks more at dimensions 3 and 4: "Delivering Results" and "Providing Leadership".
 
 During Phase I of the program, participants will take on at least three projects:
 
@@ -104,7 +103,7 @@ During Phase I of the program, participants will take on at least three projects
 2. **Project B**: mini-project to create or improve some part of our technical training materials. This will exercise needs analysis in the area of documentation and also include implementation.
 3. **Project C**: Graduation project. Full analysis and design on a set problem.
 
-You will also get to take a approx 3h graduation quiz.
+You will also get to take a approx. 3h graduation quiz.
 
 Successful graduation from Phase I will earn you the title of Technical Lead *Novice* (Level 1). Graduation from Phase II earns the title of Technical Lead  *Competent* (Level 2).
 

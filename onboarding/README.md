@@ -79,10 +79,10 @@ Then check your account for any email you may have already received.
 
 Create an account on each of these. Please make sure you set up Gravatar first.
 
-* Gravatar - https://gravatar.com. **Do this before anything else so your gravatar is used on the other accounts.** You create a gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to Gitlab with your personal email rather than your organization email then also add that email address to your gravatar.
-* Github - https://www.github.com.
-* Gitlab - https://gitlab.com.
-* HackMD - https://hackmd.io.
+* Gravatar -- https://gravatar.com. **Do this before anything else so your Gravatar is used on the other accounts.** You create a Gravatar so that your profile picture will show up automatically on your profile on other systems. Add your Datopian email and *all* the email(s) you will use on other accounts. For example, if you are signed up or plan to sign up to GitLab with your personal email rather than your organization email then also add that email address to your Gravatar.
+* Github -- https://www.github.com.
+* GitLab -- https://gitlab.com.
+* HackMD -- https://hackmd.io.
 
 #### 2 Factor Authorization (2FA)
 
@@ -113,7 +113,6 @@ Let's get started with your [First Steps as a Datopian &raquo;][first-steps].
 
 [first-steps]: ./first-steps/
 
-
 ## Initial Reading
 
 Glance through the handbook sections but there's no need to dive into any of them for now other than in these ones which we recommend you read:
@@ -123,14 +122,13 @@ Glance through the handbook sections but there's no need to dive into any of the
 
 Also, we do recommend you having a quick look around https://datopian.com.
 
-
 ## Quiz
 
 Finally, have some fun and complete the onboarding quiz to test your new-found knowledge (and help improve this onboarding guide).
-* Tech folks, please click [here][quiz] 
-* Non-tech folks, please click [here][non-tech quiz]
+* Tech folks, please click [here][quiz].
+* Non-tech folks, please click [here][non-tech quiz].
 
-⏰ Please spend max 15 - 30 min on this!
+⏰ Please spend max 15 -- 30 min on this!
 
 [quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
 [non-tech quiz]: https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/viewform
@@ -154,7 +152,7 @@ Usually, you will have a mentor/buddy to accompany you in your journey to Datopi
 
 ## Getting Help and Finding Stuff
 
-We're fully remote so our equivalents of all the standard office chatting takes place online either in Chat 💬 or on video calls 📺
+We're fully remote so our equivalents of all the standard office chatting takes place online either in Chat 💬 or on video calls. 📺
 
 So if you need help 🙋 or just want to hang out, here's a list of the best places to start:
 

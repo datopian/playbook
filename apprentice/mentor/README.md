@@ -100,7 +100,7 @@ During the one-on-one:
 * Listen. Ask questions. Listen again.
 * Practice what you preach.
 * Provide specific actionable advice.
-* Read the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) of skill acquisition. Agree with your apprentice what stage they’re in for each skill they’re trying to acquire (Python, Javascript, SQL, interaction design, etc.). Help them move to the next stage.
+* Read the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) of skill acquisition. Agree with your apprentice what stage they’re in for each skill they’re trying to acquire (Python, JavaScript, SQL, interaction design, etc.). Help them move to the next stage.
 * Reflect on the quality of the apprentice’s work in their presence.
 * Reflect on the quality of your work in your apprentice’s presence.
 * Reframe if your experience tells you it will help the apprentice.

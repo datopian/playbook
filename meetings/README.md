@@ -18,19 +18,19 @@ If meetings are regular have a single meeting doc for all those meetings (i.e "A
 ## Document Structure
 
 * Date: Put the date. We often use the date as the heading for the meeting if we have a document with multiple meetings in it.
-* Present: List who is present
+* Present: List who is present.
 * Intention: a meeting **MUST** have an intention and **SHOULD** have a short list of measurable associated outputs. These are what you plan to achieve out of the meeting.
   * Start the meeting by reviewing (or establishing) the intention and outputs.
-* Agenda: a meeting **SHOULD** have an agenda (a short list of items to cover)
-* Agreements & Actions: specifically note agreements and actions from the meeting here
-* Notes: have a separate section for notes (don't use the agenda for notes!)
+* Agenda: a meeting **SHOULD** have an agenda (a short list of items to cover).
+* Agreements & Actions: specifically note agreements and actions from the meeting here.
+* Notes: have a separate section for notes (don't use the agenda for notes!).
 
 There is a [Google Doc meeting template][meeting template] that you can copy for your own meetings and that gives a sense of the layout.
 
 ```md
 # 1 June 2020 [- Space Vehicle Signoff]       <= subject title is optional
 
-**Present**: Rufus (*), Mary, ...             <= (*) denotes chair of meeting
+**Present**: Rufus (*), Mary...             <= (*) denotes chair of meeting
 
 **Intention**: sign-off the plans for the interplanetary space vehicle.
 

@@ -4,13 +4,13 @@
 
 Install the Hypothesis web annotation tool so you can use it to annotate this playbook with questions, comments and corrections.
 
-https://web.hypothes.is/start/
+* https://web.hypothes.is/start/
 
-## Gitlab
+## GitLab
 
-We use Gitlab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
+We use GitLab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
 
-It's fine if you are unfamiliar with Gitlab - you only need the basics for now.
+It's fine if you are unfamiliar with GitLab -- you only need the basics for now.
 
 You can also read this tutorial in your own time: https://docs.gitlab.com/ee/gitlab-basics/
 
@@ -18,17 +18,17 @@ You can also read this tutorial in your own time: https://docs.gitlab.com/ee/git
 
 We also use Github, though less actively, and primarily for our open-source, public codebases.
 
-The only thing to do here is to publicly display your Datopian membership, see: https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership
+The only thing to do here is to publicly display your Datopian membership, see [Publicizing or hiding organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
 
 ## Onboarding Issue
 
 You are going to track your onboarding progress using a Gitlab issue in the onboarding project.
 
-* Please go to https://gitlab.com/datopian/onboarding/issues
-* Create your own Gitlab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
-* Copy and paste the checklist below into your Gitlab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, Hackmd, Gitlab etc).
+* Please go to: https://gitlab.com/datopian/onboarding/issues
+* Create your own GitLab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
+* Copy and paste the checklist below into your GitLab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, HackMD, GitLab, etc.).
 
-```markdown
+```md
 This is my exciting onboarding issue! 🚀
 
 ## Onboarding Essentials
@@ -42,7 +42,7 @@ This is my exciting onboarding issue! 🚀
 
 ### First Steps
 
-* [ ] Have created this issue in gitlab :smile:
+* [ ] Have created this issue in GitLab :smile:
 * [ ] Hypothesis working in my browser and have created (and then deleted) one test annotation on this website
 * [ ] On GitHub I have made my membership of Datopian public and it's visible on my profile and on https://github.com/datopian
 * [ ] I have access to GDrive
@@ -72,7 +72,7 @@ This is my exciting onboarding issue! 🚀
 
 After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
 
-The Onboarder will have granted you access to relevent Team Drives, so you can access and store the information / documents you require.
+The Onboarder will have granted you access to relevant Team Drives, so you can access and store the information / documents you require.
 
 * Any new documents / sheets /presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture and avoids having to explicitly share files with people.
 * If you require access to files that you currently don't have access to, please reach out to your Onboarder.
@@ -85,14 +85,14 @@ Please implement this [E-mail signature template](https://docs.google.com/docume
 
 We want our documents to look neat and coherent so we set up default styles for Datopian. Follow the steps below to set up default styles for your documents in Drive.
 
-* Go into  [Doc Style Template](https://docs.google.com/document/d/1oOMD9l0fRpYKiYd0zf0MQsiP8URce3WFSPUHmYGN428/edit) (Drive: *All -> Handbook -> Style Guide -> Datopian)*
-* Then, click the menu item *Format - Paragraph Styles - Options - SAVE as my default styles*
+* Go into  [Doc Style Template](https://docs.google.com/document/d/1oOMD9l0fRpYKiYd0zf0MQsiP8URce3WFSPUHmYGN428/edit) (Drive: *All → Handbook → Style Guide → Datopian)*
+* Then, click the menu item *Format → Paragraph Styles → Options → SAVE as my default styles*
 
 Test it:
 
 * Create a new document
 * Start writing.
-* Check the styles are correct: compare with the styles in the template
+* Check the styles are correct: compare with the styles in the template.
 
 ## Calendar
 
@@ -104,10 +104,14 @@ It is expected that you keep your calendar up to date, so that if it shows as fr
 
 Set your working hours in the Google Calendar settings so that people automatically get warned when they try to schedule a meeting outside of your working hours.
 
-For instructions on how to set your working hours, see https://support.google.com/calendar/answer/7638168?hl=en
+For instructions on how to set your working hours, see:
+
+* https://support.google.com/calendar/answer/7638168?hl=en
 
 Working hours are according to the primary time zone you have set in Google Calendar.
-For info on where to find your primary time zone in the settings, see https://support.google.com/calendar/answer/37064?hl=en&co=GENIE.Platform=Desktop
+For info on where to find your primary time zone in the settings, see:
+
+* https://support.google.com/calendar/answer/37064?hl=en&co=GENIE.Platform=Desktop
 
 ### How To
 
@@ -137,19 +141,19 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Chat - GChat]
+async --> chat[Chat -- GChat]
 async --> email[Email]
 ```
 
-* **Chat** - We use [Google chat](https://chat.google.com/)
+* **Chat** -- We use [Google chat](https://chat.google.com/).
 *A networking platform online (or download the app) where we have different rooms for different projects/purposes.*
 *(Based on the transparent policy, we require people to speak publicly in the related group and @ the people you want to talk instead of texting privately, unless it is a personal chat.)*
-* **Voice / Video calls:** Our default tool is Google Meet - video call links are automatically added to every meeting set up using our Google Apps calendar.
+* **Voice / Video calls:** Our default tool is Google Meet -- video call links are automatically added to every meeting set up using our Google Apps calendar.
 
   *Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.*
 
-* **Email** - we use Gmail
-* **Documents** - GDrive for all internal documents, we also use Hackmd.
+* **Email** -- we use Gmail.
+* **Documents** -- GDrive for all internal documents, we also use HackMD.
 
 ## Standups
 
@@ -177,26 +181,26 @@ Traditionally, standups they are done verbally "in person" (in a live team meeti
 
 ## Meetings
 
-See [Meetings &raquo;](/meetings/)
+See [Meetings &raquo;](/meetings/).
 
 ## Markdown
 
-Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and gitlab.
+Markdown is a markup language with plain text formatting syntax. We often use markdown language based tools, including HackMD and GitLab.
 
-If you are new to Markdown, see the [Markdown tutorial](/markdown/)
+If you are new to Markdown, see the [Markdown tutorial](/markdown/).
 
 ## HackMD
 
-We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD also gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. gitlab) by keeping the same format.
+We mostly use HackMD for developing documents, it's not only because it's free but also it allows several team members co-work at the same time! HackMD also gives you the output real-time and you can easily copy and paste the markdown text into another interface/platform (e.g. GitLab) by keeping the same format.
 
 Frequent senarios to use HackMD with the team:
 
-* as scratch pad for brainstorming to generate ideas of a project or a document
-* as essential document to co-work a project with team members,
-* as draft for gitlab issues
-* as draft before git commit, etc...
+* as scratch pad for brainstorming to generate ideas of a project or a document;
+* as essential document to co-work a project with team members;
+* as draft for GitLab issues;
+* as draft before git commit, etc.
 
-Let's try it out here https://hackmd.io/
+Let's try it out here: https://hackmd.io/
 
 _Note:_ _For meeting doc, you will want to use Google Doc, not HackMD._
 

@@ -41,7 +41,7 @@ module.exports = {
           { text: 'Getting Things Done (GTD)', link: '/getting-things-done/' },
           { text: 'Objectives and Key Results (OKRs)', link: '/objectives-and-key-results/' },
           { text: 'Planning Your Day', link: '/planning-your-day/' },
-          { text: 'Git', link: '/git/' },
+          { text: 'Git', link: '/version-control/' },
           { text: 'Markdown', link: '/markdown/' },
           { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
@@ -59,7 +59,7 @@ module.exports = {
         items: [
           { text: 'Dojo', link: '/dojo/' },
           { text: 'Python', link: '/dojo/python/' },
-          { text: 'Javascript', link: '/dojo/javascript/' },
+          { text: 'JavaScript', link: '/dojo/javascript/' },
           { text: 'Analysis', link: '/dojo/analysis/' },
           { text: 'Datopian Tech', link: 'https://tech.datopian.com/' }
         ]

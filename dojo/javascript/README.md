@@ -1,24 +1,24 @@
-# How to Learn Javascript
+# How to Learn JavaScript
 
-Javascript is a scripting language, like [Python](dojo/python), originally designed for the Web for both client and server side. It was created in '95 by Brendan Eich [^JS-history].
+JavaScript is a scripting language, like [Python](dojo/python), originally designed for the Web for both client and server side. It was created in '95 by Brendan Eich [^JS-history].
 
-In the past it had mostly been used on the client side i.e. in browsers to create and control dynamic web content e.g. interactive forms, autocomplete suggestions, animations, slideshows, ...
+In the past it had mostly been used on the client side i.e. in browsers to create and control dynamic web content e.g. interactive forms, autocomplete suggestions, animations, slideshows...
 
-Nowadays with the arrival of [node.js](https://nodejs.org/en/) Javascript has also increasingly become popular on the server side.
+Nowadays with the arrival of [node.js](https://nodejs.org/en/) JavaScript has also increasingly become popular on the server side.
 
 ::: tip
-Javascript is not to be confused with Java. They are 2 different languages.
+JavaScript is not to be confused with Java. They are 2 different languages.
 :::
 
-[^JS-history]: Read more about the history of Javascript here: https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17
+[^JS-history]: Read more about the history of JavaScript here: https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17
 
 ## Resources
 
 ### Introduction/Beginner
 
-* You Don't Know JS: Up & Going - Kyle Simpson (book) [Link to PDF][YDK JS]
-* Javascript: The Good Parts (book), no ES6 (published in 2008) [Link to book on publisher's site (paid)][JS good parts]
-* The Complete Node.js Developer Course (3rd Edition) (course) [Link to Udemy (paid)][udemy node.js]
+* You Don't Know JS: Up & Going -- Kyle Simpson (book). [Link to PDF.][YDK JS]
+* JavaScript: The Good Parts (book), no ES6 (published in 2008). [Link to book on publisher's site (paid).][JS good parts]
+* The Complete Node.js Developer Course (3rd Edition) (course). [Link to Udemy (paid).][udemy node.js]
 * nodeschool.io
 
 [YDK JS]: https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf
@@ -27,9 +27,9 @@ Javascript is not to be confused with Java. They are 2 different languages.
 
 ### Intermediate/Advanced
 
-* JavaScript Patterns - Stoyan Stefanov (book) [Available for free online or for purchase via O'Reilly][JS patterns]
-* You Don't Know JS - Kyle Simpson (book series) [Link to book content on Github][YDK JS Github]
-* Effective JavaScript - David Herman (book) [Link to book website (paid)][effective JS]
+* JavaScript Patterns -- Stoyan Stefanov (book). [Available for free online or for purchase via O'Reilly.][JS patterns]
+* You Don't Know JS -- Kyle Simpson (book series). [Link to book content on Github.][YDK JS Github]
+* Effective JavaScript -- David Herman (book). [Link to book website (paid).][effective JS]
 
 [JS patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [YDK JS Github]: https://github.com/getify/You-Dont-Know-JS
@@ -43,7 +43,7 @@ Javascript is not to be confused with Java. They are 2 different languages.
 
   * [YouTube channel](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
-* Blogposts
+* Blog posts
 
   * [React and Vega](https://medium.com/@pbesh/react-and-vega-an-alternative-visualization-example-cd76e07dc1cd#.sslodwyhi)
 
@@ -63,7 +63,7 @@ Testing React:
 
   * [http://www.bebetterdeveloper.com/coding/getting-started-react-mocha.html](http://www.bebetterdeveloper.com/coding/getting-started-react-mocha.html)
 
-> I find very useful video tutorials on YouTube channel. Guy explains things very clearly for people who have idea what react is (thought knowledge of Javascript is pretty much required).
+> I find very useful video tutorials on YouTube channel. Guy explains things very clearly for people who have idea what react is (thought knowledge of JavaScript is pretty much required).
 >
 > Blog posts are very useful if you are going to work with vega or some other visualization libraries or tools.
 >

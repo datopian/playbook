@@ -4,7 +4,7 @@ All projects must be configured with a CI server. The CI server must run the tes
 
 CI platforms to use:
 
-* In Gitlab: Use [Gitlab CI](https://docs.gitlab.com/ee/ci/).
+* In GitLab: Use [GitLab CI](https://docs.gitlab.com/ee/ci/).
 * In GitHub: Use [Travis](https://travis-ci.org/).
 
 ## App deployment

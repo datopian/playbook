@@ -50,7 +50,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 ## Plays
 
 * [Our Agile Approach (to everything)](/agile/)
-* [Style Guides - for Code and more](/style-guide/)
+* [Style Guides -- for Code and more](/style-guide/)
 * [Client Support](/support/)
 * [Meetings](/meetings/)
 
@@ -68,7 +68,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 ## Dojo
 
 * [Python](/dojo/python/)
-* [Javascript](/dojo/javascript)
+* [JavaScript](/dojo/javascript)
 * [Research: how to do research](/dojo/research)
 * [Writing: how to write e.g. blog posts, documentation etc](/dojo/writing)
 * [CKAN](https://tech.datopian.com/ckan/)
@@ -90,7 +90,7 @@ Our growth will flow from inner choice rather than outer pressure and growth wil
 * Business Development and Sales
 * Hiring
 * A10
-* Bitwarden -password management
+* Bitwarden -- password management
 * Communication
   * Meetings
   * Chat

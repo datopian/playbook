@@ -4,9 +4,9 @@
 
 This key information should be present:
 
-* Short description: of what is involved. A user story if possible
-* Acceptance criteria: what would it mean for this to be done
-* Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks"
+* Short description: of what is involved. A user story if possible.
+* Acceptance criteria: what would it mean for this to be done.
+* Tasks/Checklist: A list of tasks involved in doing this task. If you don't know a first task should be "Analyze this and get set of tasks".
 
 ```
 Short description of bug or feature need preferentially in a job story form.
@@ -33,23 +33,25 @@ Short description of bug or feature need preferentially in a job story form.
 ```
 
 All issues must be properly labelled:
-- Support issues must have a support label (indicating their support package)
-- All client related issues must have a client label (all colored #800080)
-- Issues related to other, internal, projects need to be labelled accordingly
-- Contextual labels are encouraged:
-  - 'Source' labels for support issues (e.g. client/sentry/uptime etc.)
-  - 'Technical Debt', 'Bug' etc.
 
-Make sure you record relationships between issues, e.g.
-- Individual issues and their epics
-- Support requests and their fixes
+* Support issues must have a support label (indicating their support package).
+* All client related issues must have a client label (all colored #800080).
+* Issues related to other, internal, projects need to be labelled accordingly.
+* Contextual labels are encouraged:
+  * 'Source' labels for support issues (e.g. client/sentry/uptime etc.).
+  * 'Technical Debt', 'Bug' etc.
+
+Make sure you record relationships between issues, e.g.:
+
+* Individual issues and their epics.
+* Support requests and their fixes.
 
 :::tip
 Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
 :::
 
 ::: tip
-On Github (and Gitlab) you can create an issue template so this structure is always present.
+On Github (and GitLab) you can create an issue template so this structure is always present.
 :::
 
 ### Issue Naming
@@ -57,21 +59,19 @@ On Github (and Gitlab) you can create an issue template so this structure is alw
 * Put [epic] prefix in title for epic issues
 * (Optional) Grouping ... e.g. `[ux]` for ux issues
 
-
 ## Adding an Estimate
 
-**Github:** Using ZenHub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in subissues.
+**Github:** Using ZenHub you can add estimates. These should be in hours. Epics: your estimate for an epic should only be for time on subtasks **not** included in sub-issues.
 
-**Gitlab:** Estimation support is built in.
-
+**GitLab:** Estimation support is built in.
 
 ## Completing Tasks
 
-When completing a task (i.e. a checklist item) you SHOULD
+When completing a task (i.e. a checklist item) you SHOULD:
 
-* Check the item
-* Edit the item to add some information about what happened and make this obvious (e.g. use bolding) ... so that people can see at a glance the status of the issue (and don't have to wade through all the comments)
-* Leave a comment on the issue task ... so that people get notified
+* Check the item.
+* Edit the item to add some information about what happened and make this obvious (e.g. use bolding) ... so that people can see at a glance the status of the issue (and don't have to wade through all the comments).
+* Leave a comment on the issue task... so that people get notified.
 
 For example, suppose the task was:
 
@@ -82,7 +82,7 @@ For example, suppose the task was:
 The updated item would be:
 
 ```
-* [x] Create the mockup of front page - **Done - mockup here {LINK}. Few minor items to finalize once we have answers from client**
+* [x] Create the mockup of front page -- **Done -- mockup here {LINK}. Few minor items to finalize once we have answers from client**
 ```
 
 And the comment here would be almost identical (often comments can be terser):
@@ -90,7 +90,6 @@ And the comment here would be almost identical (often comments can be terser):
 ```
 Mockup complete:{LINK}. Few minor items to finalize once we have answers from client.
 ```
-
 
 ## Closing Issues
 
@@ -114,11 +113,10 @@ WONTFIX. This is not worth doing as the benefit is minor and a lot of work to im
 Notes:
 
 * When issues are closed in a commit you do not need to add a separate comment.
-* If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread
+* If `INVALID, WONTFIX, DUPLICATE` also assign the relevant label. Why? Labels show up listing and comments don't. Conversely label is not obvious when reading the issue comment thread.
 
 ::: tip
 Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
 
 You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'
 :::
-

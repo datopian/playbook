@@ -17,12 +17,12 @@ We give more detail on each section below.
 This is Backlog of your specific tasks.
 
 :::tip
-You don't need to duplicate stuff in a board - if something is already in board then leave there. This is just for extra things or for a quick braindump. Regularly empty it!
+You don't need to duplicate stuff in a board -- if something is already in board then leave there. This is just for extra things or for a quick braindump. Regularly empty it!
 :::
 
 ## Learnings
 
-For bigger longer-term learnings. Recommend grouping these by date e.g.
+For bigger longer-term learnings. Recommend grouping these by date e.g.:
 
 2018-07-02
 
@@ -40,21 +40,21 @@ Each daily plan:
 * Gets its own subsection with a heading with the date.
 * Most recent day at the top.
 * Two sections to the daily plan:
-  * Plan for the day (usually done previous night or first thing in the day)
-  * End of day note including a score
-    * [ ] Percentage of planned tasks that got done + summary score out of 10
-    * [ ] Quick retrospective on learnings from the day - what worked and what did not work so well
-      * [ ] Add major ones to the learnings section
+  * Plan for the day (usually done previous night or first thing in the day).
+  * End of day note including a score.
+    * Percentage of planned tasks that got done + summary score out of 10.
+    * Quick retrospective on learnings from the day -- what worked and what did not work so well.
+      * Add major ones to the learnings section.
 
 :::tip
-You can use todoist or similar todo app for this if you wish. But you must be able to share with your coach or scrum-master.
+You can use Todoist or similar todo app for this if you wish. But you must be able to share with your coach or scrum-master.
 :::
 
 ### Scoring your day
 
 Points out of 10
 
-* 3 points for doing prep and analysis (3 out of 3 = perfect, no corrections, on time etc)
+* 3 points for doing prep and analysis (3 out of 3 = perfect, no corrections, on time, etc.)
 * 7 points for performance =
   * 4 points for percentage you got done
   * 3 points for how you felt (you were well and balanced, content, challenged (positively), and not too tired)
@@ -84,7 +84,7 @@ Full (annotated) markdown template for a Planning your Day doc
 ```
 # Backlog
 
-*Note: you don't need to duplicate stuff in a board - if something is already in board then leave there - this is just for extra things*
+*Note: you don't need to duplicate stuff in a board -- if something is already in board then leave there -- this is just for extra things*
 
 # Learnings
 
@@ -107,7 +107,7 @@ Full (annotated) markdown template for a Planning your Day doc
 
 Big items (try and get specific so you easily evaluate whether this happened or not)
 
-* [ ] 
+* [ ]
 
 Misc (small) items e.g.
 
@@ -124,17 +124,16 @@ Y/10
 
 * Worked:
 * Did not work:
-* Learnings: 
+* Learnings:
 
 ### Plan
 
 Big:
 
-* [ ] 
+* [ ]
 
 Misc (small):
 
 * [ ]
 
 ```
-

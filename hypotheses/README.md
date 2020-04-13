@@ -17,10 +17,9 @@ Examples of this are:
 - It's good practice to come up with hypotheses when you're stuck, because you might come up with a working solution on your own.
 - Writing out your hypotheses can help to clarify your thoughts.
   - Though questions can come from confusion, in clarifying your questions (even if only to yourself), it may lead to understanding the problem from a different perspective.
-- They can enhance your analytical skill - being willing ask questions is a great tool, but learning how to form your own hypotheses without outside help is invaluable.
+- They can enhance your analytical skill -- being willing ask questions is a great tool, but learning how to form your own hypotheses without outside help is invaluable.
 - When you ask questions without your own hypotheses, you remain stuck, and dependent on someone else.
 - Coming up with hypotheses teaches you to break down problems into smaller, more manageable parts. This can also help you more easily understand where the gaps in your knowledge are.
 
 +selfmanagement
 +principle
-

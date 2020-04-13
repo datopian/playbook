@@ -11,7 +11,7 @@ At Datopian we're moving from user stories to [job stories](/job-stories/).
 User stories are a great way of gathering requirements in an agile environment, where one of the key values is **responding to change** over *following a plan*. They are a good anchor for conversation that can then take place at the right time.
 
 ::: tip
-*Don't like text?* [**This is a good video**](https://www.youtube.com/watch?v=Dtrgg4ZFGe4) *to watch which covers these basics (albeit for a Scrum process, so focus on the user story part of it, not the surroundings)*
+*Don't like text?* [**This is a good video**](https://www.youtube.com/watch?v=Dtrgg4ZFGe4) *to watch which covers these basics (albeit for a Scrum process, so focus on the user story part of it, not the surroundings).*
 :::
 
 ## What is a User Story?
@@ -26,7 +26,7 @@ Notice that this does **not** include "*How?*" The "How?" is left to the team de
 
 The most common way to encapsulate a user story is to use the template:
 
-- As a *[WHO]* I want *[WHAT]* so that *[WHY]*
+- As a *[WHO]* I want *[WHAT]* so that *[WHY]*.
 
 Be careful **not** to sneak in any *Hows* into that template. That usually happens in the *What* so stay focussed! Words like *by*, *using* or *with* should be avoided like the plague because they usually result in a *How*.
 
@@ -34,18 +34,18 @@ Basically avoid anything that has to do with the actual implementation.
 
 ### Bad User Stories
 
-* As a government official I want a Range Rover so that I can get from A to B quickly
+- As a government official I want a Range Rover so that I can get from A to B quickly.
 
-    * *Problem: A Range Rover is an actual implementation, it might not be what is needed even though it is what's believed to be desired.*
+  - *Problem: A Range Rover is an actual implementation, it might not be what is needed even though it is what's believed to be desired.*
 
-* As a visitor to a website I want to be able to read a landing page using my spiffy MacBook Air and have the content presented in the Lato typeface, size 14, and with good white space between paragraphs so that I can know what the website is all about
+- As a visitor to a website I want to be able to read a landing page using my spiffy MacBook Air and have the content presented in the Lato typeface, size 14, and with good white space between paragraphs so that I can know what the website is all about.
 
-    * *Problem: A whole lot! What about GNU/Linux and Windows users? What if there is a better typeface out there? What about language of the content? The Why isn't really a why. The list goes on. Don't go into detail. It's bad practice and creates more problems than it solves.*
+  - *Problem: A whole lot! What about GNU/Linux and Windows users? What if there is a better typeface out there? What about language of the content? The Why isn't really a why. The list goes on. Don't go into detail. It's bad practice and creates more problems than it solves.*
 
 ### Good User Stories
 
-* As a government official I want means of transportation so that I can get from A to B quickly
-* As a website visitor I want to know what the website is about so that I can see how it can help me
+- As a government official I want means of transportation so that I can get from A to B quickly.
+- As a website visitor I want to know what the website is about so that I can see how it can help me.
 
 ## Why Shouldn't We Go Into Details?
 
@@ -57,9 +57,10 @@ The team also consists of experts so they know what works best (if not, why are 
 
 We also value interactions and individuals over processes and tools. In an ever changing requirements environment we want non-details which can when the time comes be the basis for a conversation about the actual implementation. The team familiarises itself with the requirement at the appropriate time. So when starting work on the transportation user story, the team might discuss with the customer and ask questions like:
 
-* "How fast is quickly?",
-* "Are A and B in the same city, country, on Earth?",
-* "Are there any policies we need to be aware of?" etc.
+- "How fast is quickly?";
+- "Are A and B in the same city, country, on Earth?";
+- "Are there any policies we need to be aware of?";
+- Etc.
 
 ## Acceptance of User Stories
 
@@ -67,11 +68,11 @@ Surely the customer would still want to be able to have a say in how things get 
 
 This criteria tells the team in a bit more detail what they need to fulfill to deliver the requirement (user story). For the government in need of transport this might be things like:
 
-* Main area of interest/focus is London area
-* Applicable to/usable in other cities as well
-* Allows preparations for a meeting while in transit
-* Very predictable so travel time can be planned in detail
-* Doesn't create a distance between me and the people I serve
+- Main area of interest/focus is London area
+- Applicable to/usable in other cities as well
+- Allows preparations for a meeting while in transit
+- Very predictable so travel time can be planned in detail
+- Doesn't create a distance between me and the people I serve
 
 Then the implementation team might even pick public transportation to solve this requirement. A Range Rover wasn't really needed in the end (albeit this would probably go against the "satisfy the customer" principle but hey! I'm teaching you about user stories here! Stay focussed!).
 
@@ -87,9 +88,9 @@ Some might have epics as the big long term project, break that up into user stor
 
 Whatever way you do, this is the general guideline of *granularity*:
 
-* Coarsest: Long-term plans of what you'll be doing
-* Mid-range: Delivery in a given time period (e.g. before deadlines)
-* Finest: What team will deliver in a day or two
+- Coarsest: Long-term plans of what you'll be doing.
+- Mid-range: Delivery in a given time period (e.g. before deadlines).
+- Finest: What team will deliver in a day or two.
 
 The reason the finest level is in a day or two is to give the team a sense of progress and avoid getting stuck at: "I'm still doing the guildhall thing" which is very demoralizing and inefficient (and not really helpful for others who might be able to help).
 
@@ -119,10 +120,10 @@ At other times the single customer representative is an internal person. That in
 
 This individual representative is the contact point for the team. The one who's there for the team to help them deliver the right thing. More specifically this individual:
 
-* Creates initial user stories (and drives creation of other user stories)
-* Helps the team prioritise requirements (user stories)
-* Accepts stories (or rejects) when the team delivers
-* Is available to answer any questions the team might have
+- Creates initial user stories (and drives creation of other user stories).
+- Helps the team prioritise requirements (user stories).
+- Accepts stories (or rejects) when the team delivers.
+- Is available to answer any questions the team might have.
 
 So the representative's role is to provide the implementers with enough domain knowledge to proceed and deliver the right thing. This individual should not have any say in *how* the core team will implement it. That's why the team was hired/tasked with delivering it, because they *know* how to do it. That's also why user stories do *not* focus on the *how*.
 
@@ -136,4 +137,4 @@ So if the representative helps the team go from coarse to mid-range, the user st
 
 > *As a side note, because the chickens are there to make sure the pigs can deliver, they will always have to be available to answer questions. Many have picked up the standup activity from the Scrum process to discuss blockers, and in those cases it's important that everyone involved, both pigs and chickens, so the chickens can act quickly to unblock the pigs.*
 
-Now go and have fun with user stories. They shouldn't be a burden. They should make your life easier ...
+Now go and have fun with user stories. They shouldn't be a burden. They should make your life easier...
