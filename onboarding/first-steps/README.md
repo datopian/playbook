@@ -2,7 +2,7 @@
 
 ## Install Hypothesis
 
-Install the Hypothesis web annotation tool so can use it to annotate this playbook with questions, comments and corrections.
+Install the Hypothesis web annotation tool so you can use it to annotate this playbook with questions, comments and corrections.
 
 https://web.hypothes.is/start/
 
@@ -55,7 +55,7 @@ This is my exciting onboarding issue! 🚀
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
-  * [ ] Confirmed I have the all hands meeting in my calendar
+  * [ ] Confirmed I have the All Team Weekly meeting in my calendar
 * [ ] How we communicate
   * [ ] Go on GChat and message each other directly
   * [ ] Drop a message in the onboarding channel
