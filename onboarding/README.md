@@ -126,11 +126,14 @@ Also, we do recommend you having a quick look around https://datopian.com.
 
 ## Quiz
 
-Finally, have some fun and complete the [Onboarding Quiz][quiz] to test your new-found knowledge (and help improve this onboarding guide).
+Finally, have some fun and complete the onboarding quiz to test your new-found knowledge (and help improve this onboarding guide).
+* Tech folks, please click [here][quiz] 
+* Non-tech folks, please click [here][non-tech quiz]
 
 ⏰ Please spend max 15 - 30 min on this!
 
 [quiz]: https://docs.google.com/forms/d/e/1FAIpQLSdtKZ9D4YpDDJ39HfPUniBcCuiLZ1c92Ri7LvE9nudgs_ZzMg/viewform
+[non-tech quiz]: https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/viewform
 
 
 ## Tech Onboarding
