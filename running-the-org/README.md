@@ -99,7 +99,7 @@ _Note: Remember to store all receipts from the trip or else they can’t get rei
 
 ### Timezone
 
-The usual timezone we use in Datopian Chats is GMT + 1 (UK time) (unless otherwise agreed within your team).
+The usual timezone we use in Datopian is aligned with the [current standard timezone in UK](https://www.timeanddate.com/time/zone/uk) (unless otherwise agreed within your team).
 
 ### Core Hours
 
