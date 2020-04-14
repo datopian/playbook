@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Situation, Complication, Question, Hypothesis (SCQH) is a simple and powerful problem solving tool. It is especially useful for strategy and is part of the standard training in leading strategy consultancies such as Mckinsey.
+Situation, Complication, Question, Hypothesis (SCQH) is a simple and powerful problem solving tool. It is especially useful for strategy and is part of the standard training in leading strategy consultancies such as McKinsey.
 
 It can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
 
