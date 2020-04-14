@@ -64,7 +64,7 @@ This is my exciting onboarding issue! 🚀
   * [ ] Check out the "standups" channel (don’t post there for now)
 * [ ] Meetings
   * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
-  * [ ] Structure the document as per recommended structure. Do as if you were going to introduce someone to the place where you live
+  * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
   * [ ] Review each others and sign it off
 ```
 
