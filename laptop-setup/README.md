@@ -10,13 +10,13 @@ We recommend you have a MacOS laptop if possible. Second best is Linux-based e.g
 
 Please have the following software installed:
 
-* Google Chrome
-* Visual Studio Code https://code.visualstudio.com/ -- we recommend it as default editor if you don't already have one (e.g. vim, emacs etc). Even if you already have an editor 
+* [Google Chrome](https://www.google.com/chrome/)
+* [Visual Studio Code](https://code.visualstudio.com/) -- we recommend it as default editor if you don't already have one (e.g. vim, emacs etc). Even if you already have an editor 
 we recommend installing this as we use this for remote pair programming.
-* Package Manager e.g.  on MacOS you have Brew installed and set up for development (you can then use this to install other tools)
-* Git
-* Python (v3)
-* NodeJS
+* Package Manager e.g.  on MacOS you have [Homebrew](https://brew.sh/) installed and set up for development (you can then use this to install other tools)
+* [Git](https://git-scm.com/)
+* [Python (v3)](https://www.python.org/downloads/)
+* [NodeJS](https://nodejs.org/en/)
 
 ## Remote Pair Programming
 
