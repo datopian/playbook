@@ -159,7 +159,7 @@ Standups are part of the [agile methodology][agile]. Their purpose is to:
 * Surface blockers
 * Deal with issues arising (e.g. need to reprioritize in face of an arising issue or change in estimate)
 
-Traditionally, standups they are done verbally "in person" (in a live team meeting e.g. on video). Most teams at Datopian do this. However, we have found it useful[^why] to move the update part of the standup into written form and post it on chat. Thus, team members SHOULD provide daily *written* "standup" update on the Standup channel on chat. The form is as follows:
+Traditionally, standups they are done verbally "in person" (in a live team meeting e.g. on video). Most teams at Datopian do this. However, we have found it useful[^why] to provide the standup in a written form and post it on chat. Thus, team members SHOULD provide daily *written* "standup" update on the Standup channel on chat. The form is as follows:
 
 [^why]: Why have we found this useful? First, written updates are easier to follow. Second, if some team members can't make standup they can still get the updates.
 
