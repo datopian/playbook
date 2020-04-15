@@ -10,7 +10,7 @@ Install the Hypothesis web annotation tool so you can use it to annotate this pl
 
 We use GitLab https://gitlab.com/ for a lot of project management as well as managing our code in git repositories. We want to introduce you to it here briefly because we will use its issue tracker functionality.
 
-For every task you are working on there will be a Gitlab issue helping and guiding you to manage the task at hand. Every issue should follow the same format (a short description of what is involved, acceptance criteria to deliver the issue and a task checklist with a detailed breakdown of each step required) and it must be labelled correctly. 
+For every task you are working on there will be a GitLab issue helping and guiding you to manage the task at hand. Every issue should follow the same format (a short description of what is involved, acceptance criteria to deliver the issue and a task checklist with a detailed breakdown of each step required) and it must be labelled correctly. 
 
 [Here](https://playbook.datopian.com/issues-tasks/#creating-issues) you can find more information about how to create an issue and which labels to use.
 
