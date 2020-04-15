@@ -12,14 +12,14 @@ Humans evolved in small groups with face to face communication so remote is chal
 
 We have the following *media* of communication:
 
-* Call: voice or video.
-* Chat (aka IM): text chat / instant messenger.
+* Call: voice or video, i.e. Google Meet.
+* Chat (aka IM): text chat / instant messenger, i.e. Google Chat.
 * Email: a conversation via email either one to one or in a group.
-* Document: written document such as Google Docs, HackMD, etc.
-* Issue tracker: combination of written text, checklists and comments, e.g. GitLab or GitHub issue tracker.
+* Document: written documents such as Google Docs, HackMD, etc.
+* [Issue tracker](https://playbook.datopian.com/issues-tasks/#creating-issues): combination of written text, checklists and comments, e.g. GitLab or GitHub issue tracker.
 * In person: face to face.
 
-A big part of the foundation for great internal communication.
+It's a big part of the foundation for great internal communication.
 
 ## Information Flow and Capture
 
