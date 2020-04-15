@@ -142,6 +142,19 @@ We use accounts@datopian.com to register for most services/ portals. If you are 
 * A short description of the purpose for this account and who should have access to it 
   (ie Zoom is a video communications tool we use for meetings; OPS and management should have access to it)
 
+## GitHub/ GitLab Permissions
+The following are the current permissions for GitHub and GitLab:
+
+| Dev Levels | GitHub | GitLab |
+| ------ | ------ |------ |
+| Apprentices | member | developer |
+| Junior Devs | member | developer | 
+| Developers | member | developer |
+| Senior Devs | owner | maintainer |
+| Tech Leads | owner | maintainer/ owner (if upper management) |
+
+### Exemptions
+Please contact your scrum lead and cc office@datopian.com if you need to be exempt from these guidelines. Once the scrum lead confirms, a member from the ops team will adjust your permissions accordingly to ensure you have greater access.
 
 ## Displaying proudly your Datopianness
 
