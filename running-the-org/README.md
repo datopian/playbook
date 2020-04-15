@@ -134,6 +134,15 @@ All Datopian credentials are stored in Bitwarden.
 
 Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
 
+### Registering for New Services/ Portals
+We use accounts@datopian.com to register for most services/ portals. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
+* Name of Platform/ URL (ie [Zoom](https://zoom.us/))
+* Username: accounts@datopian.com
+* Password: paste the password in [privnote](https://privnote.com/) and include the URL
+* A short description of the purpose for this account and who should have access to it 
+  (ie Zoom is a video communications tool we use for meetings; OPS and management should have access to it)
+
+
 ## Displaying proudly your Datopianness
 
 Firstly, if you like us (we know you do!), please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/datopian/)!
