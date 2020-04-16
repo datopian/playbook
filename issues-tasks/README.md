@@ -95,7 +95,7 @@ For example, suppose the task was:
 The updated item would be:
 
 ```
-* [x] Create the mockup of front page -- **Done -- mockup here {LINK}. Few minor items to finalize once we have answers from client**
+* [x] Create the mockup of front page -- **Done** -- mockup here {LINK}. Few minor items to finalize once we have answers from client**
 ```
 
 And the comment here would be almost identical (often comments can be terser):
