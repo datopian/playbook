@@ -58,6 +58,7 @@ module.exports = {
         text: '🥋 Dojo',
         items: [
           { text: 'Dojo', link: '/dojo/' },
+          { text: 'Technical Writing', link: '/dojo/technical-writing/' },
           { text: 'Python', link: '/dojo/python/' },
           { text: 'JavaScript', link: '/dojo/javascript/' },
           { text: 'Analysis', link: '/dojo/analysis/' },
