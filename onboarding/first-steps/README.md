@@ -70,7 +70,7 @@ This is my exciting onboarding issue! 🚀
 * [ ] Meetings
   * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
-  * [ ] Post the link to the meeting doc on the Onboarding chat and ask for it to be reviewed
+  * [ ] Post the link to the meeting doc on the onboarding chat and ask for it to be reviewed
 ```
 
 ## Setting up Google Drive
