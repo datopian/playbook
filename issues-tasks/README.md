@@ -15,7 +15,7 @@ Short description of bug or feature need preferentially in a job story form.
 
 [Can have multiple items esp if an epic]
 
-[May have a sub section called Stories if you want to list stores]
+[May have a sub section called Stories if you want to list stories]
 
 [Optional: *Requestor:*]
 
@@ -38,6 +38,13 @@ Short description of bug or feature need preferentially in a job story form.
 *This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
 ```
 
+### Issue Naming
+
+* Put [epic] prefix in title for epic issues
+* (Optional) Grouping ... e.g. `[ux]` for ux issues
+
+### Labels and Milestones
+
 All issues must be properly labelled and added to the relevant milestone:
 
 * Support issues must have a support label (indicating their support package).
@@ -54,6 +61,8 @@ All issues must be properly labelled and added to the relevant milestone:
 * When an issue is reviewed, signed off and delivered, we simply close it without a label.
 * Sometimes issues are closed WITHOUT being delivered, for example, when circumstances have changed, there is a duplicate issue that has delivered the desired outcome or the issue isn’t valid anymore. In these cases the issues need an explanatory label, such as ‘Wontfix’, ‘Duplicate’, ‘Invalid’ together with a short comment specifying the reason why they haven’t been delivered. 
 
+### Relationships between Issues
+
 Make sure you record relationships between issues, e.g.:
 
 * Individual issues and their epics.
@@ -66,11 +75,6 @@ Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the
 ::: tip
 On Github (and GitLab) you can create an issue template so this structure is always present.
 :::
-
-### Issue Naming
-
-* Put [epic] prefix in title for epic issues
-* (Optional) Grouping ... e.g. `[ux]` for ux issues
 
 ## Adding an Estimate
 
