@@ -43,24 +43,6 @@ Short description of bug or feature need preferentially in a job story form.
 * Put [epic] prefix in title for epic issues
 * (Optional) Grouping ... e.g. `[ux]` for ux issues
 
-### Labels and Milestones
-
-All issues must be properly labelled and added to the relevant milestone:
-
-* Support issues must have a support label (indicating their support package).
-* All client related issues must have a client label (all colored #800080).
-* Issues related to other, internal, projects need to be labelled accordingly.
-* Contextual labels are encouraged:
-  * 'Source' labels for support issues (e.g. client/sentry/uptime etc.).
-  * 'Technical Debt', 'Bug' etc.
-* Issues that have been reviewed and prioritised but have not been allocated yet are to be labelled ‘Prioritized Backlog’.
-* Some issues are in-between: they provide value but not enough to be prioritised and worked on immediately, maybe because of timing or lack of resources; these issues should be added to a milestone called ‘Icebox’ for “frozen” or archived issues that won’t be picked up in the near feature.
-* Issues scheduled for future sprints are allocated to the relevant milestone.
-* Note: sprints are organised via the Milestones feature in GitLab. Naming convention: ‘Sprint - DD MMM YYYY’ with the date being the last day of the sprint.
-* When working on an issue, it needs to be labelled ‘In Progress’. In case of a blocker, the label needs to be changed to ‘Blocked/Waiting For’. While an issue is reviewed and/or has to be signed off we change the label to ‘In Review’. Once signed off, the issue needs to be closed.
-* When an issue is reviewed, signed off and delivered, we simply close it without a label.
-* Sometimes issues are closed WITHOUT being delivered, for example, when circumstances have changed, there is a duplicate issue that has delivered the desired outcome or the issue isn’t valid anymore. In these cases the issues need an explanatory label, such as ‘Wontfix’, ‘Duplicate’, ‘Invalid’ together with a short comment specifying the reason why they haven’t been delivered. 
-
 ### Relationships between Issues
 
 Make sure you record relationships between issues, e.g.:
@@ -75,6 +57,19 @@ Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the
 ::: tip
 On Github (and GitLab) you can create an issue template so this structure is always present.
 :::
+
+## Labels and Milestones
+
+Labels are a great way to highlight the status, relationship and context of issues. For example: 
+
+* Support issues must have a support label (indicating their support package).
+* All client related issues must have a client label (all colored #800080).
+* Issues related to other, internal, projects need to be labelled accordingly.
+* Contextual labels are encouraged:
+  * 'Source' labels for support issues (e.g. client/sentry/uptime etc.).
+  * 'Technical Debt', 'Bug' etc.
+
+Once labels are prioritised or worked on they need to be labelled accordingly and added to the relevant milestone. A detailed description of how to use labels and milestones within sprints can be found in the [Datopian Playbook, Agile Delivery](https://playbook.datopian.com/agile/#the-sprint-process-and-key-concepts). 
 
 ## Adding an Estimate
 
