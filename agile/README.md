@@ -95,6 +95,22 @@ Before one goes into the sprint cycle there is some preparatory work that should
   * Individual Tasks should be \<= 2d total time (reduces estimation error)
   * Meeting is timeboxed \<= 1-2.5h (~ 20-30m \* size of FTE team)
 
+* **Sprint organisation with milestones and labels**
+
+  * Milestones
+
+    * Sprints are organised via the Milestones feature in GitLab. Naming convention: ‘Sprint - DD MMM YYYY’ with the date being the last day of the sprint.
+    * Issues scheduled for future sprints are allocated to the relevant milestone.
+    * ‘Icebox’ - milestone for issues that provide value but not enough to be prioritised and worked on immediately.
+
+  * Labels
+
+    * ‘Prioritized Backlog’ - issues that have been reviewed and prioritised but have not been allocated yet.
+    * ‘In Progress’ - issues currently worked. 
+    * ‘Blocked/Waiting For’ - if there is a blocker. 
+    * ‘In Review’ - issue is reviewed and/or has to be signed off. Once signed off, the issue needs to be closed.
+    * ‘Wontfix’, ‘Duplicate’, ‘Invalid’ - closed issue without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. Note: add a short comment specifying the reason why the issue hasn’t been delivered.
+    
 * **Sprint review** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)] -- What did we ship this sprint?
 
   * End of sprint (e.g. Friday).
