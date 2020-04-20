@@ -91,7 +91,7 @@ _Note: Remember to store all receipts from the trip or else they can’t get rei
 3. Make sure to mark them all and submit them for approval.
 4. Send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) and CC office@datopian.com confirming that your expenses have been submitted.
 
-## Team, Hours and Office
+## Team, Hours, and Office
 
 ### Timezone
 
@@ -104,6 +104,9 @@ Our general working hours are 8am UK -- 5pm UK. Not necessarily when you work bu
 ### Phone book
 
 You can find team members' phone numbers, usernames, phone numbers in Team [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431).
+
+### Email Groups
+We use various emails and email aliases to direct emails to specific teams. A comprehensive list can be found [here](https://docs.google.com/spreadsheets/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0).
 
 ### Time-off
 
