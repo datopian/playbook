@@ -127,12 +127,7 @@ Please add an "Out of office" and include an alternative contact.
 
 ## Password Management
 
-All Datopian credentials are stored in Bitwarden.
-
-* Contact the DevOps team (devops@datopian.com) if you need sysadmin credentials  
-* Contact the Ops team (office@datopian.com) for any other credentials you may need
-
-Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
+All Datopian credentials are stored in Bitwarden. Please reach out to the Ops team (office@datopian.com) if you need access to any accounts. Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
 
 ### Registering for New Services/ Portals
 We use accounts@datopian.com to register for most services/ portals. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
