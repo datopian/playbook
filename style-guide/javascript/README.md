@@ -130,11 +130,52 @@ Prefer to make really good README.md files, rather than implementing a full docu
 * lodash
 * Express
 * React (VueJS is possible esp for lightweight projects -- please ask)
+* Redux
 
-### 6.1. Redux
+There is a boilerplate project [here](https://gitlab.com/datopian/react-redux-boilerplate) which includes reasonable configuration for starting a React + Redux, Webpack, Tailwind (etc) application.
 
-Larger React applications are usually accompanied by the use of Redux. Defined by their authors as "a predictable state container for JavaScript apps," it is also a synchronous pub/sub system.
+### 6.0. [React](https://reactjs.org/)
 
-The following presentation describes some of its use cases and a widespread anti-pattern that we should avoid.
+[React](https://reactjs.org/) is a powerful tool for templating frontend components in a heirarchical fashion (think -- menu component --> menu item component --> link item component, etc). React is fast, efficient, and easy to read and write. React helps to manage DOM events using the component lifecycle. (Note that in apps that maintain non-trivial state, events should be managed using the [Redux framework](https://redux.js.org/) (also [see below](#redux))
+
+#### 6.0.1. [Create React App](https://github.com/facebook/create-react-app)
+
+Setting up and configuring react apps for browser compatibility ([see webpack section, below](#8. Webpack)) is is a significant task that includes a fair degree of complexity. Doing this setup work may be time consuming and inconsistent when left to individual teams or developrs. Opt, when possible, for out-of-the-box and repeatable solutions such as [Create React App](https://github.com/facebook/create-react-app). Create React App creates a framework for react applications, including sane webpack configuration, test harnesses, etc. It is flexible, configurable, and fast to set up, with repeatable results. Use it.
+
+#### 6.0.2. [React Cosmos](https://github.com/react-cosmos/react-cosmos)
+
+[React Cosmos](https://github.com/react-cosmos/react-cosmos) allows discrete components to be instantiated along with their props and context. In this way UI elements can be viewed and tested in isolation with a range of configurations.
+
+Cosmos allows for quick setups (zero to hero with a couple of commands) and quick iteration. Use it!
+
+### 6.1. [Redux](https://redux.js.org/)
+
+Larger React applications which maintain state (think: checkboxes, expanded or collapsed elements, form values, etc etc) should be built using  Redux. Defined by their authors as "a predictable state container for JavaScript apps," the Redux franework uses a listener type of pattern for events and maintains a single state object for an entire application. There is some learning curve, but it is a very failsafe way to maintain a single source of truth in your frontend applications.
+
+The following presentation describes Redux and its use cases, as well as a widespread anti-pattern that we should avoid.
 
 https://rangle.slides.com/yazanalaboudi/deck
+
+## 7. Modules
+
+Javascript supports the use of [exportable modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
+
+Javascript code should be modular, testable, and tested.
+
+## 8. Webpack
+
+Browser compatibility in javascript is a difficult problem. Use [webpack](https://webpack.js.org/) for bundling JS code for cross-browser compatibility.
+
+## 9. Compiled JS in CKAN Classic
+
+It is [more or less well documented](https://docs.ckan.org/en/2.8/theming/javascript.html) how to include modular non-compiled JS code in CKAN. However, including larger JS libraries and compiled JS code requires additional forethought.
+
+In addition to the javascript module pattern provided by CKAN Classic, CKAN additionally provides its own system for managing static resources -- [fanstatic](http://www.fanstatic.org/en/latest/). While fanstatic is idiosyncratic and not designed with modern JS ecosystems in mind, it is an effective way to include larger JS builds in CKAN extensions.
+
+To some degree, these practices remain open to experimentation and improvement.
+
+Some heuristics:
+
+* Maintain modular javascript applications and libraries in separate repositories, where appropriate.
+* Use [Create React App](https://github.com/facebook/create-react-app) to create React-based widgets / "SPA"s / embeddable standalone applications (for example [the data explorer application](https://github.com/datopian/data-explorer)) in React
+* For library code and other code that is not embeddable as a standalone app, use webpack to create exports with the appropriate browser compatibility requirements. Then use fanstatic to manage the compiled JS in CKAN. See [ckanext-querytool](https://github.com/datopian/ckanext-querytool) for an example of how this can be done.
