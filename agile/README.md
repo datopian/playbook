@@ -27,15 +27,15 @@ The key principles of the agile approach to delivery are[^2]:
 
 These are largely based on standard scrum process (see e.g. [*Wikipedia*](http://en.wikipedia.org/wiki/Scrum_(software_development)))
 
-## Product Owner
+### Product Owner
 
 Represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner writes (or has the team write) customer-centric items (typically [*user stories*](http://en.wikipedia.org/wiki/User_story)), **assigns "business" value** to them, and **prioritizes** (ranks) them, and adds them to the [*product backlog*](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master. [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-owner)]
 
-## Scrum Master
+### Scrum Master
 
 Delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
 
-## Delivery Team
+### Delivery Team
 
 **Responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with project management offices (PMOs).
 
@@ -141,17 +141,17 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
   * Only people "committed" to the project may speak (anyone “involved” with the project may listen)
 
-## User Stories
+### User Stories
 
 See [User Stories][]
 
 [User Stories]: /user-stories/
 
-## Managing the Product Backlog Board
+### Managing the Product Backlog Board
 
 TODO: removed the trello reference and need to update for e.g. GitLab. Focus is on how board is setup and how sprints get completed.
 
-## Estimating Cost
+### Estimating Cost
 
 Estimation -- Central to Workability and Low-Stress.
 
@@ -170,13 +170,13 @@ In the "extreme" version: tasks go to the lowest estimator. We generally do not 
 
 In general tasks that are over 8d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
 
-## Estimating Business Value
+### Estimating Business Value
 
 This is done by the Product Owner and Product Owner ultimately has sole responsibility for setting business value.
 
 Input can be taken from Delivery Team and recommend using same method as planning poker, capping maximum points at around 100.
 
-## Sprint Review Meeting
+### Sprint Review Meeting
 
 At the end of each sprint, a sprint review meeting is held.
 
@@ -222,13 +222,13 @@ During the sprint review, the project is assessed against the sprint goal determ
 
 References: http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
-## Sprint Retrospective
+### Sprint Retrospective
 
 http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
 
 ## FAQ
 
-## What about a PM -- is the Product Owner the PM?
+### What about a Project Manager -- is the Product Owner the PM?
 
 From [*this answer*](http://stackoverflow.com/questions/10775637/scrum-different-product-owner-and-project-manager)
 
