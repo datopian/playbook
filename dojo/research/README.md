@@ -69,7 +69,7 @@ Some guidelines:
 * Don't put meta data at the bottom of the table.
 * Avoid having multiple columns in one sheet.
   * If you do, have them side by side because if you have them above or below each other then if you add or delete a column in one of the tables it might mess up the other ones.
-* If you have 1 column which contains thea same values for all entries, generally you can leave it out because it doesn't convey anything.
+* If you have 1 column which contains the same values for all entries, generally you can leave it out because it doesn't convey anything.
 
 ## Worked Out Example
 
