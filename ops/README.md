@@ -85,6 +85,7 @@ end
    * [ ]  License assigned
    * [ ]  Added to Services Team Group
    * [ ]  Added to All Team calendar
+* [ ]  Please add them to this [group email list](https://docs.google.com/spreadsheets/u/1/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0) (if applicable)
 * [ ]  Welcome/Onboarding call scheduled
 * [ ]  Welcome email sent
 * [ ]  Added to GChat channels
