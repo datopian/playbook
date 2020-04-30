@@ -261,7 +261,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
     ...
     ```
 
-5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0).
+5. **Add the person to the Rates DB & Inter-org DB**: Complete the [Rates DB sheet](https://docs.google.com/spreadsheets/d/1fXs_pdpW2QL7FKfYcVW-nXcLoXiywx3bPaA8RufFDeI/edit) using the rates in their contract. Fill in : the **daily rate**, the **currency** and the **daily rate in USD**. (The hourly and monthly rates should automatically calculate). Once completed, inform the Head of Project/Michelle/Esteban by creating a Gitlab issue so they can add them to the [InterOrg Rates DB](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0).
 
 6. If a GmbH employee -- add them to HeavenHR or whatever HR platform we are currently using.
 
