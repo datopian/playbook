@@ -1,6 +1,6 @@
 # Agile Delivery
 
-This document lays out a scrum-based agile process for delivering projects.
+This document introduces our scrum-based agile process for delivering projects.
 
 This process can be used for both technical and non-technical projects[^1].
 
@@ -16,20 +16,31 @@ The key principles of the agile approach to delivery are[^2]:
 6. The team decides **how** to do the work in the iteration
 7. The team **measures its own performance**
 8. Define work goals **before** each cycle starts
-9. Define work goals (primarily) through **user stories**
-
+9. Define work goals (primarily) through **job stories**
 
 [^1]: Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
+[^2]: Adapted from http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/
 
-[^2]: Adapted from [*http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/*](http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/)
 
 ## Roles
 
-These are largely based on standard scrum process (see e.g. [*Wikipedia*](http://en.wikipedia.org/wiki/Scrum_(software_development)))
+These are largely based on standard scrum process see e.g. Wikipedia http://en.wikipedia.org/wiki/Scrum_(software_development
 
 ### Product Owner
 
-Represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner writes (or has the team write) customer-centric items (typically [*user stories*](http://en.wikipedia.org/wiki/User_story)), **assigns "business" value** to them, and **prioritizes** (ranks) them, and adds them to the [*product backlog*](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master. [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-owner)]
+Represents the stakeholders and is the voice of the customer. He or she is **accountable** for ensuring that the **team delivers value to the business**. The Product Owner's primary task is the creation and prioritization of job or user stories. Specifically, the Product Owner:
+
+* writes (or has the team write) customer-centric items typically [user stories][] or, preferably, [job stories][]
+* **assigns "business" value** to them
+* **prioritizes** (ranks) them
+* and adds them to the [product backlog](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+
+Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master.
+
+See also http://www.mountaingoatsoftware.com/agile/scrum/product-owner
+
+[user stories]: /user-stories/
+[job stories]: /job-stories/
 
 ### Scrum Master
 
@@ -37,138 +48,146 @@ Delivery is **facilitated** by a Scrum Master, who is accountable for **removing
 
 ### Delivery Team
 
-**Responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with project management offices (PMOs).
+**Responsible for delivering** potentially shippable increments (PSIs) of product at the end of each Sprint (the Sprint Goal). The Delivery Team is **self-organizing**, even though there may be some level of interface with other parts of the organization.
 
 
 ## Project Kick-Off and Preparation
 
-Before one goes into the sprint cycle there is some preparatory work that should be done. Total time required \<= 1d. The Product Owner is overall responsible for this stage of the process.
+Before one goes into the sprint cycle there is some preparatory work that should be done. Total time required should be no more than a day. However, for larger projects this may take longer, esp if the kick-off meeting involves discovering the product backlog with the priamry client. The Product Owner is overall responsible for this stage of the process.
 
-* **Project A10** [Product Owner] **[1h]**
+### Project A10
 
-  * This work should result in the creation of a Project Overview document
-  * Total Budget
-  * Aims and Requirements (aka Purpose, Outcomes and Outputs. Also deliverables)
-  * Project Plan
-  * Issue tracker, repo etc (Or other key PM tools and links)
-  * Risks
-  * Resourcing Amount (FTE months)
+: Product Owner  
+:clock: 1h
 
-* **Key user stories** [Product Owner as lead with involvement as appropriate of other relevant personnel) **[2-6h]**
+* This work should result in the creation of a Project Overview document
+* Total Budget
+* Aims and Requirements (aka Purpose, Outcomes and Outputs. Also deliverables)
+* Project Plan
+* Issue tracker, repo etc (Or other key PM tools and links)
+* Risks
+* Resourcing Amount (FTE months)
 
-  * Generate first set of user stories for this project.
-  * Do **not** need to be comprehensive -- can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
-  * Cannot over-state the value of generating (good) user stories at this point. Will have a transformative effect on the quality of the project.
-  * Should involve some or all of delivery team + scrum master, at least some part of this:
+### Key job stories
 
-    * Gets everyone up to speed
-    * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
+Product Owner as lead with involvement as appropriate of other relevant personnel
 
-* *Kick-off meeting: it is suggested this is merged with first sprint planning meet (however, can have separate, especially if you want to inform a broader group of people)*
+**[2-6h]**
 
-  * *Product Owner, Scrum Master and Delivery Team need to be there*
+* Generate first set of user stories for this project.
+* Do **not** need to be comprehensive -- can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
+* Cannot over-state the value of generating (good) user stories at this point. Will have a transformative effect on the quality of the project.
+* Should involve some or all of delivery team + scrum master, at least some part of this:
+
+  * Gets everyone up to speed
+  * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
+
+### Kick-off meeting
+
+It is suggested this is merged with first sprint planning meet (however, can have separate, especially if you want to inform a broader group of people)
+
+Product Owner, Scrum Master and Delivery Team need to be there
+
 
 ## The Sprint Process and Key Concepts
 
-* **2-week sprint process**
+### 2-week sprint process
 
   * Tasks agreed in sprint planning meeting on a Monday -- sprint then runs for 2 weeks.
   * Tasks should be in product backlog (see next item).
 
-* **Product Backlog** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/product-backlog)] -- we use GitLab or GitHub issues and project boards
+### Product Backlog
 
-  * Product backlog consists of user stories or tasks related to user stories (should flag which user story a task relates to if not a single user story)
-  * Tasks are broken into at least 2 groups:
+See http://www.mountaingoatsoftware.com/agile/scrum/product-backlog -- we use GitLab or GitHub issues and project boards
 
-    * Prioritized (tasks in priority order). Only Product Owner should move tasks here
-    * Unprioritized: storage place for all tasks that people have thought up but have not yet been prioritized (and are usually implicitly of lower priority than currently prioritized tasks)
-    * Tasks should contain short descriptions and link to user story
-    * **It's not necessary to start a project with a lengthy, upfront effort to document all requirements**
+* Product backlog consists of user stories or tasks related to user stories (should flag which user story a task relates to if not a single user story)
+* Tasks are broken into at least 2 groups:
 
-* **(Sprint) Planning meeting** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-planning-meeting)]
+  * Prioritized (tasks in priority order). Only Product Owner should move tasks here
+  * Unprioritized: storage place for all tasks that people have thought up but have not yet been prioritized (and are usually implicitly of lower priority than currently prioritized tasks)
+  * Tasks should contain short descriptions and link to user story
+  * **It's not necessary to start a project with a lengthy, upfront effort to document all requirements**
 
-  * Results in 2 outputs
+### Sprint Planning meeting
 
-    * A sprint backlog -- A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
-    * A sprint goal -- short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
+http://www.mountaingoatsoftware.com/agile/scrum/sprint-planning-meeting
 
-  * Individual Tasks should be \<= 2d total time (reduces estimation error)
-  * Meeting is timeboxed \<= 1-2.5h (~ 20-30m \* size of FTE team)
+* Results in 2 outputs
 
-* **Sprint organisation with milestones and labels**
+  * A sprint backlog -- A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
+  * A sprint goal -- short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
 
-  * Milestones
+* Individual Tasks should be less than 2d total time (reduces estimation error)
+* Meeting is timeboxed to 1-2.5h (~ 20-30m x size of FTE team)
 
-    * Sprints are organised via the Milestones feature in GitLab. Naming convention: ‘Sprint - DD MMM YYYY’ with the date being the last day of the sprint.
-    * Issues scheduled for future sprints are allocated to the relevant milestone.
-    * ‘Icebox’ - milestone for issues that provide value but not enough to be prioritised and worked on immediately.
+### Sprint review
 
-  * Labels
+What did we ship this sprint? See http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
-    * ‘Prioritized Backlog’ - issues that have been reviewed and prioritised but have not been allocated yet.
-    * ‘In Progress’ - issues currently worked. 
-    * ‘Blocked/Waiting For’ - if there is a blocker. 
-    * ‘In Review’ - issue is reviewed and/or has to be signed off. Once signed off, the issue needs to be closed.
-    * ‘Wontfix’, ‘Duplicate’, ‘Invalid’ - closed issue without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. Note: add a short comment specifying the reason why the issue hasn’t been delivered.
-    
-* **Sprint review** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)] -- What did we ship this sprint?
+* End of sprint (e.g. Friday).
+* No more than 15 minutes times the number of people in team.
+* Team shows what they accomplished during the sprint. Typically this takes the form of a demo.
+* Kept very informal, typically with rules forbidding the use of PowerPoint slides and allowing no more than two hours of preparation time for the meeting. A sprint review meeting should not become a distraction or significant detour for the team; rather, it should be a natural result of the sprint.
+* See Appendix for detailed overview.
 
-  * End of sprint (e.g. Friday).
-  * No more than 15 minutes times the number of people in team.
-  * Team shows what they accomplished during the sprint. Typically this takes the form of a demo.
-  * Kept very informal, typically with rules forbidding the use of PowerPoint slides and allowing no more than two hours of preparation time for the meeting. A sprint review meeting should not become a distraction or significant detour for the team; rather, it should be a natural result of the sprint.
-  * See Appendix for detailed overview.
+### Sprint retrospective
 
-* **Sprint retrospective** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)] -- What can we learn from this sprint for the future?
+What can we learn from this sprint for the future? See http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
 
-  * End of sprint (suggest holding straight after review). Even shorter.
-  * Start-Stop-Continue structure (what should team start doing, stop doing, and continue doing)
+* End of sprint (suggest holding straight after review). Even shorter.
+* Start-Stop-Continue structure (what should team start doing, stop doing, and continue doing)
 
-* **Standup** [[*link*](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum), [*link-wp*](http://en.wikipedia.org/wiki/Stand-up_meeting)]
+### Standup
 
-  * (Very) regular meeting -- e.g. daily.
-  * Purpose: keep team in sync; surface blockers.
-  * Each person answers 3 questions:
+See http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum and http://en.wikipedia.org/wiki/Stand-up_meeting
 
-    * What did I accomplish yesterday?
-    * What will I do today?
-    * What obstacles are impeding my progress?
+* (Very) regular meeting -- e.g. daily.
+* Purpose: keep team in sync; surface blockers.
+* Each person answers 3 questions:
 
-  * meeting is strictly timeboxed to 5-15m
+  * What did I accomplish yesterday?
+  * What will I do today?
+  * What obstacles are impeding my progress?
 
-    * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
-    * If bigger issues arise, take them out of standup.
+* meeting is strictly timeboxed to 5-15m
 
-  * Only people "committed" to the project may speak (anyone “involved” with the project may listen)
+  * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
+  * If bigger issues arise, take them out of standup.
 
-### User Stories
+* Only people "committed" to the project may speak (anyone “involved” with the project may listen)
 
-See [User Stories][]
+### Job Stories
 
-[User Stories]: /user-stories/
+See [Job Stories][job stories]
 
 ### Managing the Product Backlog Board
 
-TODO: removed the trello reference and need to update for e.g. GitLab. Focus is on how board is setup and how sprints get completed.
+Milestones
+
+* Sprints are organised via Milestones. Naming convention: `Sprint - DD MMM YYYY` with the date being the last day of the sprint.
+* Issues scheduled for future sprints are allocated to the relevant milestone.
+* Icebox - catch-all milestone for issues that are "someday maybe" type of things (not likely to be worked on the near-term)
+
+Labels
+
+* ‘Prioritized Backlog’ - issues that have been reviewed and prioritised but have not been allocated yet.
+* ‘In Progress’ - issues currently worked. 
+* ‘Blocked/Waiting For’ - if there is a blocker. 
+* ‘In Review’ - issue is reviewed and/or has to be signed off. Once signed off, the issue needs to be closed.
+* ‘Wontfix’, ‘Duplicate’, ‘Invalid’ - closed issue without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. Note: add a short comment specifying the reason why the issue hasn’t been delivered.
+
 
 ### Estimating Cost
 
-Estimation -- Central to Workability and Low-Stress.
+Estimation is central to Workability and low-stress because it allows us to make promises grounded in reality.
 
-* Estimation is the process of estimating
-* Many approaches to estimation
-* Assessment of actual outcome against estimates is essential to the integrity and functionality of estimation and, hence, the planning process
+Estimation is the process of estimating time to complete tasks. There are many approaches to estimation.
 
-  * without assessment estimates don't get better
-  * without assessment you don't know your velocity (how much you can actually get done)
+Equally important as estimating, is **assessing** performance against estimates so as to improve our skill at estimating -- without assessment estimates don't get better, without assessment you don't know your velocity (how much you can actually get done).
 
-We base our estimation on [planning poker][].
+We base our estimation on [planning poker][]. In the "extreme" version: tasks go to the lowest estimator. We generally do not practice that and instead it is up to scrum-master with delivery team to use planning poker to come to an agreed estimate via discussion. In general tasks that are over 5d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
 
 [planning poker]: http://en.wikipedia.org/wiki/Planning_poker
-
-In the "extreme" version: tasks go to the lowest estimator. We generally do not practice that and instead it is up to scrum-master with delivery team to use planning poker to come to an agreed estimate via discussion.
-
-In general tasks that are over 8d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
 
 ### Estimating Business Value
 
@@ -190,35 +209,35 @@ During the sprint review, the project is assessed against the sprint goal determ
 
 **Structure Suggestion [based on** [***link***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
 
-1. The Scrum Master opens the review and reiterates the purpose of the meeting [2m]
+#### 1. The Scrum Master opens the review and reiterates the purpose of the meeting [2m]
 
-    * Show what the team has built during the last sprint
-    * Engage with the audience
-    * Collect feedback
+* Show what the team has built during the last sprint
+* Engage with the audience
+* Collect feedback
 
-2. The Product Owner presents what he wanted to get out of the sprint [3m]
+#### 2. The Product Owner presents what he wanted to get out of the sprint [3m]
 
-    * Describe the sprint goal and why you chose it
-    * Explain why it is important for the project and for the company as a whole
-    * Give people context about where we’re at in the greater scale of things
+* Describe the sprint goal and why you chose it
+* Explain why it is important for the project and for the company as a whole
+* Give people context about where we’re at in the greater scale of things
 
-3. The Scrum Master (+ Delivery Team) presents the sprint [5-7m]
+#### 3. The Scrum Master (+ Delivery Team) presents the sprint [5-7m]
 
-    * Tell the story of the sprint: How did it go? Was anyone sick? New team members? Anything else important?
-    * Give a status of the sprint and an overview of which stories were finished and which ones weren’t
+* Tell the story of the sprint: How did it go? Was anyone sick? New team members? Anything else important?
+* Give a status of the sprint and an overview of which stories were finished and which ones weren’t
 
-4. For each story: [less than 1.5h]
+#### 4. For each story: [less than 1.5h]
 
-    * The demoing team member shows the story description and describes the boundaries (explain the acceptance criteria without reading them out)
-    * Demonstrate the feature on a real system
-    * Take questions and listen to feedback while you demonstrate. Remember to collect ideas for new features and user stories to include on the product backlog.
-    * Repeat step 4 for all user stories the team finished during the sprint.
-    * On some teams we alternate who is doing the practical demonstrations for each user story, on some we alternate for or each sprint review and on others we always utilise the same team member’s talent for telling stories and guiding people through an entertaining demo. We do whatever works best for each team and audience.
+* The demoing team member shows the story description and describes the boundaries (explain the acceptance criteria without reading them out)
+* Demonstrate the feature on a real system
+* Take questions and listen to feedback while you demonstrate. Remember to collect ideas for new features and user stories to include on the product backlog.
+* Repeat step 4 for all user stories the team finished during the sprint.
+* On some teams we alternate who is doing the practical demonstrations for each user story, on some we alternate for or each sprint review and on others we always utilise the same team member’s talent for telling stories and guiding people through an entertaining demo. We do whatever works best for each team and audience.
 
-5. Scrum Master closes the demo [3m]
+#### 5. Scrum Master closes the demo [3m]
 
-    * Wrap up and thank people for their attendance and participation
-    * Communicate the time and date for the next end-of-sprint review.
+* Wrap up and thank people for their attendance and participation
+* Communicate the time and date for the next end-of-sprint review.
 
 References: http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
@@ -238,13 +257,13 @@ On a traditional project, a Project Manager, as the title implies, manages a pro
 
 However, on a Scrum project, the Development Team manages their own work.
 
-The Product Owner, while responsible for maximizing the value of the product and the work of the Development Team, is the sole person responsible for managing the Product Backlog.
+The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. They are the sole person responsible for managing the Product Backlog.
 
 Product Backlog Management includes:
 
-  * Clearly expressing Product Backlog items;
-  * Ordering the items in the Product Backlog to best achieve goals and missions;
-  * Ensuring the value of the work the Development Team performs;
-  * Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next;
-  * Ensuring the Development Team understands items in the Product Backlog to the level needed.
+* Clearly expressing Product Backlog items;
+* Ordering the items in the Product Backlog to best achieve goals and missions;
+* Ensuring the value of the work the Development Team performs;
+* Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next;
+* Ensuring the Development Team understands items in the Product Backlog to the level needed.
 
