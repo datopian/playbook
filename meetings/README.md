@@ -15,7 +15,7 @@ All meetings SHOULD have a meeting doc.
 
 If meetings are regular have a single meeting doc for all those meetings (i.e "Admin meeting doc") and then update by adding new date of the meeting.
 
-## Document Structure
+### Document structure
 
 * Date: Put the date. We often use the date as the heading for the meeting if we have a document with multiple meetings in it.
 * Present: List who is present.
@@ -65,7 +65,7 @@ Deal with integrity if people are late so that people are complete.
 
 If someone is not in a meeting immediately take action to locate them: ping them on chat and then call them via the number listed in the phonebook. Stand for people attending.
 
-### Why Start on time?
+### Why start on time?
 
 Being 2 minutes late for a meeting may not seems like a big deal (and it isn't!). However, there are several reasons to make it important:
 
@@ -73,11 +73,11 @@ Being 2 minutes late for a meeting may not seems like a big deal (and it isn't!)
   2. It is a chance to practice maintaining integrity and restoring it in a low intensity environment.
   3. We are a remote organization where you can't see someone across the office. Thus, when someone is not in the meeting on time it creates much more uncertainty: are they ill, are they dealing with something urgent elsewhere, did they forget, etc? And following form that: should we wait for them or just start or ...? This uncertainty has a cost both directly in disrupting or delaying the meeting and indirectly in that people may worry about that person. If we reliably start meetings on time then if someone is not there on time we have high certainty that they are dealing with something really substantial.
 
-## Use Video
+## Use video
 
 Meetings SHOULD be done via video with *video on*.
 
-### Why Video
+### Why video
 
 A significant part of human communication is non-verbal and comes from visual cues such as facial expressions. Without video we lose this.
   * This is especially so in group discussions: if I'm the speaker and other people are smiling (or asleep!) I have a good sense of how well what I'm saying is coming across and being received. 
