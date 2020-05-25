@@ -85,7 +85,7 @@ end
    * [ ]  License assigned
    * [ ]  Added to Services Team Group
    * [ ]  Added to All Team calendar
-* [ ]  Please add them to this [group email list](https://docs.google.com/spreadsheets/u/1/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0) (if applicable)
+* [ ]  Please add them to this [Group email list](https://docs.google.com/spreadsheets/u/1/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0) (if applicable)
 * [ ]  Welcome/Onboarding call scheduled
 * [ ]  Welcome email sent
 * [ ]  Added to GChat channels
@@ -97,11 +97,11 @@ end
    * [ ] Travelling Datopians
    * [ ] Any other relevant channel (eg. Apprentice channel for Apprentices etc.)
 * [ ]  Added to Xero
-* [ ]  Added to Gitlab with the appropriate permission pertaining to their role on the [Inter-Org Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and [process in this section](https://playbook.datopian.com/ops/#after-new-datopian-has-filled-in-person-db-with-their-details)
+* [ ]  Added to Gitlab with the appropriate permission [process in Ops guide](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.rusgx3lubh0m)
    * [ ] Datopian
    * [ ] Viderum
-* [ ]  Added to Github with the appropriate permission pertaining to their role on the [Inter-Org Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and [process in this section](https://playbook.datopian.com/ops/#after-new-datopian-has-filled-in-person-db-with-their-details)
-   * [ ] Viderum (Datopian) --> Team "Everyone"
+* [ ]  Added to Github with the appropriate permission pertaining to their role on the [process in Ops guide](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.rusgx3lubh0m)
+   * [ ] Datopian --> Team "Everyone"
 * [ ]  Added to real rates
 * [ ]  Create Gitlab issue in Project Management repo and assign it to Michelle (or Esteban) to add onboardee to inter-org rates DB
 * [ ]  Person DB form filled out (Prerequisites)
@@ -225,10 +225,11 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 1. **GSuite Account and Email:** Create their email account as first.last@datopian.com on Google Admin page and share the login details via email (part of email creation wizard in google apps). After you have created the account, make sure you assign a G Suite Business license, so that the contractor can use all the G Suite features and access Google drives.
 
     * Add to Services Team Group on Google Admin page
+    * Add to other relevant Shared Drives (see [Shared drives access](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.ok73f94peqs6))
 
 2. **Create accounts / send invitations** on systems where they can't create themselves
 
-    * Xero -- with their company email address;
+    * Xero Inc - with their personal email address [see Xero access](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.v59x2fkuxkjt)
 
 3. **Welcome Call Invitation**: Send them an invitation for a Welcome Call within the next days. If this before their start date make sure you check their availability for the call.
 
@@ -270,7 +271,7 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
 Add them to relevant systems:
 
-* G Suite / Drive: add them to relevant team drives and google groups by adding them to Service team.
+* GSuite / Google Drives: add them to relevant team drives (see [Shared drives](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.ok73f94peqs6)) and google groups by adding them to Service team
 * GChat: add to relevant channels esp `onboarding`.
 * GitLab: find their role on the [Inter-Org Rates Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and add them as a member of the org according to the following criteria below:
   * i) apprentice, junior developer or developer = developer permission level
