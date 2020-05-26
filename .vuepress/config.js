@@ -43,6 +43,7 @@ module.exports = {
           { text: 'Planning Your Day', link: '/planning-your-day/' },
           { text: 'Git', link: '/version-control/' },
           { text: 'Markdown', link: '/markdown/' },
+          { text: 'How to Propose Changes', link: '/how-to-propose-changes/' },
           { text: 'SCQH (Situation, Complication, Question, Hypothesis)', link: '/scqh/' }
         ]
       },
