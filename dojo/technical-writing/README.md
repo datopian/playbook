@@ -46,6 +46,19 @@ We still have a lot to learn, so please submit pull requests if you learned some
 * [State your document's scope.](https://developers.google.com/tech-writing/one/documents#state_your_documents_scope)
 * [State your audience.](https://developers.google.com/tech-writing/one/documents#state_your_audience)
 
+## Master Your Language
+
+At Datopian, you will be writing software and documentation that routinely impact millions of people. For that reason, you want to ensure to get your message across – and that includes an excellent use of the English language.
+
+The first recommendation on that matter is to get yourself a [Grammarly](https://www.grammarly.com/) account. Grammarly is a smart spell checker, notifying you not only of typos, but on the use of complicated sentences, and uncommon word combinations. You can start with a free account, but the premium subscription will guarantee better results in the long term.
+
+<figure class="image">
+  <a href="https://www.grammarly.com/"><img src="./grammarly.gif" alt="Google Technical Writing"></a>
+  <figcaption>Source: <a href="https://www.grammarly.com/blog/comma/">https://www.grammarly.com/blog/comma/</a></figcaption>
+</figure>
+
+After mastering the most common mistakes and corresponding corrections provided by Grammarly, you may want to get to the next level. Our recommendation is the [Academic English: Writing Specialization](https://www.coursera.org/specializations/academic-english), by the University of California, Irvine. The first two courses will expose you to the grammar rules behind Grammarly's intelligence. With enough effort, you will become better than the service and might even be able to cancel the premium subscription.
+
 ## Learn More
 
 Are you still eager to learn more about this subject? You can start by the studying the following pages:
