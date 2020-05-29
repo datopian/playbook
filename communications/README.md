@@ -18,6 +18,8 @@ We have the following *media* of communication:
 * Document: written documents such as Google Docs, HackMD, etc.
 * [Issue tracker](https://playbook.datopian.com/issues-tasks/#creating-issues): combination of written text, checklists and comments, e.g. GitLab or GitHub issue tracker.
 * In person: face to face.
+* Zoom: video recordings and large meetings.
+    * When scheduling a recurring meeting on Zoom, the recurrence time must be chosen: either daily, weekly, or monthly. “No fixed time” should NOT be chosen.
 
 It's a big part of the foundation for great internal communication.
 
