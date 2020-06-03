@@ -62,11 +62,11 @@ Before we list them we mention briefly some of the "why" behind them:
 * We have team-mates and clients from many different nationalities and cultures => be explicit in your communication
 * Performance and quality are important => integrity and coachability as well as a base of intelligence and ability to learn
 
-### Coachability
+### Coachable
 
-You can take and act on coaching including constructive, critical coaching. Even more important, you have an active desire to grow and be coached -- you not only welcome coaching, you seek it out.
+Being coachable means you can take and act on coaching including constructive, critical coaching. Even more important, you have an active desire to grow and be coached -- you not only welcome coaching, you seek it out.
 
-Opposite is uncoachable -- you don’t take feedback and/or don’t act on it. You get angry, defensive or upset when feedback is provided.[^mckinsey]
+The opposite is uncoachable: you don’t take feedback and/or don’t act on it. For example, you get angry, defensive or upset when feedback is provided.[^mckinsey]
 
 [^mckinsey]: See “Mckinsey Kiss of Death” https://www.caseinterview.com/mckinsey-kiss-of-death:
 
@@ -98,11 +98,11 @@ These two clips from Karate Kid exemplify the willingness to surrender control a
 * https://www.youtube.com/watch?v=SMCsXl9SGgY
 * https://www.youtube.com/watch?v=Bg21M2zwG9Q
 
-### Integrity
+### Integrous
 
 *See below in Our Principles for a detailed definition of the concept.*
 
-Integrity is honouring your word. At the level of character, it means relating to oneself as one's word. Striving to keep your word and being proactive about communicating when you won't be -- just as soon as you know you won't be your word you are in communication. At a deeper level, it also means keeping present an empowering context.
+Integrity is honouring your word. At the level of character, it means relating to oneself as one's word. Striving to keep your word and being proactive about communicating when you won't be -- just as soon as you know you won't be your word you are in communication. At a deeper level, it also involves keeping present an empowering context.
 
 Note: integrity does not mean always doing what you say -- that is impossible if you have a big game. In that sense we will always be going out of integrity and getting back in -- "integrity is a mountain with no top".
 
@@ -110,7 +110,7 @@ Note: integrity does not mean always doing what you say -- that is impossible if
 
 You have the verbal and cognitive skills to communicate effectively. You also have a commitment to proactively communicate especially about things especially things that are not working as well as we would like. This is key in all teams and all organizations and it is especially important for us as we are **a)** remote **b)** relatively flat (self-managing, autonomous).
 
-### Initiative and Self-management
+### Taking Initiative and Self-managing
 
 You are a self-starter / self-manager. You are able to organize your time and motivate yourself without a manager telling you what to do.
 
@@ -128,11 +128,11 @@ However, we emphasize that we think (pure) intelligence is secondary to coachabi
 
 References: [See Burks et al re truckers](https://www.ncbi.nlm.nih.gov/pubmed/19416865).
 
-### Curiosity and a Desire to Learn
+### Curious and Eager to Learn
 
 You are curious and enquiring. You want to learn new things, discover new areas. You want to take things apart and figure out how they work. You ask why (judiciously!).
 
-### Open-minded Rigour
+### Open-mindededly Rigourous
 
 You are open to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
 
@@ -203,9 +203,9 @@ Do user stories before you code, estimate sprints before you do them. Almost eve
 
 ### Your Relationship to Your Parents is Relevant to Us
 
-You will be supported and challenged to develop continuously professionally and personally.
+You will be supported and challenged to develop continuously professionally and personally. In our experience, often the greatest obstacles to people's effectiveness (and wellbeing) lie in "shadows": issues from their past that they haven't dealt wiith fully and the related stories that they carry around about themselves e.g.  "I'm not good enough", "I'm not smart enough", "I can't do it".
 
-Your relationship to your parents is not only a personal matter -- it impacts your whole being including your work.
+These shadows usually arise from specific relationships and specific incidents. As such, we consider these valid areas for discussion in coaching and development. As a concrete example, your relationship to your parents is not only a personal matter it impacts your whole being including your work.
 
 This isn't something we'll insist on anyone sharing -- but we strongly believe that the greatest opportunities for breakthrough personally and organizationally come from dealing with the past that constrains our future.
 
