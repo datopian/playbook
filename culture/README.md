@@ -146,6 +146,10 @@ Please start with this **required reading** which provides essential context [A 
 
 ### Integrity
 
+:::tip SEE ALSO
+For more detail see the dedicated [page on Integrity](/integrity/).
+:::
+
 An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.
 
 Concretely and specifically, integrity is **Honouring your word**. Honouring your word is defined as:
