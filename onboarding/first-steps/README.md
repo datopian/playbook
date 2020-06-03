@@ -24,7 +24,7 @@ The only thing to do here is to publicly display your Datopian membership, see [
 
 You are going to track your onboarding progress using a Gitlab issue in the onboarding project.
 
-* Please go to: https://gitlab.com/datopian/onboarding/issues
+* Please go to: https://gitlab.com/datopian/dojo/onboarding/issues
 * Create your own GitLab issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
 * Copy and paste the checklist below into your GitLab issue and modify it/add more learnings to it while going through the Onboarding process (eg. Markdown, HackMD, GitLab, etc.).
 

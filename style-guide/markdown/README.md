@@ -111,7 +111,7 @@ with no indent for wrapped text.
 
 ### Inline
 
-Backticks (``) designate `inline code`, and will render all wrapped content literally. Use them for short code quotations and field names:
+Backticks \` designate `inline code`, and will render all wrapped content literally. Use them for short code quotations and field names:
 
 ```md
 You'll want to run `really_cool_script.sh arg`.
@@ -235,3 +235,7 @@ Or, check out the [style guide](style_guide.md).
 * Use images sparingly, and **prefer simple screenshots.** This guide is designed around the idea that plain text gets users down to the business of communication faster with less reader distraction and author procrastination. However, it's sometimes very helpful to show what you mean.
 
 * **Prefer lists to tables.**  Any tables in your Markdown should be small. Complex, large tables are difficult to read in source and most importantly, a pain to modify later.
+
+## TODO
+
+* explicit urls vs text links preference -- preference for explicit urls in notes, technical docs, playbook etc. text links in e.g. blogs, essays etc
