@@ -20,9 +20,7 @@ Another intro is: https://www.richardhare.com/2007/09/03/the-minto-pyramid-princ
 
 ## Overview
 
-# SCQH: Situation, Complication, Question Hypothesis
-
-## What is SCQH?
+### What is SCQH?
 
 * SCQH is a problem solving tool.
 * It can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
@@ -121,16 +119,16 @@ This is a real-life SCQH for [iMed](https://imedproject.org/).
 **Hypothesis:** The best resolution to the tension between access and innovation is a remuneration rights model that removes the dilemma and offers incentives for both innovation and access; it provides a free market, state-independent mechanism resourced by the state and philanthropists that incentivises innovations via remuneration based on health impact, on condition that the innovations are free to use and unrestricted, allowing for competition in manufacturing and therefore lower prices for medicines whilst providing incentives for innovators at a similar level to today.
 
 
-## Issue Tress and Hypothesis 
+## Issue Trees and Hypothesis 
 
 The SCQH alone is very powerful. But you can take the SCQH a step further and turn it into a complete planning and implementation tool using  an issue tree and hypothesis trees.
 
 **Issue tree:** expands the question into a series of sub-questions
 **Hypothesis tree:** expands the solution statement into a series of sub-statements
 
-### Issues Tree
+### Issue Tree
 
-The Question can be broken down into an Issues Tree. This should be a mutually exclusive, collectively exhaustive (MECE) logic tree from left to right, outlining all the questions you need to answer for your question to be answered.
+The Question can be broken down into an Issue Tree. This should be a mutually exclusive, collectively exhaustive (MECE) logic tree from left to right, outlining all the questions you need to answer for your question to be answered.
 
 ![Imgur](https://i.imgur.com/XNPe92B.png)
 
@@ -168,6 +166,6 @@ What do the columns mean?
 * **Output**: The output(s) answering this question. Usually a link to outputs e.g. others docs, spreadsheets, etc. If the answer is short, it can be written directly.
 * **Notes / TODO**: Self-explanatory. This will often be used sparingly and detailed planning work on answering something will be in a separate project management system.
 
-Notes
+### Notes
 
 * The sheet is set up for an issue tree of depth 3. If you have greater depth, just add more columns to the left of the green line.
