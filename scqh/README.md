@@ -12,8 +12,8 @@ It describes a problem (situation, complication), frames a question about what t
 
 The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question).
 
-:::tip
-SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/
+> tip
+> SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/
 
 Another intro is: https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
 :::
