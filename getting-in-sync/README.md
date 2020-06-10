@@ -2,9 +2,11 @@
 
 Getting in sync(h) is a term that comes from Dalio's Principles. It is both a principle and a pattern.
 
-As a pattern it is the process of aligning on "what is true and what to do about it". In life we often avoid getting in sync, especially when we think there may be a disagreement -- when, in fact it is most important.
+As a pattern it is the process of aligning on "what is true and what to do about it".
 
 As a principle it is the commitment to getting and staying in sync -- and doing the work to do so.
+
+In life, we often avoid getting in sync, especially when we think there may be a disagreement on something important -- when, in fact, it is most important.
 
 ## Dalio “raw”
  
