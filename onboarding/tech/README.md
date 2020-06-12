@@ -4,7 +4,7 @@ This guide walks through the essential basics of tech work at Datopian.
 
 ## Preliminaries
 
-First, please actively takes notes on your experience so you can provide constructive and critical feedback 📣 both on this guide and especially on the tools you use so that we can improve them. 👍
+First, please actively take notes on your experience so you can provide constructive and critical feedback 📣 both on this guide and especially on the tools you use so that we can improve them. 👍
 
 Create an issue in the [Onboarding issue tracker](https://gitlab.com/datopian/dojo/onboarding/-/issues) based on this template to track your progress and record the results of your work. When completing items that require outputs, make sure you record the outputs in the issue (either inline in the task or at the bottom for larger items).
 
