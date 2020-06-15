@@ -23,11 +23,12 @@ This section provides guidance on how to structure written content depending on 
  
 ### Stages
 
+* Create an issue on the Editorial Board (note: the editorial board should **only be used for works in progress** so that other Datopians can collaborate with you - any content ideas for future posts should be logged in the [master spreadsheet](https://docs.google.com/spreadsheets/d/1fa6cxSnqyMMheIvpgWwYiDS6T-n5NFKDAT-txWRjVHc/edit#gid=0)).
 * Draft the article, tweet or Blog (including a list of tags for the article).
 * If any of your content contains terms that you think would make interesting additions to the glossary, add them on GitLab here: https://gitlab.com/datopian/core/datopian.com/-/tree/master/site/glossary.
 * Make sure your content ends with the following paragraph about what we do in italics and with links embedded:
  
-_Want to work with Datopian? We deliver outstanding solutions to public and private sector organisations, from data management strategy to CKAN portal hosting and specialised data engineering. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+_Want to work with Datopian? We empower government and enterprise to unlock the potential lying dormant in their data through outstanding data management strategy and implementation. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
  
 * Make sure that you add the license at the bottom of the page: © Datopian (CC Attribution-Sharealike (by-sa)).
 * Create the abstract or intro for the article on our social media platforms, such as LinkedIn, Facebook and Twitter.
@@ -36,20 +37,20 @@ _Want to work with Datopian? We deliver outstanding solutions to public and priv
 ### Content Types
 The content we produce at Datopian is split into 8 content types (with some content types split into subtypes). These are:
  
-* Client Interviews
-* Case Studies
-* Briefings
-  * 3a. Technical Briefings
-  * 3b. Expert briefings
-* Updates/Announcements
-  * 4a. Feature and functionality updates/announcements
-  * 4b. Projects going live announcements
-* ‘About us & culture’ posts
-* Hobby-blogger posts
-* Newsletters
-  * 7a. Bi-annual projects update newsletter
-  * 7b. Feature newsletters
- * Reviews
+1. Client Interviews
+2. Case Studies
+3. Briefings
+    3a. Technical Briefings
+    3b. Expert briefings
+4. Updates/Announcements
+    4a. Feature and functionality updates/announcements
+    4b. Projects going live announcements
+5. ‘About us & culture’ posts
+6. Hobby-blogger posts
+7. Newsletters
+    7a. Bi-annual projects update newsletter
+    7b. Feature newsletters
+8. Reviews
  
 ## Content Structure & Templates
 
@@ -229,7 +230,6 @@ The purpose of the Publication process is to ensure that Datopian’s content pr
   * Sending them the links to the various channels that the article has been published on.
   * Thanking them for their input. 
  
- 
 ## How to post on the blog
 
 ### Overview
@@ -238,7 +238,7 @@ Posting on the blog requires GitLab and Visual Studio Code. If you haven’t alr
  
 1. Open the [repository](https://gitlab.com/datopian/core/datopian.com) on GitLab. Click on the blue ‘clone’ button and copy the second URL.
 2. Open Visual Studio Code and go to the Terminal tab at the top → select ‘New Terminal’. The terminal is the part of the software where you write instructions.
-3. In the terminal, type in git clone followed by the copied link, like this: git clone https://gitlab.com/datopian/core/datopian.com.git. Press Enter on your keyboard.
+3. In the terminal, type in git clone followed by the copied link, like this: `git clone https://gitlab.com/datopian/core/datopian.com.git`. Press Enter on your keyboard.
 4. In the explorer tab on the left, find the blog folder and right click on it. Select New Folder. Name the folder using the naming convention yyyy-mm-dd-your-blog-post-title (Example: 2019-03-01-viderum-renaming-to-datopian).
 5. Now right click on the folder you just created. Select New File and name it README.md. This is the file you will use to create your article.
 6. Now you need to upload your thumbnail image to this folder. This is the image that will show up next to your post on the blog homepage. To do this, save the photo to your device and name it (using dashes to separate words instead of spaces) and drag and drop it to the new folder you just created in Visual Studio Code. The photo should now be in your blog post folder alongside the README.md file.
@@ -246,37 +246,45 @@ Posting on the blog requires GitLab and Visual Studio Code. If you haven’t alr
 8. Go back to your README.md file and add the following code to the document (this should stay at the top of the document):
 9. Fill out the relevant information. It should now look something like this:
 
-'---'
-'layout: post'
-'title: article title'
-'authors: author/s'
-'date: yyyy-mm-dd'
-'tags: [“X”, “Y”, “Z”]'
-'image: /assets/img/blog/image-name.jpg'
-'---'
+```
+---
+layout: post
+title: article title
+authors: author/s
+date: yyyy-mm-dd
+tags: [“X”, “Y”, “Z”]
+image: /assets/img/blog/image-name.jpg
+---
+```
  
-10. Under this, leave a line and write the following code: '<!-- more -->'.
+10. Under this, leave a line and write the following code: 
+```
+<!-- more -->.
+```
 
 11. Under this, paste the text of your article.
 
 12. To add photos, use the following code: 
 
-'<figure>
+
+```
+<figure>
 	<img src=”./image-name.jpg” alt=”give your image a name”>
 	<figcaption style=”text-align: center><a href=”link to image source”>image description for article</a><figcaption>
-</figure>'
+</figure>
+```
 
  13. Format your text using Markdown.
 
- 14. In the terminal, type 'git push' and press Enter.
+ 14. In the terminal, type `git push` and press Enter.
 
- 15. Type 'git pull' and press Enter.
+ 15. Type `git pull` and press Enter.
 
- 16. Type git add -A and press Enter.
+ 16. Type `git add -A` and press Enter.
 
- 17. Type 'git commit -m “[blog post][m]: blog post on X”' and press Enter.
+ 17. Type `git commit -m “[blog post][m]: blog post on X”` and press Enter.
 
- 18. Type 'git push' and press Enter.
+ 18. Type `git push` and press Enter.
 
  19. Go back to the repository on GitLab and refresh the page. You should see your commit message and a completion status circle next to it. N.b. the circle should be blue when your post is uploading - this takes about 5 mins. When this turns to a green tick, your post is live on the blog. If the circle becomes a red cross, then there was a problem with your code.
  
