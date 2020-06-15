@@ -241,6 +241,16 @@ During the sprint review, the project is assessed against the sprint goal determ
 
 References: http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
+### Sprint Review and Retrospective Template
+
+As described above, the Sprint Review is an opportunity for the Scrum Team to inspect itself and identify improvements to be enacted during the next Sprint. However, if the sprint review doesn't have a structure, it is very easy to drift into chaos. This is why we came up with [Sprint Review and Retrospective Template](https://docs.google.com/document/d/1O2WsVE8reRhDJGRdr3oSmH-obV3-N_FdYoOF1cdHZ1s/edit). You can use it as a base to step on when closing the sprint - feel free to add a/o remove sections if they are not relevant for your project.
+
+The template document contains:
+
+* A gdocs template with explanations under each title
+* A markdown template (e.g. for a gitlab/github issue)
+* An example of a sprint review and retrospective 
+
 ### Sprint Retrospective
 
 http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
