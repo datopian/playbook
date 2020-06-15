@@ -68,7 +68,7 @@ Interviews are unstructured to allow the interviewer room to respond spontaneous
   </tr>
   <tr>
     <th>Example</th>
-    <td>[Interview with OECD](https://www.datopian.com/blog/2020/05/12/oced-case-study/)</td>
+    <td>https://www.datopian.com/blog/2020/05/12/oced-case-study/</td>
   </tr>
 </table>
 
@@ -79,7 +79,7 @@ Case studies have their own separate section on the website and should all be st
 <table>
   <tr>
     <th>Template</th>
-    <td>Please use the [template](https://docs.google.com/document/d/1vLf-fcHc9rhgYcsLP2HfjovPhUUV4Dgh1hs48azx5HI/edit#heading=h.vkr66n97gatf)</td>
+    <td>Please use the template: https://docs.google.com/document/d/1vLf-fcHc9rhgYcsLP2HfjovPhUUV4Dgh1hs48azx5HI/edit#heading=h.vkr66n97gatf</td>
   </tr>
   <tr>
     <th>Tone</th>
@@ -87,7 +87,7 @@ Case studies have their own separate section on the website and should all be st
   </tr>
   <tr>
     <th>Example</th>
-    <td>[Gates Foundation Case Study](https://docs.google.com/document/d/1R4nvc4DDZEhp9ZQFTKMAdm1AfVTUFtaSrGtOzSiEU8w/edit#heading=h.m1gy4aodpy3)</td>
+    <td>https://docs.google.com/document/d/1R4nvc4DDZEhp9ZQFTKMAdm1AfVTUFtaSrGtOzSiEU8w/edit#heading=h.m1gy4aodpy3</td>
   </tr>
 </table>
  
@@ -127,7 +127,7 @@ Announcements are split into two types: feature & functionality updates (templat
 <table>
   <tr>
     <th>Template</th>
-    <td>Please use the [template](https://docs.google.com/document/d/17BHiYhUA7f-K4OIn2Plc-gfdn-69g6NaJXu40VYfqyo/edit#).</td>
+    <td>Please use the template: https://docs.google.com/document/d/17BHiYhUA7f-K4OIn2Plc-gfdn-69g6NaJXu40VYfqyo/edit#.</td>
   </tr>
   <tr>
     <th>Audience</th>
@@ -162,7 +162,7 @@ Datopians are encouraged to write blog posts on any aspect of Datopian culture o
   </tr>
   <tr>
     <th>Example</th>
-    <td>[Remote working at Datopian](https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible)</td>
+    <td>https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible</td>
   </tr>
 </table>
 
@@ -181,7 +181,7 @@ Datopians are encouraged to write blog posts on any aspect of Datopian culture o
   </tr>
   <tr>
     <th>Example</th>
-    <td>[Running a scraping platform](https://www.datopian.com/blog/2020/01/08/running-a-scraping-platform-at-google-cloud/#the-architecture).</td>
+    <td>https://www.datopian.com/blog/2020/01/08/running-a-scraping-platform-at-google-cloud/#the-architecture.</td>
   </tr>
 </table>
 
