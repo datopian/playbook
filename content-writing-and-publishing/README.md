@@ -10,8 +10,8 @@ This document outlines the content publication process at Datopian across multip
 ## Content Production Overview
 
 * Datopian produces different types of content (such as blog posts, case studies, feature updates etc.) and some of these types follow a template.
-* Our written content aids client and potential client understanding of what we do and the sorts of topics we are engaged in.
-* The content production is a collective responsibility.  
+* Our written content aids client and potential-client understanding of what we do and the sorts of topics we are engaged in.
+* Content production is a collective responsibility.  
 * Datopian has a [master spreadsheet](https://docs.google.com/spreadsheets/d/1fa6cxSnqyMMheIvpgWwYiDS6T-n5NFKDAT-txWRjVHc/edit#gid=0) that tracks our content pipeline and status.
  
  
@@ -106,7 +106,7 @@ Briefings are split into two types: expert and technical. Technical briefings ar
   </tr>
   <tr>
     <th>Audience</th>
-    <td>Both briefings should **assume little prior knowledge**. This means that writers should make an effort to ensure articles are accessible enough for anyone to understand, while still containing an element of depth to make them interesting for more expert audiences. In a nutshell, this means going into as much detail as possible while also explaining that detail.</td>
+    <td>Both briefings should assume little prior knowledge. This means that writers should make an effort to ensure articles are accessible enough for anyone to understand, while still containing an element of depth to make them interesting for more expert audiences. In a nutshell, this means going into as much detail as possible while also explaining that detail.</td>
  </tr>
   <tr>
     <th>3a. Technical Briefings</th>
@@ -291,12 +291,12 @@ image: /assets/img/blog/image-name.jpg
 
 It is really important to share published content through our marketing channels. This lets our clients know what we are up to and is a great way to start attracting more traffic to the Datopian website. Please see below for instructions on how to post on each channel.
  
-## Stages
+## Checklist
 
 * Inform Datopians that the article is live by tagging @all on the general Google Chat.
 * Make sure that the content has been pushed out through all of Datopian’s marketing channels (LinkedIn, Facebook and Twitter).
 * Update the Content Publication Master Spreadsheet.
-Keep checking marketing channels for any comments and respond to these.
+* Keep checking marketing channels for any comments and respond to these.
  
 ## Social media
 
