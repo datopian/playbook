@@ -31,7 +31,8 @@ module.exports = {
           { text: 'Client Support', link: '/support/' },
           { text: 'Running the Org', link: '/running-the-org/' },
           { text: 'Style Guides', link: '/style-guide/' },
-          { text: 'Communications (Internal)', link: '/communications/' }
+          { text: 'Communications (Internal)', link: '/communications/' },
+          { text: 'Content Writing and Publishing', link: '/content-writing-and-publishing/'}
         ]
       },
       {
