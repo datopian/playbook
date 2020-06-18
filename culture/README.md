@@ -211,7 +211,7 @@ This isn't something we'll insist on anyone sharing -- but we strongly believe t
 
 ### Getting in Sync / Getting Complete
 
-TODO: From Dalio, etc.
+See [Getting in Sync &raquo;](/getting-in-sync/).
 
 ### Don't (Intentionally) Cause Upsets, Withhold or Gossip
 
