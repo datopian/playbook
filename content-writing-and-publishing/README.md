@@ -252,9 +252,10 @@ title: article title
 authors: author/s
 date: yyyy-mm-dd
 tags: [“X”, “Y”, “Z”]
-image: /assets/img/blog/image-name.jpg
+image: https://www.datopian.com/assets/img/blog/image-name.jpg
 ---
 ```
+ _n.b. For preview images to show up on Twitter posts, it is important to use remote links (e.g. https://www.datopian.com/assets/img/blog/image-name.jpg) instead of local links (e.g. /assets/img/blog/image-name.jpg)._
  
 10. Under this, leave a line and write the following code: 
 ```
