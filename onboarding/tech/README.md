@@ -119,8 +119,8 @@ Steps:
 
 Intention: you are familiar with CKAN, you have it set up for development work and you have created a hello world extension.
 
-* [Read the overview](http://tech.datopian.com/next-gen/).
-* [Install and trial the Next Gen Frontend](http://tech.datopian.com/frontend/).
+* [Read the overview](https://tech.datopian.com/ckan-v3/).
+* [Install and trial the Next Gen Frontend](https://tech.datopian.com/frontend/).
   * Tweak the front page in some fun way to add content.
   * Add a new route to show a new page `/dash` (which can be empty other than a title).
   * Deploy this somewhere.
