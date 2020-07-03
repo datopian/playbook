@@ -27,6 +27,27 @@ class inprogress inprogress;
 class next next;
 ```
 
+```
+graph TD
+
+subgraph Key
+  done[Done]
+  nearlydone[Nearly Done]
+  inprogress[In Progress]
+  next[Next Up]
+end
+
+classDef done fill:#21bf73,stroke:#333,stroke-width:1px;
+classDef nearlydone fill:lightgreen,stroke:#333,stroke-width:1px;
+classDef inprogress fill:orange,stroke:#333,stroke-width:1px;
+classDef next fill:lightblue,stroke:#333,stroke-width:1px;
+
+class done done;
+class nearlydone nearlydone;
+class inprogress inprogress;
+class next next;
+```
+
 ## Curved Link Styles
 
 ```mermaid
