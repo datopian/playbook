@@ -133,7 +133,7 @@ Please add an "Out of office" and include an alternative contact.
 All Datopian credentials are stored in Bitwarden. Please reach out to the Ops team (office@datopian.com) if you need access to any accounts. Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
 
 ### Registering for New Services/ Portals
-We use accounts@datopian.com to register for most services/ portals. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
+We use accounts@datopian.com to register for most services/ portals and configure the billing settings to ensure all invoices are directed to finance@datopian.com for paid services. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
 * Name of Platform/ URL (ie [Zoom](https://zoom.us/))
 * Username: accounts@datopian.com
 * Password: paste the password in [privnote](https://privnote.com/) and include the URL
