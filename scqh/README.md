@@ -254,11 +254,11 @@ Then you can break it down into its components e.g.:
 Guarantees MECEness. 
 
 <figure>
-  <img src="./mece-1.png" alt="mece 1" height="300">
+  <img src="./mece-1.png" alt="mece 1">
 </figure>
 
 <figure>
-  <img src="./mece-2.png" alt="mece 2" height="300">
+  <img src="./mece-2.png" alt="mece 2">
 </figure>
 
 Where algebraic structures don’t work:
@@ -274,11 +274,11 @@ Beginning, middle end.
 E.g. The cost of manufacturing a widget has risen. Break the manufacturing process down into its constituent parts, then see whether the costs of each part has risen. 
 
 <figure>
-  <img src="./mece-3.png" alt="mece 3" height="300">
+  <img src="./mece-3.png" alt="mece 3">
 </figure>
 
 <figure>
-  <img src="./mece-4.png" alt="mece 4" height="300">
+  <img src="./mece-4.png" alt="mece 4">
 </figure>
 
 ### Conceptual Frameworks
@@ -293,31 +293,31 @@ Trust Equation -- Credibility + Reliability + Intimacy + (lack of) Self-orientat
 Risks
 
 <figure>
-  <img src="./mece-5.png" alt="mece 5" height="300">
+  <img src="./mece-5.png" alt="mece 5">
 </figure>
 
 **Risk 1:** Not knowing a framework well enough for your specific situation.
 
 <figure>
-  <img src="./mece-6.png" alt="mece 6" height="300">
+  <img src="./mece-6.png" alt="mece 6">
 </figure>
 
 <figure>
-  <img src="./mece-7.png" alt="mece 7" height="300">
+  <img src="./mece-7.png" alt="mece 7">
 </figure>
 
 <figure>
-  <img src="./mece-8.png" alt="mece 8" height="300">
+  <img src="./mece-8.png" alt="mece 8">
 </figure>
 
 <figure>
-  <img src="./mece-9.png" alt="mece 9" height="300">
+  <img src="./mece-9.png" alt="mece 9">
 </figure>
  
 **Risk 2:** Not being able to adapt the chosen framework to the specifics of your situation.
 
 <figure>
-  <img src="./mece-10.png" alt="mece 10" height="300">
+  <img src="./mece-10.png" alt="mece 10">
 </figure>
 
 **Risk 3:** Not seeing how your framework connects with other potential structures.
@@ -343,7 +343,7 @@ Revenues
 Segmentations help create structure, but only generate insight if you’ve chosen the right segmentation criterion. 
 
 <figure>
-  <img src="./mece-11.png" alt="mece 11" height="300">
+  <img src="./mece-11.png" alt="mece 11">
 </figure>
 
 Also useful in identifying “mix effects”. 
@@ -351,7 +351,7 @@ Also useful in identifying “mix effects”.
 Mix effect: Average performance changes not because underlying performance changes, but because performance is different across segments and the weights of the segments have varied through time. 
 
 <figure>
-  <img src="./mece-12.png" alt="mece 12" height="300">
+  <img src="./mece-12.png" alt="mece 12">
 </figure>
 
 In this example, the change in distribution channel was the cause behind the drop in average prices, as opposed to a drop in prices themselves. However, the segmentation criterion that would reveal this is far from obvious. Instead of changing distribution channel, it could have been a change in package size (where bulk is cheaper per unit), or that the company is growing in countries where their products cost less. You must guess and hope you’ve got the correct criterion. 
@@ -374,7 +374,7 @@ E.g.
 Use as a deeper layer of another structure. 
 
 <figure>
-  <img src="./mece-13.png" alt="mece 13" height="300">
+  <img src="./mece-13.png" alt="mece 13">
 </figure>
 
 ### Creating Issue Trees with MECE
@@ -387,7 +387,7 @@ Tying up these five techniques is a way of creating issue trees from scratch.
 2. Pick each part of your first layer, and break it down again, using the same or a different technique. 
 
 <figure>
-  <img src="./mece-14.png" alt="mece 14" height="300">
+  <img src="./mece-14.png" alt="mece 14">
 </figure>
 
 Notes on the above issue tree
@@ -402,7 +402,7 @@ Within the machine share, there’s a segmentation for further quantification, b
 The following issue tree is bad, even though it’s MECE.
 
 <figure>
-  <img src="./mece-15.png" alt="mece 15" height="300">
+  <img src="./mece-15.png" alt="mece 15">
 </figure>
 
 It’s bad because:
@@ -417,7 +417,7 @@ More info: https://www.craftingcases.com/issue-tree-guide/
 ### Practice!
 
 <figure>
-  <img src="./mece-16.png" alt="mece 16" height="300">
+  <img src="./mece-16.png" alt="mece 16">
 </figure>
 
 How to practice: 
@@ -435,7 +435,7 @@ How to practice:
   c. Third is to assess against the principles of a good structure
 
 <figure>
-  <img src="./mece-18.png" alt="mece 17" height="300">
+  <img src="./mece-18.png" alt="mece 17">
 </figure>
 
 And remember: 
