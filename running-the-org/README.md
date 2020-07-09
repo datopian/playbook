@@ -145,9 +145,9 @@ The following are the current permissions for GitHub and GitLab:
 
 | Dev Levels | GitHub | GitLab |
 | ------ | ------ |------ |
-| Apprentices | Member | Developer |
-| Junior Devs | Member | Developer | 
-| Developers | Member | Developer |
+| Apprentices | Member | Maintainer |
+| Junior Devs | Member | Maintainer | 
+| Developers | Member | Maintainer |
 | Senior Devs | Owner | Maintainer |
 | Tech Leads | Owner | Maintainer/ Owner (if upper management) |
 
