@@ -274,12 +274,11 @@ Add them to relevant systems:
 * GSuite / Google Drives: add them to relevant team drives (see [Shared drives](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.ok73f94peqs6)) and google groups by adding them to Service team
 * GChat: add to relevant channels esp `onboarding`.
 * GitLab: find their role on the [Inter-Org Rates Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and add them as a member of the org according to the following criteria below:
-  * i) apprentice, junior developer or developer = developer permission level
-  * ii) senior developer or tech lead = maintainer permission level
-  * iii) upper management = owner permission level
+  * i)  maintainer permission level= apprentice, junior developer or developer senior developer or tech lead
+  * ii) owner permission level= upper management 
 * GitHub: allocate the approporiate permission levels defined below that are respective to their role on the [Inter-Org Rates Spreadsheet](https://docs.google.com/spreadsheets/d/1J0J2Rpb_v_Fp1LzBDNHn6EDzhLpuSovNqRrL_HOwQRg/edit#gid=0) and add them to the relevant teams (ie: GitHub organisation and the ‘Everyone’ team -if applicable):
-  * i) apprentice, junior developer or developer = member permission level
-  * ii) senior developer or tech lead = owner permission level
+  * i) member permission level= apprentice, junior developer or developer 
+  * ii) owner permission level= senior developer or tech lead 
 * *Please note: exceptions to the permission levels may be permitted at the discretion of upper management.*
 
 ## Welcome Call
