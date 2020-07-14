@@ -13,6 +13,7 @@ This document outlines the content publication process at Datopian across multip
 * Our written content aids client and potential-client understanding of what we do and the sorts of topics we are engaged in.
 * Content production is a collective responsibility.  
 * Datopian has a [master spreadsheet](https://docs.google.com/spreadsheets/d/1fa6cxSnqyMMheIvpgWwYiDS6T-n5NFKDAT-txWRjVHc/edit#gid=0) that tracks our content pipeline and status.
+* We use American English for all external content.
  
  
 ## The Writing Process
@@ -46,6 +47,8 @@ The content we produce at Datopian is split into 8 content types (with some cont
     4a. Feature and functionality updates/announcements
     4b. Projects going live announcements
 5. ‘About us & culture’ posts
+    5a. General articles
+    5b. Travelling Datopians photo essay
 6. Hobby-blogger posts
 7. Newsletters
     7a. Bi-annual projects update newsletter
@@ -161,8 +164,12 @@ Datopians are encouraged to write blog posts on any aspect of Datopian culture o
     <td>Informal and lighthearted.</td>
   </tr>
   <tr>
-    <th>Example</th>
-    <td>https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible</td>
+    <th>General article</th>
+    <td>See example: https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible</td>
+  </tr>
+  <tr>
+    <th>Travelling Datopians photo essay</th>
+    <td>Include as many photos as possible and use the caption as a means of explaining your story.</td>
   </tr>
 </table>
 
