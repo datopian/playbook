@@ -29,7 +29,13 @@ This section provides guidance on how to structure written content depending on 
 * If any of your content contains terms that you think would make interesting additions to the glossary, add them on GitLab here: https://gitlab.com/datopian/core/datopian.com/-/tree/master/site/glossary.
 * Make sure your content ends with the following paragraph about what we do in italics and with links embedded:
  
-_Want to work with Datopian? We empower government and enterprise to unlock the potential lying dormant in their data through outstanding data management strategy and implementation. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+_Want to work with Datopian? We are data management experts providing open-source tooling and related services to organisations worldwide. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+
+Here it is in Markdown so you can copy-paste:
+
+```
+_Want to work with Datopian? We are data management experts providing open-source tooling and related services to organisations worldwide. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+```
  
 * Make sure that you add the license at the bottom of the page: © Datopian (CC Attribution-Sharealike (by-sa)).
 * Create the abstract or intro for the article on our social media platforms, such as LinkedIn, Facebook and Twitter.
