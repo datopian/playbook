@@ -121,6 +121,10 @@ Intention: you are familiar with CKAN, you have it set up for development work a
 
 * [Read the overview](https://tech.datopian.com/ckan-v3/).
 * [Install and trial the Next Gen Frontend](https://tech.datopian.com/frontend/).
-  * Tweak the front page in some fun way to add content.
+  * Tweak the front page in some fun way to add content! Here are a few ideas to get started:
+    * Change the layout with different margins and padding;
+    * Add dynamic elements, such as a gallery slider;
+    * Create a dark version of the website;
+    * Customize colors, scrollbar, fonts, hovering effects, favicon, etc.
   * Add a new route to show a new page `/dash` (which can be empty other than a title).
-  * Deploy this somewhere.
+  * Deploy this somewhere, e.g. Heroku or any host that supports NodeJS.
