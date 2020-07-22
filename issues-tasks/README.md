@@ -15,16 +15,12 @@ This key information SHOULD be present:
 * Acceptance criteria: what would it mean for this to be done.
 * Tasks Checklist: a list of tasks involved to accomplish this task. If you are not sure yet a first task should be "Analyze this and get set of tasks".
 
-```
+```markdown
 Short description of bug or feature need preferentially in a job story form.
 
 [Can have multiple items esp if an epic]
 
 [May have a sub section called Stories if you want to list stories]
-
-[Optional: *Requestor:*]
-
-[Optional: *Owner:*]
 
 ## Acceptance
 
@@ -38,7 +34,9 @@ Short description of bug or feature need preferentially in a job story form.
 
 ## Analysis
 
-*This section is optional. It is where you provide further analysis of the problem and analyze potential solutions, ending with a recommendation and tasks (the tasks are usually moved out into the tasks section above)*
+*This section is optional. It is where you provide further analysis of the problem
+and analyze potential solutions, ending with a recommendation and tasks
+(the tasks are usually moved out into the tasks section above).*
 ```
 
 ::: tip
@@ -50,7 +48,7 @@ On Github (and GitLab) you can create an issue template so this structure is alw
 Issue creators MAY use the following naming patterns:
 
 * `[epic]` prefix in title for epic issues
-* (Optional) Grouping ... e.g. `[ux]` for ux issues
+* (Optional) Grouping ... e.g. `[ux]` for UX issues
 
 ### Relationships between Issues
 
@@ -65,16 +63,16 @@ Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the
 
 ## Labels and Milestones
 
-Labels are a great way to highlight the status, relationship and context of issues. For example: 
+Labels are a great way to highlight the status, relationship and context of issues. For example:
 
 * Support issues must have a support label (indicating their support package).
 * All client related issues must have a client label (all colored #800080).
 * Issues related to other, internal, projects need to be labelled accordingly.
 * Contextual labels are encouraged:
-  * 'Source' labels for support issues (e.g. client/sentry/uptime etc.).
-  * 'Technical Debt', 'Bug' etc.
+  * 'Source' labels for support issues (e.g. client/sentry/uptime, etc.).
+  * 'Technical Debt', 'Bug', etc.
 
-Once labels are prioritised or worked on they need to be labelled accordingly and added to the relevant milestone. A description of how to use labels and milestones within sprints can be found in [Agile Delivery](/agile/).
+Once labels are prioritized or worked on they need to be labelled accordingly and added to the relevant milestone. A description of how to use labels and milestones within sprints can be found in [Agile Delivery](/agile/).
 
 ## Adding an Estimate
 
@@ -82,7 +80,7 @@ We RECOMMEND estimates because you need them to make "promises" and by making th
 
 **Github:** Using ZenHub you can add estimates. Epics: your estimate for an epic should only be for time on subtasks **not** included in sub-issues.
 
-**GitLab:** Estimation support is built in, e.g. put ‘/estimate Xh’ in the comments to add estimated time or ‘/spend Xh’ for time consumed.
+**GitLab:** Estimation support is built in, e.g. put `/estimate Xh` in the comments to add estimated time or `/spend Xh` for time consumed.
 
 ## Completing Tasks
 
@@ -98,19 +96,19 @@ Why do both description updates and commenting? Because we want both *flow* and 
 
 For example, suppose the task was:
 
-```
+```markdown
 * [ ] Create the mockup of front page
 ```
 
 The updated item would be:
 
-```
+```markdown
 * [x] Create the mockup of front page **Done -- mockup here {LINK}. Few minor items to finalize once we have answers from client**
 ```
 
 And the comment here would be almost identical (often comments can be terser):
 
-```
+```markdown
 Mockup complete:{LINK}. Few minor items to finalize once we have answers from client.
 ```
 
@@ -118,19 +116,20 @@ Mockup complete:{LINK}. Few minor items to finalize once we have answers from cl
 
 When closing issues you MUST leave a comment like this so that readers (including you later) are clear at glance what the outcome was and why, including being able to locate quickly any outputs produced as part of resolving the issue.
 
-```
-FIXED | INVALID | WONTFIX | DUPLICATE. *Insert
-your comment about what resolved this with links or issue references.*
+```markdown
+FIXED | INVALID | WONTFIX | DUPLICATE.
+*Insert your comment about what resolved this with links or issue references.*
 ```
 
 Example:
 
-```
+```markdown
 FIXED. See commit {link to commit} and staging  {link to page on staging that was changed}.
 ```
 
-```
-WONTFIX. This is not worth doing as the benefit is minor and a lot of work to implement e.g. we have to change the whole way we do search.
+```markdown
+WONTFIX. This is not worth doing as the benefit is minor and a lot of work to implement
+e.g. we have to change the whole way we do search.
 ```
 
 Notes:
