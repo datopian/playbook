@@ -10,6 +10,11 @@ Job stories give the team more context for the user’s situation and allow them
 
 Job stories are very similar to user stories with one key difference: personas becomes contexts (and jobs). We prefer job stories to user stories because they focus on a job to be done rather than a persona -- "When I'm on the morning commute and bored" vs "As a a middle-aged, educated person".
 
+Here is a short 6m introduction to Job to be Done by Clayton Christiansen which is really excellent:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfGtw2C95Ms?start=28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Quick Start
 
 **When** *<situation/context>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
@@ -72,10 +77,6 @@ Products don't match people, they match problems.[^intercom-pdf]
 [^intercom-pdf]: [Intercom on Jobs-to-be-Done. PDF](https://marketing.intercomcdn.com/assets/jtbd/v1/Intercom_on_Jobs-to-be-Done.pdf)
 
 ## Further Reading
-
-Introduction to Job to be Done from Clayton Christiansen (excellent):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sfGtw2C95Ms?start=28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Know Your Customers’ "Jobs to Be Done"][jobs-2016].
 * [Marketing Malpractice: The Cause and the Cure (2005)][marketing].
