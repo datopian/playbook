@@ -13,6 +13,7 @@ This document outlines the content publication process at Datopian across multip
 * Our written content aids client and potential-client understanding of what we do and the sorts of topics we are engaged in.
 * Content production is a collective responsibility.  
 * Datopian has a [master spreadsheet](https://docs.google.com/spreadsheets/d/1fa6cxSnqyMMheIvpgWwYiDS6T-n5NFKDAT-txWRjVHc/edit#gid=0) that tracks our content pipeline and status.
+* We use American English for all external content.
  
  
 ## The Writing Process
@@ -28,7 +29,13 @@ This section provides guidance on how to structure written content depending on 
 * If any of your content contains terms that you think would make interesting additions to the glossary, add them on GitLab here: https://gitlab.com/datopian/core/datopian.com/-/tree/master/site/glossary.
 * Make sure your content ends with the following paragraph about what we do in italics and with links embedded:
  
-_Want to work with Datopian? We empower government and enterprise to unlock the potential lying dormant in their data through outstanding data management strategy and implementation. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+_Want to work with Datopian? We are data management experts providing open-source tooling and related services to organisations worldwide. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+
+Here it is in Markdown so you can copy-paste:
+
+```
+_Want to work with Datopian? We are data management experts providing open-source tooling and related services to organisations worldwide. Check our [website](https://www.datopian.com/) for more information or [contact us](https://www.datopian.com/contact/)._
+```
  
 * Make sure that you add the license at the bottom of the page: © Datopian (CC Attribution-Sharealike (by-sa)).
 * Create the abstract or intro for the article on our social media platforms, such as LinkedIn, Facebook and Twitter.
@@ -46,6 +53,8 @@ The content we produce at Datopian is split into 8 content types (with some cont
     4a. Feature and functionality updates/announcements
     4b. Projects going live announcements
 5. ‘About us & culture’ posts
+    5a. General articles
+    5b. Travelling Datopians photo essay
 6. Hobby-blogger posts
 7. Newsletters
     7a. Bi-annual projects update newsletter
@@ -161,8 +170,12 @@ Datopians are encouraged to write blog posts on any aspect of Datopian culture o
     <td>Informal and lighthearted.</td>
   </tr>
   <tr>
-    <th>Example</th>
-    <td>https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible</td>
+    <th>General article</th>
+    <td>See example: https://www.datopian.com/blog/2020/03/24/tips-on-remote-work/#use-your-video-for-meetings-whenever-possible</td>
+  </tr>
+  <tr>
+    <th>Travelling Datopians photo essay</th>
+    <td>Include as many photos as possible and use the caption as a means of explaining your story.</td>
   </tr>
 </table>
 

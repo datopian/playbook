@@ -13,6 +13,10 @@ Here is a list of acronyms that the business commonly uses. Please feel free to 
 * UI -- user interface
 * CSS -- cascading style sheets
 * OKR -- objectives and key results
+* OOO -- Out Of Office
+* AFK -- Away from keyboard
+* BTW -- By the way
+* FYI -- For your information
 * SMART --   S.M.A.R.T. is an acronym that is used to guide the development of measurable goals. Each objective should be:
   * Specific
   * Measurable with Measurement

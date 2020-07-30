@@ -133,7 +133,7 @@ Please add an "Out of office" and include an alternative contact.
 All Datopian credentials are stored in Bitwarden. Please reach out to the Ops team (office@datopian.com) if you need access to any accounts. Once confirmed, an account in Bitwarden or relevant application (e.g. Heroku) will be created for you with the appropriate access.
 
 ### Registering for New Services/ Portals
-We use accounts@datopian.com to register for most services/ portals. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
+We use accounts@datopian.com to register for most services/ portals and configure the billing settings to ensure all invoices are directed to finance@datopian.com for paid services. If you are creating a shared account, please email the OPS team (office@datopian.com) with the following information:
 * Name of Platform/ URL (ie [Zoom](https://zoom.us/))
 * Username: accounts@datopian.com
 * Password: paste the password in [privnote](https://privnote.com/) and include the URL
@@ -145,9 +145,9 @@ The following are the current permissions for GitHub and GitLab:
 
 | Dev Levels | GitHub | GitLab |
 | ------ | ------ |------ |
-| Apprentices | Member | Developer |
-| Junior Devs | Member | Developer | 
-| Developers | Member | Developer |
+| Apprentices | Member | Maintainer |
+| Junior Devs | Member | Maintainer | 
+| Developers | Member | Maintainer |
 | Senior Devs | Owner | Maintainer |
 | Tech Leads | Owner | Maintainer/ Owner (if upper management) |
 
@@ -158,4 +158,4 @@ Please contact your scrum lead and cc office@datopian.com if you need to be exem
 
 Firstly, if you like us (we know you do!), please like us on [Facebook](https://www.facebook.com/datopianltd/) and follow us on [Twitter](https://twitter.com/datopianinc) and  [LinkedIn](https://www.linkedin.com/company/datopian/)!
 
-If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) *(CC office@datopian.com)* and describe your idea. They will either post it for you or give you access so you can do it by yourself. Feel free to reach out to our [Comms team](mailto:lea.manoussakis@datopian.com) for any further related requests.
+If you would like to post an article, tweet, share something or simply have an idea about a new post, please send an email to [Office Requests](mailto:incoming+datopian-office-office-requests-14747497-5cl6vuzhmxhbsbmy20tqb8lak-issue@incoming.gitlab.com) *(CC office@datopian.com)* and describe your idea. They will either post it for you or give you access so you can do it by yourself. Feel free to reach out to our [Comms team](mailto:office@datopian.com) for any further related requests.
