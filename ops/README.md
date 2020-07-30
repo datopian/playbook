@@ -89,13 +89,15 @@ end
 * [ ]  Welcome/Onboarding call scheduled
 * [ ]  Welcome email sent
 * [ ]  Added to GChat channels
-   * [ ] General
-   * [ ] Onboarding
-   * [ ] Standups
-   * [ ] Tech
+   * [ ] In/ Out
+   * [ ] Announcements
+   * [ ] Help
    * [ ] Watercooler
-   * [ ] Travelling Datopians
-   * [ ] Any other relevant channel (eg. Apprentice channel for Apprentices etc.)
+   * [ ] Links
+   * [ ] Standups
+   * [ ] Travel
+   * [ ] Onboarding
+   * [ ] Any other relevant channel for their tribe (eg. Apprentice channel for Apprentices, Tech - Announcements etc.)
 * [ ]  Added to Xero
 * [ ]  Added to Gitlab with the appropriate permission [process in Ops guide](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.rusgx3lubh0m)
    * [ ] Datopian
