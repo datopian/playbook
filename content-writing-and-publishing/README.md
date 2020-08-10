@@ -300,6 +300,36 @@ image: https://www.datopian.com/assets/img/blog/image-name.jpg
  18. Type `git push` and press Enter.
 
  19. Go back to the repository on GitLab and refresh the page. You should see your commit message and a completion status circle next to it. N.b. the circle should be blue when your post is uploading - this takes about 5 mins. When this turns to a green tick, your post is live on the blog. If the circle becomes a red cross, then there was a problem with your code.
+
+ ### How to embed certain timeframes of YouTube videos
+
+ Sometimes, you might want to include a certain clip from a youtube video in your article to demonstrate a point.
+
+There are a few ways to embed a certain timeframe of a youtube video clip into a web page/ blog post. One option is to embed the whole video and simply set it up to start from a particular time when you hit play. Ie. when you click on the 'Play' button you are instantly directed to the part of the video starting at 2:33 minutes. This option isn't ideal because the viewer doesn't know at which point they should stop watching the video (and might be put off watching it if it is too long).
+
+Another option is to crop the video using an online video cropping tool and then embed only the desired timeframe. This is arguably the best option and the one we will focus on here.
+
+In order to do this, just follow these simple steps:
+
+1. Copy the URL of the youtube video in question 
+in our example we will use the URL of 'NextGEOSS Datahub – Introducing CKAN' video - https://www.youtube.com/watch?v=DTJLdTrsStY.
+2. Go to https://streamable.com/.
+3. Paste the copied URL into the input field and click on 'Go'.
+4. Pick the time frame that you want by moving the little white circles to the wanted seconds and click on 'Create video'.
+
+In our example we want to crop it from 09:99 - 29:98.
+
+![](https://i.imgur.com/oUAWYpX.png)
+
+5. Click on 'Embed' and copy the code that appears in the pop up window.
+
+![](https://i.imgur.com/oNMYENL.png)
+
+
+6. Voila! 
+Paste in on your web page/ blog post and you are good to go.
+
+Then, just to make sure people have the option to watch the full video, add a link above or below to the whole URL (in our case that would be https://www.youtube.com/watch?v=DTJLdTrsStY). 
  
 ## The Broadcasting Process
 
