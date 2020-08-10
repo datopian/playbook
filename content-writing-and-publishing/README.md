@@ -301,7 +301,7 @@ image: https://www.datopian.com/assets/img/blog/image-name.jpg
 
  19. Go back to the repository on GitLab and refresh the page. You should see your commit message and a completion status circle next to it. N.b. the circle should be blue when your post is uploading - this takes about 5 mins. When this turns to a green tick, your post is live on the blog. If the circle becomes a red cross, then there was a problem with your code.
 
- ### How to embed certain timeframes of YouTube videos
+ #### How to embed certain timeframes of YouTube videos
 
  Sometimes, you might want to include a certain clip from a youtube video in your article to demonstrate a point.
 
@@ -330,6 +330,12 @@ In our example we want to crop it from 09:99 - 29:98.
 Paste in on your web page/ blog post and you are good to go.
 
 Then, just to make sure people have the option to watch the full video, add a link above or below to the whole URL (in our case that would be https://www.youtube.com/watch?v=DTJLdTrsStY). 
+
+_Here's an example, taken from a talk given by Rufus and posted in [this article](https://www.datopian.com/blog/2020/07/20/open-data/) on open data:_
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/50f75w" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Click [here](https://www.youtube.com/watch?v=6cRtbA_d4RI0) to watch the full video.
  
 ## The Broadcasting Process
 
