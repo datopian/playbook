@@ -24,7 +24,7 @@ The key principles of the agile approach to delivery are[^2]:
 
 ## Roles
 
-These are largely based on standard scrum process see e.g. Wikipedia http://en.wikipedia.org/wiki/Scrum_(software_development
+These are largely based on standard scrum process see e.g. Wikipedia http://en.wikipedia.org/wiki/Scrum_(software_development)
 
 ### Product Owner
 
