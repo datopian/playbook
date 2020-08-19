@@ -19,6 +19,7 @@ We have the following *media* of communication:
 * [Issue tracker](https://playbook.datopian.com/issues-tasks/#creating-issues): combination of written text, checklists and comments, e.g. GitLab or GitHub issue tracker.
 * In person: face to face.
 * Zoom: video recordings and large meetings.
+    * ALL Zoom meetings must be scheduled. Log in and go to My Account->Meetings and check the list to make sure you are not scheduling on top of another meeting. Once confirmed, then choose Schedule a New Meeting. DO NOT choose Host a Meeting, as it opens a new meeting immediately and may interfere with other users' scheduled meetings.
     * When scheduling a recurring meeting on Zoom, the recurrence time must be chosen: either daily, weekly, or monthly. “No fixed time” should NOT be chosen.
 
 It's a big part of the foundation for great internal communication.
