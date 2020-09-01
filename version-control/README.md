@@ -72,6 +72,17 @@ pull -> stage -> commit -> push
 
 ## Links
 
-* [Pro Git][pro]
-* http://anitacheng.com/git-for-non-developers -- smooth article for non-technical with a general step by step guide, easy to read.
-* https://githowto.com -- A guided tour that walks through the fundamentals of Git.
+* [AnitaCheng.com][gitnodev] -- Smooth article for non-technical with a general step by step guide, easy to read.
+* [Git Cheatsheet][gitcheatsheet] -- An interactive Git Cheatsheet, _"categorizing commands based on what they affect"_.
+* [Git Immersion][gitimmersion] -- _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
+* [GitHowTo][githowto] -- A guided tour that walks through the fundamentals of Git.
+* [Learn Git Branching][gitbranching] -- _"An interactive Git visualization tool to educate and challenge!"_
+* [Pro Git][pro] -- The entire Pro Git book!
+* [Step-by-step guide to contributing on GitHub][stepbystepgit] -- Complete workflow to working with GitHub.
+
+[gitbranching]: https://learngitbranching.js.org
+[gitcheatsheet]: http://ndpsoftware.com/git-cheatsheet.html
+[githowto]: https://githowto.com
+[gitimmersion]: http://gitimmersion.com
+[gitnodev]: http://anitacheng.com/git-for-non-developers
+[stepbystepgit]: https://www.dataschool.io/how-to-contribute-on-github/
