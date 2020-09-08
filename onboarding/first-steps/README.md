@@ -46,9 +46,16 @@ This is my exciting onboarding issue! 🚀
   * [ ] HackMD
   * [ ] GChat
   * [ ] Xero
+  * [ ] Gravatar
 * [ ] I have submitted my bank account details
 * [ ] I have submitted my details via the Phonebook form
 * [ ] I have set up my laptop
+
+### Two Factor Authentication
+
+* [ ] Google
+* [ ] GitHub 
+* [ ] GitLab
 
 ### First Steps
 
@@ -65,7 +72,7 @@ This is my exciting onboarding issue! 🚀
   * [ ] Invited one or more other people to it
   * [ ] Deleted it
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
-  * [ ] Confirmed I have the All Team Weekly meeting in my calendar
+  * [ ] Confirmed I have the All Team Monthly meeting in my calendar
 * [ ] How we communicate
   * [ ] Go on GChat and message each other directly
   * [ ] Drop a message in the onboarding channel
