@@ -44,6 +44,8 @@ When doing something substantive
 ## Part III: CKAN Classic
 
 * [ ] Read the full tutorial
+* [ ] [Install and launch ckan with docker-compose](https://tech.datopian.com/ckan/getting-started.html)
+* [ ] [Play with CKAN](https://tech.datopian.com/ckan/play-around.html) 
 * [ ] Created a working extension and published to github/GitLab (post screenshots of results)
 
 ## Part IV: CKAN Next Gen
