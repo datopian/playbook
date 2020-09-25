@@ -65,11 +65,24 @@ Some guidelines:
 | Yes               | Supports Markdown         |
 | No                | Does not support Markdown |
 
+::: tip
+Note that 'yes/no' columns are not always the best option. For example, say you are reviewing content management systems and you want to log whether it is easy for non-techy people to post content on them. Just because a non-techy person may be able to post content on a CMS does not mean that it is easy; maybe it would take them a lot of time and effort, even if they could do it after hours of trying. In this example, the value you would want to log is the _ease_ of posting, which you could log on a scale eg. 1-10. You may even want to break this down into different criteria, such as how easy is it to manage media or to edit once a post is up.
+:::
+
 * No blank rows.
+* Start with the basics: URLs to the product, breif description, pricing.
 * Don't put meta data at the bottom of the table.
 * Avoid having multiple columns in one sheet.
   * If you do, have them side by side because if you have them above or below each other then if you add or delete a column in one of the tables it might mess up the other ones.
 * If you have 1 column which contains the same values for all entries, generally you can leave it out because it doesn't convey anything.
+* If a colleague asks you to carry out a research task to compare different products, it is a good idea to present a recommendation as part of your deliverable. They may disagree with your choice, but heating your own reasoning may help them consolidate their own opinion.
+  * If you are required to present your findings during a meeting, it may also be a good idea to post any relevant screenshots in the corresponding issue to demonstrate your point while you are talking.
+
+## Job stories
+
+One of the most important things to work out over the course of your research is the criteria you are going to choose to compare different options. Instead of randomly plucking sensible criteria from thin air, you need to think about the information that is actually important for your decision-making process. To do this, you need to consider what your job stories are.
+
+For example, say someone asked you to research cars. You might think to include basic criteria like engine size, colours available, how many passengers it can carry, whether it had bluetooth. However, if you don't have a smartphone and you don't care about what your car looks like, then criteria such as bluetooth and colour availability are not going to be very relevant criteria for you to assess. However, if one of your job stories is that you need to be able to only want to have to drive for miles each time something goes wrong with your car, a good criteria might be the distance to the nearest local car dealer.
 
 ## Worked Out Example
 
