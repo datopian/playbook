@@ -122,7 +122,7 @@ Steps:
 Intention: you are familiar with CKAN, you have it set up for development work and you have created a hello world extension.
 
 * [Read the overview](https://tech.datopian.com/ckan-v3/).
-* [Install and trial the Next Gen Frontend](https://tech.datopian.com/frontend/).
+* [Install and try the Next Gen Frontend](https://tech.datopian.com/frontend/).
   * Tweak the front page in some fun way to add content! Here are a few ideas to get started:
     * Change the layout with different margins and padding;
     * Add dynamic elements, such as a gallery slider;
