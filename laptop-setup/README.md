@@ -12,7 +12,7 @@ Please have the following software installed:
 
 * [Google Chrome](https://www.google.com/chrome/).
 * [Visual Studio Code](https://code.visualstudio.com) -- we recommend it as default editor if you don't already have one (e.g. Vim, Emacs, etc.). Even if you already have an editor we recommend installing it as we use it for remote pair programming.
-* Package Manager e.g. on MacOS you have [Homebrew](https://brew.sh/) installed and set up for development (you can then use this to install other tools)
+* Package Manager e.g. on MacOS you have [Homebrew](https://brew.sh/) installed and set up for development and on Windows you have [Chocolatey](https://chocolatey.org/) installed. You can then use the package manager to install other tools.
 * [Git](https://git-scm.com/).
 * [Python (v3)](https://www.python.org/downloads/).
 * [NodeJS](https://nodejs.org/en/).
