@@ -345,4 +345,3 @@ You MAY want to have a meeting a week after Onboarding to catch up and see how t
 
 See [Accounting & Finances Guide](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.qy0fklx1v9sk)
 
-<mermaid />

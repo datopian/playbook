@@ -235,4 +235,3 @@ When finalizing you may want to mark these two inbox sections as obsolete in som
 [template]: https://docs.google.com/document/d/1a_KTb2d70odrl1EF12AOQ0zzfxlVcHObnUPhhdFtCAw/edit#
 [issues]: /issues-tasks/
 
-<mermaid />

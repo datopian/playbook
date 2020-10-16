@@ -227,4 +227,3 @@ We use version control and git in particular to manage code and also a lot of co
 
 See the [Version Control and Git section](/version-control/) for more information, including an introduction for those new to the topic.
 
-<mermaid />

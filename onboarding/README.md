@@ -49,7 +49,6 @@ subgraph "Tech & Data School"
 end
 ```
 
-<mermaid />
 
 ## Prerequisites 
 

@@ -7,8 +7,9 @@
     "mermaid": "^8.0.0"
   },
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.1.0",
     "vuepress": "^1.0.2",
-    "@vuepress/plugin-google-analytics": "^1.1.0"
+    "vuepress-plugin-mermaidjs": "^1.8.0"
   },
   "scripts": {
     "start": "yarn start:docs",

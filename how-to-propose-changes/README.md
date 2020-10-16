@@ -70,4 +70,3 @@ First, describe what happens if we don't do nothing. Sometimes, this could be a 
 * https://www.ietf.org/proceedings/62/slides/editor-0.pdf
 * https://github.com/emberjs/rfcs
 
-<mermaid />

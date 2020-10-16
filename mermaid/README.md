@@ -63,5 +63,3 @@ graph TD
   
   B --> s[Something else]
 ```
-
-<mermaid />
