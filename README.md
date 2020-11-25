@@ -1,5 +1,5 @@
 ---
-heroImage: https://www.datopian.com/img/datopian-logo.png
+heroImage: https://www.datopian.com/wp-content/uploads/2020/11/datopian-logotype.png
 heroText: We Are Datopian
 tagline: We work with organizations of all sizes to unleash the potential of data 
 actionText: Table of Contents →
@@ -12,7 +12,7 @@ footer: Openly Licensed | Copyright © 2016-present Datopian (Atomatic Ltd)
 <div class="hero">
   <h1>We are Datopian</h1>
 
-  <img src="https://www.datopian.com/img/datopian-logo.png" />
+  <img src="https://www.datopian.com/wp-content/uploads/2020/11/datopian-logotype.png" />
 
   <p class="description">
     We work with organizations of all sizes to unleash the potential of data.
