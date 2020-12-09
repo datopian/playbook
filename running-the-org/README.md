@@ -121,9 +121,17 @@ Whilst there is no hard and fast rules we recommend giving reasonable notice, fo
 
 How to organize time-off:
 
-* Discuss with your project team(s) and especially with the Scrum Master and Product Owner.
-* Once agreed notify resourcing@datopian.com to inform them about the dates of your absence and so they can flag if any issues.
-* Make sure to add your holiday dates in both the Datopian Team calendar as well as in your own personal calendar.
+* Discuss with your project team(s) and especially with the Scrum Master and Product Owner BEFORE following this process.
+1. Open the time off form located [here](https://docs.google.com/forms/d/e/1FAIpQLSdXZhet42k5LtiymqY14At3WE4pGU3J86D6EpaZHJ7Uk5HXxg/viewform?gxids=7628) (make sure you are logged into your Datopian account)
+2. Select the dates that you are taking off
+- Start date is the first day off
+- End date is the last day off
+3. Choose the description button for your time off
+- Holiday (used by employees only)
+- Out of Office (unpaid / taking the day off without making it up)
+- Off (taking a day off and making it up later in the same month, such as on a weekend)
+- Sick Leave (please review the section below for information on sick leave)
+4. Enter your time off into your individual calendar by using the Out of Office option
 
 ### If You're Ill
 
