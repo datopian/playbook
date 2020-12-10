@@ -221,6 +221,17 @@ We do not intentionally cause upsets, withhold communications or gossip.
 
 We strive for an environment where disagreement can be handled powerfully and constructively rather than being a source of fear and distrust.
 
+### Principles for Effective Feedback
+
+1. Feedback should be offered with a willingness to listen in return. Those giving feedback should also ask for it.
+2. Feedback should be a way for both parties to work together to find solutions, rather than one party pointing out problems.
+3. Feedback should be as specific as possible and contain concrete suggestions on how to improve.
+4. Feedback should be delivered one on one, rather than in front of others (unless there is prior consent).
+5. Feedback should never be framed as criticism. It should start with positive acknowledgements of what the person receiving feedback has done well, and an assumption the person is doing the best they can and that they may face problems out of their control you are not aware of.
+6. Feedback should never be delivered in a way that feels personal. It should focus on activities and roles, not people's characters.
+7. Feedback should always be followed up, to check on and offer support around its implementation.
+8. Feedback should follow shared ground rules for how it is carried out.
+
 ---
 
 ## Values
