@@ -12,34 +12,34 @@ It describes a problem (situation, complication), frames a question about what t
 
 The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question).
 
-::: tip SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/ :::
+An SCQH does two things: provides clarity on the problem (and solution) and aligns the group on that. This second factor is often as important as the first.
+
+An SCQH is best created in a small group of people, say maximum 7-8 (but you can do more). Once you have the SCQH you can share with wider and wider groups as needed.
+
+Allow between 2h and several days to create an SCQH depending the scale of the issue and the size of the group. The process will be faster the smaller the group and the more experience people have with the process.
+
+::: tip SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/
 
 Another intro is: https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
 :::
 
-## Overview
-
-### What is SCQH?
-
-* SCQH is a problem solving tool.
-* It can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
-* SCQH stands for Situation, Complication, Question and Hypothesis.
-  * It is sometimes written as SCQA, for Answer, but it is usually helpful to treat the last component as  a Hypothesis, which can then be tested.
-* It describes a problem (situation, complication) frames a question about what to do, and finally offers a solution in the form of the hypothesis
-  * The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question)
-
-(*) SCQ(H) is connected to the Minto Pyramid: http://www.barbaraminto.com/
-Another intro is https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/ 
-
 ## Structure of an SCQH
 
-### Overview
+A SCQH has four parts:
 
-Each SCQH item gets one sentence. This makes you keep things simple and distill the problem down to its essence.
 * Situation: where are we now, what’s the context.
 * Complication: what’s the problem, what’s not working.
 * Question: what do we need to work out, what can we do?
 * Hypothesis: what we propose to do to solve the question.
+
+Strictly each SCQH item gets one sentence though this can be relaxed to being a short paragraph. This succinctness forces one to keep things simple and really distill things down.
+
+### Example
+
+* **Situation:** we’re a company making baths and we have been losing money ($100k per year) the last two years. 
+* **Complication:** if we keep losing money at this rate we’ll be bankrupt in 2 years time and we don’t have any new products ready that will change the situation.
+* **Question:** what new product can we develop and market in the next two years that will generate at least $1m in revenues and at least $100k in profit per year? 
+* **Hypothesis:** in the next 18 months we will develop and launch a new enamel bath targeted at the high-end market.
 
 ### Situation
 
@@ -49,9 +49,11 @@ Start by telling your audience something they already know. This helps establish
 
 Typical situations are “we have a task to perform”, “we have a problem” and “we took an action”.
 
-_Situations should be factual. They aren’t about what’s wrong. “The walls of our apartment are white,” is a situation, whereas, “I don’t like the white walls of our apartment,” is not._
+:::tip
+Situations should be factual. They aren’t about what’s wrong. “The walls of our apartment are white,” is a situation, whereas, “I don’t like the white walls of our apartment,” is not.
+:::
 
-**Example situation:** we’re a company making baths and we’ve been losing money ($100k per year) the last two years. 
+**Example situation:** we’re a company making baths and we have been losing money ($100k per year) the last two years. 
 
 ### Complication
 
@@ -59,9 +61,11 @@ _“Recently the situation has changed…”_
 
 What happened next? And specifically, what’s the problem with the situation. The Complication creates tension in the story you’re telling. This triggers the Question you will ask.
 
-Typical complications: “something is stopping us performing the task”, “we [don’t] know the solution to the problem”, “a solution to the problem has been suggested” and “the action we took didn’t work”.
+Typical complications: “something is stopping us performing the task”, “we [don’t] know the solution to the problem”, “a solution to the problem has been suggested but we don't know if it will work” and “the action we took did not work”.
 
-**Example complication:** if we keep losing money at this rate we’ll be bankrupt in 2 years time and we don’t have any new products ready that will change the situation. Often at the start you won’t be clear what is situation and what is complication. That’s fine, just put whatever comes up down
+Often at the start you won’t be clear what is situation and what is complication. That’s fine, just put whatever comes up down
+
+**Example complication:** if we keep losing money at this rate we’ll be bankrupt in 2 years time and we don’t have any new products ready that will change the situation.
 
 ### Question
 
@@ -83,31 +87,23 @@ _NB: The answer is better thought of as a hypothesis in research-based scenarios
 
 **Example hypothesis:** we will develop and launch within the next 18 months a new enamel bath targeted at the high-end market
 
-### Process for Doing an SCQH
-
-* An SCQH does two things: provides clarity on the problem (and solution) and aligns the group on that.
-  * The SCQH is an important group alignment process.
-* Situation should be “facts” as much as possible. Complication is where opinion comes in.
-* An SCQH is best created in a small group of people, say maximum 7-8 (but you can do more) and then shared outwards.
-* Allow at least 2h to create an SCQH.
-  * It will be faster the smaller the group and the more experience people have with the process.
 
 
 ## Examples
 
 ### Example 1: Butcher
 
-**Situation:** we’re a small family butchers in a medium-sized UK market town and we've lost so many customers (and with them, revenue) over the past few years that we've been considering bankruptcy for a while.
+**Situation:** we’re a small family butchers in a medium-sized UK market town and we've lost so many customers (and with them, revenue) over the past few years that we've been considering closing down.
 
 **Complication:** a major supermarket chain has just announced it is going to build a new store (complete with a butchers counter) on the outskirts of town.
 
-**Question:** how can we make as much profit as possible with the stock we have left before jumping ship?
+**Question:** should we keep going and if not what's the best way to close down and make best use of our remaining assets?
 
 **Hypothesis:** we will sell our 150-year old sausage recipe (our bestseller) to a new local farm shop and organise local press coverage, in which we will also mention that our last stock items will be selling at a discount on Saturday.
 
 ### Example 2: iMed
 
-This is a real-life SCQH for [iMed](https://imedproject.org/).
+This is a real-life SCQH for [iMed](https://imedproject.org/). Note that this SCQH took a group of 4 people around 2 days to produce with another 2 days spent on the issue and hypothesis tree.
 
 **Situation:** Medicines are expensive to research and cheap to make and millions of people need them; meanwhile funding mechanisms are not directly linked to health impact, profits are based on prices, and the existence of monopoly patents supports prices well above the cost of manufacture.
 
