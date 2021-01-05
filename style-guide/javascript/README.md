@@ -106,6 +106,8 @@ method(foo) {
 * Use eslint to lint code. https://eslint.org/
 * Tutorial: https://www.youtube.com/watch?v=hppJw2REb8g
 * ESLint for Visual Studio: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+* There are some samples available [here](/style-guide/javascript/linting-samples)
+* After install and set up lint, you can follow next steps [here](/style-guide/javascript/linting)
 
 ## 3. Testing
 

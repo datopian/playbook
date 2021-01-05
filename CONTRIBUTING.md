@@ -22,4 +22,4 @@ And deployed using GitLab Pages (see `.gitlab-ci.yml`).
 - After your pull request is merged, you can safely delete your branch.
 - More information related version control in [datopian documentation](https://playbook.datopian.com/style-guide/version-control/#commit-messages)
 
-### [<-- Back](https://gitlab.com/datopian/core/playbook)
+### [<-- Back](https://github.com/datopian/playbook)

@@ -17,7 +17,7 @@ module.exports = {
   themeConfig: {
     smoothScroll: true,
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://gitlab.com/datopian/core/playbook',
+    repo: 'https://github.com/datopian/playbook',
     repoLabel: '📕',
     // defaults to false, set to true to enable
     editLinks: true,
