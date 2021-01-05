@@ -1,4 +1,4 @@
-# Lining samples using Javascript
+# Linting samples using Javascript
 
 There are some configuration files and requirements to use in linting settings:
 
