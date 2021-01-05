@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Setting-up Lint on Javascript Projects | Datopian Playbook</title>
+    <meta name="generator" content="VuePress 1.4.1">
+    
+    <meta name="description" content="A guide to our culture and processes">
+    <link rel="preload" href="/assets/css/0.styles.48f6cb7e.css" as="style"><link rel="preload" href="/assets/js/app.52d6affb.js" as="script"><link rel="preload" href="/assets/js/2.72c698ef.js" as="script"><link rel="preload" href="/assets/js/52.87c191d5.js" as="script"><link rel="prefetch" href="/assets/js/10.d8de8361.js"><link rel="prefetch" href="/assets/js/11.0409c271.js"><link rel="prefetch" href="/assets/js/12.857c3c3b.js"><link rel="prefetch" href="/assets/js/13.f4683484.js"><link rel="prefetch" href="/assets/js/14.c5011897.js"><link rel="prefetch" href="/assets/js/15.a1ea6953.js"><link rel="prefetch" href="/assets/js/16.36c9468c.js"><link rel="prefetch" href="/assets/js/17.02b75938.js"><link rel="prefetch" href="/assets/js/18.6f0752f9.js"><link rel="prefetch" href="/assets/js/19.1ffd4051.js"><link rel="prefetch" href="/assets/js/20.397da4b0.js"><link rel="prefetch" href="/assets/js/21.220e7e24.js"><link rel="prefetch" href="/assets/js/22.8299f231.js"><link rel="prefetch" href="/assets/js/23.9c613061.js"><link rel="prefetch" href="/assets/js/24.b07ae373.js"><link rel="prefetch" href="/assets/js/25.b2786401.js"><link rel="prefetch" href="/assets/js/26.e4f2f9e9.js"><link rel="prefetch" href="/assets/js/27.78d52c71.js"><link rel="prefetch" href="/assets/js/28.45fd29dc.js"><link rel="prefetch" href="/assets/js/29.5fbf889b.js"><link rel="prefetch" href="/assets/js/3.b690d908.js"><link rel="prefetch" href="/assets/js/30.829096e6.js"><link rel="prefetch" href="/assets/js/31.a387ceed.js"><link rel="prefetch" href="/assets/js/32.5dccffe7.js"><link rel="prefetch" href="/assets/js/33.614a113d.js"><link rel="prefetch" href="/assets/js/34.7284bfe5.js"><link rel="prefetch" href="/assets/js/35.42f78fbd.js"><link rel="prefetch" href="/assets/js/36.17b78b33.js"><link rel="prefetch" href="/assets/js/37.bcf9fa08.js"><link rel="prefetch" href="/assets/js/38.634946c4.js"><link rel="prefetch" href="/assets/js/39.110f56d7.js"><link rel="prefetch" href="/assets/js/4.a80b896a.js"><link rel="prefetch" href="/assets/js/40.0c272509.js"><link rel="prefetch" href="/assets/js/41.15923b5f.js"><link rel="prefetch" href="/assets/js/42.f21a798a.js"><link rel="prefetch" href="/assets/js/43.c049dbe0.js"><link rel="prefetch" href="/assets/js/44.804cfe72.js"><link rel="prefetch" href="/assets/js/45.2b1edd7f.js"><link rel="prefetch" href="/assets/js/46.4118aab8.js"><link rel="prefetch" href="/assets/js/47.02c8ec95.js"><link rel="prefetch" href="/assets/js/48.4932d4e5.js"><link rel="prefetch" href="/assets/js/49.fed43d17.js"><link rel="prefetch" href="/assets/js/5.959cd6f2.js"><link rel="prefetch" href="/assets/js/50.349a5c6a.js"><link rel="prefetch" href="/assets/js/51.39281336.js"><link rel="prefetch" href="/assets/js/53.29bf5339.js"><link rel="prefetch" href="/assets/js/54.57f1e5e9.js"><link rel="prefetch" href="/assets/js/55.ae823bc6.js"><link rel="prefetch" href="/assets/js/56.b62bdd38.js"><link rel="prefetch" href="/assets/js/57.9e41b32a.js"><link rel="prefetch" href="/assets/js/58.ba5a7de7.js"><link rel="prefetch" href="/assets/js/59.78325b08.js"><link rel="prefetch" href="/assets/js/6.7c3ea660.js"><link rel="prefetch" href="/assets/js/60.3ecc8b2b.js"><link rel="prefetch" href="/assets/js/61.800b478a.js"><link rel="prefetch" href="/assets/js/62.1b91c516.js"><link rel="prefetch" href="/assets/js/63.0b399990.js"><link rel="prefetch" href="/assets/js/64.4bea0f7a.js"><link rel="prefetch" href="/assets/js/65.4bb19389.js"><link rel="prefetch" href="/assets/js/7.57da7fe6.js"><link rel="prefetch" href="/assets/js/8.fbe2a3da.js"><link rel="prefetch" href="/assets/js/9.4afcf095.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.48f6cb7e.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">Datopian Playbook</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/culture/" class="nav-link">
+  🥢 Culture
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="📚 Plays" class="dropdown-title"><span class="title">📚 Plays</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/agile/" class="nav-link">
+  Agile Delivery
+</a></li><li class="dropdown-item"><!----> <a href="/support/" class="nav-link">
+  Client Support
+</a></li><li class="dropdown-item"><!----> <a href="/running-the-org/" class="nav-link">
+  Running the Org
+</a></li><li class="dropdown-item"><!----> <a href="/style-guide/" class="nav-link router-link-active">
+  Style Guides
+</a></li><li class="dropdown-item"><!----> <a href="/communications/" class="nav-link">
+  Communications (Internal)
+</a></li><li class="dropdown-item"><!----> <a href="/content-writing-and-publishing/" class="nav-link">
+  Content Writing and Publishing
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="🕸️ Patterns" class="dropdown-title"><span class="title">🕸️ Patterns</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/job-stories/" class="nav-link">
+  Job Stories
+</a></li><li class="dropdown-item"><!----> <a href="/getting-things-done/" class="nav-link">
+  Getting Things Done (GTD)
+</a></li><li class="dropdown-item"><!----> <a href="/objectives-and-key-results/" class="nav-link">
+  Objectives and Key Results (OKRs)
+</a></li><li class="dropdown-item"><!----> <a href="/planning-your-day/" class="nav-link">
+  Planning Your Day
+</a></li><li class="dropdown-item"><!----> <a href="/version-control/" class="nav-link">
+  Git
+</a></li><li class="dropdown-item"><!----> <a href="/markdown/" class="nav-link">
+  Markdown
+</a></li><li class="dropdown-item"><!----> <a href="/how-to-propose-changes/" class="nav-link">
+  How to Propose Changes
+</a></li><li class="dropdown-item"><!----> <a href="/scqh/" class="nav-link">
+  SCQH (Situation, Complication, Question, Hypothesis)
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="👩‍🎓 Programs" class="dropdown-title"><span class="title">👩‍🎓 Programs</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/onboarding/" class="nav-link">
+  Onboarding
+</a></li><li class="dropdown-item"><!----> <a href="/apprentice/" class="nav-link">
+  Apprentice
+</a></li><li class="dropdown-item"><!----> <a href="/tech-leaders-program/" class="nav-link">
+  Tech Leaders
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="🥋 Dojo" class="dropdown-title"><span class="title">🥋 Dojo</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/dojo/" class="nav-link">
+  Dojo
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/technical-writing/" class="nav-link">
+  Technical Writing
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/python/" class="nav-link">
+  Python
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/javascript/" class="nav-link">
+  JavaScript
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/analysis/" class="nav-link">
+  Analysis
+</a></li><li class="dropdown-item"><!----> <a href="https://tech.datopian.com/" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Datopian Tech
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div><div class="nav-item"><a href="/glossary/" class="nav-link">
+  Glossary
+</a></div> <a href="https://github.com/datopian/playbook" target="_blank" rel="noopener noreferrer" class="repo-link">
+    📕
+    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/culture/" class="nav-link">
+  🥢 Culture
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="📚 Plays" class="dropdown-title"><span class="title">📚 Plays</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/agile/" class="nav-link">
+  Agile Delivery
+</a></li><li class="dropdown-item"><!----> <a href="/support/" class="nav-link">
+  Client Support
+</a></li><li class="dropdown-item"><!----> <a href="/running-the-org/" class="nav-link">
+  Running the Org
+</a></li><li class="dropdown-item"><!----> <a href="/style-guide/" class="nav-link router-link-active">
+  Style Guides
+</a></li><li class="dropdown-item"><!----> <a href="/communications/" class="nav-link">
+  Communications (Internal)
+</a></li><li class="dropdown-item"><!----> <a href="/content-writing-and-publishing/" class="nav-link">
+  Content Writing and Publishing
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="🕸️ Patterns" class="dropdown-title"><span class="title">🕸️ Patterns</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/job-stories/" class="nav-link">
+  Job Stories
+</a></li><li class="dropdown-item"><!----> <a href="/getting-things-done/" class="nav-link">
+  Getting Things Done (GTD)
+</a></li><li class="dropdown-item"><!----> <a href="/objectives-and-key-results/" class="nav-link">
+  Objectives and Key Results (OKRs)
+</a></li><li class="dropdown-item"><!----> <a href="/planning-your-day/" class="nav-link">
+  Planning Your Day
+</a></li><li class="dropdown-item"><!----> <a href="/version-control/" class="nav-link">
+  Git
+</a></li><li class="dropdown-item"><!----> <a href="/markdown/" class="nav-link">
+  Markdown
+</a></li><li class="dropdown-item"><!----> <a href="/how-to-propose-changes/" class="nav-link">
+  How to Propose Changes
+</a></li><li class="dropdown-item"><!----> <a href="/scqh/" class="nav-link">
+  SCQH (Situation, Complication, Question, Hypothesis)
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="👩‍🎓 Programs" class="dropdown-title"><span class="title">👩‍🎓 Programs</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/onboarding/" class="nav-link">
+  Onboarding
+</a></li><li class="dropdown-item"><!----> <a href="/apprentice/" class="nav-link">
+  Apprentice
+</a></li><li class="dropdown-item"><!----> <a href="/tech-leaders-program/" class="nav-link">
+  Tech Leaders
+</a></li></ul></div></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="🥋 Dojo" class="dropdown-title"><span class="title">🥋 Dojo</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/dojo/" class="nav-link">
+  Dojo
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/technical-writing/" class="nav-link">
+  Technical Writing
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/python/" class="nav-link">
+  Python
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/javascript/" class="nav-link">
+  JavaScript
+</a></li><li class="dropdown-item"><!----> <a href="/dojo/analysis/" class="nav-link">
+  Analysis
+</a></li><li class="dropdown-item"><!----> <a href="https://tech.datopian.com/" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Datopian Tech
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div><div class="nav-item"><a href="/glossary/" class="nav-link">
+  Glossary
+</a></div> <a href="https://github.com/datopian/playbook" target="_blank" rel="noopener noreferrer" class="repo-link">
+    📕
+    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>Setting-up Lint on Javascript Projects</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/style-guide/javascript/linting/#change-vs-code-settings-json-file" class="sidebar-link">Change VS Code settings.json file</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/style-guide/javascript/linting/#change-package-json" class="sidebar-link">Change package.json</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/style-guide/javascript/linting/#github-actions" class="sidebar-link">Github Actions</a><ul class="sidebar-sub-headers"></ul></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="setting-up-lint-on-javascript-projects"><a href="#setting-up-lint-on-javascript-projects" class="header-anchor">#</a> Setting-up Lint on Javascript Projects</h1> <p>After set up your lint configuration, you can add the following settings inside your project.</p> <h2 id="change-vs-code-settings-json-file"><a href="#change-vs-code-settings-json-file" class="header-anchor">#</a> Change VS Code settings.json file</h2> <p>Open <code>File -&gt; Preferences -&gt; Settings</code> or use <code>Ctrl + ,</code> (Windows) or <code>CMD + ,</code> (Mac OS) and edit <code>settings.json</code> file.<br>
+You can also access <code>settings.json</code> quickly by opening the command palette <code>CMD + Shift + P</code> (Mac OS) or <code>Ctrl + Shift + P</code>(Windows)) and type <code>settings.json</code></p> <p>Add the following content to this file.</p> <div class="language-json extra-class"><pre class="language-json"><code>
+  <span class="token property">&quot;[javascript]&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">&quot;editor.formatOnSave&quot;</span><span class="token operator">:</span> <span class="token boolean">false</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token property">&quot;eslint.alwaysShowStatus&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+  <span class="token property">&quot;editor.codeActionsOnSave&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">&quot;source.fixAll.eslint&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    <span class="token property">&quot;eslint.autoFixOnSave&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span>
+  <span class="token punctuation">}</span>
+
+</code></pre></div><h2 id="change-package-json"><a href="#change-package-json" class="header-anchor">#</a> Change package.json</h2> <p>Go to the <code>package.json</code> file and add a npm script to run eslint (Inside scripts object)</p> <div class="language-json extra-class"><pre class="language-json"><code><span class="token property">&quot;lint&quot;</span> <span class="token operator">:</span> <span class="token string">&quot;yarn lint&quot;</span>
+</code></pre></div><p>You can also add a script to automatically fix the errors:</p> <div class="language-json extra-class"><pre class="language-json"><code><span class="token property">&quot;lint:fix&quot;</span> <span class="token operator">:</span> <span class="token string">&quot;yarn lint --fix&quot;</span>
+</code></pre></div><h2 id="github-actions"><a href="#github-actions" class="header-anchor">#</a> Github Actions</h2> <p>To set up a Github Actions workflow inside your project, follow steps bellow:</p> <p>Create a file to run your jobs on Github.</p> <div class="language-bash extra-class"><pre class="language-bash"><code><span class="token operator">&gt;</span> <span class="token function">touch</span> .github/workflow/main.yml
+</code></pre></div><p>Add following content inside <code>main.yml</code> file.</p> <div class="language-yaml extra-class"><pre class="language-yaml"><code><span class="token key atrule">name</span><span class="token punctuation">:</span> repository<span class="token punctuation">-</span>name
+<span class="token key atrule">on</span><span class="token punctuation">:</span> 
+  <span class="token key atrule">push</span><span class="token punctuation">:</span>
+    <span class="token key atrule">branches</span><span class="token punctuation">:</span> <span class="token punctuation">[</span> master <span class="token punctuation">]</span>
+  <span class="token key atrule">pull_request</span><span class="token punctuation">:</span>
+    <span class="token key atrule">branches</span><span class="token punctuation">:</span> <span class="token punctuation">[</span> master <span class="token punctuation">]</span>
+
+<span class="token key atrule">jobs</span><span class="token punctuation">:</span>
+  <span class="token key atrule">lint</span><span class="token punctuation">:</span>
+    <span class="token key atrule">runs-on</span><span class="token punctuation">:</span> ubuntu<span class="token punctuation">-</span>latest
+    <span class="token key atrule">steps</span><span class="token punctuation">:</span>
+      <span class="token punctuation">-</span> <span class="token key atrule">uses</span><span class="token punctuation">:</span> actions/checkout@v2
+      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Install modules
+        <span class="token key atrule">run</span><span class="token punctuation">:</span> yarn
+    
+      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Run lint check
+        <span class="token key atrule">run</span><span class="token punctuation">:</span> yarn lint
+</code></pre></div><p>In case you already have a workflow file set, you can just add following job:</p> <div class="language-yaml extra-class"><pre class="language-yaml"><code><span class="token key atrule">jobs</span><span class="token punctuation">:</span>
+  <span class="token key atrule">lint</span><span class="token punctuation">:</span>
+    <span class="token key atrule">runs-on</span><span class="token punctuation">:</span> ubuntu<span class="token punctuation">-</span>latest
+    <span class="token key atrule">steps</span><span class="token punctuation">:</span>
+      <span class="token punctuation">-</span> <span class="token key atrule">uses</span><span class="token punctuation">:</span> actions/checkout@v2
+      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Install modules
+        <span class="token key atrule">run</span><span class="token punctuation">:</span> yarn
+    
+      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Run lint check
+        <span class="token key atrule">run</span><span class="token punctuation">:</span> yarn lint
+</code></pre></div></div> <footer class="page-edit"><div class="edit-link"><a href="https://github.com/datopian/playbook/edit/master/style-guide/javascript/linting/README.md" target="_blank" rel="noopener noreferrer">Edit this page</a> <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></div> <!----></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.52d6affb.js" defer></script><script src="/assets/js/2.72c698ef.js" defer></script><script src="/assets/js/52.87c191d5.js" defer></script>
+  </body>
+</html>
