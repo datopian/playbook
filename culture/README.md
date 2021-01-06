@@ -232,6 +232,10 @@ We strive for an environment where disagreement can be handled powerfully and co
 7. Feedback should always be followed up, to check on and offer support around its implementation.
 8. Feedback should follow shared ground rules for how it is carried out.
 
+### Wellbeing Resources
+
+In this [Wellbeing Guide](https://drive.google.com/file/d/1nb8AOrVB1RbDgIyqRSQ8_xNilxj104_M/view?usp=sharing) are helpful resources to support you with your wellbeing. We include country specific services that you can call on, as well as tips and guidance to keep up your cognitive health whilst at work.
+
 ---
 
 ## Values
