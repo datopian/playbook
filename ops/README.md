@@ -76,44 +76,57 @@ end
 ## Onboarding Checklist: Issue template
 
 ```
-* [ ]  Folder on People drive created
-* [ ]  Contract drafted (and reviewed)
-* [ ]  Contract shared with the onbordee (CC the requestor and people-team@datopian.com)
-* [ ]  Contract signed
-* [ ]  Contract PDF-ed and saved in their folder
-* [ ]  GSuite Email created
-   * [ ]  License assigned
-   * [ ]  Added to Services Team Group
-   * [ ]  Added to All Team calendar
-* [ ]  Please add them to this [Group email list](https://docs.google.com/spreadsheets/u/1/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0) (if applicable)
-* [ ]  Welcome/Onboarding call scheduled
+## Task list:
+* [ ] Key terms email is sent 
+* [ ] Resourcing@ is emailed about new joiner 
+* [ ] Folder on People drive created
+* [ ] Contract drafted 
+* [ ] Contract reviewed 
+* [ ] Contract shared with the onbordee (CC requestor)
+* [ ] Contract signed
+* [ ] Contract PDF-ed and saved in their folder
+* [ ] GSuite Email created
+   * [ ] License assigned
+   * [ ] Added to Services Team Group
+   * [ ] Added to All Team email group
+   * [ ] Added to All Team calendar
+* [ ] Add to relevant email groups 
+* [ ]  [Onboarding call](https://www.google.com/url?q=https://playbook.datopian.com/ops/%23welcome-call&sa=D&source=hangouts&ust=1612361319879000&usg=AFQjCNEVZVwmdwURpNZhJ8-EBOzx7UUOBw) scheduled
+* [ ] Person has been shown the following from the playbook:
+  * [ ] Culture
+  * [ ] RtO
 * [ ]  Welcome email sent
-* [ ]  Added to GChat channels
-   * [ ] In/ Out
-   * [ ] Announcements
-   * [ ] Help
-   * [ ] Watercooler
-   * [ ] Links
-   * [ ] Standups
-   * [ ] Travel
+* [ ]  Added to GChat
+   * [ ] General
    * [ ] Onboarding
-   * [ ] Any other relevant channel for their tribe (eg. Apprentice channel for Apprentices, Tech - Announcements etc.)
-* [ ]  Added to Xero
-* [ ]  Added to Gitlab with the appropriate permission [process in Ops guide](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.rusgx3lubh0m)
+   * [ ] Standups
+   * [ ] Tech
+   * [ ] Watercooler
+   * [ ] Travelling Datopians etc
+   * [ ] Any other relevant channel
+* [ ]  Added to Xero 
+* [ ] Ask them for their bank/ payment details
+* [ ] Add their bank/ payment details to the Getting Paid sheet
+* [ ] Add their bank details to Xero
+* [ ]  Added to Gitlab
    * [ ] Datopian
-   * [ ] Viderum
-* [ ]  Added to Github with the appropriate permission pertaining to their role on the [process in Ops guide](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.rusgx3lubh0m)
-   * [ ] Datopian --> Team "Everyone"
-* [ ]  Added to real rates
-* [ ]  Create Gitlab issue in Project Management repo and assign it to Michelle (or Esteban) to add onboardee to inter-org rates DB
+* [ ]  Added to Github 
+   * [ ] Viderum (Datopian) --> Team "Everyone"
+   * [ ] Datopian
 * [ ]  Person DB form filled out (Prerequisites)
-* [ ]  Their submitted information in the Person DB is copy-pasted from the Form responses tab into the [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431) tab
-* [ ]  Follow up meeting scheduled (for after 7 days) [optional]
-* [ ]  Message them to have the quiz ready eg. by the time we have the follow up meeting
-* [ ]  Quiz passed
-* [ ]  Had the Welcome/Onboarding call (Quiz sent)
-* [ ]  Welcomed to the team (either in the "General" channel or in an All team meeting)
+* [ ]  Their submitted information from the Phonebook Form responses is entered into the [Phonebook](https://docs.google.com/spreadsheets/d/1hFw3jFHq_TF4m_Z76n0uzBz85UB9Yht4P2IZAPicBOI/edit#gid=129072431) 
+* [ ]  Their submitted information from the Phonebook Form responses is entered into the [secured People DB](https://docs.google.com/spreadsheets/d/19QwgZ9aTWzFyXfvVr_FIWN-2UJVTVcg12oaAtSiZgtg/) tab
+* [ ] Update the Xero codes tab in the Secured People DB with the new joiner’s information
+* [ ]  Added to real rates
+* [ ]  Make Gitlab issue assigned to @Kalasha83 to add onboardee to inter-org rates DB
+* [ ] [Technical quiz](https://docs.google.com/forms/d/1dlgdQy3habJpC8sbtd1AVVTu4S-usyCUipMDUmNersA/edit) or [non-techincal quiz](https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/edit?usp=sharing) sent to onboardee
+* [ ]  Onboarding call 
+* [ ]  Message them to have the quiz ready by the time we have the follow up meeting
+* [ ]  [Technical quiz](https://docs.google.com/forms/d/1dlgdQy3habJpC8sbtd1AVVTu4S-usyCUipMDUmNersA/edit) or [non-techincal quiz](https://docs.google.com/forms/d/1yE895I0JVGujXS-2scuODOOxssAI5roDK6YU-Rw5n70/edit?usp=sharing) passed
 * [ ]  Confirm to the requestor that the Onboarding is complete
+* [ ]  Welcomed to the team (either via Gchat or in All hands)
+* [ ]  Follow up scheduled
+* [ ] Added to [glassfrog](https://app.glassfrog.com/people/sign_in).
 ```
 
 ### General Onboarding Agreements
