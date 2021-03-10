@@ -127,6 +127,7 @@ end
 * [ ]  Welcomed to the team (either via Gchat or in All hands)
 * [ ]  Follow up scheduled
 * [ ] Added to [glassfrog](https://app.glassfrog.com/people/sign_in).
+* [ ] Grant permissions in Bitwarden as appropriate
 ```
 
 ### General Onboarding Agreements
