@@ -107,7 +107,6 @@ end
 * [ ]  Added to Xero 
 * [ ] Ask them for their bank/ payment details
 * [ ] Add their bank/ payment details to the Getting Paid sheet
-* [ ] Add their bank details to Xero
 * [ ]  Added to Gitlab
    * [ ] Datopian
 * [ ]  Added to Github 
