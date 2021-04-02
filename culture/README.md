@@ -138,8 +138,6 @@ You are open to new approaches and new ideas. You question received wisdom and, 
 
 At the same time time open-mindedness does not mean "anything goes" -- astrology and astronomy are *not* equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned -- but judiciously. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence.
 
-At the same time open-mindedness does not mean "anything goes" -- astrology and astronomy are *not* equally valid! This open-mindedness is paired with rigour and a respect for expertise. Everything can be questioned -- but judiciously. The Zen Master knows more than the novice. Furthermore, what an expert knows may not be easily articulated so we also respect intuition and judgment as well as analysis and evidence.
-
 ## Our Principles
 
 Please start with this **required reading** which provides essential context [A ‘Value-Free’ Approach To Values](https://drive.google.com/file/d/0B4VpjxPkN_XcXzRmSU5HR2lMVm8/view) (note: in our terminology we could rename this "A Value-Free Approach to Principles").
@@ -203,7 +201,7 @@ Do user stories before you code, estimate sprints before you do them. Almost eve
 
 ### Your Relationship to Your Parents is Relevant to Us
 
-You will be supported and challenged to develop continuously professionally and personally. In our experience, often the greatest obstacles to people's effectiveness (and wellbeing) lie in "shadows": issues from their past that they haven't dealt wiith fully and the related stories that they carry around about themselves e.g.  "I'm not good enough", "I'm not smart enough", "I can't do it".
+You will be supported and challenged to develop continuously professionally and personally. In our experience, often the greatest obstacles to people's effectiveness (and wellbeing) lie in "shadows": issues from their past that they haven't dealt with fully and the related stories that they carry around about themselves e.g.  "I'm not good enough", "I'm not smart enough", "I can't do it".
 
 These shadows usually arise from specific relationships and specific incidents. As such, we consider these valid areas for discussion in coaching and development. As a concrete example, your relationship to your parents is not only a personal matter it impacts your whole being including your work.
 
