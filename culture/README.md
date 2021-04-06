@@ -199,7 +199,7 @@ There is *always* something to learn.
 
 Do user stories before you code, estimate sprints before you do them. Almost everything is improved with planning. Often this can take discipline as we have urgent things to deal with -- just remember, more haste, less speed.
 
-### Your Relationship to Your Parents is Relevant to Us
+### Your personal relationships are relevant to us
 
 You will be supported and challenged to develop continuously professionally and personally. In our experience, often the greatest obstacles to people's effectiveness (and wellbeing) lie in "shadows": issues from their past that they haven't dealt with fully and the related stories that they carry around about themselves e.g.  "I'm not good enough", "I'm not smart enough", "I can't do it".
 
