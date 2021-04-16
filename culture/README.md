@@ -132,7 +132,7 @@ References: [See Burks et al re truckers](https://www.ncbi.nlm.nih.gov/pubmed/19
 
 You are curious and enquiring. You want to learn new things, discover new areas. You want to take things apart and figure out how they work. You ask why (judiciously!).
 
-### Open-mindededly Rigourous
+### Open-mindedly Rigorous
 
 You are open to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
 
