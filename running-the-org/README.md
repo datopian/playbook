@@ -150,7 +150,11 @@ We use accounts@datopian.com to register for most services/ portals and configur
 * Password: paste the password in [privnote](https://privnote.com/) and include the URL
 * A short description of the purpose for this account and who should have access to it 
   (ie Zoom is a video communications tool we use for meetings; OPS and management should have access to it)
-
+  
+## Access to documents/ Folders
+  
+If you need to request access to a file / folder it's best to ask a teammate to share it with you (you can often guess which colleagues might have access). When you request access via the doc, it sends an email to everyone who has access. And then someone could grant you access but the others go to do the same and find out it's already been done.
+  
 ## GitHub/ GitLab Permissions
 The following are the current permissions for GitHub and GitLab:
 
