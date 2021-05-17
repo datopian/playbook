@@ -128,7 +128,7 @@ How to organize time-off:
 - End date is the last day off
 3. Choose the description button for your time off
 - Holiday 
-  - Please check our rest period information included in the PPT [How to submit invoices](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.g7b13f3f9c1_0_0) 
+  - Please check our rest period information included in the PPT [How to submit invoices](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.g7b13f3f9c1_0_0)
 - Out of Office (unpaid / taking the day off without making it up)
 - Off (taking a day off and making it up later in the same month, such as on a weekend)
 - Sick Leave (please review the section below for information on sick leave)
