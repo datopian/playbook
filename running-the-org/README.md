@@ -154,7 +154,7 @@ We use accounts@datopian.com to register for most services/ portals and configur
 ## Access to documents/ Folders
  
 ::: tip
-If you need to request access to a file / folder it's best to ask a teammate to share it with you (you can often guess which colleagues might have access). When you request access via the doc, it sends an email to everyone who has access. And then someone could grant you access but the others go to do the same and find out it's already been done.
+If you need to request an access to a file or folder the best practice is to ask one of your teammates to share it with you (you can often guess who of your colleagues might have access), otherwise if you request it via the doc, it sends an email to everyone who has access. If one of your colleagues would like to grant you access and he/she finds out that this has already been done by someone else, it would be a waste of time for him/her. To avoid this type of situations, it would be better to ask someone specifically.
 :::
   
 ## GitHub/ GitLab Permissions
