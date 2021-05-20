@@ -122,8 +122,8 @@ Whilst there is no hard and fast rules we recommend giving reasonable notice, fo
 How to organize time-off:
 
 Please, follow the steps.
-1. Discuss with your team and with your Project Lead / Scrum Master
-2. Email resourcing@datopian.com and people-team@ to inform them
+1. Discuss with your team and with your Project Lead / Scrum Master.
+2. Email resourcing@datopian.com and people-team@datopian.com to inform them.
 3. Update your personal calendar and the All-Team calendar accordingly.
 - Holiday 
   - Please check our rest period information included in the PPT [How to submit invoices](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.g7b13f3f9c1_0_0)
