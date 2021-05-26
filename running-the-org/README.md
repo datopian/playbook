@@ -114,16 +114,16 @@ The following are the key email groups used by Datopians. This is not an exhaust
 | Email | People | Purpose |
 | ------ | ------ |------ |
 | all-team@ | Everyone | Important general comms |
-| bizdev-team@ | Bizdev Team | Communication that BizDev should see | 
+| bizdev-team@ | BizDev Team | Communications that BizDev should see | 
 | leadlinks@ | Lead Links | Used to write to Circle Lead Links |
 | delivery@ | Delivery leadership | cc when sending important delivery emails |
 | delivery-team@ | All PO/SLs | Communication that PO/SLs should see |
-| jobs@| Gabriela and relevant LLs | To be used for people to apply to datopian |
-| office@ | Ops & Finance team | For all Ops-related matters. | 
+| jobs@| Gabriela and relevant LLs | To be used for people to apply to Datopian |
+| office@ | Ops & Finance Team | For all Ops-related matters | 
 | finance@ | Finance | For finance matters, eg, invoicing or pay queries |
 | people-team@| Gabriela and relevant LLs | For all People (HR) related matters |
 | support@ | Shubham, Irakli, Ismail, Isaac, Osahon | Used externally & internally for support related issues |
-| sre-team@| Site Reliability team | For all SRE matters |
+| sre-team@| Site Reliability Team | For all SRE matters |
 | tech-lead-team@ | Rufus, Anu | For tech lead-related matters |
 
 
