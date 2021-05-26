@@ -109,7 +109,7 @@ Please email office@datopian.com if there are any changes in your personal detai
 
 
 ### Email Groups
-We use various emails and email aliases to direct emails to specific teams. A comprehensive list can be found [here](https://docs.google.com/spreadsheets/d/1upwGlg1xYmoml0kgZB0mk93W0I4T6aKht2AzuF5mYsY/edit#gid=0).
+The following are the key email groups used by Datopians. This is not an exhaustive list but a list of the main ones in use.
 
 | Email | People | Purpose |
 | ------ | ------ |------ |
