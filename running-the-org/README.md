@@ -96,6 +96,7 @@ _Note: Remember to store all receipts from the trip or else they can’t get rei
 ### Timezone
 
 The usual timezone we use in Datopian is aligned with the [current standard timezone in UK](https://www.timeanddate.com/time/zone/uk) (unless otherwise agreed within your team).
+
 Also, in this [Link](https://www.google.com/maps/d/u/0/edit?mid=1OQNxqT6jtxQ6nfCFlRIbvSeA6T1fXx9e&ll=5.462779237186112%2C0&z=2) you can check the location of all Datopian members in case you need to know in which time zone a colleague is located. 
 
 ### Core Hours
