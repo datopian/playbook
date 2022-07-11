@@ -9,7 +9,7 @@ The key principles of the agile approach to delivery are[^2]:
 1. Organize work in **short cycles** called **sprints** [2(-4) weeks]
 2. The management **does not interrupt** the team during a work cycle
 3. The team reports to the **product owner** (who represents the client)
-    * Team = delivery team + scrum master
+    * Team = delivery team + scrum leader
     * The primary client is the key stakeholder(s) benefitting from the project. The secondary client is the delivery organization who have a fiscal and reputational stake.
 4. The team estimates **how much time** work will take
 5. The team decides **how much work** it can do in an iteration
@@ -35,16 +35,16 @@ Represents the stakeholders and is the voice of the customer. He or she is **acc
 * **prioritizes** (ranks) them
 * and adds them to the [product backlog](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 
-Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Master.
+Scrum teams should have one Product Owner, and while they may also be a member of the delivery team, this role should not be combined with that of the Scrum Leader.
 
 See also http://www.mountaingoatsoftware.com/agile/scrum/product-owner
 
 [user stories]: /user-stories/
 [job stories]: /job-stories/
 
-### Scrum Master
+### Scrum Leader
 
-Delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
+Delivery is **facilitated** by a Scrum Leader, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Leader is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Leader ensures that the process is used as intended. The Scrum Leader is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
 
 ### Delivery Team
 
@@ -57,8 +57,8 @@ Before one goes into the sprint cycle there is some preparatory work that should
 
 ### Project A10
 
-: Product Owner  
-:clock: 1h
+👩‍💻 Product Owner  
+⏲️ 1h
 
 * This work should result in the creation of a Project Overview document
 * Total Budget
@@ -77,8 +77,7 @@ Product Owner as lead with involvement as appropriate of other relevant personne
 * Generate first set of user stories for this project.
 * Do **not** need to be comprehensive -- can add user stories later. However, good to have really core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
 * Cannot over-state the value of generating (good) user stories at this point. Will have a transformative effect on the quality of the project.
-* Should involve some or all of delivery team + scrum master, at least some part of this:
-
+* Should involve some or all of delivery team + scrum leader, at least some part of this:
   * Gets everyone up to speed
   * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
 
@@ -86,7 +85,7 @@ Product Owner as lead with involvement as appropriate of other relevant personne
 
 It is suggested this is merged with first sprint planning meet (however, can have separate, especially if you want to inform a broader group of people)
 
-Product Owner, Scrum Master and Delivery Team need to be there
+Product Owner, Scrum Leader and Delivery Team need to be there
 
 
 ## The Sprint Process and Key Concepts
@@ -185,7 +184,7 @@ Estimation is the process of estimating time to complete tasks. There are many a
 
 Equally important as estimating, is **assessing** performance against estimates so as to improve our skill at estimating -- without assessment estimates don't get better, without assessment you don't know your velocity (how much you can actually get done).
 
-We base our estimation on [planning poker][]. In the "extreme" version: tasks go to the lowest estimator. We generally do not practice that and instead it is up to scrum-master with delivery team to use planning poker to come to an agreed estimate via discussion. In general tasks that are over 5d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
+We base our estimation on [planning poker][]. In the "extreme" version: tasks go to the lowest estimator. We generally do not practice that and instead it is up to scrum-leader with delivery team to use planning poker to come to an agreed estimate via discussion. In general tasks that are over 5d should be broken down into smaller tasks. This will both improve estimation (errors greatly increase as tasks get larger) and make tasks better suited to planning (as tasks can fit inside one sprint).
 
 [planning poker]: http://en.wikipedia.org/wiki/Planning_poker
 
@@ -209,7 +208,7 @@ During the sprint review, the project is assessed against the sprint goal determ
 
 **Structure Suggestion [based on** [***link***](http://nomad8.com/a-template-for-the-sprint-review/)**]**
 
-#### 1. The Scrum Master opens the review and reiterates the purpose of the meeting [2m]
+#### 1. The Scrum Leader opens the review and reiterates the purpose of the meeting [2m]
 
 * Show what the team has built during the last sprint
 * Engage with the audience
@@ -221,7 +220,7 @@ During the sprint review, the project is assessed against the sprint goal determ
 * Explain why it is important for the project and for the company as a whole
 * Give people context about where we’re at in the greater scale of things
 
-#### 3. The Scrum Master (+ Delivery Team) presents the sprint [5-7m]
+#### 3. The Scrum Leader (+ Delivery Team) presents the sprint [5-7m]
 
 * Tell the story of the sprint: How did it go? Was anyone sick? New team members? Anything else important?
 * Give a status of the sprint and an overview of which stories were finished and which ones weren’t
@@ -234,7 +233,7 @@ During the sprint review, the project is assessed against the sprint goal determ
 * Repeat step 4 for all user stories the team finished during the sprint.
 * On some teams we alternate who is doing the practical demonstrations for each user story, on some we alternate for or each sprint review and on others we always utilise the same team member’s talent for telling stories and guiding people through an entertaining demo. We do whatever works best for each team and audience.
 
-#### 5. Scrum Master closes the demo [3m]
+#### 5. Scrum Leader closes the demo [3m]
 
 * Wrap up and thank people for their attendance and participation
 * Communicate the time and date for the next end-of-sprint review.
