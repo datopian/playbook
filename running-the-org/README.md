@@ -172,7 +172,13 @@ We use accounts@datopian.com to register for most services/ portals and configur
 ::: tip
 If you need to request an access to a file or folder the best practice is to ask one of your teammates to share it with you (you can often guess who of your colleagues might have access), otherwise if you request it via the doc, it sends an email to everyone who has access. If one of your colleagues would like to grant you access and he/she finds out that this has already been done by someone else, it would be a waste of time for him/her. To avoid this type of situations, it would be better to ask someone specifically.
 :::
-  
+
+## Updating Datopian's Skillbook Database
+When reviewing/utilising the information in the Skills Database, we would love to see up-to-date and accurate information, so that Datopian has a clear indication of its soft & hard skills pool in order to accurately complete RFPs, project staffing and general resourcing. 
+
+For thся reason, we created this short [form](https://vrddblo6.paperform.co) that Datopians should fill out when they obtain any new skill.  
+
+
 ## GitHub/ GitLab Permissions
 The following are the current permissions for GitHub and GitLab:
 
