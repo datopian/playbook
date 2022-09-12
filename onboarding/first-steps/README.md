@@ -83,6 +83,7 @@ This is my exciting onboarding issue! 🚀
   * [ ] Create a meeting doc in the [onboarding practice folder](https://drive.google.com/drive/u/0/folders/1XbKO6_IbTLXu6-OVTzpPYJgJ_Hzn8Lxv)
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
   * [ ] Post the link to the meeting doc on the onboarding chat and ask for it to be reviewed
+* [ ] Fill out [Datopian's Skill DB form]([url](https://docs.google.com/forms/d/e/1FAIpQLSeiR0eRZ8zerYgb17-1ed0DqWTOgTqe1YYWvClE_l5FvuvZIQ/viewform))  
 ```
 
 ## Setting up Google Drive
