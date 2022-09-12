@@ -17,9 +17,7 @@ This automatically generates GitLab issues for the Office and allows us to keep 
 
 ## Getting Paid
 
-We have updated our process to make it as smooth and easy and possible. Please find all the information you need in [Getting Paid Doc](https://docs.google.com/document/d/1wH59j0QsRAGtEa1yNpyqVYKe7Iq1WtUu5vDGv4SQo_M/edit).
-
-Additionally, you can refer to the [step-by-step process & FAQs](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.p5).
+We have updated our process to make it as smooth and easy and possible. Please find all the information you need in [step-by-step process & FAQs](https://docs.google.com/presentation/d/1-KOd7g1HkUgyi2zLJ0AKs6h2_lszsQkd/edit#slide=id.p5).
 
 ## Expenses and Travel
 
