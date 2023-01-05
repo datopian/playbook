@@ -174,7 +174,7 @@ If you need to request an access to a file or folder the best practice is to ask
 ## Updating Datopian's Skillbook Database
 When reviewing/utilising the information in the Skills Database, we would love to see up-to-date and accurate information, so that Datopian has a clear indication of its soft & hard skills pool in order to accurately complete RFPs, project staffing and general resourcing. 
 
-For this reason, we created this short [form](https://vrddblo6.paperform.co) that Datopians should fill out when they obtain any new skill.  
+For this reason, we created this short [form](https://docs.google.com/forms/d/e/1FAIpQLSepztcK17HBqMi8YQoOuAwoFie_ls78goVVmD3BWEg8ydPCSw/viewform) that Datopians should fill out when they obtain any new skill.  
 
 
 ## GitHub/ GitLab Permissions
