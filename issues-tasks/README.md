@@ -32,7 +32,7 @@ Short description of bug or feature need preferentially in a job story form.
 * [ ] ...
 * [ ] ...
 
-## Analysis
+## Notes
 
 *This section is optional. It is where you provide further analysis of the problem
 and analyze potential solutions, ending with a recommendation and tasks
